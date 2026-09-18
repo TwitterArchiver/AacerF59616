@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086499920316698926",
+    "created_at": "2026-08-09T17:08:40.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086499920316698926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MatrixCoreX/st…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/MatrixCoreX/status/2085975483275952240",
+          "start": 69,
+          "url": "https://t.co/IhFkh1Rts3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086499920316698926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085975483275952240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「性别焦虑」这个名字听着太好听了，让人感觉一点威胁都没有，改个名字叫「经验性别和指定性别差异引发的复杂性长期应激」可能就让人敬畏多了吧。 https://t.co/IhFkh1Rts3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086499920316698926",
+        "created_at": "2026-08-09T17:08:40.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086499920316698926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MatrixCoreX/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/MatrixCoreX/status/2085975483275952240",
+              "start": 69,
+              "url": "https://t.co/IhFkh1Rts3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086499920316698926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085975483275952240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「性别焦虑」这个名字听着太好听了，让人感觉一点威胁都没有，改个名字叫「经验性别和指定性别差异引发的复杂性长期应激」可能就让人敬畏多了吧。 https://t.co/IhFkh1Rts3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988706610005569536",
+        "conversation_id": "2085975483275952240",
+        "created_at": "2026-08-08T06:24:45.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085975483275952240"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085975483275952240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 392140,
+          "like_count": 2999,
+          "quote_count": 12,
+          "reply_count": 339,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "糖尿病这个名字听着太好听了，让人感觉一点威胁都没有，改个名字叫全身代谢永久衰竭症可能就让人敬畏多了吧。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086499920316698926",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 770,
+          "like_count": 5298,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T20:33:15.000Z",
+        "description": "RustClaw ｜ AI Agent开发｜做个傻🥚，保持欢乐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/MatrixCoreX/Ru…",
+                "end": 23,
+                "expanded_url": "https://github.com/MatrixCoreX/RustClaw",
+                "start": 0,
+                "url": "https://t.co/0q7E0PE433"
+              }
+            ]
+          }
+        },
+        "id": "1988706610005569536",
+        "is_identity_verified": false,
+        "location": "mars",
+        "most_recent_tweet_id": "2086491125070610474",
+        "name": "瓜哥玩AI",
+        "pinned_tweet_id": "2080493067656696160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988706610005569536/1772109827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051472693560549380/U3Eq5jr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 2137,
+          "like_count": 21485,
+          "listed_count": 10,
+          "media_count": 1510,
+          "tweet_count": 13416
+        },
+        "url": "https://t.co/0q7E0PE433",
+        "username": "MatrixCoreX",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

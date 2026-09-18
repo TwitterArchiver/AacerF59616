@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2074487518033244642",
+    "created_at": "2026-07-07T13:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074487518033244642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Unk_Snow/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Unk_Snow/status/2074474973914419523",
+          "start": 44,
+          "url": "https://t.co/t7tDpA9jwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074487518033244642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074474973914419523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎可怜牢U还不能第一时间补雌，希望能在咱之前重启HRT吧（咱的计划是最早今年9月开始） https://t.co/t7tDpA9jwr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2074487518033244642",
+        "created_at": "2026-07-07T13:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074487518033244642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Unk_Snow/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Unk_Snow/status/2074474973914419523",
+              "start": 44,
+              "url": "https://t.co/t7tDpA9jwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074487518033244642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074474973914419523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎可怜牢U还不能第一时间补雌，希望能在咱之前重启HRT吧（咱的计划是最早今年9月开始） https://t.co/t7tDpA9jwr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067447448549949440",
+        "conversation_id": "2074474973914419523",
+        "created_at": "2026-07-07T12:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074474973914419523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074474973914419523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "估计我出精卫后也不能立即重启HRT...........😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 395,
+          "like_count": 2578,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 412,
+          "like_count": 221,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

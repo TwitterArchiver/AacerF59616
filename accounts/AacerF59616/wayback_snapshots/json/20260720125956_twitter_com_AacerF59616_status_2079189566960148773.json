@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079189566960148773",
+    "created_at": "2026-07-20T12:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079189566960148773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Gyoko404/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Gyoko404/status/2078970489398251522",
+          "start": 22,
+          "url": "https://t.co/8habgrbtwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079189566960148773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078970489398251522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "N2o小妹妹别o你那个普瑞巴林了出去逛逛吧 https://t.co/8habgrbtwm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079189566960148773",
+        "created_at": "2026-07-20T12:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079189566960148773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Gyoko404/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Gyoko404/status/2078970489398251522",
+              "start": 22,
+              "url": "https://t.co/8habgrbtwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079189566960148773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078970489398251522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "N2o小妹妹别o你那个普瑞巴林了出去逛逛吧 https://t.co/8habgrbtwm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886641021588611072",
+        "conversation_id": "2078970489398251522",
+        "created_at": "2026-07-19T22:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078970489398251522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078970489398251522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想，我活着是为了什么，为什么我会变成这样？变成一只毒虫，天天靠od和自残取乐，这到底是为什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 571,
+          "like_count": 3757,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "爱惜自己真的好难",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvKNo"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "暁光🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079099989217931264/ovNjXQVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 78,
+          "like_count": 183,
+          "listed_count": 23,
+          "media_count": 40,
+          "tweet_count": 1329
+        },
+        "url": "https://t.co/vttA1wvKNo",
+        "username": "Gyoko404",
+        "verified": true
+      }
+    ]
+  }
+}

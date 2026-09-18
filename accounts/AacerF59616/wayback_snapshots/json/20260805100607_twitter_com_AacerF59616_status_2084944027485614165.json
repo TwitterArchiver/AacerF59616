@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084944027485614165",
+    "created_at": "2026-08-05T10:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084944027485614165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2084778821979640240",
+          "start": 18,
+          "url": "https://t.co/nPzPQ5Jv01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084944027485614165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084778821979640240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很遗憾，买不到，这个不是公开售卖的 https://t.co/nPzPQ5Jv01"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084944027485614165",
+        "created_at": "2026-08-05T10:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084944027485614165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2084778821979640240",
+              "start": 18,
+              "url": "https://t.co/nPzPQ5Jv01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084944027485614165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084778821979640240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很遗憾，买不到，这个不是公开售卖的 https://t.co/nPzPQ5Jv01"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2084778821979640240",
+        "created_at": "2026-08-04T23:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084778821979640240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2084608711411253511",
+              "start": 15,
+              "url": "https://t.co/MZiTsre8vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084778821979640240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 831,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084608711411253511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我迫切的想知道这个哪里能买到 https://t.co/MZiTsre8vB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 752,
+          "like_count": 5050,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2083857745313456355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 96,
+          "like_count": 187,
+          "listed_count": 8,
+          "media_count": 623,
+          "tweet_count": 2052
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

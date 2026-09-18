@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065342067023245316",
+    "created_at": "2026-06-12T08:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065357230954979659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065357230954979659",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065342067023245316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 好哦，咱也希望你能好好的呢，贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065342067023245316",
+        "created_at": "2026-06-12T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065357230954979659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065357230954979659",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065342067023245316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 好哦，咱也希望你能好好的呢，贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "2065342067023245316",
+        "created_at": "2026-06-12T07:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065342067023245316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065342067023245316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自我介绍一下吧\n是阿瑾\n精神状态良好\n24.8.28吃糖\n双相\n有主人：主人是女孩子啦\n人很丑：线下查无此人\n休学中：调养身体中\n不喜欢当别人的情绪垃圾桶\n可以跟我互粉\n对所有人保持友好\n相逢常伴离别\n我们只不过是彼此生命中的一个过客\n但是无论怎样\n我都希望看到这篇帖子的你\n能好好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 45,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 181
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾：笨蛋阿瑾‖\nINFP‖\n双相‖\n有主人‖\n休学中‖\n希望你能好好的对自己‖\n互fo请私信我哦\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bing.com",
+                "end": 23,
+                "expanded_url": "http://bing.com",
+                "start": 0,
+                "url": "https://t.co/a7Mo2JWS27"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "Kowloon City District",
+        "name": "小阿瑾🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065342067023245316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3849,
+          "following_count": 830,
+          "like_count": 23409,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/a7Mo2JWS27",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

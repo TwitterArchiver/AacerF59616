@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080718173993886196",
+    "created_at": "2026-07-24T18:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080718173993886196"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorcerer1311/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Sorcerer1311/status/2080479997454856641",
+          "start": 31,
+          "url": "https://t.co/fc1wwk8Re3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080718173993886196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080479997454856641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你搁那哈你妈个逼的气，我就是在开个玩笑吐槽国补单盒不耐吃罢了 https://t.co/fc1wwk8Re3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080718173993886196",
+        "created_at": "2026-07-24T18:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080718173993886196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2080479997454856641",
+              "start": 31,
+              "url": "https://t.co/fc1wwk8Re3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080718173993886196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080479997454856641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你搁那哈你妈个逼的气，我就是在开个玩笑吐槽国补单盒不耐吃罢了 https://t.co/fc1wwk8Re3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2080479997454856641",
+        "created_at": "2026-07-24T02:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080479997454856641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aacerf59616/st…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/aacerf59616/status/2080275261577380250",
+              "start": 154,
+              "url": "https://t.co/scBAqKjSbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080479997454856641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 923,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080275261577380250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "弱智吧我操\n大部分人用药是2-6mg/d\n小剂量更方便分次给药维持较为稳定的血药浓度\n国补pdd262十盒，泰补一盒209.6能买到？更别说国产还有更便宜的仙静\n单方补1mg还有很多国家可以买到并非中国独有\n还有你这如果是为了骂国内药物怎么黑心建议你去骂拜耳因为补佳乐是原研药\n现在药娘水平怎么跟民逗一样了 https://t.co/scBAqKjSbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 633,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1210
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥🏳️‍🌈",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 930,
+          "like_count": 1823,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

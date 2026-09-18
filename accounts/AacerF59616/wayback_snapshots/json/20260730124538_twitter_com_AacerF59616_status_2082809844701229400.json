@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082809844701229400",
+    "created_at": "2026-07-30T12:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082809844701229400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkaawaayii/sta…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/kkaawaayii/status/2082805826872340678",
+          "start": 116,
+          "url": "https://t.co/G4Y2eXPuHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082809844701229400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082805826872340678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以有并不代表着必须有，它只是一个可选项，我们可以因为各种原因选择“否”，但同时我们也应该知道选择“是”同样是一个可选项，不应因为选项差距而认为对方是异类，也不应假定跨性别和拥有血缘后代之间是对立的，这是一种选择权方面的尊重和理解 https://t.co/G4Y2eXPuHU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082809844701229400",
+        "created_at": "2026-07-30T12:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082809844701229400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkaawaayii/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/kkaawaayii/status/2082805826872340678",
+              "start": 116,
+              "url": "https://t.co/G4Y2eXPuHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082809844701229400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082805826872340678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以有并不代表着必须有，它只是一个可选项，我们可以因为各种原因选择“否”，但同时我们也应该知道选择“是”同样是一个可选项，不应因为选项差距而认为对方是异类，也不应假定跨性别和拥有血缘后代之间是对立的，这是一种选择权方面的尊重和理解 https://t.co/G4Y2eXPuHU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882099914886537220",
+        "conversation_id": "2082742920516686119",
+        "created_at": "2026-07-30T12:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082805826872340678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082805826872340678",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082742920516686119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 可是，为什么呢，虽然是可以有后代，可是自己生活都这么辛苦，为什么要把苦难传递下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 699,
+          "like_count": 4699,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 100,
+          "like_count": 10094,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

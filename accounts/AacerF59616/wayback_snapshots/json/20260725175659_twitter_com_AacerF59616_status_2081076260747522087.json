@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081076260747522087",
+    "created_at": "2026-07-25T17:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081076260747522087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081076260747522087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "懒得评价什么，还是那句话，异性恋规范主义不会因为你遵守规范就容纳你，任何在异性恋矩阵之外的存在都不会真正得到它的包容，哪怕你极力按照矩阵内的方式去迎合，迎合异性恋矩阵这个行为本身也是对异性恋霸权的强化，因为这个行为就是在承认“异性恋顺性别才是唯一标准”，就是这样，我无言了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081076260747522087",
+        "created_at": "2026-07-25T17:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081076260747522087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081076260747522087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懒得评价什么，还是那句话，异性恋规范主义不会因为你遵守规范就容纳你，任何在异性恋矩阵之外的存在都不会真正得到它的包容，哪怕你极力按照矩阵内的方式去迎合，迎合异性恋矩阵这个行为本身也是对异性恋霸权的强化，因为这个行为就是在承认“异性恋顺性别才是唯一标准”，就是这样，我无言了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 646,
+          "like_count": 4398,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

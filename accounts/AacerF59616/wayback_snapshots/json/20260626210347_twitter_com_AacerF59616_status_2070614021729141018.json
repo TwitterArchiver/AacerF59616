@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2070499535705534506",
+    "created_at": "2026-06-26T21:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070614021729141018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832040353542893568",
+          "start": 0,
+          "username": "sheepahead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070614021729141018",
+    "in_reply_to_user_id": "1832040353542893568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070499535705534506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheepahead 噢……摸摸啦，gd确实难受喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2070499535705534506",
+        "created_at": "2026-06-26T21:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070614021729141018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832040353542893568",
+              "start": 0,
+              "username": "sheepahead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070614021729141018",
+        "in_reply_to_user_id": "1832040353542893568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070499535705534506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheepahead 噢……摸摸啦，gd确实难受喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832040353542893568",
+        "conversation_id": "2070499535705534506",
+        "created_at": "2026-06-26T13:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070499535705534506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070499535705534506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2153,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近的性别焦虑似乎加重了，，，\n为什么头发不能长一些\n为什么肩宽不能再窄一些\n为什么身高不能再矮一些\n为什么声音不能再pass一些\n每次在x上刷到一些mtf或者说南梁都好羡慕好羡慕\n为什么我是这个样子，，，\n为什么我生下来生理性别就是男\n明明这些根本不是我选择的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 180,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T12:57:36.000Z",
+        "description": "重度社恐 不时会发一些帖子 成分互fo | \nOIer ChOer 全栈开发 | \n生产日期 2011.4.24 | \n深柜 无证HRT from 2026.1.27 | \n182cm 65kg 期待变矮？ | \n匿名Q&A：https://t.co/3o6mwdDVpJ |\n最喜欢的姐姐@lxgy1024🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "lxgy1024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sheepahead",
+                "end": 136,
+                "expanded_url": "https://ngl.link/sheepahead",
+                "start": 113,
+                "url": "https://t.co/3o6mwdDVpJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shearbyte.dev",
+                "end": 23,
+                "expanded_url": "https://shearbyte.dev",
+                "start": 0,
+                "url": "https://t.co/k9wVkszwfX"
+              }
+            ]
+          }
+        },
+        "id": "1832040353542893568",
+        "location": "奥陶纪 冈瓦纳古大陆",
+        "name": "Sakaban_🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2063213047473410302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062905674854703104/o9uvvHdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 217,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/k9wVkszwfX",
+        "username": "sheepahead",
+        "verified": true
+      }
+    ]
+  }
+}

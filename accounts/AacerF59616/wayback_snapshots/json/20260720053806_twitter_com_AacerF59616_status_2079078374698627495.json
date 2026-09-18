@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079077992492642304"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079078374698627495",
+    "created_at": "2026-07-20T05:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079078374698627495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdLewe6P0o",
+          "end": 58,
+          "expanded_url": "https://x.com/AacerF59616/status/2079078374698627495/photo/1",
+          "media_key": "3_2079077992492642304",
+          "start": 35,
+          "url": "https://t.co/mdLewe6P0o"
+        },
+        {
+          "display_url": "x.com/luo_240110/sta…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/luo_240110/status/2079001852272910555",
+          "start": 59,
+          "url": "https://t.co/vu3vQhjBUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079078374698627495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079001852272910555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者说跨性别医疗主义，最经典的言论就是“不HRT就不是mtf”之类的 https://t.co/mdLewe6P0o https://t.co/vu3vQhjBUX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079077992492642304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpeazLbMAA_hp3.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079077992492642304"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079078374698627495",
+        "created_at": "2026-07-20T05:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079078374698627495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdLewe6P0o",
+              "end": 58,
+              "expanded_url": "https://x.com/AacerF59616/status/2079078374698627495/photo/1",
+              "media_key": "3_2079077992492642304",
+              "start": 35,
+              "url": "https://t.co/mdLewe6P0o"
+            },
+            {
+              "display_url": "x.com/luo_240110/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/luo_240110/status/2079001852272910555",
+              "start": 59,
+              "url": "https://t.co/vu3vQhjBUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079078374698627495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079001852272910555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者说跨性别医疗主义，最经典的言论就是“不HRT就不是mtf”之类的 https://t.co/mdLewe6P0o https://t.co/vu3vQhjBUX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010816143846768640",
+        "conversation_id": "2078834051780379104",
+        "created_at": "2026-07-20T00:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079001852272910555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079001852272910555",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078834051780379104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 原教旨药娘是啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 555,
+          "like_count": 3687,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目｜互fo寻回\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350\n妹妹@Luoyu147258 \n*互fo请私信谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "qi_bu64350"
+              },
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Luoyu147258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2029933065028743443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 336,
+          "like_count": 478,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": true
+      }
+    ]
+  }
+}

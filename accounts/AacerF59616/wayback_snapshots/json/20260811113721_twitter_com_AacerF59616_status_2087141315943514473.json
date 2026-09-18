@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087141315943514473",
+    "created_at": "2026-08-11T11:37:21.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087141315943514473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087138694868471815",
+          "start": 96,
+          "url": "https://t.co/FDt6N3oSJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087141315943514473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087138694868471815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎呦我去别给我扣帽子，我哪是激跨了？你要觉得我更偏向酷儿那我没意见，至少我是懒得具体干涉或反对保守跨的，想去Detrans也好，想“脱跨入顺”也罢，勇敢去做就完事了，我哪来的权利去干涉别人？ https://t.co/FDt6N3oSJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2087138688270786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcBlC9a4AAXi9U.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087141315943514473",
+        "created_at": "2026-08-11T11:37:21.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087141315943514473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087138694868471815",
+              "start": 96,
+              "url": "https://t.co/FDt6N3oSJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087141315943514473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087138694868471815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎呦我去别给我扣帽子，我哪是激跨了？你要觉得我更偏向酷儿那我没意见，至少我是懒得具体干涉或反对保守跨的，想去Detrans也好，想“脱跨入顺”也罢，勇敢去做就完事了，我哪来的权利去干涉别人？ https://t.co/FDt6N3oSJH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087138688270786560"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "conversation_id": "2087138694868471815",
+        "created_at": "2026-08-11T11:26:56.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087138694868471815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D77veTHjXG",
+              "end": 63,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2087138694868471815/photo/1",
+              "media_key": "3_2087138688270786560",
+              "start": 40,
+              "url": "https://t.co/D77veTHjXG"
+            },
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2087135073279873208",
+              "start": 64,
+              "url": "https://t.co/MW3Ss6unSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138694868471815",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087138688270786560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087135073279873208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这圈子的话语权都被彩虹激跨给抢走了，我们牢保跨为什么不能争取自己的话语权！ https://t.co/D77veTHjXG https://t.co/MW3Ss6unSC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087141315943514473",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 778,
+          "like_count": 5481,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1765
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21（不是跨）｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农民🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 121,
+                "expanded_url": "http://2345.lgbt",
+                "start": 98,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2087140006104301605",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2086812930562298141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1785402666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 353,
+          "like_count": 13316,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

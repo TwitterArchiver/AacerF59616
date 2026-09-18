@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088211008234070208",
+    "created_at": "2026-08-14T10:27:56.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088211008234070208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Unk_Mtx/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Unk_Mtx/status/2088121422455755081",
+          "start": 29,
+          "url": "https://t.co/8bAeIG0TtI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088211008234070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088121422455755081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用小米之家的手机上外网吗有点意思，这要是被店员抓到了咋办 https://t.co/8bAeIG0TtI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088211008234070208",
+        "created_at": "2026-08-14T10:27:56.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088211008234070208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Unk_Mtx/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Unk_Mtx/status/2088121422455755081",
+              "start": 29,
+              "url": "https://t.co/8bAeIG0TtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088211008234070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088121422455755081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用小米之家的手机上外网吗有点意思，这要是被店员抓到了咋办 https://t.co/8bAeIG0TtI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087466297722560512",
+        "conversation_id": "2088121422455755081",
+        "created_at": "2026-08-14T04:31:57.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088121422455755081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088121422455755081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1567,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在是没有手机\n我拿的是小米之家的演示机🫠\n而且要是店员把这台小米17Tpro撤走了或开学了\n我就又和你们失联了😢\n希望我的手机快点过来🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088211008234070208",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 790,
+          "like_count": 5746,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 1977
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T09:10:31.000Z",
+        "description": "|MtX?🏳️‍⚧️| Hrt01.28.2026|初二牲|成绩倒数\n|年龄党+家长反对党|已出扭转\n|已炸柜|oder💊|生产日期:11.13.2011\n|161cm52kg|有点笨笨的🥺\n|INFP-T | 重度社恐|希望不登校\n|渴望在家里躺尸|同类互fo喵~\n|@UnkXyn|https://t.co/pSlJYI21uo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 135,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/unkxyn2",
+                "end": 166,
+                "expanded_url": "http://NGL.Link/unkxyn2",
+                "start": 143,
+                "url": "https://t.co/pSlJYI21uo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/unkxyn",
+                "end": 23,
+                "expanded_url": "http://telegram.me/unkxyn",
+                "start": 0,
+                "url": "https://t.co/WTwGTpr9Em"
+              }
+            ]
+          }
+        },
+        "id": "2087466297722560512",
+        "is_identity_verified": false,
+        "location": "湖北武汉",
+        "most_recent_tweet_id": "2088207745954820179",
+        "name": "✟𝑼𝒏𝒌✟🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087466297722560512/1786544998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087877813269565440/MCVHwTmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 108,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/WTwGTpr9Em",
+        "username": "Unk_Mtx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

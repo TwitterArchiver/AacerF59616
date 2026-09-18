@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087596665280872933",
+    "created_at": "2026-08-12T17:46:45.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T18:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087596665280872933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bili40014error…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/Bili40014error/status/2087584333460824314",
+          "start": 100,
+          "url": "https://t.co/SP7VNTreq2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087596665280872933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "并没有，我是一个有XY染色体的女生，不过话又说回来了，你对「性别」的判断就只是一个性染色体这么简单吗？在作出某个行为之前还要先看看有没有Y染作为「价值铺底」，认为只要有Y染那就无法进行某些自我实现。\n\n那你其实很可悲诶，一辈子都只能被困死在被建构出来的二元对立的框架里，就像流水线上的产品那样无趣。\n\n而且，按照你的说法，有两性畸形的都得被开除人籍了哇，你怎么这么坏呀擅自开除别人的人籍，啧啧啧……"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087584333460824314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "并没有，我是一个有XY染色体的女生，不过话又说回来了，你对「性别」的判断就只是一个性染色体这么简单吗？在作出某个行为之前还要先看看有没有Y染作为「价值铺底」，认为只要有Y染那就无法进行某些自我实现。 https://t.co/SP7VNTreq2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087596665280872933",
+        "created_at": "2026-08-12T17:46:45.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087596665280872933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bili40014error…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/Bili40014error/status/2087584333460824314",
+              "start": 100,
+              "url": "https://t.co/SP7VNTreq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087596665280872933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "并没有，我是一个有XY染色体的女生，不过话又说回来了，你对「性别」的判断就只是一个性染色体这么简单吗？在作出某个行为之前还要先看看有没有Y染作为「价值铺底」，认为只要有Y染那就无法进行某些自我实现。\n\n那你其实很可悲诶，一辈子都只能被困死在被建构出来的二元对立的框架里，就像流水线上的产品那样无趣。\n\n而且，按照你的说法，有两性畸形的都得被开除人籍了哇，你怎么这么坏呀擅自开除别人的人籍，啧啧啧……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087584333460824314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并没有，我是一个有XY染色体的女生，不过话又说回来了，你对「性别」的判断就只是一个性染色体这么简单吗？在作出某个行为之前还要先看看有没有Y染作为「价值铺底」，认为只要有Y染那就无法进行某些自我实现。 https://t.co/SP7VNTreq2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2087424002826633355",
+        "created_at": "2026-08-12T16:57:45.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087584333460824314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087584333460824314",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087424002826633355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 体内有XX染色体吗，笑死，装ji真成ji了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087596665280872933",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 784,
+          "like_count": 5605,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087588258691903775",
+        "name": "40014error",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416976245544345605/1636532771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 564,
+          "like_count": 1734,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 815
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

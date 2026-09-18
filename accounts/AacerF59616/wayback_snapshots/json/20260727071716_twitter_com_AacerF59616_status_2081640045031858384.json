@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081640045031858384",
+    "created_at": "2026-07-27T07:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081640045031858384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sypshenlipu/st…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/Sypshenlipu/status/2081636945105760286",
+          "start": 128,
+          "url": "https://t.co/DTWMX51ktN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081640045031858384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081636945105760286",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有可能，不过也有可能是还没确定自己是mtf之类的\n\n不过其实“含糖顺男”听起来很矛盾但它其实合理的，因为“含糖”是行为，而“顺男”是性别，顺性别者自然没有进行GAHT的需要，但如果他毅然决然的去执行不需要的药物治疗措施，那就是个人选择行为了，我们无权干涉 https://t.co/DTWMX51ktN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081640045031858384",
+        "created_at": "2026-07-27T07:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081640045031858384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sypshenlipu/st…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/Sypshenlipu/status/2081636945105760286",
+              "start": 128,
+              "url": "https://t.co/DTWMX51ktN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081640045031858384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081636945105760286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有可能，不过也有可能是还没确定自己是mtf之类的\n\n不过其实“含糖顺男”听起来很矛盾但它其实合理的，因为“含糖”是行为，而“顺男”是性别，顺性别者自然没有进行GAHT的需要，但如果他毅然决然的去执行不需要的药物治疗措施，那就是个人选择行为了，我们无权干涉 https://t.co/DTWMX51ktN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2067959167315230961",
+        "created_at": "2026-07-27T07:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081636945105760286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            },
+            {
+              "end": 23,
+              "id": "1887391023976038400",
+              "start": 13,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081636945105760286",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068030921102831646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 @xiey57828 含糖順男會不會是因為不夠pass自卑才自稱順男的🤔，這麼一想其實蠻可憐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 671,
+          "like_count": 4472,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "",
+        "id": "2062190491991744512",
+        "name": "Li pu Shen🇹🇼🇳🇫🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062191311411904513/DOUmQaVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 128,
+          "like_count": 22053,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false
+      }
+    ]
+  }
+}

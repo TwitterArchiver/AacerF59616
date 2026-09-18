@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2068093451791667237",
+    "created_at": "2026-06-19T22:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068093451791667237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UNSC_ax/status…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/UNSC_ax/status/2067684903333085304",
+          "start": 80,
+          "url": "https://t.co/GpnWZxcuh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068093451791667237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067684903333085304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可见的是，大家对性别认同的可见度、了解度、包容度都有望继续提升，虽然目前看来有些奢求，但咱发自内心的希望下一代或数代后的跨女可以在一个更为友好的环境里发展自己 https://t.co/GpnWZxcuh7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2068093451791667237",
+        "created_at": "2026-06-19T22:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068093451791667237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UNSC_ax/status…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/UNSC_ax/status/2067684903333085304",
+              "start": 80,
+              "url": "https://t.co/GpnWZxcuh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068093451791667237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067684903333085304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可见的是，大家对性别认同的可见度、了解度、包容度都有望继续提升，虽然目前看来有些奢求，但咱发自内心的希望下一代或数代后的跨女可以在一个更为友好的环境里发展自己 https://t.co/GpnWZxcuh7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4643801083",
+        "conversation_id": "2067684903333085304",
+        "created_at": "2026-06-18T19:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067684903333085304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067684903333085304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6749,
+          "like_count": 160,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "顺女的痛苦（月经，生小孩）是被神圣化，被体谅的，跨女的痛苦（被歧视，身心不一致，终身HRT，SRS的痛苦和风险和终身维护）是被认为是自找的，因为顺女可以创造生命繁衍人类，跨女是吃饱了撑着闲的，大家都是这么觉得的，想想就可笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 126,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-24T14:43:19.000Z",
+        "description": "",
+        "id": "4643801083",
+        "location": "Shanghai, China",
+        "name": "ax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876855731741401088/8cBa1Zvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 247,
+          "like_count": 2694,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 3335
+        },
+        "url": "",
+        "username": "UNSC_ax",
+        "verified": false
+      }
+    ]
+  }
+}

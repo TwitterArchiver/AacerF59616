@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071592443120869701",
+    "created_at": "2026-06-29T13:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071592443120869701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xersy37737/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xersy37737/status/2071574416866046146",
+          "start": 14,
+          "url": "https://t.co/pE1gc02DeW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071592443120869701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071574416866046146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去不早说，哦不对咱也这样 https://t.co/pE1gc02DeW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071592443120869701",
+        "created_at": "2026-06-29T13:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071592443120869701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xersy37737/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xersy37737/status/2071574416866046146",
+              "start": 14,
+              "url": "https://t.co/pE1gc02DeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071592443120869701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071574416866046146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去不早说，哦不对咱也这样 https://t.co/pE1gc02DeW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2071574416866046146",
+        "created_at": "2026-06-29T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071574416866046146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071574416866046146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候的我:本人已经初中辍学，致力于研究统一场论和量子力学\n现在的我:已经雌堕了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 237,
+          "like_count": 1954,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Radical Communist,TransLes,Machine Learning Worker,Good Cat.",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 35,
+          "like_count": 1955,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 1156
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2076217017754132732",
+    "created_at": "2026-07-12T11:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T12:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076269847659557010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2072913223511339008",
+          "start": 0,
+          "username": "shixiaomonune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076269847659557010",
+    "in_reply_to_user_id": "2072913223511339008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076217017754132732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaomonune 不可以自切喵，SRS还需要那里的皮肤当原料喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2076217017754132732",
+        "created_at": "2026-07-12T11:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076269847659557010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2072913223511339008",
+              "start": 0,
+              "username": "shixiaomonune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076269847659557010",
+        "in_reply_to_user_id": "2072913223511339008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076217017754132732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaomonune 不可以自切喵，SRS还需要那里的皮肤当原料喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072913223511339008",
+        "conversation_id": "2076217017754132732",
+        "created_at": "2026-07-12T08:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076217017754132732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076217017754132732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有沒有自切教程，那一根和那兩個東西都要切掉，我不太可能huo dao cheng nian 了，我不想留遺憾\n至少si zhi qian 先感受兩天沒有那個惡心的東西……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 434,
+          "like_count": 2906,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-03T05:21:07.000Z",
+        "description": "可愛的小貓一隻・chushengriqi20101130 優點：会点魔 术~~~比赛拿过两年亚军,魔术爱好者内中 低水平 （毕竟我还小）缺點：缺愛・沒安全感\n二號（出生日期）2026 6 1\n（以及你能想到的任何可能存在的缺點）\n加wechat52（同類除外）\n喵//les//",
+        "id": "2072913223511339008",
+        "name": "山茶花",
+        "pinned_tweet_id": "2076217017754132732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072914983218978816/JtIvL988_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 48,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "shixiaomonune",
+        "verified": false
+      }
+    ]
+  }
+}

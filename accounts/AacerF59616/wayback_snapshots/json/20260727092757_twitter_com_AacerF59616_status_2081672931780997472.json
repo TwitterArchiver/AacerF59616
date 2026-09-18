@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081672931780997472",
+    "created_at": "2026-07-27T09:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081672931780997472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081672931780997472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "至于你说“连怎么做女性都不知道就开始谈个性”，这里依旧是很简单的问题，你需要怎么确定你认为的“做女性”的方式存在普适性，你从头到尾都没有说过这点，唉跨性别同化主义坚持者是这样的被异性恋矩阵搞完了还要另立一个小矩阵去尝试评判其他同类，招完了你知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081672931780997472",
+        "created_at": "2026-07-27T09:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081672931780997472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081672931780997472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至于你说“连怎么做女性都不知道就开始谈个性”，这里依旧是很简单的问题，你需要怎么确定你认为的“做女性”的方式存在普适性，你从头到尾都没有说过这点，唉跨性别同化主义坚持者是这样的被异性恋矩阵搞完了还要另立一个小矩阵去尝试评判其他同类，招完了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 669,
+          "like_count": 4487,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

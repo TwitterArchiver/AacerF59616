@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082480959715471372",
+    "created_at": "2026-07-29T14:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082480959715471372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SamYangAus/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/SamYangAus/status/2082366196104712520",
+          "start": 14,
+          "url": "https://t.co/IuI6DGlYh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082480959715471372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082366196104712520",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傲慢轻浮的家伙滚出我的帖子 https://t.co/IuI6DGlYh0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082480959715471372",
+        "created_at": "2026-07-29T14:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082480959715471372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SamYangAus/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/SamYangAus/status/2082366196104712520",
+              "start": 14,
+              "url": "https://t.co/IuI6DGlYh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082480959715471372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082366196104712520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傲慢轻浮的家伙滚出我的帖子 https://t.co/IuI6DGlYh0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "2082120923856158914",
+        "created_at": "2026-07-29T07:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082366196104712520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082366196104712520",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082120923856158914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 简单来说，你的风格是自己挂了个大牌子在脖子上的那种～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 697,
+          "like_count": 4666,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 17,
+          "media_count": 334,
+          "tweet_count": 20739
+        },
+        "url": "",
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}

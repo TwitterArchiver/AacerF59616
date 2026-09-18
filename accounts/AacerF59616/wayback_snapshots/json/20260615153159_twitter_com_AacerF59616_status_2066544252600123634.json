@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2066349571106840906",
+    "created_at": "2026-06-15T15:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066544252600123634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895450644229836800",
+          "start": 0,
+          "username": "wanxii6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066544252600123634",
+    "in_reply_to_user_id": "1895450644229836800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066349571106840906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanxii6000 可爱的喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10054,
+        "height": 1280,
+        "media_key": "7_2066349524889788416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066349524889788416/pu/img/ygSQipD1M6wdNCI3.jpg",
+        "public_metrics": {
+          "view_count": 326
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349524889788416/pu/vid/avc1/320x710/C4XfNcBxTcVEjHhP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349524889788416/pu/vid/avc1/480x1066/B-c6QssFKh__lDHc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066349524889788416/pu/vid/avc1/576x1280/RYBd66NaAK5Oq3qQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066349524889788416/pu/pl/x1H5FaJ7wJxp0vya.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2066349571106840906",
+        "created_at": "2026-06-15T15:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066544252600123634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895450644229836800",
+              "start": 0,
+              "username": "wanxii6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066544252600123634",
+        "in_reply_to_user_id": "1895450644229836800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066349571106840906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanxii6000 可爱的喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066349524889788416"
+          ]
+        },
+        "author_id": "1895450644229836800",
+        "conversation_id": "2066349571106840906",
+        "created_at": "2026-06-15T02:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T03:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066349571106840906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSTq31rfoy",
+              "end": 40,
+              "expanded_url": "https://x.com/wanxii6000/status/2066349571106840906/video/1",
+              "media_key": "7_2066349524889788416",
+              "start": 17,
+              "url": "https://t.co/BSTq31rfoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066349571106840906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1019,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本來不想發這個。\n看起來呆呆的。 https://t.co/BSTq31rfoy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 84,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 330
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T12:28:15.000Z",
+        "description": "未晞不是維C。INFP。BMI15.67。\n大概一切正常不是风姿精神病（窩現在好了基本沒有雙相。可能後遺有一點點）苦痛自会磕药🍥。耶。没办法呢好想当女孩子啊啊啊啊啊（）\n個人Q1723736124 群小窩627550517\n所有平台都隨便給交友位。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1516268370?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1516268370?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/B9HtP2HssS"
+              }
+            ]
+          }
+        },
+        "id": "1895450644229836800",
+        "location": "自己的小世界",
+        "name": "Ms.Saturday🍥️‍🏳⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035295491559219200/oAr0ch4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 37,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 96
+        },
+        "url": "https://t.co/B9HtP2HssS",
+        "username": "wanxii6000",
+        "verified": false
+      }
+    ]
+  }
+}

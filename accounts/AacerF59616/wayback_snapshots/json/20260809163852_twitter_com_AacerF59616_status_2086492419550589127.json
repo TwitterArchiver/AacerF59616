@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086492419550589127",
+    "created_at": "2026-08-09T16:38:52.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086492419550589127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maoxianACT/sta…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/maoxianACT/status/2086155491831582919",
+          "start": 113,
+          "url": "https://t.co/XBmRP0uCrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086492419550589127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086155491831582919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说得对但是，即使按照0.5%的人群占比率来算，全中国也有700万左右的跨儿，不管是感觉上还是实际上，中推跨圈都不是一个百万人级别的圈子，实际人数并没有想象中的多，如果你觉得这点人就可以代表七百万跨儿的话那有点太以偏概全了点 https://t.co/XBmRP0uCrc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086492419550589127",
+        "created_at": "2026-08-09T16:38:52.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086492419550589127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianACT/sta…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/maoxianACT/status/2086155491831582919",
+              "start": 113,
+              "url": "https://t.co/XBmRP0uCrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086492419550589127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086155491831582919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说得对但是，即使按照0.5%的人群占比率来算，全中国也有700万左右的跨儿，不管是感觉上还是实际上，中推跨圈都不是一个百万人级别的圈子，实际人数并没有想象中的多，如果你觉得这点人就可以代表七百万跨儿的话那有点太以偏概全了点 https://t.co/XBmRP0uCrc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2086155491831582919",
+        "created_at": "2026-08-08T18:20:02.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086155491831582919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086155491831582919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12338,
+          "like_count": 114,
+          "quote_count": 7,
+          "reply_count": 25,
+          "retweet_count": 8
+        },
+        "reply_settings": "other",
+        "text": "我不明白为什么跨圈皇帝都是通过做一些非正常行为而博取流量获得粉丝关注的。\n有发切蛋教程的，有殴打人的，有骗钱教唆自杀的……\n这真的是一个好的圈子吗，如果跨圈只有这样才能被称为跨的话那我认为中国歧视lgbtq群体确实是应该的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086492419550589127",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 770,
+          "like_count": 5289,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "is_identity_verified": false,
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "most_recent_tweet_id": "2086155491831582919",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2085465844986032444",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029061443568713731/1779690534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 76,
+          "like_count": 584,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

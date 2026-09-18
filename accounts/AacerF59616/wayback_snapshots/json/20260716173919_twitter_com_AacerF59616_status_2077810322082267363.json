@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2077809701694402663",
+    "created_at": "2026-07-16T17:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077810322082267363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600929805515399168",
+          "start": 0,
+          "username": "Luna4rzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077810322082267363",
+    "in_reply_to_user_id": "1600929805515399168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077809701694402663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luna4rzd 25/7=3.571mg每天，你这是不是太少了点，可能睾酮抑制不完全诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077809701694402663",
+        "created_at": "2026-07-16T17:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077810322082267363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600929805515399168",
+              "start": 0,
+              "username": "Luna4rzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077810322082267363",
+        "in_reply_to_user_id": "1600929805515399168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077809701694402663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luna4rzd 25/7=3.571mg每天，你这是不是太少了点，可能睾酮抑制不完全诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600929805515399168",
+        "conversation_id": "2077809701694402663",
+        "created_at": "2026-07-16T17:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077809701694402663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077809701694402663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一盒华典的色谱龙（50mg*12片*2板）好像刚好可以维持一年吧。一周两次12.5mg剂量。\n\n一周25mg -&gt; 一个月 100mg （两片）\n一共 24片\n24/2 = 12 月\n刚好一年\n\n这么算一年才270rmb。比补都便宜呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 464,
+          "like_count": 3180,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 990
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T19:06:37.000Z",
+        "description": "未出柜 mtf🏳️‍⚧️一枚喵｜\n同类互fo｜\n家长不管党？｜\n即将开始HRT 🍥\n11年激活｜",
+        "id": "1600929805515399168",
+        "location": "远在天边 近在眼前",
+        "name": "Luna 🏳️‍⚧️",
+        "pinned_tweet_id": "2075228119347380535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 219,
+          "like_count": 1305,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "Luna4rzd",
+        "verified": true
+      }
+    ]
+  }
+}

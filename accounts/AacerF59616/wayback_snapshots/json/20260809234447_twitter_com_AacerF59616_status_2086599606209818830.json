@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086599606209818830",
+    "created_at": "2026-08-09T23:44:47.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086599606209818830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Z7862947460634…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/Z7862947460634/status/2086596107216511333",
+          "start": 110,
+          "url": "https://t.co/OQDspoXueD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086599606209818830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086596107216511333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典「变性」「成为跨女」「跨女和女性」，说一大堆若有其事的话结果逻辑还是以指派性别为中心，在他们看来跨女首先要是个男的，然后再基于此认为跨女是在「挤占女性空间」，只把指派女当成女性，然后装作自己有站在平等的角度思考问题 https://t.co/OQDspoXueD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2086595925670322176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUT8GtbYAAh9gB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086599606209818830",
+        "created_at": "2026-08-09T23:44:47.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086599606209818830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Z7862947460634…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/Z7862947460634/status/2086596107216511333",
+              "start": 110,
+              "url": "https://t.co/OQDspoXueD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086599606209818830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086596107216511333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典「变性」「成为跨女」「跨女和女性」，说一大堆若有其事的话结果逻辑还是以指派性别为中心，在他们看来跨女首先要是个男的，然后再基于此认为跨女是在「挤占女性空间」，只把指派女当成女性，然后装作自己有站在平等的角度思考问题 https://t.co/OQDspoXueD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086595925670322176"
+          ]
+        },
+        "author_id": "1852948864539791360",
+        "conversation_id": "2086596107216511333",
+        "created_at": "2026-08-09T23:30:53.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086596107216511333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsVaSusmfd",
+              "end": 62,
+              "expanded_url": "https://x.com/Z7862947460634/status/2086596107216511333/photo/1",
+              "media_key": "3_2086595925670322176",
+              "start": 39,
+              "url": "https://t.co/fsVaSusmfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086596107216511333",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086595925670322176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emmmm…\n我们一般管这种叫性别隔离，以保护为名义，干着支配、分化的勾当。 https://t.co/fsVaSusmfd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086599606209818830",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 770,
+          "like_count": 5307,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "对外身份标识\n2008.01生人 | 友跨(🏳️‍⚧️)的AMAB | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 抽离的透明人 | 互fo |",
+        "id": "1852948864539791360",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2086599097264586976",
+        "name": "Xunyu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852948864539791360/1786158771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 171,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2089023908813148389",
+    "created_at": "2026-08-16T17:08:25.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089036570997530732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2078430419587153920",
+          "start": 0,
+          "username": "StrawMono_"
+        },
+        {
+          "end": 24,
+          "id": "1544973237461086209",
+          "start": 12,
+          "username": "H1kar1_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089036570997530732",
+    "in_reply_to_user_id": "2078430419587153920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089023908813148389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StrawMono_ @H1kar1_chan 哇好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089023716919554048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP20AJ5bMAAvuGk.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2089023798683353088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP20E6fbwAA27Qc.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2089023908813148389",
+        "created_at": "2026-08-16T17:08:25.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089036570997530732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2078430419587153920",
+              "start": 0,
+              "username": "StrawMono_"
+            },
+            {
+              "end": 24,
+              "id": "1544973237461086209",
+              "start": 12,
+              "username": "H1kar1_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089036570997530732",
+        "in_reply_to_user_id": "2078430419587153920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089023908813148389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrawMono_ @H1kar1_chan 哇好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089023716919554048",
+            "3_2089023798683353088"
+          ]
+        },
+        "author_id": "2078430419587153920",
+        "conversation_id": "2089023908813148389",
+        "created_at": "2026-08-16T16:18:06.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089023908813148389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1544973237461086209",
+              "start": 13,
+              "username": "H1kar1_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLUcsHc3kv",
+              "end": 49,
+              "expanded_url": "https://x.com/StrawMono_/status/2089023908813148389/photo/1",
+              "media_key": "3_2089023716919554048",
+              "start": 26,
+              "url": "https://t.co/oLUcsHc3kv"
+            },
+            {
+              "display_url": "pic.x.com/oLUcsHc3kv",
+              "end": 49,
+              "expanded_url": "https://x.com/StrawMono_/status/2089023908813148389/photo/1",
+              "media_key": "3_2089023798683353088",
+              "start": 26,
+              "url": "https://t.co/oLUcsHc3kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089023908813148389",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089023716919554048"
+          },
+          {
+            "media_key": "3_2089023798683353088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔，我爱你主人！！\n喵呜\n@H1kar1_chan https://t.co/oLUcsHc3kv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2089036570997530732",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 840,
+          "like_count": 6090,
+          "listed_count": 2,
+          "media_count": 342,
+          "tweet_count": 2162
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T10:43:54.000Z",
+        "description": "生产日期 2010.05.07 / hrt 2026.08.04 / 无证含糖 / 未出柜 / 不od不割手 / 是会编程的小猫 / 想找人聊聊天喵 / 玩原神、三角洲 / 同类互fo（如果没回关就是忘了…可以私信提醒喵）\n最爱的老公&主人：@h1kar1_chan喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "h1kar1_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StrawMono",
+                "end": 23,
+                "expanded_url": "http://t.me/StrawMono",
+                "start": 0,
+                "url": "https://t.co/kwnn4le920"
+              }
+            ]
+          }
+        },
+        "id": "2078430419587153920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089023908813148389",
+        "name": "草莓味精StrawMono🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2087975311829024870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078430419587153920/1786877878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088943333473456128/oBK498nZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 322,
+          "like_count": 1225,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/kwnn4le920",
+        "username": "StrawMono_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-07T09:15:24.000Z",
+        "description": "只是一些碎碎念/LGBT友好🏳️‍🌈🏳️‍⚧️ /欢迎找我互fo聊天喵🥺/不会主动聊天，很敏感的一个人🥲。很....社恐吧？/ 想拥有很多好朋友！ / 坐标京津唐 /音游，mc，fps啥都沾一点 / 最可爱最喜欢的老婆喵@strawmono_\n中抑中焦/ ADHDer / 戒o中/10年..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 110,
+                "username": "strawmono_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hikari_69620",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hikari_69620",
+                "start": 0,
+                "url": "https://t.co/PPYGCWjsab"
+              }
+            ]
+          }
+        },
+        "id": "1544973237461086209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089026722180292700",
+        "name": "希月今天画画了吗",
+        "pinned_tweet_id": "1619656538259615744",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086767986015404032/UzvmIENa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 53,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/PPYGCWjsab",
+        "username": "H1kar1_chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

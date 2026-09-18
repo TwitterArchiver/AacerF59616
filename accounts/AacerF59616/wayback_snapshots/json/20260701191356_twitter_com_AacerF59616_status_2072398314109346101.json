@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2072344792722477214",
+    "created_at": "2026-07-01T19:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T20:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072398314109346101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058152524918755328",
+          "start": 0,
+          "username": "Yu_Xin1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072398314109346101",
+    "in_reply_to_user_id": "2058152524918755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072344792722477214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_Xin1225 噢……摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2072344792722477214",
+        "created_at": "2026-07-01T19:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T20:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072398314109346101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058152524918755328",
+              "start": 0,
+              "username": "Yu_Xin1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072398314109346101",
+        "in_reply_to_user_id": "2058152524918755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072344792722477214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_Xin1225 噢……摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058152524918755328",
+        "conversation_id": "2072344792722477214",
+        "created_at": "2026-07-01T15:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072344792722477214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072344792722477214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要吃药 我要自己睡觉…\n我不要吃佐匹克隆 \n我不要吃盐酸舍曲林 \n我什么都不要…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 310,
+          "like_count": 2143,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T11:46:49.000Z",
+        "description": "10.12.25\n今年16刚中考完喵\nMtF🍥🏳️‍⚧️\nISFJ-T\n无证含糖喵\n略微喜欢涩涩 \n同类🏳️‍⚧️互fo喵~❤️",
+        "id": "2058152524918755328",
+        "location": "浙江省 温州市 ",
+        "name": "楠楠.🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071244524043845768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071843124406587392/Ks7gYM6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 191,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Yu_Xin1225",
+        "verified": false
+      }
+    ]
+  }
+}

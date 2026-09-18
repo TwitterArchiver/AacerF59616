@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097196529266384897",
+    "created_at": "2026-09-08T05:33:11.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097196529266384897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qisiyingshi3/s…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/Qisiyingshi3/status/2097045674013741113",
+          "start": 77,
+          "url": "https://t.co/EaDNa6Qplk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097196529266384897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097045674013741113",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这已经是我们生理决定论支持者里的博士后了，总之没有论证单纯假定成立，一问性别是什么就福福唧唧染色体嗯啊，还自认为老聪明了实际上sex和gender分不清 https://t.co/EaDNa6Qplk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097196529266384897",
+        "created_at": "2026-09-08T05:33:11.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097196529266384897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qisiyingshi3/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/Qisiyingshi3/status/2097045674013741113",
+              "start": 77,
+              "url": "https://t.co/EaDNa6Qplk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097196529266384897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097045674013741113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这已经是我们生理决定论支持者里的博士后了，总之没有论证单纯假定成立，一问性别是什么就福福唧唧染色体嗯啊，还自认为老聪明了实际上sex和gender分不清 https://t.co/EaDNa6Qplk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395613045905264644",
+        "conversation_id": "2096966886940700953",
+        "created_at": "2026-09-07T19:33:44.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097045674013741113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097045674013741113",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096966886940700953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 还有基因染色体\n\n反正不是什么狗屁心理因素，毕竟心理上跨➗可以随时跨成➗生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097196529266384897",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2800,
+          "following_count": 937,
+          "like_count": 7742,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 3056
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T05:31:09.000Z",
+        "description": "",
+        "id": "1395613045905264644",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097098624559895030",
+        "name": "Laura Fisher",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 156,
+          "like_count": 62,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "Qisiyingshi3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

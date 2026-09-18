@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079289487604306087",
+    "created_at": "2026-07-20T19:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079289487604306087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mlvu5v/status/…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/mlvu5v/status/2079213082950410603",
+          "start": 60,
+          "url": "https://t.co/jGvQuraZEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079289487604306087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079213082950410603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你也是爹妈爷奶携亲朋好友全飞天了，死冻肉，整天搞你那个异性恋规范主义闹麻了你知道吗，也是不用急着回我了，block你了 https://t.co/jGvQuraZEl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079289487604306087",
+        "created_at": "2026-07-20T19:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079289487604306087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mlvu5v/status/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/mlvu5v/status/2079213082950410603",
+              "start": 60,
+              "url": "https://t.co/jGvQuraZEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079289487604306087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079213082950410603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你也是爹妈爷奶携亲朋好友全飞天了，死冻肉，整天搞你那个异性恋规范主义闹麻了你知道吗，也是不用急着回我了，block你了 https://t.co/jGvQuraZEl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079157354373976065",
+        "conversation_id": "2079101284322521257",
+        "created_at": "2026-07-20T14:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079213082950410603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213082950410603",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079101284322521257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 这边建议静脉注射使用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 588,
+          "like_count": 3837,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1097
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T10:52:54.000Z",
+        "description": "",
+        "id": "2079157354373976065",
+        "name": "杯带库",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "mlvu5v",
+        "verified": false
+      }
+    ]
+  }
+}

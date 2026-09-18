@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2078776044316938294",
+    "created_at": "2026-07-19T09:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078776044316938294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MEMZFuHua/stat…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/MEMZFuHua/status/2078775059108483246",
+          "start": 91,
+          "url": "https://t.co/OfzAbfUUYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078776044316938294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078775059108483246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个嘛，不同姐妹都不同想法，有雌和抗雄同时吃的，有单抗雄后雌的，咱主要是觉得同时吃的话有副作用不能判断出是哪个导致，顺便打算先让雌二醇有一定血药浓度进行铺底，算是走的平滑过渡方案喵 https://t.co/OfzAbfUUYt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078776044316938294",
+        "created_at": "2026-07-19T09:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078776044316938294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MEMZFuHua/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/MEMZFuHua/status/2078775059108483246",
+              "start": 91,
+              "url": "https://t.co/OfzAbfUUYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078776044316938294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078775059108483246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个嘛，不同姐妹都不同想法，有雌和抗雄同时吃的，有单抗雄后雌的，咱主要是觉得同时吃的话有副作用不能判断出是哪个导致，顺便打算先让雌二醇有一定血药浓度进行铺底，算是走的平滑过渡方案喵 https://t.co/OfzAbfUUYt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2078765231996899350",
+        "created_at": "2026-07-19T09:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078775059108483246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775059108483246",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078765231996899350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我认识的两位都是先吃一段时间雌后再吃抗的，好像就我一个一开始就是按照完整的方式来的🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 527,
+          "like_count": 3558,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.6.11 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手",
+        "id": "2060652328915701760",
+        "location": "中国 安徽",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 139,
+          "like_count": 245,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true
+      }
+    ]
+  }
+}

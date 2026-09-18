@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099128208398733312",
+        "3_2099128208423845888"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2099129423081680991",
+    "created_at": "2026-09-13T13:33:49.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099129423081680991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090322811479027712",
+          "start": 2,
+          "username": "Irosasmeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q0cQU9EUzO",
+          "end": 103,
+          "expanded_url": "https://x.com/AacerF59616/status/2099129423081680991/photo/1",
+          "media_key": "3_2099128208398733312",
+          "start": 80,
+          "url": "https://t.co/Q0cQU9EUzO"
+        },
+        {
+          "display_url": "pic.x.com/Q0cQU9EUzO",
+          "end": 103,
+          "expanded_url": "https://x.com/AacerF59616/status/2099129423081680991/photo/1",
+          "media_key": "3_2099128208423845888",
+          "start": 80,
+          "url": "https://t.co/Q0cQU9EUzO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099129423081680991",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099128208398733312"
+      },
+      {
+        "media_key": "3_2099128208423845888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢@Irosasmeow赞赏的5块饮料钱喵，不过咱可能更喜欢喝可乐或者酷儿那个橙汁；感谢[Unknow]赞赏的9块萨莉亚畅饮喵，不过萨莉亚畅饮似乎是8块呢， https://t.co/Q0cQU9EUzO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2099128208398733312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGZ-9-b0AA62nX.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2099128208423845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGZ--EbAAAj_RV.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099128208398733312",
+            "3_2099128208423845888"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099129423081680991",
+        "created_at": "2026-09-13T13:33:49.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099129423081680991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090322811479027712",
+              "start": 2,
+              "username": "Irosasmeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0cQU9EUzO",
+              "end": 103,
+              "expanded_url": "https://x.com/AacerF59616/status/2099129423081680991/photo/1",
+              "media_key": "3_2099128208398733312",
+              "start": 80,
+              "url": "https://t.co/Q0cQU9EUzO"
+            },
+            {
+              "display_url": "pic.x.com/Q0cQU9EUzO",
+              "end": 103,
+              "expanded_url": "https://x.com/AacerF59616/status/2099129423081680991/photo/1",
+              "media_key": "3_2099128208423845888",
+              "start": 80,
+              "url": "https://t.co/Q0cQU9EUzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099129423081680991",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099128208398733312"
+          },
+          {
+            "media_key": "3_2099128208423845888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@Irosasmeow赞赏的5块饮料钱喵，不过咱可能更喜欢喝可乐或者酷儿那个橙汁；感谢[Unknow]赞赏的9块萨莉亚畅饮喵，不过萨莉亚畅饮似乎是8块呢， https://t.co/Q0cQU9EUzO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099129423081680991",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 961,
+          "like_count": 7838,
+          "listed_count": 2,
+          "media_count": 535,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T06:20:51.000Z",
+        "description": "老婆@Irosas_sub\n最好的闺蜜@Irosasmjau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Irosas_sub"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Irosasmjau"
+              }
+            ]
+          }
+        },
+        "id": "2090322811479027712",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2099128623508914434",
+        "name": "Irosas 4.0🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2094330390161105246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090322811479027712/1788028974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093331604202762240/X-BCTe2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 192,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "Irosasmeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

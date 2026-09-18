@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099152846315016192"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2099156658601783543",
+    "created_at": "2026-09-13T15:22:02.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:08:00.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099153126943314035",
+      "2099156658601783543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "2092869276365418496",
+          "start": 14,
+          "username": "VoidTimelessSea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NGZxhCBLgZ",
+          "end": 74,
+          "expanded_url": "https://x.com/AacerF59616/status/2099156658601783543/photo/1",
+          "media_key": "3_2099152846315016192",
+          "start": 51,
+          "url": "https://t.co/NGZxhCBLgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099156658601783543",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099152846315016192"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢曦、[Unknow]、和@VoidTimelessSea分别赞助的10块、5块、9块喵～谢谢你们 https://t.co/NGZxhCBLgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3857,
+        "media_key": "3_2099152846315016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGwZFXbUAAuL3t.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099152846315016192"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099153126943314035",
+        "created_at": "2026-09-13T15:08:00.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:08:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099153126943314035",
+          "2099156658601783543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MG9YTXJEZc",
+              "end": 73,
+              "expanded_url": "https://x.com/AacerF59616/status/2099153126943314035/photo/1",
+              "media_key": "3_2099152846315016192",
+              "start": 50,
+              "url": "https://t.co/MG9YTXJEZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099153126943314035",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099152846315016192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢曦、[Unknow]、和VoidTimelessSea分别赞助的10块、5块、9块喵～谢谢你们 https://t.co/MG9YTXJEZc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099152846315016192"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099156658601783543",
+        "created_at": "2026-09-13T15:22:02.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:08:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099153126943314035",
+          "2099156658601783543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "2092869276365418496",
+              "start": 14,
+              "username": "VoidTimelessSea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGZxhCBLgZ",
+              "end": 74,
+              "expanded_url": "https://x.com/AacerF59616/status/2099156658601783543/photo/1",
+              "media_key": "3_2099152846315016192",
+              "start": 51,
+              "url": "https://t.co/NGZxhCBLgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099156658601783543",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099152846315016192"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢曦、[Unknow]、和@VoidTimelessSea分别赞助的10块、5块、9块喵～谢谢你们 https://t.co/NGZxhCBLgZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099156658601783543",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2851,
+          "following_count": 965,
+          "like_count": 7848,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T06:59:38.000Z",
+        "description": "星落时海/MtF 🏳️‍⚧️/她 She Her/178cm 56kg\n无证HRT未SRS/精神状态很差\n同类互fo/日常喜欢叫人姐姐\n如果哪里有所冒犯还请见谅",
+        "id": "2092869276365418496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099142014785015820",
+        "name": "星落时海🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092869276365418496/1787814394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092877422509076481/rqU2LIfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 97,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "VoidTimelessSea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

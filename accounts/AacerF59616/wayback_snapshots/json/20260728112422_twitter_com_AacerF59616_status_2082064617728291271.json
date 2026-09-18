@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082064497754492928",
+        "3_2082064497733427200",
+        "3_2082064497746096128",
+        "3_2082064497746038784"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082064617728291271",
+    "created_at": "2026-07-28T11:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082064617728291271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/41I0b1T7X7",
+          "end": 40,
+          "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+          "media_key": "3_2082064497754492928",
+          "start": 17,
+          "url": "https://t.co/41I0b1T7X7"
+        },
+        {
+          "display_url": "pic.x.com/41I0b1T7X7",
+          "end": 40,
+          "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+          "media_key": "3_2082064497733427200",
+          "start": 17,
+          "url": "https://t.co/41I0b1T7X7"
+        },
+        {
+          "display_url": "pic.x.com/41I0b1T7X7",
+          "end": 40,
+          "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+          "media_key": "3_2082064497746096128",
+          "start": 17,
+          "url": "https://t.co/41I0b1T7X7"
+        },
+        {
+          "display_url": "pic.x.com/41I0b1T7X7",
+          "end": 40,
+          "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+          "media_key": "3_2082064497746038784",
+          "start": 17,
+          "url": "https://t.co/41I0b1T7X7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082064617728291271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍点风景喵，在公园里散散步也不错 https://t.co/41I0b1T7X7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082064497754492928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6oSQb0AA1Sc2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082064497733427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6oSLaYAASBSO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082064497746096128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6oSObsAAjuYE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082064497746038784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT6oSOa0AACDtr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082064497754492928",
+            "3_2082064497733427200",
+            "3_2082064497746096128",
+            "3_2082064497746038784"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082064617728291271",
+        "created_at": "2026-07-28T11:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082064617728291271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41I0b1T7X7",
+              "end": 40,
+              "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+              "media_key": "3_2082064497754492928",
+              "start": 17,
+              "url": "https://t.co/41I0b1T7X7"
+            },
+            {
+              "display_url": "pic.x.com/41I0b1T7X7",
+              "end": 40,
+              "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+              "media_key": "3_2082064497733427200",
+              "start": 17,
+              "url": "https://t.co/41I0b1T7X7"
+            },
+            {
+              "display_url": "pic.x.com/41I0b1T7X7",
+              "end": 40,
+              "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+              "media_key": "3_2082064497746096128",
+              "start": 17,
+              "url": "https://t.co/41I0b1T7X7"
+            },
+            {
+              "display_url": "pic.x.com/41I0b1T7X7",
+              "end": 40,
+              "expanded_url": "https://x.com/AacerF59616/status/2082064617728291271/photo/1",
+              "media_key": "3_2082064497746038784",
+              "start": 17,
+              "url": "https://t.co/41I0b1T7X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064617728291271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍点风景喵，在公园里散散步也不错 https://t.co/41I0b1T7X7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 676,
+          "like_count": 4550,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1302
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

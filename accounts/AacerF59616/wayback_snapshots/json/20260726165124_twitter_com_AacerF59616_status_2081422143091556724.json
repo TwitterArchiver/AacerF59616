@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081422143091556724",
+    "created_at": "2026-07-26T16:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081422143091556724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yamazakiisuzu/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/yamazakiisuzu/status/2081039401455698273",
+          "start": 109,
+          "url": "https://t.co/ZplcnNnRxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081422143091556724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081039401455698273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉……不是很好说，可能是其他原因导致的精力缺乏，也有可能是尚未到RLE这个阶段，甚至有可能是不知道应该怎么办\n\n有性别不一致也不代表肯定知道怎么让自己更接近认同性别，这种本身基于某个预设前提的结论多多少少有点失准了 https://t.co/ZplcnNnRxD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081422143091556724",
+        "created_at": "2026-07-26T16:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081422143091556724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yamazakiisuzu/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/yamazakiisuzu/status/2081039401455698273",
+              "start": 109,
+              "url": "https://t.co/ZplcnNnRxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081422143091556724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039401455698273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉……不是很好说，可能是其他原因导致的精力缺乏，也有可能是尚未到RLE这个阶段，甚至有可能是不知道应该怎么办\n\n有性别不一致也不代表肯定知道怎么让自己更接近认同性别，这种本身基于某个预设前提的结论多多少少有点失准了 https://t.co/ZplcnNnRxD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057006320851849216",
+        "conversation_id": "2081039401455698273",
+        "created_at": "2026-07-25T15:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039401455698273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081039401455698273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说你推某些跨畜完全就是混圈玩的，体重身材管理不做，护肤不做，化妆也不学，甚至连胡子都不刮，就拿着那些药嗯吃，把自己吃的胸大屁股大但还是一眼顺男，一天到晚在推上说自己想当女孩子，谁家女孩像你们这样啊😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 651,
+          "like_count": 4457,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1263
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T07:51:56.000Z",
+        "description": "ここは山崎いすずの個人垢/中国人/日本語を勉強している/日本語の程度はN95です/如果可能的话30岁就自杀吧🐱",
+        "id": "2057006320851849216",
+        "location": "༎ຶ⁠‿⁠༎ຶ",
+        "name": "⁺✟₊山崎いすず₊✟⁺",
+        "pinned_tweet_id": "2078265672631824475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058413683731226624/mYzWrFfs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 147,
+          "like_count": 4942,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1774
+        },
+        "url": "",
+        "username": "yamazakiisuzu",
+        "verified": false
+      }
+    ]
+  }
+}

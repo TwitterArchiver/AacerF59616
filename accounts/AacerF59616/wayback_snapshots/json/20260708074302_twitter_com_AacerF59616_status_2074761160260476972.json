@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2074740856763121977",
+    "created_at": "2026-07-08T07:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074761160260476972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "967668314095853570",
+          "start": 0,
+          "username": "_Malinorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074761160260476972",
+    "in_reply_to_user_id": "967668314095853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074742330029154471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Malinorne gd有点太严重了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2074740856763121977",
+        "created_at": "2026-07-08T07:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074761160260476972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "967668314095853570",
+              "start": 0,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761160260476972",
+        "in_reply_to_user_id": "967668314095853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074742330029154471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Malinorne gd有点太严重了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967668314095853570",
+        "conversation_id": "2074740856763121977",
+        "created_at": "2026-07-08T06:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074742330029154471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074742330029154471",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074740856763121977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 你之前不是说要等到9月吗，忍不住啦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 398,
+          "like_count": 2605,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 856
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-25T07:51:19.000Z",
+        "description": "可能只会存在一瞬罢了",
+        "id": "967668314095853570",
+        "location": "Tasarinan",
+        "name": "一凣 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063839912017985536/_8Tr-_sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 86,
+          "like_count": 2513,
+          "listed_count": 2,
+          "media_count": 4,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "_Malinorne",
+        "verified": false
+      }
+    ]
+  }
+}

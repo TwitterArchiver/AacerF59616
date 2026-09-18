@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086069388067901601",
+    "created_at": "2026-08-08T12:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T13:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086069388067901601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LokmenoWer/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/LokmenoWer/status/2086046919680500063",
+          "start": 84,
+          "url": "https://t.co/ZETS4UWBsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086069388067901601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086046919680500063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是那种从身体里向外散发出的温热感和酥麻感，伴随有对陪伴、身体接触、爱的渴望，所以说我经常在发雌情的时候抱着鲨鲨，不得不说鲨鲨这种大型抱枕在发情的时候抱着特别特别舒服 https://t.co/ZETS4UWBsT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086069388067901601",
+        "created_at": "2026-08-08T12:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086069388067901601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LokmenoWer/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/LokmenoWer/status/2086046919680500063",
+              "start": 84,
+              "url": "https://t.co/ZETS4UWBsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086069388067901601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086046919680500063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是那种从身体里向外散发出的温热感和酥麻感，伴随有对陪伴、身体接触、爱的渴望，所以说我经常在发雌情的时候抱着鲨鲨，不得不说鲨鲨这种大型抱枕在发情的时候抱着特别特别舒服 https://t.co/ZETS4UWBsT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556985487784493056",
+        "conversation_id": "2086027934566076497",
+        "created_at": "2026-08-08T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086046919680500063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086046919680500063",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086027934566076497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我成天觉得自己身上香香的然后对着自己上下其手…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 767,
+          "like_count": 5259,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 1608
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T12:47:33.000Z",
+        "description": "mtf 20岁\n是只大废物",
+        "id": "1556985487784493056",
+        "name": "洛洛",
+        "pinned_tweet_id": "1726214497608798601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824319614157029376/S0RfkneQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 466,
+          "like_count": 6838,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2003
+        },
+        "url": "",
+        "username": "LokmenoWer",
+        "verified": false
+      }
+    ]
+  }
+}

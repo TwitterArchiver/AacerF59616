@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079516909914194118",
+    "created_at": "2026-07-21T10:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079516909914194118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SamYangAus/sta…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/SamYangAus/status/2079505140122591606",
+          "start": 124,
+          "url": "https://t.co/VYQ00YtF4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079516909914194118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079505140122591606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得说性别是连续的本身是没有问题的，或许对于很多人而言性别二元论是一个本应如此的概念，但我是建构论支持者，我不觉得，而且用“也敢”这个词是否有失偏颇，我没有把你视作反SGM的，只是单纯觉得你的语气里有一股若隐若现的傲慢，稍微提出一下，因此而已。 https://t.co/VYQ00YtF4h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079516909914194118",
+        "created_at": "2026-07-21T10:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079516909914194118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SamYangAus/sta…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/SamYangAus/status/2079505140122591606",
+              "start": 124,
+              "url": "https://t.co/VYQ00YtF4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079516909914194118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079505140122591606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得说性别是连续的本身是没有问题的，或许对于很多人而言性别二元论是一个本应如此的概念，但我是建构论支持者，我不觉得，而且用“也敢”这个词是否有失偏颇，我没有把你视作反SGM的，只是单纯觉得你的语气里有一股若隐若现的傲慢，稍微提出一下，因此而已。 https://t.co/VYQ00YtF4h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "2079497861361025311",
+        "created_at": "2026-07-21T09:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079505140122591606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079505140122591606",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079497861361025311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 唉，你们现在连“连续”也敢定义了～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 604,
+          "like_count": 3951,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 17,
+          "media_count": 317,
+          "tweet_count": 20469
+        },
+        "url": "",
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}

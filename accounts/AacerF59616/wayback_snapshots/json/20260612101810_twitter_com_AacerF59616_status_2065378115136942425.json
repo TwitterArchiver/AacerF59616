@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065366952844136631",
+    "created_at": "2026-06-12T10:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T11:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065378115136942425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064597027623981056",
+          "start": 0,
+          "username": "subdronexyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065378115136942425",
+    "in_reply_to_user_id": "2064597027623981056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065366952844136631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@subdronexyn 可怕诶……这种环境好窒息的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065366952844136631",
+        "created_at": "2026-06-12T10:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065378115136942425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064597027623981056",
+              "start": 0,
+              "username": "subdronexyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065378115136942425",
+        "in_reply_to_user_id": "2064597027623981056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065366952844136631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subdronexyn 可怕诶……这种环境好窒息的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064597027623981056",
+        "conversation_id": "2065366952844136631",
+        "created_at": "2026-06-12T09:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065366952844136631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065366952844136631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "窝真的不知道怎么才能活下去...\n现在父母是一分钱都不给的，断糖，然后我被两次无病送进精卫封闭病房过了几个月的生不如死的待遇...并且每天都会扬言十多次给我送扭转。据说扭转和精卫满了18也可以强制入院，难道我这一辈子都要活在恐惧中睡不了一个安稳觉了吗...我怎么逃离...怎么逃离...才能不被抓回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 45,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 189
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T06:36:42.000Z",
+        "description": "@picxis63594的新号，那个号被ghostban了😭，互fo巡回(虽然没多少)/生产日期2008.9.18/目前断糖/超绝家暴党，每日活在被送封闭精卫和扭转的阴影里.../跟咱互fo喵！陪咱聊天！/挚爱@yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "picxis63594"
+              },
+              {
+                "end": 113,
+                "start": 105,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2064597027623981056",
+        "name": "无人机潜水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064597787225038850/w3LgZpct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "subdronexyn",
+        "verified": false
+      }
+    ]
+  }
+}

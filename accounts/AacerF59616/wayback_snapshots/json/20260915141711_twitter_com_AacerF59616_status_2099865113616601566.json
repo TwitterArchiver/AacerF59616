@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2099865113616601566",
+    "created_at": "2026-09-15T14:17:11.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099865113616601566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2099752558550266086",
+          "start": 110,
+          "url": "https://t.co/etRbMPUrpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099865113616601566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为了进一步知道情况，我上github把模型算法和校准什么的全复制粘贴给了V4.1Flash，按照大肥鱼的说法是，它测算的基准错了 → 我的真实数值跟它差得太远 → 它按规则把这次数据几乎忽略掉 → 继续用那个错的基准。\n\n如果它按照新的数据调整自己的话会破坏掉前面的学习成果，所以为了保全前面的东西，它把这次数据的权重压到了最低。\n\n另外，模型把通过黏膜吸收的那部分EV错估了，觉得它的水解半衰期要10小时，但实际上并没有那么长时间，在手动修正之后测算出的血药浓度是55pg/ml，接近实际数据的42.7pg/ml"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099752558550266086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为了进一步知道情况，我上github把模型算法和校准什么的全复制粘贴给了V4.1Flash，按照大肥鱼的说法是，它测算的基准错了 → 我的真实数值跟它差得太远 → 它按规则把这次数据几乎忽略掉 → 继续用那个错的基准。 https://t.co/etRbMPUrpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2099751517343682560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPQ4UvbkAAYO4i.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099751517343674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPQ4UvbcAA7XI8.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2099865113616601566",
+        "created_at": "2026-09-15T14:17:11.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099865113616601566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2099752558550266086",
+              "start": 110,
+              "url": "https://t.co/etRbMPUrpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099865113616601566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为了进一步知道情况，我上github把模型算法和校准什么的全复制粘贴给了V4.1Flash，按照大肥鱼的说法是，它测算的基准错了 → 我的真实数值跟它差得太远 → 它按规则把这次数据几乎忽略掉 → 继续用那个错的基准。\n\n如果它按照新的数据调整自己的话会破坏掉前面的学习成果，所以为了保全前面的东西，它把这次数据的权重压到了最低。\n\n另外，模型把通过黏膜吸收的那部分EV错估了，觉得它的水解半衰期要10小时，但实际上并没有那么长时间，在手动修正之后测算出的血药浓度是55pg/ml，接近实际数据的42.7pg/ml"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099752558550266086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了进一步知道情况，我上github把模型算法和校准什么的全复制粘贴给了V4.1Flash，按照大肥鱼的说法是，它测算的基准错了 → 我的真实数值跟它差得太远 → 它按规则把这次数据几乎忽略掉 → 继续用那个错的基准。 https://t.co/etRbMPUrpu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099751517343682560",
+            "3_2099751517343674368"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099752558550266086",
+        "created_at": "2026-09-15T06:49:56.000Z",
+        "display_text_range": [
+          0,
+          185
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099752558550266086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2h6wO2XxO",
+              "end": 209,
+              "expanded_url": "https://x.com/AacerF59616/status/2099752558550266086/photo/1",
+              "media_key": "3_2099751517343682560",
+              "start": 186,
+              "url": "https://t.co/T2h6wO2XxO"
+            },
+            {
+              "display_url": "pic.x.com/T2h6wO2XxO",
+              "end": 209,
+              "expanded_url": "https://x.com/AacerF59616/status/2099752558550266086/photo/1",
+              "media_key": "3_2099751517343674368",
+              "start": 186,
+              "url": "https://t.co/T2h6wO2XxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099752558550266086",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099751517343682560"
+          },
+          {
+            "media_key": "3_2099751517343674368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我在 GAHT 已经 66 天，也就是前天，再去测了一次激素三项。\n\n相较于 8.10 那次而言，睾酮从 76 ng/dL 掉到了 47.3 ng/dL，已经达到了推荐数值的 <55 ng/dL，不需要考虑加色了。\n\n但是 E2 谷值非常奇怪：之前我每天 2mg，隔 15 小时去测是 44.41 pg/mL；后面慢慢加到了 3.5mg，隔 10 小时去测结果只有 42.7 pg/mL。而当时模型给出的推算值是 180.3 pg/mL，误差率高达 76.4%。\n\n以至于我把数据上传之后模型直接报错了，说我上传数据的时间或单位有误。然后模型为了避免完全出错，直接把这次结果的权重压到最低了，只有 2%，不然模型就完全炸了。\n\n造成这种反直觉数据的原因目前尚且未知，但我个人推测有以下几种可能：\n\n一、原先谷值有很大一部分不是药，是内源性芳香化——肾上腺和性腺的雄激素转成雌二醇。在 34 天内我的 T 从 76 掉到 47.3，降了 38%。底物少了，芳香化出来的 E2 同样会跟着降低。\n\n二、剂量越大导致含服的片剂更多，更难含住，提升误差。片剂提升后崩解速度减缓，含服期间的唾液分泌量变相提升，顺着唾液被咽下的戊酸雌二醇更多。咽下去那部分被肝脏首过影响，大部分变成雌酮，导致雌二醇浓度降低。\n\n虽然这次数据很反常，但仍然可以通过睾酮来进行反推：这次是 47.3 ng/dL，上次是 76。在此期间我没有加色，所以说明额外压下去的睾酮是雌干的。假设加的补子没用的话，那睾酮应该还是 0.76 ng/mL（=76 ng/dL）；<0.76 即可反推说明加的补子有用，只是没被测出来。\n\n另外，泌乳素从 14.86 ng/mL 提升到了 15.9，提升幅度有限。推测色已经到稳态了，只是剂量轻，所以 PRL 没继续涨，考虑到实际发育情况等模型不会考虑到的额外变量，个人推测多加的补子确实有用，只是没形成足够的暴露量。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1295,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在 GAHT 已经 66 天，也就是前天，再去测了一次激素三项。\n\n相较于 8.10 那次而言，睾酮从 76 ng/dL 掉到了 47.3 ng/dL，已经达到了推荐数值的 &lt;55 ng/dL，不需要考虑加色了。\n\n但是 E2 谷值非常奇怪：之前我每天 2mg，隔 15 小时去测是 44.41 pg/mL；后面慢慢加到了 3.5mg，隔 10 小时去测结果只有 https://t.co/T2h6wO2XxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099865113616601566",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3056,
+          "following_count": 981,
+          "like_count": 7918,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 3270
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

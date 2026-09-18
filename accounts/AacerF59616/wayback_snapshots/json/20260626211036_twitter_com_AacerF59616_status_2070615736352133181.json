@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070615209098788864",
+        "3_2070615208666738688",
+        "3_2070615208687800320"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2070615736352133181",
+    "created_at": "2026-06-26T21:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T22:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070615736352133181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d2f8KZ81Hi",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+          "media_key": "3_2070615209098788864",
+          "start": 36,
+          "url": "https://t.co/d2f8KZ81Hi"
+        },
+        {
+          "display_url": "pic.x.com/d2f8KZ81Hi",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+          "media_key": "3_2070615208666738688",
+          "start": 36,
+          "url": "https://t.co/d2f8KZ81Hi"
+        },
+        {
+          "display_url": "pic.x.com/d2f8KZ81Hi",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+          "media_key": "3_2070615208687800320",
+          "start": 36,
+          "url": "https://t.co/d2f8KZ81Hi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070615736352133181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡裙和黑丝喵，昨天三角洲新赛季更新做了一整天33任务忘记更了喵，果咩～ https://t.co/d2f8KZ81Hi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2457,
+        "media_key": "3_2070615209098788864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNj-TawAAZCLF.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2070615208666738688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNj8saMAAQ2Dt.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2070615208687800320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxNj8xbkAAol3M.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070615209098788864",
+            "3_2070615208666738688",
+            "3_2070615208687800320"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2070615736352133181",
+        "created_at": "2026-06-26T21:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070615736352133181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2f8KZ81Hi",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+              "media_key": "3_2070615209098788864",
+              "start": 36,
+              "url": "https://t.co/d2f8KZ81Hi"
+            },
+            {
+              "display_url": "pic.x.com/d2f8KZ81Hi",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+              "media_key": "3_2070615208666738688",
+              "start": 36,
+              "url": "https://t.co/d2f8KZ81Hi"
+            },
+            {
+              "display_url": "pic.x.com/d2f8KZ81Hi",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2070615736352133181/photo/1",
+              "media_key": "3_2070615208687800320",
+              "start": 36,
+              "url": "https://t.co/d2f8KZ81Hi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070615736352133181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡裙和黑丝喵，昨天三角洲新赛季更新做了一整天33任务忘记更了喵，果咩～ https://t.co/d2f8KZ81Hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 184,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

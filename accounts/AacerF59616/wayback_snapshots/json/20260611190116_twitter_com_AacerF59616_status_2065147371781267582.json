@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065134080111624460",
+    "created_at": "2026-06-11T19:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T20:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065147371781267582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938268419067138048",
+          "start": 0,
+          "username": "magicianovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065147371781267582",
+    "in_reply_to_user_id": "1938268419067138048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065134080111624460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magicianovo 我去这我是真怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 325,
+        "media_key": "3_2065134077372743680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjUgHdbQAAPXew.jpg",
+        "width": 323
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065134080111624460",
+        "created_at": "2026-06-11T19:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065147371781267582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938268419067138048",
+              "start": 0,
+              "username": "magicianovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065147371781267582",
+        "in_reply_to_user_id": "1938268419067138048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065134080111624460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magicianovo 我去这我是真怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065134077372743680"
+          ]
+        },
+        "author_id": "1938268419067138048",
+        "conversation_id": "2065134080111624460",
+        "created_at": "2026-06-11T18:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065134080111624460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsuvQOKOTC",
+              "end": 30,
+              "expanded_url": "https://x.com/magicianovo/status/2065134080111624460/photo/1",
+              "media_key": "3_2065134077372743680",
+              "start": 7,
+              "url": "https://t.co/zsuvQOKOTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065134080111624460",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毒辣心肠的我 https://t.co/zsuvQOKOTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 38,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 144
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T16:09:48.000Z",
+        "description": "不是跨/苟延残喘地活着/dom/坏蛋/欢迎私信",
+        "id": "1938268419067138048",
+        "name": "水色系魔法师🍋🍥",
+        "pinned_tweet_id": "2061392181873774853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938269139283677189/i32QDptu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 144,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 200
+        },
+        "username": "magicianovo",
+        "verified": false
+      }
+    ]
+  }
+}

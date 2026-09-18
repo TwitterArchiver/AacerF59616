@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071492596611088739",
+    "created_at": "2026-06-30T00:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071757326558937595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4871550697",
+          "start": 0,
+          "username": "_33yobo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071757326558937595",
+    "in_reply_to_user_id": "4871550697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071492596611088739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_33yobo 感觉好吃的呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071492573391474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9rhS_b0AAcxaf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071492596611088739",
+        "created_at": "2026-06-30T00:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071757326558937595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4871550697",
+              "start": 0,
+              "username": "_33yobo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071757326558937595",
+        "in_reply_to_user_id": "4871550697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071492596611088739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_33yobo 感觉好吃的呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071492573391474688"
+          ]
+        },
+        "author_id": "4871550697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071492596611088739",
+        "created_at": "2026-06-29T07:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071492596611088739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/22kOCAhHNp",
+              "end": 36,
+              "expanded_url": "https://x.com/_33yobo/status/2071492596611088739/photo/1",
+              "media_key": "3_2071492573391474688",
+              "start": 13,
+              "url": "https://t.co/22kOCAhHNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071492596611088739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情好 坐下來吃飯休息了 https://t.co/22kOCAhHNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 257,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-07T02:43:09.000Z",
+        "description": "普通人",
+        "id": "4871550697",
+        "name": "33優步",
+        "pinned_tweet_id": "1844399206380994929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021501066215555073/cJokr3kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 571,
+          "like_count": 9818,
+          "listed_count": 8,
+          "media_count": 417,
+          "tweet_count": 7777
+        },
+        "url": "",
+        "username": "_33yobo",
+        "verified": false
+      }
+    ]
+  }
+}

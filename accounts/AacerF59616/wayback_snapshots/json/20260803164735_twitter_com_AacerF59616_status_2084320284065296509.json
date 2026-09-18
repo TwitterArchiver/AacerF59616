@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084320284065296509",
+    "created_at": "2026-08-03T16:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084320284065296509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Luna4rzd/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Luna4rzd/status/2084267863787868206",
+          "start": 11,
+          "url": "https://t.co/qz6JJxgk0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084320284065296509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084267863787868206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "+1，欲望下降很明显 https://t.co/qz6JJxgk0i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084320284065296509",
+        "created_at": "2026-08-03T16:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084320284065296509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Luna4rzd/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Luna4rzd/status/2084267863787868206",
+              "start": 11,
+              "url": "https://t.co/qz6JJxgk0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084320284065296509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267863787868206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "+1，欲望下降很明显 https://t.co/qz6JJxgk0i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600929805515399168",
+        "conversation_id": "2084267863787868206",
+        "created_at": "2026-08-03T13:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084267863787868206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084267863787868206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完色之后好像更没劲了呜，然后确实欲望变少了好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 743,
+          "like_count": 4921,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T19:06:37.000Z",
+        "description": "未出柜 mtf🏳️‍⚧️一枚喵｜\n朋友可以互fo🥺｜\n年龄党 无证含糖｜\nHRT 🍥 2026.7.17\n11年激活｜",
+        "id": "1600929805515399168",
+        "location": "远在天边 近在眼前",
+        "name": "Luna 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075228119347380535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077301419783184384/Uw3-Oh3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 385,
+          "like_count": 2095,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "Luna4rzd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2077748217748566463",
+    "created_at": "2026-07-16T13:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077748217748566463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2077742916450357760",
+          "start": 98,
+          "url": "https://t.co/fueAxhG5md"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077748217748566463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077742916450357760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢抹黑攻击LGBTQIA+已经是保站二次元潮酷见证性压抑粉红网左小保的传统艺能了，习惯就好，有些UP都开始拿xyn当流量密码了，连mtf 药娘 男娘都分不清就开始说这说那的，看麻了懒得说了已经 https://t.co/fueAxhG5md"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_2077742200834953216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWfhfebEAAw5bT.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077748217748566463",
+        "created_at": "2026-07-16T13:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077748217748566463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2077742916450357760",
+              "start": 98,
+              "url": "https://t.co/fueAxhG5md"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077748217748566463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077742916450357760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢抹黑攻击LGBTQIA+已经是保站二次元潮酷见证性压抑粉红网左小保的传统艺能了，习惯就好，有些UP都开始拿xyn当流量密码了，连mtf 药娘 男娘都分不清就开始说这说那的，看麻了懒得说了已经 https://t.co/fueAxhG5md"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077742200834953216"
+          ]
+        },
+        "author_id": "1880979169297022976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077742916450357760",
+        "created_at": "2026-07-16T13:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077742916450357760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTbRtAy9bk",
+              "end": 91,
+              "expanded_url": "https://x.com/Wesley10032/status/2077742916450357760/photo/1",
+              "media_key": "3_2077742200834953216",
+              "start": 68,
+              "url": "https://t.co/sTbRtAy9bk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077742916450357760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "B站特有的顶级刻板印象\n在国内跨性别群体根本没有发展起来的情况下\n仅凭一些极端分子的言行\n就跟风肆意攻击他人\n保守封闭的思想会害了中国 https://t.co/sTbRtAy9bk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 459,
+          "like_count": 3152,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 985
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/男/友跨🏳️‍⚧️/欢迎DM聊天(X/TG均可)\n魔裁(まのさば)/VRChat/Galgame/IT 兴趣相近互fo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP(a little)\n发帖内容不固定 想到什么发什么\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2075263019853238477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 649,
+          "like_count": 5273,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

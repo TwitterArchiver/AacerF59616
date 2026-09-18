@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064273524215210404",
+    "created_at": "2026-06-09T11:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064309637353243003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063820793214377984",
+          "start": 0,
+          "username": "NanxinMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064309637353243003",
+    "in_reply_to_user_id": "2063820793214377984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064273524215210404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanxinMTF 咱作为单纯的移动端设备（手机/平板）使用者从来没用过头戴式耳机，不过入耳式有时候戴着睡觉醒了之后可能就莫名其妙失踪了和你玩捉迷藏还要找而且有点不舒服是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064273524215210404",
+        "created_at": "2026-06-09T11:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064309637353243003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063820793214377984",
+              "start": 0,
+              "username": "NanxinMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064309637353243003",
+        "in_reply_to_user_id": "2063820793214377984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064273524215210404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanxinMTF 咱作为单纯的移动端设备（手机/平板）使用者从来没用过头戴式耳机，不过入耳式有时候戴着睡觉醒了之后可能就莫名其妙失踪了和你玩捉迷藏还要找而且有点不舒服是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063820793214377984",
+        "conversation_id": "2064273524215210404",
+        "created_at": "2026-06-09T09:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064273524215210404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064273524215210404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小声问一下\n你们耳机是喜欢入耳式还是头戴式啊\n小南戴久了头发会变成奇怪形状 OAO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2063016362285617215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 24,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 61
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T03:10:52.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | Oder💊 | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 135,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2063820793214377984",
+        "name": "南盺酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063821144675991552/j5rc-jB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 17,
+          "like_count": 51,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "username": "NanxinMTF",
+        "verified": false
+      }
+    ]
+  }
+}

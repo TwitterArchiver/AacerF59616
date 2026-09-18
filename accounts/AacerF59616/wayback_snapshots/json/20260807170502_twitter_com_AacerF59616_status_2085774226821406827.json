@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085774097716588544"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085774226821406827",
+    "created_at": "2026-08-07T17:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T18:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085774226821406827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "2040960303396204544",
+          "start": 16,
+          "username": "Personwvaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fdAoW7PbGG",
+          "end": 65,
+          "expanded_url": "https://x.com/AacerF59616/status/2085774226821406827/photo/1",
+          "media_key": "3_2085774097716588544",
+          "start": 42,
+          "url": "https://t.co/fdAoW7PbGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085774226821406827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇呜真的收到赞赏了qwq，感谢 @Personwvaq 给的10块钱金币，喵喵喵喵 https://t.co/fdAoW7PbGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2085774097716588544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIofbAbsAAfAR6.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085774097716588544"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085774226821406827",
+        "created_at": "2026-08-07T17:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T18:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085774226821406827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2040960303396204544",
+              "start": 16,
+              "username": "Personwvaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fdAoW7PbGG",
+              "end": 65,
+              "expanded_url": "https://x.com/AacerF59616/status/2085774226821406827/photo/1",
+              "media_key": "3_2085774097716588544",
+              "start": 42,
+              "url": "https://t.co/fdAoW7PbGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085774226821406827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇呜真的收到赞赏了qwq，感谢 @Personwvaq 给的10块钱金币，喵喵喵喵 https://t.co/fdAoW7PbGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 764,
+          "like_count": 5221,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 1570
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:11:04.000Z",
+        "description": "",
+        "id": "2040960303396204544",
+        "name": "Person",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085201514268942336/iMpoebcX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Personwvaq",
+        "verified": false
+      }
+    ]
+  }
+}

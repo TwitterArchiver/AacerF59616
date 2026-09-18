@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2076811682903666978",
+    "created_at": "2026-07-14T09:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T10:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076958537885036978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076958537885036978",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076811682903666978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076811672690581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJRNoAbYAAEqUF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076811672854183936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJRNonbwAAr1YF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076811673202221056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNJRNp6aYAAOiZl.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2076811682903666978",
+        "created_at": "2026-07-14T09:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076958537885036978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076958537885036978",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076811682903666978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076811672690581504",
+            "3_2076811672854183936",
+            "3_2076811673202221056"
+          ]
+        },
+        "author_id": "1906595429162299392",
+        "conversation_id": "2076811682903666978",
+        "created_at": "2026-07-13T23:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076811682903666978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RofZh8FEBt",
+              "end": 42,
+              "expanded_url": "https://x.com/Dream_Shards/status/2076811682903666978/photo/1",
+              "media_key": "3_2076811672690581504",
+              "start": 19,
+              "url": "https://t.co/RofZh8FEBt"
+            },
+            {
+              "display_url": "pic.x.com/RofZh8FEBt",
+              "end": 42,
+              "expanded_url": "https://x.com/Dream_Shards/status/2076811682903666978/photo/1",
+              "media_key": "3_2076811672854183936",
+              "start": 19,
+              "url": "https://t.co/RofZh8FEBt"
+            },
+            {
+              "display_url": "pic.x.com/RofZh8FEBt",
+              "end": 42,
+              "expanded_url": "https://x.com/Dream_Shards/status/2076811682903666978/photo/1",
+              "media_key": "3_2076811673202221056",
+              "start": 19,
+              "url": "https://t.co/RofZh8FEBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076811682903666978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期rle穿搭喵 ＃mtf #xyn https://t.co/RofZh8FEBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 440,
+          "like_count": 2982,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "一只漂浮的蓝色水母/想扩点同类/hrt：26.2.18/非资深oder/地雷系重力系警告⚠️\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥",
+        "pinned_tweet_id": "1988587652640391362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 210,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": false
+      }
+    ]
+  }
+}

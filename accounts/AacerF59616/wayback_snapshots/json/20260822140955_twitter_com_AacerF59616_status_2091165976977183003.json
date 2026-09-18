@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2091165976977183003",
+    "created_at": "2026-08-22T14:09:55.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091165976977183003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nicole20020520…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/nicole20020520/status/2090913796814729688",
+          "start": 88,
+          "url": "https://t.co/Xq4OSZh6bK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091165976977183003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090913796814729688",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我说了不在水母相关话题上发表意见，但这点我想说一下那就是问题不大，我也会大大方方承认自己是个男的，一个外界给我所施加的标签，我可以扔掉它，但不是必须扔掉它，带着也不是不行 https://t.co/Xq4OSZh6bK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2090913790724636672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRrA7gbgAA4Tnk.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091165976977183003",
+        "created_at": "2026-08-22T14:09:55.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091165976977183003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nicole20020520…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/nicole20020520/status/2090913796814729688",
+              "start": 88,
+              "url": "https://t.co/Xq4OSZh6bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091165976977183003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090913796814729688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我说了不在水母相关话题上发表意见，但这点我想说一下那就是问题不大，我也会大大方方承认自己是个男的，一个外界给我所施加的标签，我可以扔掉它，但不是必须扔掉它，带着也不是不行 https://t.co/Xq4OSZh6bK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090913790724636672"
+          ]
+        },
+        "author_id": "2074891127849639936",
+        "conversation_id": "2090885018856120730",
+        "created_at": "2026-08-21T21:27:51.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090913796814729688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sue5AHRKLA",
+              "end": 56,
+              "expanded_url": "https://x.com/nicole20020520/status/2090913796814729688/photo/1",
+              "media_key": "3_2090913790724636672",
+              "start": 33,
+              "url": "https://t.co/sue5AHRKLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090913796814729688",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090913790724636672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1497,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090885018856120730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle ？？？\nmtf怎么可能承认自己是男的 https://t.co/sue5AHRKLA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091165976977183003",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 874,
+          "like_count": 6793,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-08T16:21:11.000Z",
+        "description": "mtf🍥🏳️‍⚧️\n想跟大家贴贴~",
+        "id": "2074891127849639936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091033881382465853",
+        "name": "人民亚硝酸钠🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074891127849639936/1783532665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074892088408190976/lDrFftZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 87,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "nicole20020520",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "和男朋友一起六年啦！\n頭像是自拍 / 身分證性別女\n封鎖必回\n大笨笨走四方 (*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "is_identity_verified": true,
+        "location": "🐈🥖Pain chat🥯🙀",
+        "most_recent_tweet_id": "2091074810688450741",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/705777407794352129/1773447136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077249341929164800/EBapClID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34137,
+          "following_count": 423,
+          "like_count": 237314,
+          "listed_count": 110,
+          "media_count": 9373,
+          "tweet_count": 60999
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

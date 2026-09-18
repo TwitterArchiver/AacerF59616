@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088129412684447933",
+    "created_at": "2026-08-14T05:03:42.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088129412684447933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koshik114514/s…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/koshik114514/status/2087956057478091213",
+          "start": 86,
+          "url": "https://t.co/OvNGQTB0hg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088129412684447933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "大部分犯罪行为以及诸如连环杀人、连环纵火、碎尸、奸杀、藏尸等影响极其恶劣的行为都是顺性别异性恋做出来的，所以目前看来我觉得顺性别异性恋也基本全都精神不正常，自我意识过剩。\n\n如果你觉得我上面的话有滑坡谬误，那你就想想自己说的话是不是也有滑坡谬误，说过很多遍了要骂就骂闯祸的去，就非要搞一下滑坡把所有mtf都说成「精神不正常」，傻逼吧。别说我跳你脸哈，是你自己先一发aoe给我打中了不然我才懒得说什么，你又是什么东西值得被我先手开团。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087956057478091213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大部分犯罪行为以及诸如连环杀人、连环纵火、碎尸、奸杀、藏尸等影响极其恶劣的行为都是顺性别异性恋做出来的，所以目前看来我觉得顺性别异性恋也基本全都精神不正常，自我意识过剩。 https://t.co/OvNGQTB0hg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088129412684447933",
+        "created_at": "2026-08-14T05:03:42.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088129412684447933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koshik114514/s…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/koshik114514/status/2087956057478091213",
+              "start": 86,
+              "url": "https://t.co/OvNGQTB0hg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088129412684447933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "大部分犯罪行为以及诸如连环杀人、连环纵火、碎尸、奸杀、藏尸等影响极其恶劣的行为都是顺性别异性恋做出来的，所以目前看来我觉得顺性别异性恋也基本全都精神不正常，自我意识过剩。\n\n如果你觉得我上面的话有滑坡谬误，那你就想想自己说的话是不是也有滑坡谬误，说过很多遍了要骂就骂闯祸的去，就非要搞一下滑坡把所有mtf都说成「精神不正常」，傻逼吧。别说我跳你脸哈，是你自己先一发aoe给我打中了不然我才懒得说什么，你又是什么东西值得被我先手开团。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087956057478091213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大部分犯罪行为以及诸如连环杀人、连环纵火、碎尸、奸杀、藏尸等影响极其恶劣的行为都是顺性别异性恋做出来的，所以目前看来我觉得顺性别异性恋也基本全都精神不正常，自我意识过剩。 https://t.co/OvNGQTB0hg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962341868555096064",
+        "conversation_id": "2087956057478091213",
+        "created_at": "2026-08-13T17:34:51.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087956057478091213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087956057478091213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1703,
+          "like_count": 2,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话今天这个事情让我更加坚定我的看法：mtf这个群体的精神全都不正常，毕竟是和药物深度绑定的\n目前看来就是单纯的自我意识过剩，实则呢又丑又蠢无人在意\n要我说圈地自萌完全没问题，都已经跳脸了还不乖乖认错反而出来洗地带节奏，智力可能是确实有缺陷吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088129412684447933",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 789,
+          "like_count": 5717,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-01T02:29:13.000Z",
+        "description": "",
+        "id": "1962341868555096064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087956057478091213",
+        "name": "KOSHIK",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962341868555096064/1786096034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085664447318867970/W3lLcexe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 29,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "koshik114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

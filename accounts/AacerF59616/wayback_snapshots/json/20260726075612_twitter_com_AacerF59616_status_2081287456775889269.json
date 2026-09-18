@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081287456775889269",
+    "created_at": "2026-07-26T07:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T08:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081287456775889269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangye7723/sta…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/wangye7723/status/2081213528745349180",
+          "start": 122,
+          "url": "https://t.co/87axatw3kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081287456775889269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081213528745349180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比较粗略的看了一下，感觉对性别认同的认识还是停留在“想法”而不是“认同”，不是很好评价的一篇文章，或者说仍然带着一种性别本质主义的感觉，或许你只是想反对主观唯心式的激跨，但我更多看到的是一个站在异性恋矩阵内，以异性恋规范来评价矩阵外群体的角度 https://t.co/87axatw3kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081287456775889269",
+        "created_at": "2026-07-26T07:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081287456775889269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangye7723/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/wangye7723/status/2081213528745349180",
+              "start": 122,
+              "url": "https://t.co/87axatw3kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081287456775889269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081213528745349180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比较粗略的看了一下，感觉对性别认同的认识还是停留在“想法”而不是“认同”，不是很好评价的一篇文章，或者说仍然带着一种性别本质主义的感觉，或许你只是想反对主观唯心式的激跨，但我更多看到的是一个站在异性恋矩阵内，以异性恋规范来评价矩阵外群体的角度 https://t.co/87axatw3kg"
+      },
+      {
+        "article": {
+          "title": "我的一张大字报——打倒白左主观MTF"
+        },
+        "attachments": {},
+        "author_id": "1607983811618373633",
+        "conversation_id": "2081213528745349180",
+        "created_at": "2026-07-26T03:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081213528745349180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2081…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2081209836843483136",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2081209836843483136",
+              "url": "https://t.co/y3wWACyAgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081213528745349180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 485,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/y3wWACyAgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 648,
+          "like_count": 4429,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1253
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T06:16:39.000Z",
+        "description": "马列主义｜反修｜无证含旺仔牛奶糖🍬2026.7.26｜反唯心MTF｜友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "https://www.github.com",
+                "start": 0,
+                "url": "https://t.co/PQ89XIpt0B"
+              }
+            ]
+          }
+        },
+        "id": "1607983811618373633",
+        "location": "幻想乡",
+        "name": "孙笑川☭",
+        "pinned_tweet_id": "2081213528745349180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078748999524499456/RgjPKm63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 57,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/PQ89XIpt0B",
+        "username": "wangye7723",
+        "verified": true
+      }
+    ]
+  }
+}

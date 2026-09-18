@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097288640200331445",
+    "created_at": "2026-09-08T11:39:12.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097288640200331445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/101mitimaki/st…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/101mitimaki/status/2096977307823165441",
+          "start": 148,
+          "url": "https://t.co/jWJiwFavB8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097288640200331445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096977307823165441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那门槛呢？你是不是觉得“能”就相当于“完全普及”了？什么简化思维，你知道吗国内医院现在对跨儿的诊断基本都还是“易性症”呢？代码也是F64.0，时至今日还在沿用ICD10和DSM5这俩老标准呢。啥时候全面改用ICD11了再说吧，以及哪怕有证进行性别肯定治疗也不能报医保只能自费，这点又眼瞎没看到了 https://t.co/jWJiwFavB8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097288640200331445",
+        "created_at": "2026-09-08T11:39:12.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097288640200331445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/101mitimaki/st…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/101mitimaki/status/2096977307823165441",
+              "start": 148,
+              "url": "https://t.co/jWJiwFavB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097288640200331445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096977307823165441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那门槛呢？你是不是觉得“能”就相当于“完全普及”了？什么简化思维，你知道吗国内医院现在对跨儿的诊断基本都还是“易性症”呢？代码也是F64.0，时至今日还在沿用ICD10和DSM5这俩老标准呢。啥时候全面改用ICD11了再说吧，以及哪怕有证进行性别肯定治疗也不能报医保只能自费，这点又眼瞎没看到了 https://t.co/jWJiwFavB8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096904740156456960",
+        "conversation_id": "2096972899852923120",
+        "created_at": "2026-09-07T15:02:04.000Z",
+        "display_text_range": [
+          10,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096977307823165441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1964631394686222336",
+              "start": 0,
+              "username": "RS006741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096977307823165441",
+        "in_reply_to_user_id": "1964631394686222336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11514,
+          "like_count": 462,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096972899852923120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RS006741 我不明白跨性别为什么一直卖惨，跨性别的处境在中国是最好的了，激素治疗和手术完全合法，做完手术后也可以改身份证性别。其他性少数才是什么权利都没有。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097288640200331445",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 938,
+          "like_count": 7753,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T10:15:36.000Z",
+        "description": "观察世界！！",
+        "id": "2096904740156456960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096998360867811518",
+        "name": "疯狂星期四",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096904740156456960/1788804356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097094185085960192/4OeG1cMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "101mitimaki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T10:07:06.000Z",
+        "description": "我会骂所有该骂的人。",
+        "id": "1964631394686222336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097244840442651094",
+        "name": "fu杨杨",
+        "pinned_tweet_id": "2096659682689720348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964631394686222336/1784582363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079315005623934976/wo_8ZYMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 8,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "RS006741",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

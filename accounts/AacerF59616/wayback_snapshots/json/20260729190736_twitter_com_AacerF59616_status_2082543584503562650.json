@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082543584503562650",
+    "created_at": "2026-07-29T19:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T20:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082543584503562650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2082249254634987954",
+          "start": 135,
+          "url": "https://t.co/tRAvRi8fJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082543584503562650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082249254634987954",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "她不喜欢那不用不就是了，怎么老喜欢借着看似开放和反对刻板印象的借口对事物各种加之规范。还有经典稻草人谬误，先射箭后画靶式的把“药娘”一词曲解成全体跨女的代词，正在进行GAHT的mtx被她吃了说是。\n\n自称药娘和自称女性之间也没啥冲突的，搞不懂为什么老喜欢对着一个词哈气 https://t.co/tRAvRi8fJS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2082249251078201344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWiqWBW4AArBWk.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082543584503562650",
+        "created_at": "2026-07-29T19:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082543584503562650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2082249254634987954",
+              "start": 135,
+              "url": "https://t.co/tRAvRi8fJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082543584503562650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082249254634987954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她不喜欢那不用不就是了，怎么老喜欢借着看似开放和反对刻板印象的借口对事物各种加之规范。还有经典稻草人谬误，先射箭后画靶式的把“药娘”一词曲解成全体跨女的代词，正在进行GAHT的mtx被她吃了说是。\n\n自称药娘和自称女性之间也没啥冲突的，搞不懂为什么老喜欢对着一个词哈气 https://t.co/tRAvRi8fJS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082249251078201344"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082249254634987954",
+        "created_at": "2026-07-28T23:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082249254634987954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3asggxFlZ",
+              "end": 160,
+              "expanded_url": "https://x.com/amber_digit2/status/2082249254634987954/photo/1",
+              "media_key": "3_2082249251078201344",
+              "start": 137,
+              "url": "https://t.co/v3asggxFlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082249254634987954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很抱歉，但我就是很喜欢药娘这个词。\n\n和「妖」之于上一辈一样，「药娘」对于我们这代的许多跨女和transfem来说，就是我们生命经验和自我描述的一部分。你可以不喜欢它，也可以不用它描述自己，但你没有资格禁止别人使用这个词，也无法阻止别人拥有与你不同的、对这个词的理解方式。\n\n药娘一词来自00年代的夏士莲论坛，并在10年代经由百度贴吧和《药娘的天空》发扬光大，是由从日语Otokonoko翻译的「伪娘」改编而来。它的年龄和我们许多00后一样大，也是我们最早接触跨性别相关信息时的童年回忆。在这样的年代和环境里，围绕雌激素药物的物质、知识和情感交换，也极大程度上构成了我们当今所见的「社群」的可能性条件。也正是因为许许多多的前辈们以身试药，把自己的生命当作试验品，我们（包括「正规医疗体系」）才能获得现在看似唾手可得和人尽皆知的用药规范。医学建制不是知识的来源；社群才是。而在很长一段时间里，「药物」的确处在这个社群的核心。\n\n同样需要注意的是，「跨女」和「药娘」并非同义。跨女明确了性别认同为女，而药娘只强调了药物使用和女性气质。正因为「药娘」一词在性别认同上的暧昧属性，这反而给那些最终并不认同女性身份的非二元跨性别者和探索期的跨女，留下了某种安全的距离。\n\n所以，我喜欢药娘这个词，也将会继续用它描述自己。我喜欢它对药物使用（尤其是DIY）的强调——这是无数前辈们智慧和勇气的证明；喜欢它在性别认同方面的包容性，喜欢它蕴含的悲剧和哀伤色彩，喜欢它和主流规范的暧昧关系，喜欢由它而生的社群和亲密关系，喜欢它承载着的无数故事和回忆，喜欢那些同样在用着这个词汇的、许许多多的人们。\n\n不要再以进步的名义创造正确的历史记忆了；请让那些落后的词和人再多存活一段时间吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5673,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉，但我就是很喜欢药娘这个词。\n\n和「妖」之于上一辈一样，「药娘」对于我们这代的许多跨女和transfem来说，就是我们生命经验和自我描述的一部分。你可以不喜欢它，也可以不用它描述自己，但你没有资格禁止别人使用这个词，也无法阻止别人拥有与你不同的、对这个词的理解方式。 https://t.co/v3asggxFlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 697,
+          "like_count": 4669,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 651,
+          "like_count": 1861,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

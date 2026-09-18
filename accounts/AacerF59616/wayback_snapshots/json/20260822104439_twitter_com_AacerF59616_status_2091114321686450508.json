@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2091114321686450508",
+    "created_at": "2026-08-22T10:44:39.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:43:21.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091113993243074918",
+      "2091114174403473651",
+      "2091114321686450508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Simone_Luxem/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/2090778703974506596",
+          "start": 67,
+          "url": "https://t.co/2NK7keQZYW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091114321686450508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」\n\n发声本身也是一种消耗，所以我才说「等女性权益天然的包含跨女权益的时候再说」，我不想再靠额外证明和争取才能换来一个本该属于我的位置，我也没有义务拿自己的力气去供养一个习惯性不把我算进去的框架，就是这样。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090778703974506596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」 https://t.co/2NK7keQZYW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091113993243074918",
+        "created_at": "2026-08-22T10:43:21.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:43:21.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091113993243074918",
+          "2091114174403473651",
+          "2091114321686450508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/2090778703974506596",
+              "start": 68,
+              "url": "https://t.co/2NK7keQZYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091113993243074918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取。但我想说的其实不是「放弃权利」而是「拒绝被免费使用」。\n\n发声本身是一种消耗，所以当我说「等女性权益天然的包含跨女权益的时候再说」，我不想再靠额外证明和争取才能换来一个本该属于我的位置。，我没有义务拿自己的力气去供养一个习惯性不把我算进去的框架，就是这样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090778703974506596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取。但我想说的其实不是「放弃权利」而是「拒绝被免费使用」。 https://t.co/2NK7keQZYW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091114174403473651",
+        "created_at": "2026-08-22T10:44:04.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:43:21.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091113993243074918",
+          "2091114174403473651",
+          "2091114321686450508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/2090778703974506596",
+              "start": 67,
+              "url": "https://t.co/2NK7keQZYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091114174403473651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」\n\n发声本身也是一种消耗，所以我才说「等女性权益天然的包含跨女权益的时候再说」，我不想再靠额外证明和争取才能换来一个本该属于我的位置。，我没有义务拿自己的力气去供养一个习惯性不把我算进去的框架，就是这样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090778703974506596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」 https://t.co/2NK7keQZYW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091114321686450508",
+        "created_at": "2026-08-22T10:44:39.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:43:21.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091113993243074918",
+          "2091114174403473651",
+          "2091114321686450508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/2090778703974506596",
+              "start": 67,
+              "url": "https://t.co/2NK7keQZYW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091114321686450508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」\n\n发声本身也是一种消耗，所以我才说「等女性权益天然的包含跨女权益的时候再说」，我不想再靠额外证明和争取才能换来一个本该属于我的位置，我也没有义务拿自己的力气去供养一个习惯性不把我算进去的框架，就是这样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090778703974506596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是想说有些事不需要等别人先承认，我们自己先认定先去为正确的事发声，这才是争取，但我想说的其实不是「放弃权利」而是「拒绝被免费使用」 https://t.co/2NK7keQZYW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2090665577983733806",
+        "created_at": "2026-08-21T12:31:02.000Z",
+        "display_text_range": [
+          13,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090778703974506596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090778703974506596",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090665577983733806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 可是，如果我们自认为其中包含，那么对于我们而言就是包含了的呀，我们理应为正确的事情发声，而不是某事现如今被鸠占鹊巢因此我们就要放弃我们应得的权利呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091114321686450508",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 876,
+          "like_count": 6775,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2091056864448696685",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6237,
+          "following_count": 217,
+          "like_count": 24986,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21898
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

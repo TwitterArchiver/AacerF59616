@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067276993440391411",
+    "created_at": "2026-06-17T16:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067277982289608923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055214408784125953",
+          "start": 0,
+          "username": "OMEmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067277982289608923",
+    "in_reply_to_user_id": "2055214408784125953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067276993440391411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OMEmtf 不推荐太早出柜呢，如果家长比较保守容易变成家长反对党吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067276993440391411",
+        "created_at": "2026-06-17T16:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067277982289608923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055214408784125953",
+              "start": 0,
+              "username": "OMEmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067277982289608923",
+        "in_reply_to_user_id": "2055214408784125953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067276993440391411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OMEmtf 不推荐太早出柜呢，如果家长比较保守容易变成家长反对党吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055214408784125953",
+        "conversation_id": "2067276993440391411",
+        "created_at": "2026-06-17T16:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067276993440391411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067276993440391411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得我现在要不要出柜？我只会说我性格有像女生，而不会说我正在吃药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 109,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 369
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:11:39.000Z",
+        "description": "这里是OME，身高170体重95斤hrt26.5.28，为什么我不是女生好希望我的身高是160我真的好难受为什么我不会被理解为什么他们都在骂我变态我好讨厌我的脸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ome.917826.xyz",
+                "end": 23,
+                "expanded_url": "http://ome.917826.xyz",
+                "start": 0,
+                "url": "https://t.co/HWBdWVKUXh"
+              }
+            ]
+          }
+        },
+        "id": "2055214408784125953",
+        "location": "地球",
+        "name": "OME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065014949370568704/TY3IUFl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/HWBdWVKUXh",
+        "username": "OMEmtf",
+        "verified": false
+      }
+    ]
+  }
+}

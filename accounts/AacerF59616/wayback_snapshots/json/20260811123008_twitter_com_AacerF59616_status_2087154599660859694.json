@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087133574206214287",
+    "created_at": "2026-08-11T12:30:08.000Z",
+    "display_text_range": [
+      12,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087154599660859694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040798583440527360",
+          "start": 0,
+          "username": "longyvling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087154599660859694",
+    "in_reply_to_user_id": "2040798583440527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因为「性别焦虑」这个词是在DSM-5上的，它强调的就是痛苦，而ICD-11则选择了强调指派性别和经验性别之间的不一致，所以说才叫「性别不一致」，这俩词是在两本不同的册子上的，找不到很正常，侧重点也不一样就是了。\n\n但不管是ICD-11还是DSM-5，其实都不觉得这种情况是病理化特征，相关治疗也不是「治疗跨性别」而是「治疗痛苦」"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087152818457047138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longyvling 因为「性别焦虑」这个词是在DSM-5上的，它强调的就是痛苦，而ICD-11则选择了强调指派性别和经验性别之间的不一致，所以说才叫「性别不一致」，这俩词是在两本不同的册子上的，找不到很正常，侧重点也不一样就是了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087133574206214287",
+        "created_at": "2026-08-11T12:30:08.000Z",
+        "display_text_range": [
+          12,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087154599660859694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040798583440527360",
+              "start": 0,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087154599660859694",
+        "in_reply_to_user_id": "2040798583440527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为「性别焦虑」这个词是在DSM-5上的，它强调的就是痛苦，而ICD-11则选择了强调指派性别和经验性别之间的不一致，所以说才叫「性别不一致」，这俩词是在两本不同的册子上的，找不到很正常，侧重点也不一样就是了。\n\n但不管是ICD-11还是DSM-5，其实都不觉得这种情况是病理化特征，相关治疗也不是「治疗跨性别」而是「治疗痛苦」"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087152818457047138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longyvling 因为「性别焦虑」这个词是在DSM-5上的，它强调的就是痛苦，而ICD-11则选择了强调指派性别和经验性别之间的不一致，所以说才叫「性别不一致」，这俩词是在两本不同的册子上的，找不到很正常，侧重点也不一样就是了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2087133574206214287",
+        "created_at": "2026-08-11T12:23:04.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087152818457047138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087152818457047138",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087152272426090932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 ICD-11似乎提都没提性别焦虑，所以......我不好说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087154599660859694",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 779,
+          "like_count": 5483,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1769
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | AuDHD | 🎂2010.1.3 | 🍥2026.5.18 | CPhO现役 | 中国西南某山城北部 | 悟往者之不谏，知来者之可追，实迷途之未远 | 再见了上帝，我要去独自旅行",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜孤灯",
+        "most_recent_tweet_id": "2087154275579199881",
+        "name": "龙雨绫🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 291,
+          "like_count": 3401,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

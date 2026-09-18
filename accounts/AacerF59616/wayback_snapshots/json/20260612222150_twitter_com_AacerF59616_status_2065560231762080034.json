@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065550991920160853",
+    "created_at": "2026-06-12T22:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T23:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065560231762080034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872814920896790530",
+          "start": 0,
+          "username": "Mika_Nyako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065560231762080034",
+    "in_reply_to_user_id": "1872814920896790530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065550991920160853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mika_Nyako 可爱小春哇～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065550972081082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpPqlRbEAAvbJW.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065550991920160853",
+        "created_at": "2026-06-12T22:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T23:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065560231762080034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872814920896790530",
+              "start": 0,
+              "username": "Mika_Nyako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065560231762080034",
+        "in_reply_to_user_id": "1872814920896790530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065550991920160853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mika_Nyako 可爱小春哇～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065550972081082368"
+          ]
+        },
+        "author_id": "1872814920896790530",
+        "conversation_id": "2065550991920160853",
+        "created_at": "2026-06-12T21:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065550991920160853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "下江小春"
+            },
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "koharu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kz0QMjto4x",
+              "end": 45,
+              "expanded_url": "https://x.com/Mika_Nyako/status/2065550991920160853/photo/1",
+              "media_key": "3_2065550972081082368",
+              "start": 22,
+              "url": "https://t.co/kz0QMjto4x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065550991920160853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#下江小春 #koharu\n难道说...？ https://t.co/kz0QMjto4x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 47,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 212
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:21:01.000Z",
+        "description": "Kigurumi\n🚫Chinese. If you’re biased against Chinese people, please do not interact🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561199021445951/",
+                "start": 0,
+                "url": "https://t.co/wQZXdzbbiy"
+              }
+            ]
+          }
+        },
+        "id": "1872814920896790530",
+        "name": "NekohaRin",
+        "pinned_tweet_id": "2030493171831230620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065010272771923968/C_3O1qE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 47,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/wQZXdzbbiy",
+        "username": "Mika_Nyako",
+        "verified": false
+      }
+    ]
+  }
+}

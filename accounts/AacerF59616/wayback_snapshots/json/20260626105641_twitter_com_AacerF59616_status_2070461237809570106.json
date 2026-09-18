@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2070309931522392427",
+    "created_at": "2026-06-26T10:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070461237809570106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891297608632877056",
+          "start": 0,
+          "username": "xixinanoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070461237809570106",
+    "in_reply_to_user_id": "1891297608632877056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070309931522392427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixinanoda 没吃糖的mtf，可能是地区限制、医疗资源限制、家庭因素、外界排斥等原因导致无法进行HRT的，或者是本身处于性别探索的早期，对HRT了解程度有限认为会对自身健康造成巨大负面影响等，跨女本身并不仅指药娘，所以是否含糖不应该作为判断标准（咱也还没吃，不过更多称为“未带糖”）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070309931522392427",
+        "created_at": "2026-06-26T10:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070461237809570106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891297608632877056",
+              "start": 0,
+              "username": "xixinanoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070461237809570106",
+        "in_reply_to_user_id": "1891297608632877056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070309931522392427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixinanoda 没吃糖的mtf，可能是地区限制、医疗资源限制、家庭因素、外界排斥等原因导致无法进行HRT的，或者是本身处于性别探索的早期，对HRT了解程度有限认为会对自身健康造成巨大负面影响等，跨女本身并不仅指药娘，所以是否含糖不应该作为判断标准（咱也还没吃，不过更多称为“未带糖”）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891297608632877056",
+        "conversation_id": "2070309931522392427",
+        "created_at": "2026-06-26T00:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070309931522392427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070309931522392427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 770,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无糖跨女是什么意思，也没有含糖的打算又是什么意思？还有直接手术的渠道的么？我看不懂了...？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 182,
+          "like_count": 1788,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 560
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T01:24:32.000Z",
+        "description": "🎂05.11.11/INFP/性别未知/想要超级多超级多的朋友/喵？/自视而缚，破茧成蝶。",
+        "id": "1891297608632877056",
+        "name": "喵呜喵呜夕夕酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055309358813319168/4f6neAMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 49,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "xixinanoda",
+        "verified": false
+      }
+    ]
+  }
+}

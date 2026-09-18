@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2066952509311402180",
+    "created_at": "2026-06-17T07:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067143199022559674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046383911937228800",
+          "start": 0,
+          "username": "liuli292441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067143199022559674",
+    "in_reply_to_user_id": "2046383911937228800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066952509311402180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuli292441 可爱小脚脚，来捏一下～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12400,
+        "height": 1280,
+        "media_key": "7_2066952481360551937",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2066952481360551937/pu/img/_Fmk3rxcDdG5NprE.jpg",
+        "public_metrics": {
+          "view_count": 371
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066952481360551937/pu/vid/avc1/320x690/Hk78bFj26qQDnvtu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066952481360551937/pu/vid/avc1/480x1036/uOcwNZXSUTmmGYtL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2066952481360551937/pu/vid/avc1/592x1280/3ej4MNzYM6Er3I5L.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2066952481360551937/pu/pl/5PSTHybz2v2ymfMW.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2066952509311402180",
+        "created_at": "2026-06-17T07:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067143199022559674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046383911937228800",
+              "start": 0,
+              "username": "liuli292441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067143199022559674",
+        "in_reply_to_user_id": "2046383911937228800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066952509311402180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuli292441 可爱小脚脚，来捏一下～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2066952481360551937"
+          ]
+        },
+        "author_id": "2046383911937228800",
+        "conversation_id": "2066952509311402180",
+        "created_at": "2026-06-16T18:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T19:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066952509311402180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRqS8SjQAH",
+              "end": 37,
+              "expanded_url": "https://x.com/liuli292441/status/2066952509311402180/video/1",
+              "media_key": "7_2066952481360551937",
+              "start": 14,
+              "url": "https://t.co/VRqS8SjQAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066952509311402180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1281,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘的白丝搓搓喵\n求夸夸 https://t.co/VRqS8SjQAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 103,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T00:22:55.000Z",
+        "description": "来自异世界的小男娘一枚～喜欢捆捆和涩涩喵\n身高172，体重54，鞋码39，年龄18~\n目前没有主银喵～\n欢迎大家来加我找我聊天喵",
+        "id": "2046383911937228800",
+        "location": "翁法罗斯",
+        "name": "琉璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046402348961173504/ta-Q5wAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 63,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "liuli292441",
+        "verified": false
+      }
+    ]
+  }
+}

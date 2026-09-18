@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2070026404549492783",
+    "created_at": "2026-06-25T17:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070200491573911855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066749998155612160",
+          "start": 0,
+          "username": "Hanekawa97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070200491573911855",
+    "in_reply_to_user_id": "2066749998155612160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070026404549492783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanekawa97 按理来说穿不穿都可以，好吧咱更喜欢真空喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070025864499376128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLo1jmlbMAAVKKG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2070026404549492783",
+        "created_at": "2026-06-25T17:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070200491573911855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066749998155612160",
+              "start": 0,
+              "username": "Hanekawa97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070200491573911855",
+        "in_reply_to_user_id": "2066749998155612160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070026404549492783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanekawa97 按理来说穿不穿都可以，好吧咱更喜欢真空喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070025864499376128"
+          ]
+        },
+        "author_id": "2066749998155612160",
+        "conversation_id": "2070026404549492783",
+        "created_at": "2026-06-25T06:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070026404549492783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "男の娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "伪娘"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "femboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KPPcTyqxWV",
+              "end": 62,
+              "expanded_url": "https://x.com/Hanekawa97/status/2070026404549492783/photo/1",
+              "media_key": "3_2070025864499376128",
+              "start": 39,
+              "url": "https://t.co/KPPcTyqxWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070026404549492783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3389,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来穿了裙子之后下面还要穿东西吗？\n#男の娘 #男娘 #伪娘 #femboy https://t.co/KPPcTyqxWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 180,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T05:12:08.000Z",
+        "description": "我要睡觉",
+        "id": "2066749998155612160",
+        "name": "羽川忍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066751008416710656/6SwWSMor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 22,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Hanekawa97",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085344877894836339",
+    "created_at": "2026-08-06T12:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085344877894836339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sorcerer1311/s…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/Sorcerer1311/status/2085303396819701890",
+          "start": 139,
+          "url": "https://t.co/iQv8smCRQB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085344877894836339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085303396819701890",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你所谓的「社群认同」就是一群老资历管瘾犯了想规范规范别人然后到处鉴跨贴标签大搞纯洁性审查的话，那没话说，你都几把的自嗨成这样了那又有什么办法？一边不接受异性恋顺性别规范对其施加的规范，另一边转头搞一个小规范，用你那个破逼有色眼镜去看待未接受医疗措施的性别少数，吃个药牛坏了 https://t.co/iQv8smCRQB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085344877894836339",
+        "created_at": "2026-08-06T12:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085344877894836339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sorcerer1311/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Sorcerer1311/status/2085303396819701890",
+              "start": 139,
+              "url": "https://t.co/iQv8smCRQB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085344877894836339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085303396819701890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你所谓的「社群认同」就是一群老资历管瘾犯了想规范规范别人然后到处鉴跨贴标签大搞纯洁性审查的话，那没话说，你都几把的自嗨成这样了那又有什么办法？一边不接受异性恋顺性别规范对其施加的规范，另一边转头搞一个小规范，用你那个破逼有色眼镜去看待未接受医疗措施的性别少数，吃个药牛坏了 https://t.co/iQv8smCRQB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2085303396819701890",
+        "created_at": "2026-08-06T09:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085303396819701890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aacerf59616/st…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/aacerf59616/status/2085218074136105301",
+              "start": 87,
+              "url": "https://t.co/jYmQbEQrqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085303396819701890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085218074136105301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真在hrt时长和激素水平歧视的并不是我呢\n另外区分下自我认同和社群认同\n长发男的牛逼之处就在于自我认同是女那就是女，自我认同为男那就是男\n这种我建议不拿男或者女对他进行鉴定 https://t.co/jYmQbEQrqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 760,
+          "like_count": 5150,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 974,
+          "like_count": 2117,
+          "listed_count": 3,
+          "media_count": 468,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      }
+    ]
+  }
+}

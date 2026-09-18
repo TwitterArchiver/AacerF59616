@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2068332281669046419",
+    "created_at": "2026-06-20T22:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068455617178796283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1010322251269300224",
+          "start": 0,
+          "username": "tkcmta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068455617178796283",
+    "in_reply_to_user_id": "1010322251269300224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068332281669046419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tkcmta 哇呜，恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068332270570934273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQxPdjbkAE_ebc.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068332270554095617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQxPdfaoAE_xE-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2068332281669046419",
+        "created_at": "2026-06-20T22:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068455617178796283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1010322251269300224",
+              "start": 0,
+              "username": "tkcmta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068455617178796283",
+        "in_reply_to_user_id": "1010322251269300224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068332281669046419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tkcmta 哇呜，恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068332270570934273",
+            "3_2068332270554095617"
+          ]
+        },
+        "author_id": "1010322251269300224",
+        "conversation_id": "2068332281669046419",
+        "created_at": "2026-06-20T13:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068332281669046419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3QV5cPwFY7",
+              "end": 47,
+              "expanded_url": "https://x.com/tkcmta/status/2068332281669046419/photo/1",
+              "media_key": "3_2068332270570934273",
+              "start": 24,
+              "url": "https://t.co/3QV5cPwFY7"
+            },
+            {
+              "display_url": "pic.x.com/3QV5cPwFY7",
+              "end": 47,
+              "expanded_url": "https://x.com/tkcmta/status/2068332281669046419/photo/1",
+              "media_key": "3_2068332270554095617",
+              "start": 24,
+              "url": "https://t.co/3QV5cPwFY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332281669046419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "500fo！！\n）其实只有5天\n感谢大家喵喵～ https://t.co/3QV5cPwFY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 148,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-23T00:42:50.000Z",
+        "description": "05MtF / INFJ-T / 持证HRT22.01.27 / 同类互fo喵(忘了请私信提醒喵) / Wolfx Project / #防災 / #EEW / #地震観測 / #プロセカ / ZH、EN、JA / 平时主要玩PJSK喵 / 😈🥰 @realcodestudio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "防災"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "EEW"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "地震観測"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "realcodestudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolfx.jp",
+                "end": 23,
+                "expanded_url": "https://wolfx.jp",
+                "start": 0,
+                "url": "https://t.co/Etun1cXcZX"
+              }
+            ]
+          }
+        },
+        "id": "1010322251269300224",
+        "location": "Inazuma",
+        "name": "TenkyuChimata🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617528974112083969/kjfqMLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 943,
+          "like_count": 49546,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/Etun1cXcZX",
+        "username": "tkcmta",
+        "verified": false
+      }
+    ]
+  }
+}

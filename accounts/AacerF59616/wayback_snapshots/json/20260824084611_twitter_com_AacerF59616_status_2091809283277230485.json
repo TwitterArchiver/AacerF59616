@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2091809283277230485",
+    "created_at": "2026-08-24T08:46:11.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091809283277230485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ws456123_2026/…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/ws456123_2026/status/2091775088081473775",
+          "start": 70,
+          "url": "https://t.co/wYsBWz6LdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091809283277230485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那么我想请问一下，你说的「找借口」又在哪？我从头到尾都没有任何表达「我想做手术但没钱，所以我只好说它是特点」的意思，稻草人谬误差不多得了。\n\n又是谁告诉你mtf都要做手术的，还是说你觉得「只有做完性别肯定手术，才有资格称自己为女生」呢？如果不是的话，那为什么要这样说，经验性别原来需要通过接受医疗行为才能证明的吗？这又是什么奇怪道理？\n\n再然后，你这个「面对现实」又是怎么个「现实」呢？是确定存在的，还是由你建构的。如果你说的是我生下来是男的且下面有一根棍子，那确实如此，我也从来没有否定过什么。但如果你基于这点认为我就只能是男的，那我想请问一下为什么？难道这个真的是现实而这不是由你定义的吗？那这个所谓的「面对现实」不就是让我接受你的定义吗？我又为什么要随便接受别人的定义？\n\n还有就是，特点为什么不能是特点？可能你觉得「只要一个身体特征不属于典型的女性身体，它就不能被女性拥有」，那我还是想请问一下为什么，难道「女性」真的有什么完全恒定不变的，出厂统一设置的东西吗？你当然可以认为我和典型女性身体完全不一样，但这不就是我认为自己是「有特点的女性」的缘由吗？这又为什么不能算作特点呢？\n\n还有还有，「自我感动」在你嘴里像是个贬义词那样，好像一个人就不能给自己找理由活下去、喜欢自己身体的一部分。那又是谁规定的这一切？为什么我们不能建构一个「继续生活下去的解释」，这到底是自欺欺人还是生存本能呢？难道我们都应该陷入虚无主义然后不知道活着干嘛也不知道死了干嘛，每天就跟生物机器那样活着吗？那你对生活的看法和理解也太消极和悲观了点吧。\n\n最后就是，你的称呼用错了，其实你应该叫我「姐妹」的，这并不是强迫性的。我想说明的是，我不需要经过你的审批才算是女生，你只是在用某种理想化的女性规范来看待一个不符合规范的女人。如果你自己觉得合理，那我也没得说什么，我只不过是把事实给描述了一遍，仅此。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091775088081473775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么我想请问一下，你说的「找借口」又在哪？我从头到尾都没有任何表达「我想做手术但没钱，所以我只好说它是特点」的意思，稻草人谬误差不多得了。 https://t.co/wYsBWz6LdD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091809283277230485",
+        "created_at": "2026-08-24T08:46:11.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091809283277230485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ws456123_2026/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/ws456123_2026/status/2091775088081473775",
+              "start": 70,
+              "url": "https://t.co/wYsBWz6LdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091809283277230485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那么我想请问一下，你说的「找借口」又在哪？我从头到尾都没有任何表达「我想做手术但没钱，所以我只好说它是特点」的意思，稻草人谬误差不多得了。\n\n又是谁告诉你mtf都要做手术的，还是说你觉得「只有做完性别肯定手术，才有资格称自己为女生」呢？如果不是的话，那为什么要这样说，经验性别原来需要通过接受医疗行为才能证明的吗？这又是什么奇怪道理？\n\n再然后，你这个「面对现实」又是怎么个「现实」呢？是确定存在的，还是由你建构的。如果你说的是我生下来是男的且下面有一根棍子，那确实如此，我也从来没有否定过什么。但如果你基于这点认为我就只能是男的，那我想请问一下为什么？难道这个真的是现实而这不是由你定义的吗？那这个所谓的「面对现实」不就是让我接受你的定义吗？我又为什么要随便接受别人的定义？\n\n还有就是，特点为什么不能是特点？可能你觉得「只要一个身体特征不属于典型的女性身体，它就不能被女性拥有」，那我还是想请问一下为什么，难道「女性」真的有什么完全恒定不变的，出厂统一设置的东西吗？你当然可以认为我和典型女性身体完全不一样，但这不就是我认为自己是「有特点的女性」的缘由吗？这又为什么不能算作特点呢？\n\n还有还有，「自我感动」在你嘴里像是个贬义词那样，好像一个人就不能给自己找理由活下去、喜欢自己身体的一部分。那又是谁规定的这一切？为什么我们不能建构一个「继续生活下去的解释」，这到底是自欺欺人还是生存本能呢？难道我们都应该陷入虚无主义然后不知道活着干嘛也不知道死了干嘛，每天就跟生物机器那样活着吗？那你对生活的看法和理解也太消极和悲观了点吧。\n\n最后就是，你的称呼用错了，其实你应该叫我「姐妹」的，这并不是强迫性的。我想说明的是，我不需要经过你的审批才算是女生，你只是在用某种理想化的女性规范来看待一个不符合规范的女人。如果你自己觉得合理，那我也没得说什么，我只不过是把事实给描述了一遍，仅此。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091775088081473775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么我想请问一下，你说的「找借口」又在哪？我从头到尾都没有任何表达「我想做手术但没钱，所以我只好说它是特点」的意思，稻草人谬误差不多得了。 https://t.co/wYsBWz6LdD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090422266693615616",
+        "conversation_id": "2091636634395800056",
+        "created_at": "2026-08-24T06:30:18.000Z",
+        "display_text_range": [
+          13,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091775088081473775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091775088081473775",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091636634395800056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 只是找借口罢了，没钱做手术就自我感动，还说什么特点，面对现实吧，大哥"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091809283277230485",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 880,
+          "like_count": 6900,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T12:56:56.000Z",
+        "description": "一个追求平凡生活的普通人",
+        "id": "2090422266693615616",
+        "is_identity_verified": false,
+        "location": "中华人民共和国内蒙古呼伦贝尔市",
+        "most_recent_tweet_id": "2091775447940092206",
+        "name": "Q",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090422266693615616/1787327880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090829514154844161/ADeJcCDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 131
+        },
+        "url": "",
+        "username": "ws456123_2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

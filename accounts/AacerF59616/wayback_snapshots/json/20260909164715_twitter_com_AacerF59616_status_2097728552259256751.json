@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097728552259256751",
+    "created_at": "2026-09-09T16:47:15.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T17:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097728552259256751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5850797a/statu…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/5850797a/status/2097726015158321260",
+          "start": 51,
+          "url": "https://t.co/QpyrSdsiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097728552259256751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097726015158321260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们不能只能选择维系和破坏的，或者说我们应该分离的去看待性别，而不是把它压缩成某个单一的、绝对的东西 https://t.co/QpyrSdsiyi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097728552259256751",
+        "created_at": "2026-09-09T16:47:15.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097728552259256751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5850797a/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/5850797a/status/2097726015158321260",
+              "start": 51,
+              "url": "https://t.co/QpyrSdsiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097728552259256751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097726015158321260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不能只能选择维系和破坏的，或者说我们应该分离的去看待性别，而不是把它压缩成某个单一的、绝对的东西 https://t.co/QpyrSdsiyi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2097698910143963175",
+        "created_at": "2026-09-09T16:37:10.000Z",
+        "display_text_range": [
+          13,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097726015158321260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097726015158321260",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097698910143963175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 性别是人脑构建的一套体系，大多数人无可救药地相信它。如果激进解放、把性别体系砸烂，不仅顺直难受，大部分跨也难受。悲观地看，跨性别运动近乎临终关怀，仅仅是缝缝补补——“我就是信这套体系，就是想站在这套体系中本不属于我的位置。这套体系确实是被构建的，可是那你要我怎么办？死了不成？”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097728552259256751",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 941,
+          "like_count": 7795,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年出生/任意代词/自恨顺/计划当顺男活一辈子/希望自己是mtf/疑似AuDHD/INFJ/不墙内/不线下/碎片化n手哲学受众/畏惧自己命运之人/擅长妥协拖延和逃避/要勇于表达/天堂必须是倒置的/\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 128,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 105,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2097726015158321260",
+        "name": "Nomi9742",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096667984488255488/Y2xe4aJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 113,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "5850797a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

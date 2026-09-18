@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088654564128161928",
+    "created_at": "2026-08-15T15:50:28.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T16:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088654564128161928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AubreyCamilleu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/AubreyCamilleuu/status/2088651867161051639",
+          "start": 59,
+          "url": "https://t.co/TRSS3DO4DC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088654564128161928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088651867161051639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对此无感，这是个人自由，虽然我并不喜欢父权制，但我觉得只要不影响彼此之间的交流那尊重彼此之间的差异还是可以且应该的 https://t.co/TRSS3DO4DC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2088651847032856577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxhyenbYAEiVPs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088654564128161928",
+        "created_at": "2026-08-15T15:50:28.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088654564128161928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AubreyCamilleu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/AubreyCamilleuu/status/2088651867161051639",
+              "start": 59,
+              "url": "https://t.co/TRSS3DO4DC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654564128161928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088651867161051639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对此无感，这是个人自由，虽然我并不喜欢父权制，但我觉得只要不影响彼此之间的交流那尊重彼此之间的差异还是可以且应该的 https://t.co/TRSS3DO4DC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088651847032856577"
+          ]
+        },
+        "author_id": "2046283772455485440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088651867161051639",
+        "created_at": "2026-08-15T15:39:45.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088651867161051639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bx7tpuayNH",
+              "end": 168,
+              "expanded_url": "https://x.com/AubreyCamilleuu/status/2088651867161051639/photo/1",
+              "media_key": "3_2088651847032856577",
+              "start": 145,
+              "url": "https://t.co/Bx7tpuayNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088651867161051639",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088651847032856577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于我近期内耗得很严重，我想问问其他跨儿们关于我在骂terf的同时捧父权男还对顺女使用侮辱性称谓的看法。对terf感到气愤时像她们一样使用同态复仇的叙事手段真的是不可接受的吗？我的理性非常清楚跨儿的处境与顺女的处境密切同频，但我亲身遭遇的创伤让我无法做到只用最包容最不计前嫌的方式来讲话。 https://t.co/Bx7tpuayNH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088654564128161928",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 807,
+          "like_count": 5923,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 2085
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T17:44:16.000Z",
+        "description": "156cm/42kg/🍥2025.10.17/rle2020/从无糖跨女转职含糖酷儿的神奇人生/一把年纪依然想当科学家\n欢迎来找我玩，我可以带你去吃好吃的。",
+        "id": "2046283772455485440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088651867161051639",
+        "name": "沅子🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046283772455485440/1778978420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069385662277754880/WVsxZWOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 235,
+          "like_count": 1319,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "AubreyCamilleuu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2066057764045250769",
+    "created_at": "2026-06-14T13:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066144872986468511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886824109553975296",
+          "start": 0,
+          "username": "furiyaEndearing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066144872986468511",
+    "in_reply_to_user_id": "1886824109553975296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066057764045250769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furiyaEndearing 好看呢，还有黑白配，哇酷哇酷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2066057757418278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwclXxbUAASKn-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2066057757397250048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwclXsacAAtzKm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066057757376368640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwclXnb0AAHszp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2066057764045250769",
+        "created_at": "2026-06-14T13:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144872986468511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886824109553975296",
+              "start": 0,
+              "username": "furiyaEndearing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144872986468511",
+        "in_reply_to_user_id": "1886824109553975296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066057764045250769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furiyaEndearing 好看呢，还有黑白配，哇酷哇酷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066057757418278912",
+            "3_2066057757397250048",
+            "3_2066057757376368640"
+          ]
+        },
+        "author_id": "1886824109553975296",
+        "conversation_id": "2066057764045250769",
+        "created_at": "2026-06-14T07:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066057764045250769"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "伪娘"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "跨性别"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "非二元"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "药娘"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "男娘"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "地雷系"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "女装男子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IM2VgwFfy6",
+              "end": 98,
+              "expanded_url": "https://x.com/furiyaEndearing/status/2066057764045250769/photo/1",
+              "media_key": "3_2066057757418278912",
+              "start": 75,
+              "url": "https://t.co/IM2VgwFfy6"
+            },
+            {
+              "display_url": "pic.x.com/IM2VgwFfy6",
+              "end": 98,
+              "expanded_url": "https://x.com/furiyaEndearing/status/2066057764045250769/photo/1",
+              "media_key": "3_2066057757397250048",
+              "start": 75,
+              "url": "https://t.co/IM2VgwFfy6"
+            },
+            {
+              "display_url": "pic.x.com/IM2VgwFfy6",
+              "end": 98,
+              "expanded_url": "https://x.com/furiyaEndearing/status/2066057764045250769/photo/1",
+              "media_key": "3_2066057757376368640",
+              "start": 75,
+              "url": "https://t.co/IM2VgwFfy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066057764045250769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1701,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "主人我已经穿好等你了喔(&gt;^ω^&lt;)喵\n这样穿好不好看呢(´･ω･`)\n#伪娘 #跨性别 #非二元 #药娘 #男娘 #地雷系 #女装男子 https://t.co/IM2VgwFfy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 70,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 283
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T17:08:34.000Z",
+        "description": "非二元小藥娘🍥拍照不修圖～\n想交一個可愛女朋友喵～\n一隻色色小奶貓～喵嗚～！\n出沒在北部(´･ω･`)\n#coser #药娘 #男娘 #伪娘 #跨性别",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "coser"
+              },
+              {
+                "end": 62,
+                "start": 59,
+                "tag": "药娘"
+              },
+              {
+                "end": 66,
+                "start": 63,
+                "tag": "男娘"
+              },
+              {
+                "end": 70,
+                "start": 67,
+                "tag": "伪娘"
+              },
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "跨性别"
+              }
+            ]
+          }
+        },
+        "id": "1886824109553975296",
+        "location": "Taipei City, Taiwan",
+        "name": "柔奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044104543789821956/0_D7yLwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 19,
+          "like_count": 56,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "username": "furiyaEndearing",
+        "verified": false
+      }
+    ]
+  }
+}

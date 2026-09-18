@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085334695412482204",
+    "created_at": "2026-08-06T11:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085334695412482204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umehara02A01/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/umehara02A01/status/2085302322905915399",
+          "start": 19,
+          "url": "https://t.co/BxeLcsS1YE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085334695412482204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085302322905915399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典冻肉言论，建议把冰箱制冷功率调低 https://t.co/BxeLcsS1YE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2085302312277626880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPB7Z5Sb0AAzQRT.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085334695412482204",
+        "created_at": "2026-08-06T11:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085334695412482204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umehara02A01/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/umehara02A01/status/2085302322905915399",
+              "start": 19,
+              "url": "https://t.co/BxeLcsS1YE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085334695412482204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085302322905915399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典冻肉言论，建议把冰箱制冷功率调低 https://t.co/BxeLcsS1YE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085302312277626880"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "2085302322905915399",
+        "created_at": "2026-08-06T09:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085302322905915399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzcOvR2Aji",
+              "end": 31,
+              "expanded_url": "https://x.com/umehara02A01/status/2085302322905915399/photo/1",
+              "media_key": "3_2085302312277626880",
+              "start": 8,
+              "url": "https://t.co/JzcOvR2Aji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085302322905915399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？怎麼理解這個 https://t.co/JzcOvR2Aji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 761,
+          "like_count": 5143,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいかちゃん/高校2年生/mtf（x?🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/ zh-hant/ja/en /@happysugarlifeA 推し/裏垢@umeharaAC02/大好きな姉💕@rafaeru54035903",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "umeharaAC02"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "rafaeru54035903"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF2uTU"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "梅原寒咲🐱🏳️‍⚧️",
+        "pinned_tweet_id": "2084240409937756562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084055985422061568/b3nnME5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 2231,
+          "like_count": 18969,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 9648
+        },
+        "url": "https://t.co/BjCzmF2uTU",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}

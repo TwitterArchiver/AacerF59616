@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084675882309083395",
+    "created_at": "2026-08-04T16:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084675882309083395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Liuli_Lumine/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Liuli_Lumine/status/2083215564751986917",
+          "start": 34,
+          "url": "https://t.co/jHxyVBl7XT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084675882309083395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083215564751986917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冰箱功率最大的一集，这是谁家顺顺又被药娘骗钱骗色了吗？咋急成这样了 https://t.co/jHxyVBl7XT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084675882309083395",
+        "created_at": "2026-08-04T16:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084675882309083395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liuli_Lumine/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Liuli_Lumine/status/2083215564751986917",
+              "start": 34,
+              "url": "https://t.co/jHxyVBl7XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084675882309083395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083215564751986917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冰箱功率最大的一集，这是谁家顺顺又被药娘骗钱骗色了吗？咋急成这样了 https://t.co/jHxyVBl7XT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258034521691189251",
+        "conversation_id": "2082720889381278019",
+        "created_at": "2026-07-31T15:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083215564751986917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605093608910381056",
+              "start": 0,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083215564751986917",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082720889381278019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suekageseikiyo 傻逼东西你本来就是弱智玩意还他妈不让说了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 749,
+          "like_count": 5004,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1485
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-06T14:03:11.000Z",
+        "description": "坚决维护祖国统一，反对台独",
+        "id": "1258034521691189251",
+        "location": "China 中国",
+        "name": "爱千早琉荧🇨🇳",
+        "pinned_tweet_id": "1410101010681372673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979655317643288576/cbGhMn3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 105,
+          "like_count": 576,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "Liuli_Lumine",
+        "verified": false
+      }
+    ]
+  }
+}

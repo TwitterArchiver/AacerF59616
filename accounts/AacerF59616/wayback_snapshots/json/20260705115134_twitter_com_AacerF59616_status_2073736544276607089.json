@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2073732121730977827",
+    "created_at": "2026-07-05T11:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073736544276607089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050537864908128256",
+          "start": 0,
+          "username": "jiutao1034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073736544276607089",
+    "in_reply_to_user_id": "2050537864908128256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073732121730977827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiutao1034 恭喜2000fo喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2073732097479421952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdgWwWWMAACjYo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2073732111773642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdgXlmWsAA7Rj2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2073732121730977827",
+        "created_at": "2026-07-05T11:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073736544276607089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050537864908128256",
+              "start": 0,
+              "username": "jiutao1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073736544276607089",
+        "in_reply_to_user_id": "2050537864908128256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073732121730977827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiutao1034 恭喜2000fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073732097479421952",
+            "3_2073732111773642752"
+          ]
+        },
+        "author_id": "2050537864908128256",
+        "conversation_id": "2073732121730977827",
+        "created_at": "2026-07-05T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073732121730977827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrGn3PBSWB",
+              "end": 151,
+              "expanded_url": "https://x.com/jiutao1034/status/2073732121730977827/photo/1",
+              "media_key": "3_2073732097479421952",
+              "start": 128,
+              "url": "https://t.co/BrGn3PBSWB"
+            },
+            {
+              "display_url": "pic.x.com/BrGn3PBSWB",
+              "end": 151,
+              "expanded_url": "https://x.com/jiutao1034/status/2073732121730977827/photo/1",
+              "media_key": "3_2073732111773642752",
+              "start": 128,
+              "url": "https://t.co/BrGn3PBSWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732121730977827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo致谢🎉🎉🎉\n感谢各位的陪伴也很感谢各位的喜欢\n谢谢你们给我平淡的人生添加了一抹别样的颜色，让我体验到了温暖与热情\n所以我也希望你们天天开心，快乐，过好每一天，如果你遇到了什么不开心的事也可以来我的群里玩，会有一堆人来安慰你🤗\n爱你们明天见❤️ https://t.co/BrGn3PBSWB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 379,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072324031664275752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 194,
+          "like_count": 148,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "jiutao1034",
+        "verified": true
+      }
+    ]
+  }
+}

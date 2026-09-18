@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084670291641581809",
+    "created_at": "2026-08-04T15:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084670291641581809"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mark67358226/s…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/Mark67358226/status/2084640290665828536",
+          "start": 94,
+          "url": "https://t.co/y0Etm7fCqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084670291641581809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084640290665828536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为外界原因断糖的话感觉对自称影响不大，或者说除非说你是自愿detrans的不然感觉都影响不大。至于吃糖之前嘛……不清楚，不过咱在吃糖前经常会说自己是“预备药娘”，可以稍微参考一下就是了 https://t.co/y0Etm7fCqd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084670291641581809",
+        "created_at": "2026-08-04T15:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084670291641581809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mark67358226/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Mark67358226/status/2084640290665828536",
+              "start": 94,
+              "url": "https://t.co/y0Etm7fCqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084670291641581809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084640290665828536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为外界原因断糖的话感觉对自称影响不大，或者说除非说你是自愿detrans的不然感觉都影响不大。至于吃糖之前嘛……不清楚，不过咱在吃糖前经常会说自己是“预备药娘”，可以稍微参考一下就是了 https://t.co/y0Etm7fCqd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2084640290665828536",
+        "created_at": "2026-08-04T13:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084640290665828536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084640290665828536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xyn斷糖期間還能自稱yn嗎🤔？\n我打算過一段時間再吃，這段時間該怎麼自稱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 749,
+          "like_count": 5000,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1484
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵 |日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 1804,
+          "like_count": 37650,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 8443
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

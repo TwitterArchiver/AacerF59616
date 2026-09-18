@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080005348195484001",
+    "created_at": "2026-07-22T19:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080005348195484001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KitsuMio7/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/KitsuMio7/status/2080003385265471697",
+          "start": 12,
+          "url": "https://t.co/B6vF12Mtot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080005348195484001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080003385265471697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐跨即深柜还在追我…… https://t.co/B6vF12Mtot"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2080003375928844288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2oDNHaIAApoQL.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080005348195484001",
+        "created_at": "2026-07-22T19:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080005348195484001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KitsuMio7/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/KitsuMio7/status/2080003385265471697",
+              "start": 12,
+              "url": "https://t.co/B6vF12Mtot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080005348195484001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080003385265471697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐跨即深柜还在追我…… https://t.co/B6vF12Mtot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080003375928844288"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080003385265471697",
+        "created_at": "2026-07-22T18:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080003385265471697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rpEDIbQ9M",
+              "end": 39,
+              "expanded_url": "https://x.com/KitsuMio7/status/2080003385265471697/photo/1",
+              "media_key": "3_2080003375928844288",
+              "start": 16,
+              "url": "https://t.co/9rpEDIbQ9M"
+            },
+            {
+              "display_url": "x.com/kitsumio7/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/kitsumio7/status/2079283936396763283",
+              "start": 40,
+              "url": "https://t.co/3quk1cmV74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080003385265471697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079283936396763283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "土豆薯片•金笠的反跨公司后续： https://t.co/9rpEDIbQ9M https://t.co/3quk1cmV74"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 622,
+          "like_count": 4156,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1169
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT 2023 | ENTP | ASD | ADHD | BPD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@KitsuMio79 | 同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 133,
+                "username": "KitsuMio79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074764007295385600/5PZFNtiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1723,
+          "following_count": 1222,
+          "like_count": 2351,
+          "listed_count": 6,
+          "media_count": 202,
+          "tweet_count": 1461
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

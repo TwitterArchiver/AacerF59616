@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081780858311385157",
+    "created_at": "2026-07-27T16:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081780858311385157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soulmate078078…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/soulmate078078/status/2081754541889077310",
+          "start": 18,
+          "url": "https://t.co/hJr1g6vrPs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081780858311385157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081754541889077310",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去别搞……顺男是不需要GAHT的 https://t.co/hJr1g6vrPs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081780858311385157",
+        "created_at": "2026-07-27T16:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081780858311385157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soulmate078078…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/soulmate078078/status/2081754541889077310",
+              "start": 18,
+              "url": "https://t.co/hJr1g6vrPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081780858311385157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081754541889077310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去别搞……顺男是不需要GAHT的 https://t.co/hJr1g6vrPs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2081754541889077310",
+        "created_at": "2026-07-27T14:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081754541889077310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081754541889077310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真不知道为什么有人自称可爱的男孩子\n那应该就是男娘吧，我是跨女 \n虽然我们都女装，都hrt\n但我们完全不一致\n你是性别认同仍是男，女装只是爱好\n而我渴望改证，渴望pass度\n渴望真正的女性化对待"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 673,
+          "like_count": 4512,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1290
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄MTF/HRT2026/3/1\n168cm/59kg/究极家暴党\nLGBTQ群体/同类互fo基本都会回关☺️\n\n不接受💊/🚬/🔪同类",
+        "id": "1685020816369659904",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "pinned_tweet_id": "2081754541889077310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911977940620824576/Q9sX0RL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 85,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "soulmate078078",
+        "verified": false
+      }
+    ]
+  }
+}

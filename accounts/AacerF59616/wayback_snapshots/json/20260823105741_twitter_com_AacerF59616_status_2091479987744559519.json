@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091479383123111936",
+        "3_2091479383152410624",
+        "3_2091479383177576448",
+        "3_2091479383261548544"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091479987744559519",
+    "created_at": "2026-08-23T10:57:41.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:47:11.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091477343235907735",
+      "2091479987744559519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ocUwPZGJFz",
+          "end": 158,
+          "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+          "media_key": "3_2091479383123111936",
+          "start": 135,
+          "url": "https://t.co/ocUwPZGJFz"
+        },
+        {
+          "display_url": "pic.x.com/ocUwPZGJFz",
+          "end": 158,
+          "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+          "media_key": "3_2091479383152410624",
+          "start": 135,
+          "url": "https://t.co/ocUwPZGJFz"
+        },
+        {
+          "display_url": "pic.x.com/ocUwPZGJFz",
+          "end": 158,
+          "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+          "media_key": "3_2091479383177576448",
+          "start": 135,
+          "url": "https://t.co/ocUwPZGJFz"
+        },
+        {
+          "display_url": "pic.x.com/ocUwPZGJFz",
+          "end": 158,
+          "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+          "media_key": "3_2091479383261548544",
+          "start": 135,
+          "url": "https://t.co/ocUwPZGJFz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091479987744559519",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091479383123111936"
+      },
+      {
+        "media_key": "3_2091479383152410624"
+      },
+      {
+        "media_key": "3_2091479383177576448"
+      },
+      {
+        "media_key": "3_2091479383261548544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得在反对某个东西之前你总得先了解一下吧，张口就来吗？不想打码了就这样吧\n\n给不想看长内容的姐妹省流一下：\n\n「易性症为什么开雌二醇」\n\n「心理疾病凭什么给你开激素药，不是什么病就给你开一种药，病理要评估」\n\n「而且现代医学理念是能不用就不用药，他肯定能不开就不开」\n\n「首诊责任制也不适用心理疾病，他怎么可能会乱开药，肯定是能少开就少开」\n\n「我也喜欢女装，我也亲自接触了这种群体。但是我为自己男人的身份感到骄傲」\n\n哎呀，谁说没有顺性别骄傲的，你看这不有吗？就差挂那个黑白条纹旗了，"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得在反对某个东西之前你总得先了解一下吧，张口就来吗？不想打码了就这样吧\n\n给不想看长内容的姐妹省流一下：\n\n「易性症为什么开雌二醇」\n\n「心理疾病凭什么给你开激素药，不是什么病就给你开一种药，病理要评估」\n\n「而且现代医学理念是能不用就不用药，他肯定能不开就不开」 https://t.co/ocUwPZGJFz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091477330942377984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZrjSaaQAAzDKZ.jpg",
+        "width": 495
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091477330955059200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZrjSdbwAA9GGv.jpg",
+        "width": 425
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091477330925637632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZrjSWa0AAw09h.jpg",
+        "width": 580
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2091477330992779264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZrjSmbUAAXpLO.jpg",
+        "width": 489
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2091479383123111936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtavYbMAA2NHh.jpg",
+        "width": 145
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2091479383152410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtavfaQAAuQOH.jpg",
+        "width": 125
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2091479383177576448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtavlaQAAF6G1.jpg",
+        "width": 170
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2091479383261548544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZtav5bkAABNB-.jpg",
+        "width": 143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091477330942377984",
+            "3_2091477330955059200",
+            "3_2091477330925637632",
+            "3_2091477330992779264"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091477343235907735",
+        "created_at": "2026-08-23T10:47:11.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:47:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091477343235907735",
+          "2091479987744559519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/leO4zI8I3y",
+              "end": 61,
+              "expanded_url": "https://x.com/AacerF59616/status/2091477343235907735/photo/1",
+              "media_key": "3_2091477330942377984",
+              "start": 38,
+              "url": "https://t.co/leO4zI8I3y"
+            },
+            {
+              "display_url": "pic.x.com/leO4zI8I3y",
+              "end": 61,
+              "expanded_url": "https://x.com/AacerF59616/status/2091477343235907735/photo/1",
+              "media_key": "3_2091477330955059200",
+              "start": 38,
+              "url": "https://t.co/leO4zI8I3y"
+            },
+            {
+              "display_url": "pic.x.com/leO4zI8I3y",
+              "end": 61,
+              "expanded_url": "https://x.com/AacerF59616/status/2091477343235907735/photo/1",
+              "media_key": "3_2091477330925637632",
+              "start": 38,
+              "url": "https://t.co/leO4zI8I3y"
+            },
+            {
+              "display_url": "pic.x.com/leO4zI8I3y",
+              "end": 61,
+              "expanded_url": "https://x.com/AacerF59616/status/2091477343235907735/photo/1",
+              "media_key": "3_2091477330992779264",
+              "start": 38,
+              "url": "https://t.co/leO4zI8I3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091477343235907735",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091477330942377984"
+          },
+          {
+            "media_key": "3_2091477330955059200"
+          },
+          {
+            "media_key": "3_2091477330925637632"
+          },
+          {
+            "media_key": "3_2091477330992779264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得在反对某个东西之前你总得先了解一下吧，张口就来吗？不想打码了就这样吧 https://t.co/leO4zI8I3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091479383123111936",
+            "3_2091479383152410624",
+            "3_2091479383177576448",
+            "3_2091479383261548544"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091479987744559519",
+        "created_at": "2026-08-23T10:57:41.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:47:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091477343235907735",
+          "2091479987744559519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocUwPZGJFz",
+              "end": 158,
+              "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+              "media_key": "3_2091479383123111936",
+              "start": 135,
+              "url": "https://t.co/ocUwPZGJFz"
+            },
+            {
+              "display_url": "pic.x.com/ocUwPZGJFz",
+              "end": 158,
+              "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+              "media_key": "3_2091479383152410624",
+              "start": 135,
+              "url": "https://t.co/ocUwPZGJFz"
+            },
+            {
+              "display_url": "pic.x.com/ocUwPZGJFz",
+              "end": 158,
+              "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+              "media_key": "3_2091479383177576448",
+              "start": 135,
+              "url": "https://t.co/ocUwPZGJFz"
+            },
+            {
+              "display_url": "pic.x.com/ocUwPZGJFz",
+              "end": 158,
+              "expanded_url": "https://x.com/AacerF59616/status/2091479987744559519/photo/1",
+              "media_key": "3_2091479383261548544",
+              "start": 135,
+              "url": "https://t.co/ocUwPZGJFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091479987744559519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091479383123111936"
+          },
+          {
+            "media_key": "3_2091479383152410624"
+          },
+          {
+            "media_key": "3_2091479383177576448"
+          },
+          {
+            "media_key": "3_2091479383261548544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得在反对某个东西之前你总得先了解一下吧，张口就来吗？不想打码了就这样吧\n\n给不想看长内容的姐妹省流一下：\n\n「易性症为什么开雌二醇」\n\n「心理疾病凭什么给你开激素药，不是什么病就给你开一种药，病理要评估」\n\n「而且现代医学理念是能不用就不用药，他肯定能不开就不开」\n\n「首诊责任制也不适用心理疾病，他怎么可能会乱开药，肯定是能少开就少开」\n\n「我也喜欢女装，我也亲自接触了这种群体。但是我为自己男人的身份感到骄傲」\n\n哎呀，谁说没有顺性别骄傲的，你看这不有吗？就差挂那个黑白条纹旗了，"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得在反对某个东西之前你总得先了解一下吧，张口就来吗？不想打码了就这样吧\n\n给不想看长内容的姐妹省流一下：\n\n「易性症为什么开雌二醇」\n\n「心理疾病凭什么给你开激素药，不是什么病就给你开一种药，病理要评估」\n\n「而且现代医学理念是能不用就不用药，他肯定能不开就不开」 https://t.co/ocUwPZGJFz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091479987744559519",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 879,
+          "like_count": 6832,
+          "listed_count": 3,
+          "media_count": 388,
+          "tweet_count": 2506
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

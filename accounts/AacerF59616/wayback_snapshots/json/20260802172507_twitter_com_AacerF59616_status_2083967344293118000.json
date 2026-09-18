@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2083967344293118000",
+    "created_at": "2026-08-02T17:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T18:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083967344293118000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomeinuya_GS…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/xiaomeinuya_GST/status/2083503560084582843",
+          "start": 36,
+          "url": "https://t.co/zcuoRAhvze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083967344293118000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083503560084582843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个已应该是仙静吧喵，一次性含9mg感觉有点吓人了，还是不推荐这样…… https://t.co/zcuoRAhvze"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2083967344293118000",
+        "created_at": "2026-08-02T17:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083967344293118000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomeinuya_GS…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiaomeinuya_GST/status/2083503560084582843",
+              "start": 36,
+              "url": "https://t.co/zcuoRAhvze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083967344293118000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083503560084582843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个已应该是仙静吧喵，一次性含9mg感觉有点吓人了，还是不推荐这样…… https://t.co/zcuoRAhvze"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684411421256466432",
+        "conversation_id": "2083503560084582843",
+        "created_at": "2026-08-01T10:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083503560084582843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomeinuya_GS…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/xiaomeinuya_GST/status/2083133034082247142",
+              "start": 70,
+              "url": "https://t.co/QLfH1QFCJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083503560084582843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4014,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083133034082247142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实仍子老长不大的可以像我一样一次多吃点补子，我以前每天三颗几乎没变化，那天高兴一次九颗左边直接更大更圆润更像女生的了，依旧左边比右边先长 https://t.co/QLfH1QFCJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 731,
+          "like_count": 4862,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 39码 128斤(胖了)是一只可爱的128g固态硬盘😋/INFP/hrt2026.04/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "location": "天安门左边的中南海",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 137,
+          "like_count": 21378,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2605
+        },
+        "url": "",
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

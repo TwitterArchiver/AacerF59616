@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086515808268898304"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086515850803380605",
+    "created_at": "2026-08-09T18:11:59.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086515850803380605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ltg2rHaJS9",
+          "end": 61,
+          "expanded_url": "https://x.com/AacerF59616/status/2086515850803380605/photo/1",
+          "media_key": "3_2086515808268898304",
+          "start": 38,
+          "url": "https://t.co/Ltg2rHaJS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086515850803380605",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086515808268898304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个「审查中」要多久才行，有没有开过蓝V的说一下，现在好像可以用蓝V功能了 https://t.co/Ltg2rHaJS9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2086515808268898304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTLEqIa0AALMhm.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086515808268898304"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086515850803380605",
+        "created_at": "2026-08-09T18:11:59.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086515850803380605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ltg2rHaJS9",
+              "end": 61,
+              "expanded_url": "https://x.com/AacerF59616/status/2086515850803380605/photo/1",
+              "media_key": "3_2086515808268898304",
+              "start": 38,
+              "url": "https://t.co/Ltg2rHaJS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086515850803380605",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086515808268898304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个「审查中」要多久才行，有没有开过蓝V的说一下，现在好像可以用蓝V功能了 https://t.co/Ltg2rHaJS9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086515850803380605",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 771,
+          "like_count": 5301,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 1647
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

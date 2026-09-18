@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087783169504473088"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087784696864469057",
+    "created_at": "2026-08-13T06:13:55.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087784696864469057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VMJT0Umct",
+          "end": 156,
+          "expanded_url": "https://x.com/AacerF59616/status/2087784696864469057/photo/1",
+          "media_key": "3_2087783169504473088",
+          "start": 133,
+          "url": "https://t.co/6VMJT0Umct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087784696864469057",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087783169504473088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我没招了，统计数据可能与实际情况不完全相符也不代表你可以随意进行加权计算啊，加权就算了还直接加1000%是吗有点意思，这又不是斗地主咋还能超级加倍呢\n\n然后就是所谓「确诊性别焦虑」，如果我没记错的话这个词更多是用来代指确定有某种疾病的吧，唉说了多少遍了不是病不是病\n\n概念混淆了咋还要固执己见啊，好心干坏事这块"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我没招了，统计数据可能与实际情况不完全相符也不代表你可以随意进行加权计算啊，加权就算了还直接加1000%是吗有点意思，这又不是斗地主咋还能超级加倍呢\n\n然后就是所谓「确诊性别焦虑」，如果我没记错的话这个词更多是用来代指确定有某种疾病的吧，唉说了多少遍了不是病不是病 https://t.co/6VMJT0Umct"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087783169504473088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlLuypacAANa4J.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087783169504473088"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087784696864469057",
+        "created_at": "2026-08-13T06:13:55.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087784696864469057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VMJT0Umct",
+              "end": 156,
+              "expanded_url": "https://x.com/AacerF59616/status/2087784696864469057/photo/1",
+              "media_key": "3_2087783169504473088",
+              "start": 133,
+              "url": "https://t.co/6VMJT0Umct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087784696864469057",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087783169504473088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我没招了，统计数据可能与实际情况不完全相符也不代表你可以随意进行加权计算啊，加权就算了还直接加1000%是吗有点意思，这又不是斗地主咋还能超级加倍呢\n\n然后就是所谓「确诊性别焦虑」，如果我没记错的话这个词更多是用来代指确定有某种疾病的吧，唉说了多少遍了不是病不是病\n\n概念混淆了咋还要固执己见啊，好心干坏事这块"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没招了，统计数据可能与实际情况不完全相符也不代表你可以随意进行加权计算啊，加权就算了还直接加1000%是吗有点意思，这又不是斗地主咋还能超级加倍呢\n\n然后就是所谓「确诊性别焦虑」，如果我没记错的话这个词更多是用来代指确定有某种疾病的吧，唉说了多少遍了不是病不是病 https://t.co/6VMJT0Umct"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087784696864469057",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 785,
+          "like_count": 5628,
+          "listed_count": 2,
+          "media_count": 311,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

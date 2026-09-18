@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2083595553343254939",
+    "created_at": "2026-08-01T16:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083595553343254939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QY404MTF/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/QY404MTF/status/2083533063116693881",
+          "start": 24,
+          "url": "https://t.co/3fmjl5EBeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083595553343254939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083533063116693881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉你就继续吃你那个普瑞巴林吧，给自己吃傻了都快 https://t.co/3fmjl5EBeo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2083595553343254939",
+        "created_at": "2026-08-01T16:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083595553343254939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QY404MTF/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/QY404MTF/status/2083533063116693881",
+              "start": 24,
+              "url": "https://t.co/3fmjl5EBeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083595553343254939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083533063116693881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉你就继续吃你那个普瑞巴林吧，给自己吃傻了都快 https://t.co/3fmjl5EBeo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886641021588611072",
+        "conversation_id": "2083533063116693881",
+        "created_at": "2026-08-01T12:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083533063116693881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083533063116693881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder们不是坏人，我们只是想逃避现实痛苦，请不要骂我们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 716,
+          "like_count": 4790,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林/加巴喷丁重度依赖｜odzc｜hrt：2025.5.31｜常驻长春｜精神超级烂｜碳酸钡自杀复活ing｜一个月自杀两回之人｜最迟9月15自切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.xin",
+                "end": 23,
+                "expanded_url": "http://mahiro.xin",
+                "start": 0,
+                "url": "https://t.co/vttA1wvcXQ"
+              }
+            ]
+          }
+        },
+        "id": "886641021588611072",
+        "name": "千夜404🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2083064847663784192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083099132227637248/KjMi3-th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 82,
+          "like_count": 187,
+          "listed_count": 24,
+          "media_count": 58,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/vttA1wvcXQ",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2098446085262062012",
+    "created_at": "2026-09-11T16:18:28.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098446085262062012"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WXX0530/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/WXX0530/status/2098391865959874608",
+          "start": 13,
+          "url": "https://t.co/Y0m0IjYk4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098446085262062012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098391865959874608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能干！当然能干，我想被干 https://t.co/Y0m0IjYk4i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2098446085262062012",
+        "created_at": "2026-09-11T16:18:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098446085262062012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WXX0530/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/WXX0530/status/2098391865959874608",
+              "start": 13,
+              "url": "https://t.co/Y0m0IjYk4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098446085262062012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098391865959874608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能干！当然能干，我想被干 https://t.co/Y0m0IjYk4i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078277656412581889",
+        "conversation_id": "2098391865959874608",
+        "created_at": "2026-09-11T12:43:01.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098391865959874608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098391865959874608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果人是100%死亡率，那一生还能干嘛呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2098446085262062012",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 950,
+          "like_count": 7748,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "09年MTF \n厭學 🏳️‍⚧️🍥2026.5 1.65cm 41.55kg 出厂日期09 08 10\n私信互fo\n双向(?)\nhttps://t.co/BXKTi5WvpN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wxx0530",
+                "end": 87,
+                "expanded_url": "http://ngl.link/wxx0530",
+                "start": 64,
+                "url": "https://t.co/BXKTi5WvpN"
+              }
+            ]
+          }
+        },
+        "id": "2078277656412581889",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098391865959874608",
+        "name": "Fiona",
+        "pinned_tweet_id": "2090403736753766602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078277656412581889/1788609903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096207981725773824/4yWNvg0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 154,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

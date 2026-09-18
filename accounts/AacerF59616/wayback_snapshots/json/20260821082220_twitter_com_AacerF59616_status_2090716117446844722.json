@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2090716117446844722",
+    "created_at": "2026-08-21T08:22:20.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T09:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090716117446844722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangovt/status…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/wangovt/status/2090564020558344284",
+          "start": 37,
+          "url": "https://t.co/WRUfzUokCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090716117446844722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090564020558344284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总有人喜欢当语言学大师然后自以为是的「纠正」别人，实际上自己也就是半瓶醋 https://t.co/WRUfzUokCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2090563993232351232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQMs4CTWIAAn6X7.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2090716117446844722",
+        "created_at": "2026-08-21T08:22:20.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090716117446844722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangovt/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/wangovt/status/2090564020558344284",
+              "start": 37,
+              "url": "https://t.co/WRUfzUokCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090716117446844722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090564020558344284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总有人喜欢当语言学大师然后自以为是的「纠正」别人，实际上自己也就是半瓶醋 https://t.co/WRUfzUokCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090563993232351232"
+          ]
+        },
+        "author_id": "1718731544670453760",
+        "conversation_id": "2090564020558344284",
+        "created_at": "2026-08-20T22:17:57.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T23:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090564020558344284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsMOzjA3Ff",
+              "end": 64,
+              "expanded_url": "https://x.com/wangovt/status/2090564020558344284/photo/1",
+              "media_key": "3_2090563993232351232",
+              "start": 41,
+              "url": "https://t.co/nsMOzjA3Ff"
+            },
+            {
+              "display_url": "x.com/Roo_VT/status/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Roo_VT/status/2090536541747650727",
+              "start": 65,
+              "url": "https://t.co/NZcw4xYiWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090564020558344284",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2090563993232351232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 435,
+          "impression_count": 99089,
+          "like_count": 9045,
+          "quote_count": 14,
+          "reply_count": 30,
+          "retweet_count": 728
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090536541747650727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "she is tecnically right... why yall mad? https://t.co/nsMOzjA3Ff https://t.co/NZcw4xYiWh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2090716117446844722",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 872,
+          "like_count": 6667,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 2406
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-29T20:48:55.000Z",
+        "description": "18+//tropical shark dog vtuber🐶🥭//vgen cmms open (he/him) \n🎨ママ:@kinibini2 ⚙️ママ:@AriThePupper\n🎨:#wanwanart\n🎬:#wanwanlive\n🔞🎨#wanwanlewd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 95,
+                "tag": "wanwanart"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "tag": "wanwanlive"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "tag": "wanwanlewd"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "kinibini2"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "AriThePupper"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/wangovt",
+                "end": 23,
+                "expanded_url": "https://vgen.co/wangovt",
+                "start": 0,
+                "url": "https://t.co/zkN5EdocLr"
+              }
+            ]
+          }
+        },
+        "id": "1718731544670453760",
+        "is_identity_verified": false,
+        "location": "beach",
+        "most_recent_tweet_id": "2090712821650608224",
+        "name": "WANGO🥭🐶【Pupster ★ Energy】",
+        "pinned_tweet_id": "2088688070744756720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1718731544670453760/1784487307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078916072883834880/5ZuWkTfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 251,
+          "like_count": 1830,
+          "listed_count": 7,
+          "media_count": 320,
+          "tweet_count": 1559
+        },
+        "url": "https://t.co/zkN5EdocLr",
+        "username": "wangovt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

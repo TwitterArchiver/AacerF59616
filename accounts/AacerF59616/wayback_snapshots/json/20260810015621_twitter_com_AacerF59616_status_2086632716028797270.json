@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086631273414692864"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086632716028797270",
+    "created_at": "2026-08-10T01:56:21.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:54:44.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086632309424529615",
+      "2086632716028797270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gZ4A8t3zun",
+          "end": 168,
+          "expanded_url": "https://x.com/AacerF59616/status/2086632716028797270/photo/1",
+          "media_key": "3_2086631273414692864",
+          "start": 145,
+          "url": "https://t.co/gZ4A8t3zun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086632716028797270",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086631273414692864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "那你最开始泛化攻击个啥呢，谁先开始的往别人身上打标签的，我说当傻逼需要成本有没有懂的，最初你想说的是所谓「跨圈皇帝」又或是「跨圈天王」带头做起的各种自毁倾向或讨论公众秩序的行为（如自切，偷茶π）正在拉低mtf群体的下限，说着说着就开始把ta们的行为泛化到全体SGM上，然后再说活该在老中被歧视，那你被骂了不本该如此吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那你最开始泛化攻击个啥呢，谁先开始的往别人身上打标签的，我说当傻逼需要成本有没有懂的，最初你想说的是所谓「跨圈皇帝」又或是「跨圈天王」带头做起的各种自毁倾向或讨论公众秩序的行为（如自切，偷茶π）正在拉低mtf群体的下限，说着说着就开始把ta们的行为泛化到全体SGM上，然后再说活该在老中被 https://t.co/gZ4A8t3zun"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_2086631273414692864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU0FnUakAA-l-a.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086631273414692864"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086632309424529615",
+        "created_at": "2026-08-10T01:54:44.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:54:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086632309424529615",
+          "2086632716028797270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3qf4eXtzn",
+              "end": 166,
+              "expanded_url": "https://x.com/AacerF59616/status/2086632309424529615/photo/1",
+              "media_key": "3_2086631273414692864",
+              "start": 143,
+              "url": "https://t.co/K3qf4eXtzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086632309424529615",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086631273414692864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你最开始泛化攻击个啥呢，谁先开始的往别人身上打标签的，我说当傻逼需要成本有没有懂的，最初你想说的是所谓「跨圈皇帝」又或是「跨圈天王」带走做起的各种自毁倾向行为正在拉低mtf群体的下限，说着说着就开始把ta们的行为泛化到全体SGM上，然后再说活该在老中被歧视，那你被骂了不本该如此吗？ https://t.co/K3qf4eXtzn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086631273414692864"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086632716028797270",
+        "created_at": "2026-08-10T01:56:21.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:54:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086632309424529615",
+          "2086632716028797270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZ4A8t3zun",
+              "end": 168,
+              "expanded_url": "https://x.com/AacerF59616/status/2086632716028797270/photo/1",
+              "media_key": "3_2086631273414692864",
+              "start": 145,
+              "url": "https://t.co/gZ4A8t3zun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086632716028797270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086631273414692864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "那你最开始泛化攻击个啥呢，谁先开始的往别人身上打标签的，我说当傻逼需要成本有没有懂的，最初你想说的是所谓「跨圈皇帝」又或是「跨圈天王」带头做起的各种自毁倾向或讨论公众秩序的行为（如自切，偷茶π）正在拉低mtf群体的下限，说着说着就开始把ta们的行为泛化到全体SGM上，然后再说活该在老中被歧视，那你被骂了不本该如此吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你最开始泛化攻击个啥呢，谁先开始的往别人身上打标签的，我说当傻逼需要成本有没有懂的，最初你想说的是所谓「跨圈皇帝」又或是「跨圈天王」带头做起的各种自毁倾向或讨论公众秩序的行为（如自切，偷茶π）正在拉低mtf群体的下限，说着说着就开始把ta们的行为泛化到全体SGM上，然后再说活该在老中被 https://t.co/gZ4A8t3zun"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086632716028797270",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 772,
+          "like_count": 5330,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

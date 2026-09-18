@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942129039394672640",
+        "3_1942129039386247168"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "1942129060492275940",
+    "created_at": "2025-07-07T07:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942129060492275940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lh5JqBclZg",
+          "end": 23,
+          "expanded_url": "https://x.com/AacerF59616/status/1942129060492275940/photo/1",
+          "media_key": "3_1942129039394672640",
+          "start": 0,
+          "url": "https://t.co/Lh5JqBclZg"
+        },
+        {
+          "display_url": "pic.x.com/Lh5JqBclZg",
+          "end": 23,
+          "expanded_url": "https://x.com/AacerF59616/status/1942129060492275940/photo/1",
+          "media_key": "3_1942129039386247168",
+          "start": 0,
+          "url": "https://t.co/Lh5JqBclZg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942129060492275940",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Lh5JqBclZg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_1942129039394672640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPUEk0XEAABzIC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1126,
+        "media_key": "3_1942129039386247168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPUEkyWgAAFbsd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942129039394672640",
+            "3_1942129039386247168"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "1942129060492275940",
+        "created_at": "2025-07-07T07:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942129060492275940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lh5JqBclZg",
+              "end": 23,
+              "expanded_url": "https://x.com/AacerF59616/status/1942129060492275940/photo/1",
+              "media_key": "3_1942129039394672640",
+              "start": 0,
+              "url": "https://t.co/Lh5JqBclZg"
+            },
+            {
+              "display_url": "pic.x.com/Lh5JqBclZg",
+              "end": 23,
+              "expanded_url": "https://x.com/AacerF59616/status/1942129060492275940/photo/1",
+              "media_key": "3_1942129039386247168",
+              "start": 0,
+              "url": "https://t.co/Lh5JqBclZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942129060492275940",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lh5JqBclZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "只是个在Wikidot上写东西的✍🏻📖。\n\n名字里带个Gen2是因为之前有个号找不到了（悲）。\n\n🛏️现在躺家里，基本上全天有空，偶尔上推发发闲聊帖之类的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "backroomss.wikidot.com",
+                "end": 23,
+                "expanded_url": "https://backroomss.wikidot.com/",
+                "start": 0,
+                "url": "https://t.co/kOfQ8fXWqm"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "location": "后室C层群  Level C-201",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942121757940543488/WJdgVg7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/kOfQ8fXWqm",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

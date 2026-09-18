@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092206247940673593",
+    "created_at": "2026-08-25T11:03:35.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092206247940673593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092206247940673593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我从来不喜欢被说「三观很正常」，也不认可所谓三观很正的人。所谓三观没有统一的量化标准，事实是每个人都有自己建构的三观，那所谓的「三观正」只不过是在说你符合大多数人所建构的正确罢了。\n\n如果说这只是被外界指认的，你本就如此，那并没有什么好说的，也不应该说什么，我也没那么大的权力去管别人。但如果只是在迎合，为了符合这个建构出来的二元简化标准而刻意让自己变得「三观很正」，那我觉得其实挺可悲的。\n\n这辈子连自己应该是什么样都不能自主决定，为了他人的目光而扭曲自己，就像流水线里的产品那样要「符合生产标准」才能存在，把自己活成了个机器。\n\n哦对了，我没有在评判说这种行为不对，我只是觉得明明是一个人但却自动把自己降格成符合生产标准的流水线工业品，这种行为显得自己很掉价，永远都只能迎合外界指认，活不出自己的花样。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来不喜欢被说「三观很正常」，也不认可所谓三观很正的人。所谓三观没有统一的量化标准，事实是每个人都有自己建构的三观，那所谓的「三观正」只不过是在说你符合大多数人所建构的正确罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092206247940673593",
+        "created_at": "2026-08-25T11:03:35.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092206247940673593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092206247940673593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我从来不喜欢被说「三观很正常」，也不认可所谓三观很正的人。所谓三观没有统一的量化标准，事实是每个人都有自己建构的三观，那所谓的「三观正」只不过是在说你符合大多数人所建构的正确罢了。\n\n如果说这只是被外界指认的，你本就如此，那并没有什么好说的，也不应该说什么，我也没那么大的权力去管别人。但如果只是在迎合，为了符合这个建构出来的二元简化标准而刻意让自己变得「三观很正」，那我觉得其实挺可悲的。\n\n这辈子连自己应该是什么样都不能自主决定，为了他人的目光而扭曲自己，就像流水线里的产品那样要「符合生产标准」才能存在，把自己活成了个机器。\n\n哦对了，我没有在评判说这种行为不对，我只是觉得明明是一个人但却自动把自己降格成符合生产标准的流水线工业品，这种行为显得自己很掉价，永远都只能迎合外界指认，活不出自己的花样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不喜欢被说「三观很正常」，也不认可所谓三观很正的人。所谓三观没有统一的量化标准，事实是每个人都有自己建构的三观，那所谓的「三观正」只不过是在说你符合大多数人所建构的正确罢了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092206247940673593",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 881,
+          "like_count": 6970,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

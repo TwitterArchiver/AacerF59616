@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2066160105398337709",
+    "created_at": "2026-06-14T20:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066252675466117161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2062553794924470272",
+          "start": 0,
+          "username": "shiromaruukaoru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066252675466117161",
+    "in_reply_to_user_id": "2062553794924470272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066160105398337709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiromaruukaoru 白白的，好看，捏捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066160102328156160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx5qoRawAApV6x.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2066160105398337709",
+        "created_at": "2026-06-14T20:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066252675466117161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2062553794924470272",
+              "start": 0,
+              "username": "shiromaruukaoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066252675466117161",
+        "in_reply_to_user_id": "2062553794924470272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066160105398337709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiromaruukaoru 白白的，好看，捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066160102328156160"
+          ]
+        },
+        "author_id": "2062553794924470272",
+        "conversation_id": "2066160105398337709",
+        "created_at": "2026-06-14T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066160105398337709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FzkzlJkQQu",
+              "end": 37,
+              "expanded_url": "https://x.com/shiromaruukaoru/status/2066160105398337709/photo/1",
+              "media_key": "3_2066160102328156160",
+              "start": 14,
+              "url": "https://t.co/FzkzlJkQQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066160105398337709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腿子（）\n应该没人看吧（） https://t.co/FzkzlJkQQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 75,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 298
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T15:15:59.000Z",
+        "description": "19岁的mtf小yn（）/ 无证含糖 / 社恐 / hrt:2025.9.21 / 有对象不卖 /",
+        "id": "2062553794924470272",
+        "name": "白丸薰🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062730793395621888/uJ9sgY9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 42,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "shiromaruukaoru",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2070351969592750206",
+    "created_at": "2026-06-26T05:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070385134558466108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1954874019947384832",
+          "start": 0,
+          "username": "CuteCatGYH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070385134558466108",
+    "in_reply_to_user_id": "1954874019947384832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070351969592750206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteCatGYH 哇～是大糖糖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070351961216704512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLteI7ha4AAE3D2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2070351969592750206",
+        "created_at": "2026-06-26T05:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070385134558466108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954874019947384832",
+              "start": 0,
+              "username": "CuteCatGYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070385134558466108",
+        "in_reply_to_user_id": "1954874019947384832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070351969592750206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteCatGYH 哇～是大糖糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070351961216704512"
+          ]
+        },
+        "author_id": "1954874019947384832",
+        "conversation_id": "2070351969592750206",
+        "created_at": "2026-06-26T03:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070351969592750206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEi55EOZQf",
+              "end": 34,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2070351969592750206/photo/1",
+              "media_key": "3_2070351961216704512",
+              "start": 11,
+              "url": "https://t.co/JEi55EOZQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070351969592750206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超大🍥！（bushi https://t.co/JEi55EOZQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 180,
+          "like_count": 1764,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T11:54:33.000Z",
+        "description": "08 年小朋友 | 毕业多年(大嘘) | 失业 ing | 躺平 | 懒癌晚期患者 | 爱好航拍摄影和睡觉 | 想开一个科技公司 | 喜欢做任何自己喜欢的事 | 住在青青的岛 |🏳️‍⚧️HRT:2025.09.05| 同类互 fo| 中度抑郁(或许正在好转?) | 讨厌任何虫子和不友好的人\n爱你们喵～",
+        "id": "1954874019947384832",
+        "name": "憧憬成为魔法少女🍥",
+        "pinned_tweet_id": "2055245713299349599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042964461594775552/XOsYSZFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 47,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "CuteCatGYH",
+        "verified": true
+      }
+    ]
+  }
+}

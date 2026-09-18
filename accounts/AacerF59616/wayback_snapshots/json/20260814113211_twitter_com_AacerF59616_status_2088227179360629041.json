@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088227179360629041",
+    "created_at": "2026-08-14T11:32:11.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088227179360629041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poisonlQAQ_/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/poisonlQAQ_/status/2088116111300542782",
+          "start": 39,
+          "url": "https://t.co/yiizM5OdLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088227179360629041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088116111300542782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请各位姐妹引以为戒，不要随随便便自切……不过，切都切了就算了，祝愿以后顺利吧 https://t.co/yiizM5OdLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2088115986486403072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPp6bShWIAAo87i.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088227179360629041",
+        "created_at": "2026-08-14T11:32:11.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088227179360629041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poisonlQAQ_/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/poisonlQAQ_/status/2088116111300542782",
+              "start": 39,
+              "url": "https://t.co/yiizM5OdLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088227179360629041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088116111300542782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请各位姐妹引以为戒，不要随随便便自切……不过，切都切了就算了，祝愿以后顺利吧 https://t.co/yiizM5OdLR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088115986486403072"
+          ]
+        },
+        "author_id": "2088111584165994496",
+        "conversation_id": "2088116111300542782",
+        "created_at": "2026-08-14T04:10:50.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T05:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088116111300542782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "v.douyin.com/5ZNCeNAdCkM/",
+              "end": 70,
+              "expanded_url": "https://v.douyin.com/5ZNCeNAdCkM/",
+              "start": 47,
+              "status": 200,
+              "unwound_url": "https://www.douyin.com/note/7673310352281634746",
+              "url": "https://t.co/bPUe3iST89"
+            },
+            {
+              "display_url": "pic.x.com/bt6MSjbg2O",
+              "end": 118,
+              "expanded_url": "https://x.com/poisonlQAQ_/status/2088116111300542782/photo/1",
+              "media_key": "3_2088115986486403072",
+              "start": 95,
+              "url": "https://t.co/bt6MSjbg2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088116111300542782",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088115986486403072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 815,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "切蛋蛋病历\n具体\n7.92 复制打开抖音，看看【Poisonl🍥的图文作品】# 差一步美满  https://t.co/bPUe3iST89 Q@k.PX 07/30 BTL:/ :6pm https://t.co/bt6MSjbg2O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088227179360629041",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 792,
+          "like_count": 5763,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 1988
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T03:53:53.000Z",
+        "description": "无证含糖🍥|hrt日期2026.1.08|年龄13\n159cm/41kg|抑郁焦虑|不OD|同类互fo\n一代目：@poisonlQAQ\n抖音账号：72882568888_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "poisonlQAQ"
+              }
+            ]
+          }
+        },
+        "id": "2088111584165994496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088192139150729631",
+        "name": "poisonl🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088111584165994496/1786680006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088113308167487488/l2KWhmpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 27,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "poisonlQAQ_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

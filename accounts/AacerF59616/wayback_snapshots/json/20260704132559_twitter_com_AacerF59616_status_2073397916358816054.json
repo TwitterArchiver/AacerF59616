@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2073294634273722376",
+    "created_at": "2026-07-04T13:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073397916358816054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1994060768099356676",
+          "start": 0,
+          "username": "pingqimuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073397916358816054",
+    "in_reply_to_user_id": "1994060768099356676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073386382991753561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingqimuo 咱是猫娘喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2073385869046841345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYldm7aAAEVDfB.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2073294634273722376",
+        "created_at": "2026-07-04T13:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073397916358816054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1994060768099356676",
+              "start": 0,
+              "username": "pingqimuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073397916358816054",
+        "in_reply_to_user_id": "1994060768099356676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073386382991753561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingqimuo 咱是猫娘喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073385869046841345"
+          ]
+        },
+        "author_id": "1994060768099356676",
+        "conversation_id": "2073294634273722376",
+        "created_at": "2026-07-04T12:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073386382991753561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2427MpnnsP",
+              "end": 68,
+              "expanded_url": "https://x.com/pingqimuo/status/2073386382991753561/photo/1",
+              "media_key": "3_2073385869046841345",
+              "start": 45,
+              "url": "https://t.co/2427MpnnsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073386382991753561",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073294634273722376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 来，姐姐看过来\n你是猫娘~你是猫娘~你是猫娘~↗️\n你是谁啊~ https://t.co/2427MpnnsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 362,
+          "like_count": 2281,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-27T15:09:06.000Z",
+        "description": "hi 我是秋秋/快18了\n我失败了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jerry-site-phi.vercel.app",
+                "end": 23,
+                "expanded_url": "https://jerry-site-phi.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/1GlYcbwgy5"
+              }
+            ]
+          }
+        },
+        "id": "1994060768099356676",
+        "location": "苏州姑苏区",
+        "name": "秋🏳️‍⚧️(轻生版)",
+        "pinned_tweet_id": "2061256919910908272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069598933622673408/rRVHuYm9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 25,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/1GlYcbwgy5",
+        "username": "pingqimuo",
+        "verified": false
+      }
+    ]
+  }
+}

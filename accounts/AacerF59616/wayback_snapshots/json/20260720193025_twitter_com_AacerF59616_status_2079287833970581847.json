@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079287833970581847",
+    "created_at": "2026-07-20T19:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079287833970581847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Glaxyplayer/st…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/Glaxyplayer/status/2079264166175813991",
+          "start": 133,
+          "url": "https://t.co/16zFyFNPZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079287833970581847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079264166175813991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你是爹妈爷奶携亲朋好友全飞天了吗，你这个臭蛆冻肉，夏天热了用冰箱多了冻肉就开始无限堆积了嗯啊，搁墙内反SGM给你反出优越感来了跑墙外跟个AI似的无脑刷刷刷，0个人在乎你知道吗，要不是看到Mio发帖子我都没看到你搁帖子下面无脑刷，不用急着回我了哈，我给你block了 https://t.co/16zFyFNPZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2079264163503939584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsHvYPaIAAu9aO.jpg",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079287833970581847",
+        "created_at": "2026-07-20T19:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079287833970581847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Glaxyplayer/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/Glaxyplayer/status/2079264166175813991",
+              "start": 133,
+              "url": "https://t.co/16zFyFNPZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079287833970581847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079264166175813991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是爹妈爷奶携亲朋好友全飞天了吗，你这个臭蛆冻肉，夏天热了用冰箱多了冻肉就开始无限堆积了嗯啊，搁墙内反SGM给你反出优越感来了跑墙外跟个AI似的无脑刷刷刷，0个人在乎你知道吗，要不是看到Mio发帖子我都没看到你搁帖子下面无脑刷，不用急着回我了哈，我给你block了 https://t.co/16zFyFNPZQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079264163503939584"
+          ]
+        },
+        "author_id": "2066567281711431681",
+        "conversation_id": "2079101284322521257",
+        "created_at": "2026-07-20T17:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079264166175813991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1zTUSOXCA",
+              "end": 38,
+              "expanded_url": "https://x.com/Glaxyplayer/status/2079264166175813991/photo/1",
+              "media_key": "3_2079264163503939584",
+              "start": 15,
+              "url": "https://t.co/W1zTUSOXCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079264166175813991",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079101284322521257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 乐 https://t.co/W1zTUSOXCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 588,
+          "like_count": 3837,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1096
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T17:05:18.000Z",
+        "description": "",
+        "id": "2066567281711431681",
+        "name": "G laxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066568319239663616/S1jhW360_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 27
+        },
+        "url": "",
+        "username": "Glaxyplayer",
+        "verified": false
+      }
+    ]
+  }
+}

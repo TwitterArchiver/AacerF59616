@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084142560063500493",
+    "created_at": "2026-08-03T05:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084142560063500493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wanliyan3/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/wanliyan3/status/2083951210063900704",
+          "start": 25,
+          "url": "https://t.co/rmtTGdqRm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084142560063500493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083951210063900704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那起码还有艳呢，哎呀好事情啊，这不说明是天赋党嘛 https://t.co/rmtTGdqRm6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 540,
+        "media_key": "3_2083951204103749633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuulDHaAAETtS1.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084142560063500493",
+        "created_at": "2026-08-03T05:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084142560063500493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanliyan3/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/wanliyan3/status/2083951210063900704",
+              "start": 25,
+              "url": "https://t.co/rmtTGdqRm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084142560063500493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083951210063900704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那起码还有艳呢，哎呀好事情啊，这不说明是天赋党嘛 https://t.co/rmtTGdqRm6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083951204103749633"
+          ]
+        },
+        "author_id": "1512456859776851972",
+        "conversation_id": "2083951210063900704",
+        "created_at": "2026-08-02T16:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083951210063900704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWI6eIN06L",
+              "end": 29,
+              "expanded_url": "https://x.com/wanliyan3/status/2083951210063900704/photo/1",
+              "media_key": "3_2083951204103749633",
+              "start": 6,
+              "url": "https://t.co/sWI6eIN06L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083951210063900704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1025,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妖艷賤貨😂 https://t.co/sWI6eIN06L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 738,
+          "like_count": 4899,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1435
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "@a_username_owo  你的喵❤️\n\n高雄",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "a_username_owo"
+              }
+            ]
+          }
+        },
+        "id": "1512456859776851972",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083830760793133056/tlQj-Rk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 333,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      }
+    ]
+  }
+}

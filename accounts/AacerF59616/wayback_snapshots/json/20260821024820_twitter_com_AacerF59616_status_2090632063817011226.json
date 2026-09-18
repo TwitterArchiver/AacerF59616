@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2090632063817011226",
+    "created_at": "2026-08-21T02:48:20.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T03:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090632063817011226"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crystallovecht…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/crystallovecht/status/2090411976933753001",
+          "start": 120,
+          "url": "https://t.co/FFpCQPVjcu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090632063817011226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090411976933753001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "医生、老师、警察是职业身份，本来就以教育、考试、执业资格等条件为构成要件。而女性不是一种职业资格，也不存在「完成某套资格认证之后才算女性」这种逻辑。你不能用「职业身份存在准入条件」来证明「承认跨性别者的经验性别存在附加的医疗门槛」天然合理 https://t.co/FFpCQPVjcu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2090632063817011226",
+        "created_at": "2026-08-21T02:48:20.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090632063817011226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crystallovecht…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/crystallovecht/status/2090411976933753001",
+              "start": 120,
+              "url": "https://t.co/FFpCQPVjcu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090632063817011226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090411976933753001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医生、老师、警察是职业身份，本来就以教育、考试、执业资格等条件为构成要件。而女性不是一种职业资格，也不存在「完成某套资格认证之后才算女性」这种逻辑。你不能用「职业身份存在准入条件」来证明「承认跨性别者的经验性别存在附加的医疗门槛」天然合理 https://t.co/FFpCQPVjcu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845907957434888192",
+        "conversation_id": "2090274843719807412",
+        "created_at": "2026-08-20T12:13:47.000Z",
+        "display_text_range": [
+          13,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090411976933753001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090411976933753001",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090274843719807412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 这个论据一点都没有道理，被社会承认是个大学生，医生，老师，警察不也要过一大堆东西么。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2090632063817011226",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 871,
+          "like_count": 6621,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 2392
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-26T07:59:08.000Z",
+        "description": "清水/genderfluid(mtx?）/摄影写真爱好者/无性恋\ncos/书写另一条时间线的自己\n喜欢发杂谈碎碎念，接受批评，想进化成更好的人\n把我当树洞就好啦，我能温暖你就好啦",
+        "id": "845907957434888192",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2090615648925909234",
+        "name": "慕心🍊🏳️‍🌈🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845907957434888192/1784442704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084640851129720832/Fwb-1Mpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 229,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "crystallovecht",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

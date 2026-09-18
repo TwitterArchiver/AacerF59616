@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066816450959147008",
+        "3_2066816450938204160",
+        "3_2066816450933997568"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2066817044704907344",
+    "created_at": "2026-06-16T09:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066817044704907344"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "伪娘"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "男娘"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "女装"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "黑丝"
+        },
+        {
+          "end": 35,
+          "start": 28,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/331mtVUqox",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+          "media_key": "3_2066816450959147008",
+          "start": 36,
+          "url": "https://t.co/331mtVUqox"
+        },
+        {
+          "display_url": "pic.x.com/331mtVUqox",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+          "media_key": "3_2066816450938204160",
+          "start": 36,
+          "url": "https://t.co/331mtVUqox"
+        },
+        {
+          "display_url": "pic.x.com/331mtVUqox",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+          "media_key": "3_2066816450933997568",
+          "start": 36,
+          "url": "https://t.co/331mtVUqox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066817044704907344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天也是黑丝肉腿腿喵～ #伪娘 #男娘 #女装 #黑丝 #可爱的男孩子 https://t.co/331mtVUqox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2066816450959147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7OnJdagAAvWQT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066816450938204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7OnJYa8AANIFv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2066816450933997568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7OnJXawAABPSS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066816450959147008",
+            "3_2066816450938204160",
+            "3_2066816450933997568"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2066817044704907344",
+        "created_at": "2026-06-16T09:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066817044704907344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "女装"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "黑丝"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/331mtVUqox",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+              "media_key": "3_2066816450959147008",
+              "start": 36,
+              "url": "https://t.co/331mtVUqox"
+            },
+            {
+              "display_url": "pic.x.com/331mtVUqox",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+              "media_key": "3_2066816450938204160",
+              "start": 36,
+              "url": "https://t.co/331mtVUqox"
+            },
+            {
+              "display_url": "pic.x.com/331mtVUqox",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2066817044704907344/photo/1",
+              "media_key": "3_2066816450933997568",
+              "start": 36,
+              "url": "https://t.co/331mtVUqox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066817044704907344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是黑丝肉腿腿喵～ #伪娘 #男娘 #女装 #黑丝 #可爱的男孩子 https://t.co/331mtVUqox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 92,
+          "like_count": 990,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 337
+        },
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

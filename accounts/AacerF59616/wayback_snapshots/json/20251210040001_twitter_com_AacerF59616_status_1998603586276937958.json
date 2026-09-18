@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "1998594206215090283",
+    "created_at": "2025-12-10T04:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998603586276937958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958573725957152768",
+          "start": 0,
+          "username": "kar3767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998603586276937958",
+    "in_reply_to_user_id": "1958573725957152768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998601892780466417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kar3767 好主意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "1998594206215090283",
+        "created_at": "2025-12-10T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998603586276937958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958573725957152768",
+              "start": 0,
+              "username": "kar3767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998603586276937958",
+        "in_reply_to_user_id": "1958573725957152768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998601892780466417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kar3767 好主意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958573725957152768",
+        "conversation_id": "1998594206215090283",
+        "created_at": "2025-12-10T03:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T04:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998601892780466417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998601892780466417",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998594206215090283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 主播早啊，喜欢尾巴的话要不要装个插件再拍一些啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "只是个在Wikidot上写东西的✍🏻📖，平常不会在这推文，更多应该是发发闲聊帖什么的。\n\n名字里带个Gen2是因为之前有个号找不到了（悲）。\n\n🛏️现在躺家里，基本上全天有空，平常可能会上推发发闲聊帖之类的，喜欢或者感兴趣的话点个关注吧，谢谢喵。",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942121757940543488/WJdgVg7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:55:54.000Z",
+        "description": "",
+        "id": "1958573725957152768",
+        "name": "karl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958573903942668288/tJjZAGqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "username": "kar3767",
+        "verified": false
+      }
+    ]
+  }
+}

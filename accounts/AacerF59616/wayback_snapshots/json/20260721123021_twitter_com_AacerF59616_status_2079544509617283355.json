@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079544341811634176",
+        "3_2079544341815848960",
+        "3_2079544341845118976",
+        "3_2079544341828386816"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079544509617283355",
+    "created_at": "2026-07-21T12:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079544509617283355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0YuavzIH3a",
+          "end": 46,
+          "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+          "media_key": "3_2079544341811634176",
+          "start": 23,
+          "url": "https://t.co/0YuavzIH3a"
+        },
+        {
+          "display_url": "pic.x.com/0YuavzIH3a",
+          "end": 46,
+          "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+          "media_key": "3_2079544341815848960",
+          "start": 23,
+          "url": "https://t.co/0YuavzIH3a"
+        },
+        {
+          "display_url": "pic.x.com/0YuavzIH3a",
+          "end": 46,
+          "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+          "media_key": "3_2079544341845118976",
+          "start": 23,
+          "url": "https://t.co/0YuavzIH3a"
+        },
+        {
+          "display_url": "pic.x.com/0YuavzIH3a",
+          "end": 46,
+          "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+          "media_key": "3_2079544341828386816",
+          "start": 23,
+          "url": "https://t.co/0YuavzIH3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079544509617283355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃饭，真的很重要，晚饭喵，给我吃的有点撑…… https://t.co/0YuavzIH3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079544341811634176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwGj5xbIAAY02U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079544341815848960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwGj5ybcAADAds.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2079544341845118976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwGj55aEAASG5s.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079544341828386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwGj51awAAp_Dm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079544341811634176",
+            "3_2079544341815848960",
+            "3_2079544341845118976",
+            "3_2079544341828386816"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079544509617283355",
+        "created_at": "2026-07-21T12:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079544509617283355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YuavzIH3a",
+              "end": 46,
+              "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+              "media_key": "3_2079544341811634176",
+              "start": 23,
+              "url": "https://t.co/0YuavzIH3a"
+            },
+            {
+              "display_url": "pic.x.com/0YuavzIH3a",
+              "end": 46,
+              "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+              "media_key": "3_2079544341815848960",
+              "start": 23,
+              "url": "https://t.co/0YuavzIH3a"
+            },
+            {
+              "display_url": "pic.x.com/0YuavzIH3a",
+              "end": 46,
+              "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+              "media_key": "3_2079544341845118976",
+              "start": 23,
+              "url": "https://t.co/0YuavzIH3a"
+            },
+            {
+              "display_url": "pic.x.com/0YuavzIH3a",
+              "end": 46,
+              "expanded_url": "https://x.com/AacerF59616/status/2079544509617283355/photo/1",
+              "media_key": "3_2079544341828386816",
+              "start": 23,
+              "url": "https://t.co/0YuavzIH3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079544509617283355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭，真的很重要，晚饭喵，给我吃的有点撑…… https://t.co/0YuavzIH3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 605,
+          "like_count": 3958,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

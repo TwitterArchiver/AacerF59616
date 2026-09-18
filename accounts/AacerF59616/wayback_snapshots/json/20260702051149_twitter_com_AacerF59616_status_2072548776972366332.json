@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2072517903019282908",
+    "created_at": "2026-07-02T05:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072548776972366332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "plumedream233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072548776972366332",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072517903019282908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plumedream233 好可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072517894743969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMQC2ra0AAPFkT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2072517903019282908",
+        "created_at": "2026-07-02T05:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072548776972366332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "plumedream233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072548776972366332",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072517903019282908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plumedream233 好可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072517894743969792"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "conversation_id": "2072517903019282908",
+        "created_at": "2026-07-02T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072517903019282908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "伪娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAPaTgCvYs",
+              "end": 57,
+              "expanded_url": "https://x.com/plumedream233/status/2072517903019282908/photo/1",
+              "media_key": "3_2072517894743969792",
+              "start": 34,
+              "url": "https://t.co/ZAPaTgCvYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072517903019282908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1102,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可以做你的圣女，信教嘛～\n＃男娘 ＃可爱的男孩子 ＃伪娘 ＃黑丝 https://t.co/ZAPaTgCvYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 325,
+          "like_count": 2153,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "阴郁压抑的笨蛋...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063617540631490560/tNcx1JqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4213,
+          "following_count": 750,
+          "like_count": 11280,
+          "listed_count": 7,
+          "media_count": 763,
+          "tweet_count": 7326
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      }
+    ]
+  }
+}

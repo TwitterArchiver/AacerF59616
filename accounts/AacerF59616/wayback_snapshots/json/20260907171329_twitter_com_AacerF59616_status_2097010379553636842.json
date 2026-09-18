@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097010379553636842",
+    "created_at": "2026-09-07T17:13:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097010379553636842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/today_is_foggy…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/today_is_foggy/status/2097000689914573235",
+          "start": 141,
+          "url": "https://t.co/gRD96HRh4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097010379553636842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "生物学上确实存在染色体、生殖器这些生理特征，生理差异是客观存在的。但性别作为身份，作为一个人在社会里被称呼、被对待、自我认同的东西，从来就不等于生殖器。用器官给人下定义，才是真正的浅薄。至于用每个人都有自己的认同、没必要去否定他人的思想这种话，看似宽容又中立，实际上是用包容一切观点的姿态，去保护一个正在伤害别人的观点——这种做法，真的妥当吗？\n\n我说性别不等于器官，是在陈述一个更接近事实的认知，不是在否定别人有权这么想。而那句有屌就是男，指向的却是我本人，它在否认我是谁。所以这根本不是可以各退一步的观点之争，而是对我身份的直接否定。把别人否定我的存在，和我表达自己的存在，放在同一个天平上，说成大家都一样渴望被认同，这是伪中立。它让伤害者与被伤害者显得同样合理，实际是在给伤害背书。\n\n其一，性别本身也不是单一、恒定成立的二元概念。Sex 不是 gender，gender 也不是 sex。不能因为 sex 存在客观差异，就认为 gender 应该与 sex 同步；更何况，凭什么 gender 就该和 sex 同步？长着某个特定器官就是男性并不是客观事实，它只是把一部分事实当成了全部事实。有某个器官，最多算一种生理特征，而一个人是不是男人，从来不是由这一条单独决定的。否则按这套逻辑，做过生殖器切除手术的顺性别男性，也得被开除男籍——他们自己恐怕也不会同意。说到底，人类对性别的定义，从来不是单一的客观事实，而是随时代、随文化、随学科不断变化的建构。生理学、心理学、社会学、人类学，各自对性别的定义本就不同。\n\n其二，这是偷换概念、转移话题。对方揪住浅薄二字带贬义这一点，把战场从那句有屌就是男到底对不对，转移到我用词是否温和。真正伤人的那句话被轻轻放过，我反击时用的一个词却被拿出来审判，这难道不是各打五十大板，本质上和拉偏架没什么两样？\n\n其三，是经典的伪包容话术。每个人有自己的认同、没必要去否认他人的思想，这话看似包容，实则把观点和身份混为一谈。我否定你的身份，被包装成我的一个观点；而你反驳我，又被包装成你在否定我的思想。于是被伤害者反而成了不宽容的人，伤害者反而成了需要保护思想自由的人。对方所渴望的那种认同，是渴望自己有权把我贬成非我族类。这两种认同完全不等价，根本不该被相提并论。\n\n其四，也是最让我恼火的一点，就是那句居高临下的心理分析。用一种我懂你、我替你想过的姿态，把我的正当愤怒重新定义成渴望被认可却得不到的脆弱，试图把我从反击者，变成被怜悯、被看穿的对象。人确实都需要被认可，这没什么可耻。我需要的认可，是被当成完整的人；而对方暗示我需要的，是让这群否认我的人点头。把我真实的需求，偷换成一种我根本不需要、也不该去求的东西，再逼我承认自己其实很想要——这就是它的全部逻辑。\n\n最终的效果，就是让我陷入两难：不反击，就被定义成男人；反击，就被定义成不宽容、攻击性强。无论怎么走，我都是错的一方。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097000689914573235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "生物学上确实存在染色体、生殖器这些生理特征，生理差异是客观存在的。但性别作为身份，作为一个人在社会里被称呼、被对待、自我认同的东西，从来就不等于生殖器。用器官给人下定义，才是真正的浅薄。至于用每个人都有自己的认同、没必要去否定他人的思想这种话，看似宽容又中立，实际上是用包容一切观 https://t.co/gRD96HRh4P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097010379553636842",
+        "created_at": "2026-09-07T17:13:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097010379553636842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/today_is_foggy…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/today_is_foggy/status/2097000689914573235",
+              "start": 141,
+              "url": "https://t.co/gRD96HRh4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097010379553636842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "生物学上确实存在染色体、生殖器这些生理特征，生理差异是客观存在的。但性别作为身份，作为一个人在社会里被称呼、被对待、自我认同的东西，从来就不等于生殖器。用器官给人下定义，才是真正的浅薄。至于用每个人都有自己的认同、没必要去否定他人的思想这种话，看似宽容又中立，实际上是用包容一切观点的姿态，去保护一个正在伤害别人的观点——这种做法，真的妥当吗？\n\n我说性别不等于器官，是在陈述一个更接近事实的认知，不是在否定别人有权这么想。而那句有屌就是男，指向的却是我本人，它在否认我是谁。所以这根本不是可以各退一步的观点之争，而是对我身份的直接否定。把别人否定我的存在，和我表达自己的存在，放在同一个天平上，说成大家都一样渴望被认同，这是伪中立。它让伤害者与被伤害者显得同样合理，实际是在给伤害背书。\n\n其一，性别本身也不是单一、恒定成立的二元概念。Sex 不是 gender，gender 也不是 sex。不能因为 sex 存在客观差异，就认为 gender 应该与 sex 同步；更何况，凭什么 gender 就该和 sex 同步？长着某个特定器官就是男性并不是客观事实，它只是把一部分事实当成了全部事实。有某个器官，最多算一种生理特征，而一个人是不是男人，从来不是由这一条单独决定的。否则按这套逻辑，做过生殖器切除手术的顺性别男性，也得被开除男籍——他们自己恐怕也不会同意。说到底，人类对性别的定义，从来不是单一的客观事实，而是随时代、随文化、随学科不断变化的建构。生理学、心理学、社会学、人类学，各自对性别的定义本就不同。\n\n其二，这是偷换概念、转移话题。对方揪住浅薄二字带贬义这一点，把战场从那句有屌就是男到底对不对，转移到我用词是否温和。真正伤人的那句话被轻轻放过，我反击时用的一个词却被拿出来审判，这难道不是各打五十大板，本质上和拉偏架没什么两样？\n\n其三，是经典的伪包容话术。每个人有自己的认同、没必要去否认他人的思想，这话看似包容，实则把观点和身份混为一谈。我否定你的身份，被包装成我的一个观点；而你反驳我，又被包装成你在否定我的思想。于是被伤害者反而成了不宽容的人，伤害者反而成了需要保护思想自由的人。对方所渴望的那种认同，是渴望自己有权把我贬成非我族类。这两种认同完全不等价，根本不该被相提并论。\n\n其四，也是最让我恼火的一点，就是那句居高临下的心理分析。用一种我懂你、我替你想过的姿态，把我的正当愤怒重新定义成渴望被认可却得不到的脆弱，试图把我从反击者，变成被怜悯、被看穿的对象。人确实都需要被认可，这没什么可耻。我需要的认可，是被当成完整的人；而对方暗示我需要的，是让这群否认我的人点头。把我真实的需求，偷换成一种我根本不需要、也不该去求的东西，再逼我承认自己其实很想要——这就是它的全部逻辑。\n\n最终的效果，就是让我陷入两难：不反击，就被定义成男人；反击，就被定义成不宽容、攻击性强。无论怎么走，我都是错的一方。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097000689914573235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生物学上确实存在染色体、生殖器这些生理特征，生理差异是客观存在的。但性别作为身份，作为一个人在社会里被称呼、被对待、自我认同的东西，从来就不等于生殖器。用器官给人下定义，才是真正的浅薄。至于用每个人都有自己的认同、没必要去否定他人的思想这种话，看似宽容又中立，实际上是用包容一切观 https://t.co/gRD96HRh4P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2096966886940700953",
+        "created_at": "2026-09-07T16:34:59.000Z",
+        "display_text_range": [
+          13,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T17:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097000689914573235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097000689914573235",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096966886940700953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 额，其实雾觉得ta说的没毛病。客观事实，这就是人类对性别的定义。\n浅薄二字带贬义，每个人有自己的认同，没必要去否认ta人的思想。就像我们也渴望自己的思想和价值观被他人认同一样；也不要说咱不需要别人的肯定...显然...这不太可能..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097010379553636842",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 937,
+          "like_count": 7734,
+          "listed_count": 3,
+          "media_count": 498,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "友情从不区分国籍、人种和性别\n希望和ta人的关系，可以变得很纯粹\n这里是大雾喵ww叫咱大雾就好~欢迎聊天眯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "end": 23,
+                "expanded_url": "http://spacex.com",
+                "start": 0,
+                "url": "https://t.co/xiWmsdOb78"
+              }
+            ]
+          }
+        },
+        "id": "2053864757329817600",
+        "is_identity_verified": false,
+        "location": "月球 坎帕努斯环形山",
+        "most_recent_tweet_id": "2097003248368628073",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2056698586688364704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053864757329817600/1788185714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 128,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1344
+        },
+        "url": "https://t.co/xiWmsdOb78",
+        "username": "today_is_foggy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

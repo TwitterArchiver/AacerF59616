@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084625128202412342",
+    "created_at": "2026-08-04T12:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084625128202412342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoyi_0324/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2084436067688800599",
+          "start": 80,
+          "url": "https://t.co/4zDCEkP9ls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084625128202412342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084436067688800599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炒作药娘的无非就是图个顺直的猎奇心理，因为对于他们来说“一个男的吃雌激素”就是无法理解的事情，是的，某些顺直不管是以前、现在还是未来都不会把mtf当作女性来看 https://t.co/4zDCEkP9ls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2084436061464428544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1njdiaAAA6RxK.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084625128202412342",
+        "created_at": "2026-08-04T12:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084625128202412342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2084436067688800599",
+              "start": 80,
+              "url": "https://t.co/4zDCEkP9ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084625128202412342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084436067688800599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒作药娘的无非就是图个顺直的猎奇心理，因为对于他们来说“一个男的吃雌激素”就是无法理解的事情，是的，某些顺直不管是以前、现在还是未来都不会把mtf当作女性来看 https://t.co/4zDCEkP9ls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084436061464428544"
+          ]
+        },
+        "author_id": "2008812080099672064",
+        "conversation_id": "2084436067688800599",
+        "created_at": "2026-08-04T00:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084436067688800599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LFTBpDmpLI",
+              "end": 67,
+              "expanded_url": "https://x.com/Xiaoyi_0324/status/2084436067688800599/photo/1",
+              "media_key": "3_2084436061464428544",
+              "start": 44,
+              "url": "https://t.co/LFTBpDmpLI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084436067688800599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1265,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "已经绷不住了 现在刷抖音隔三差五就是这种视频 已经分不清是不是串子了😄炒作能力也是神了 https://t.co/LFTBpDmpLI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 745,
+          "like_count": 4983,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n性取向男|爱人:@yuchenawa\n随笔 照片看亮点|逃生舱:@Ruai_0324\nMTFTX|出柜:26/4/30|算是4/1个家长党\n无证含糖:26/5/26|参与自杀干预4次\n退学生|只互同类|其他互fo请私信\n这个号极少负面情绪 请放心观看～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "yuchenawa"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLjhz"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "Heaven",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2083376820926492926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 432,
+          "like_count": 1931,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/KVsMyBLjhz",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

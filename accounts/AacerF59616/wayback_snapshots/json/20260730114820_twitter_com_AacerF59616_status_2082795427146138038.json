@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082795427146138038",
+    "created_at": "2026-07-30T11:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082795427146138038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tousa40700129/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/tousa40700129/status/2082044987584442403",
+          "start": 40,
+          "url": "https://t.co/bn5lg0aWGj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082795427146138038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082044987584442403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前我和我闺蜜出去玩的时候看她买过一次，发个核销码完事了，很简单的，几乎0难度 https://t.co/bn5lg0aWGj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 599,
+        "media_key": "3_2082044977388138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTo4DObMAAcpWJ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082795427146138038",
+        "created_at": "2026-07-30T11:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082795427146138038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tousa40700129/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/tousa40700129/status/2082044987584442403",
+              "start": 40,
+              "url": "https://t.co/bn5lg0aWGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082795427146138038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082044987584442403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前我和我闺蜜出去玩的时候看她买过一次，发个核销码完事了，很简单的，几乎0难度 https://t.co/bn5lg0aWGj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082044977388138496"
+          ]
+        },
+        "author_id": "1628790080910536705",
+        "conversation_id": "2081847611125105071",
+        "created_at": "2026-07-28T10:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082044987584442403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKefgk9cGO",
+              "end": 44,
+              "expanded_url": "https://x.com/tousa40700129/status/2082044987584442403/photo/1",
+              "media_key": "3_2082044977388138496",
+              "start": 21,
+              "url": "https://t.co/FKefgk9cGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082044987584442403",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081847611125105071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 似乎也得要处方 https://t.co/FKefgk9cGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 699,
+          "like_count": 4698,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 1344
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T16:13:32.000Z",
+        "description": "年上姐姐重度依赖",
+        "id": "1628790080910536705",
+        "location": "苏州",
+        "name": "🎄Sil0🇪🇺🧸🎄",
+        "pinned_tweet_id": "1954060583256699291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998307036417945601/iNPcDudB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 531,
+          "like_count": 27892,
+          "listed_count": 0,
+          "media_count": 806,
+          "tweet_count": 7067
+        },
+        "url": "",
+        "username": "tousa40700129",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080015538085114108",
+    "created_at": "2026-07-22T19:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080015538085114108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amaohe_AMH/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Amaohe_AMH/status/2079839426432442497",
+          "start": 27,
+          "url": "https://t.co/Ml8rbaqqN2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080015538085114108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079839426432442497",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果人只是为了一个器官而活着，那未免太掉价了一点点吧 https://t.co/Ml8rbaqqN2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080015538085114108",
+        "created_at": "2026-07-22T19:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080015538085114108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amaohe_AMH/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Amaohe_AMH/status/2079839426432442497",
+              "start": 27,
+              "url": "https://t.co/Ml8rbaqqN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080015538085114108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079839426432442497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果人只是为了一个器官而活着，那未免太掉价了一点点吧 https://t.co/Ml8rbaqqN2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889171969251430400",
+        "conversation_id": "2079839426432442497",
+        "created_at": "2026-07-22T08:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079839426432442497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079839426432442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 381,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到把自己当女的药娘，就顺手发一句：看看B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 623,
+          "like_count": 4174,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T04:38:02.000Z",
+        "description": "我虽曾领导剑契，却未能履行应尽之责，对这既不能放下一切，也不能背负所有之人，可称之语，别无他词，吾名为，金笠……，逆贼！金笠！！！",
+        "id": "1889171969251430400",
+        "location": "中国",
+        "name": "土豆薯片·金笠『反药跨非深柜』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079152942779904001/rhUbhl6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 39,
+          "like_count": 172,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "Amaohe_AMH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2096606787202126300",
+    "created_at": "2026-09-06T14:29:45.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096606787202126300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wesley10032/st…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/Wesley10032/status/2096528547661926844",
+          "start": 137,
+          "url": "https://t.co/0MvkgiGwvY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096606787202126300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "小证就是在诊断那栏写有“易性症”/“性别认同障碍”/“性别焦虑”的病历，可以用于在医院直接开到GAHT需要用到的药物；大证则是专门写有上述诊断内容的诊断证明，有更严格的规定，如GAHT时长需要达到多久、mf分需要多少、观察期已满多久……等等，可以用于在国内医院进行SRS。\n\n但我自己觉得的话，如果你不追求：所谓“正规的GAHT”、想要打GnRHa来进行阻断治疗、使用雷洛昔芬这类较难获取的GAHT药物、、想要通过医疗诊断来说服亲人朋友支持自己的话。那很多情况下证就是破纸一张，只是你可以拿着它大大方方去医院开药了，到最后发现到最后还是自费，啥时候小证可以用来报医保了我就不觉得它是破纸"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096528547661926844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小证就是在诊断那栏写有“易性症”/“性别认同障碍”/“性别焦虑”的病历，可以用于在医院直接开到GAHT需要用到的药物；大证则是专门写有上述诊断内容的诊断证明，有更严格的规定，如GAHT时长需要达到多久、mf分需要多少、观察期已满多久……等等，可以用于在国内医院进行SRS。 https://t.co/0MvkgiGwvY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2096606787202126300",
+        "created_at": "2026-09-06T14:29:45.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096606787202126300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2096528547661926844",
+              "start": 137,
+              "url": "https://t.co/0MvkgiGwvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096606787202126300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小证就是在诊断那栏写有“易性症”/“性别认同障碍”/“性别焦虑”的病历，可以用于在医院直接开到GAHT需要用到的药物；大证则是专门写有上述诊断内容的诊断证明，有更严格的规定，如GAHT时长需要达到多久、mf分需要多少、观察期已满多久……等等，可以用于在国内医院进行SRS。\n\n但我自己觉得的话，如果你不追求：所谓“正规的GAHT”、想要打GnRHa来进行阻断治疗、使用雷洛昔芬这类较难获取的GAHT药物、、想要通过医疗诊断来说服亲人朋友支持自己的话。那很多情况下证就是破纸一张，只是你可以拿着它大大方方去医院开药了，到最后发现到最后还是自费，啥时候小证可以用来报医保了我就不觉得它是破纸"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096528547661926844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小证就是在诊断那栏写有“易性症”/“性别认同障碍”/“性别焦虑”的病历，可以用于在医院直接开到GAHT需要用到的药物；大证则是专门写有上述诊断内容的诊断证明，有更严格的规定，如GAHT时长需要达到多久、mf分需要多少、观察期已满多久……等等，可以用于在国内医院进行SRS。 https://t.co/0MvkgiGwvY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2096528547661926844",
+        "created_at": "2026-09-06T09:18:52.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096528547661926844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096528547661926844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1040,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "有推 u 能说说「小证」和「大证」是什么意思吗🤔\n看着感觉都是医疗机构开具的证明"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2096606787202126300",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 933,
+          "like_count": 7702,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/08.11.3\n政治立场未知/聊天请走下方TG链接\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n好基友@lockloveovo\n高三党/广东中山在居\nCN/EN/JP\n里推@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://t.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/HjVzyPDIuK"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "is_identity_verified": true,
+        "location": "中华人民共和国 / P.R.C.",
+        "most_recent_tweet_id": "2096606715676631485",
+        "name": "Wesley",
+        "pinned_tweet_id": "2083033063257420070",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880979169297022976/1785740152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1825,
+          "like_count": 25048,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 3821
+        },
+        "url": "https://t.co/HjVzyPDIuK",
+        "username": "Wesley10032",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

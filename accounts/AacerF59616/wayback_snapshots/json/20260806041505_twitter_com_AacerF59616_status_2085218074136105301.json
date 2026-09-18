@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085218074136105301",
+    "created_at": "2026-08-06T04:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085218074136105301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2085201155370439034",
+          "start": 137,
+          "url": "https://t.co/FCbX8mVVGR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085218074136105301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085201155370439034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些姐妹能不能不要总是吃了几天糖 打了几天雌针 贴了几片雌贴 涂了几尺凝胶，就自认为拥有什么对性别认同的裁判权了，至少我觉得这种为了所谓「社群秩序」而随便对别人进行划分归类和“纯洁性审查”，否认对方的性别认同，仅通过是否接受医疗措施来判断对方是否为跨性别的行为傻逼到极点了 https://t.co/FCbX8mVVGR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085218074136105301",
+        "created_at": "2026-08-06T04:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085218074136105301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2085201155370439034",
+              "start": 137,
+              "url": "https://t.co/FCbX8mVVGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085218074136105301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085201155370439034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些姐妹能不能不要总是吃了几天糖 打了几天雌针 贴了几片雌贴 涂了几尺凝胶，就自认为拥有什么对性别认同的裁判权了，至少我觉得这种为了所谓「社群秩序」而随便对别人进行划分归类和“纯洁性审查”，否认对方的性别认同，仅通过是否接受医疗措施来判断对方是否为跨性别的行为傻逼到极点了 https://t.co/FCbX8mVVGR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2085201155370439034",
+        "created_at": "2026-08-06T03:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085201155370439034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/sorcerer1311/status/2084635271329632366",
+              "start": 33,
+              "url": "https://t.co/FqEUncEn5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085201155370439034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084635271329632366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来我也不支持无糖跨，但听说无糖跨能破坏社群秩序那我不得不支持了 https://t.co/FqEUncEn5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 759,
+          "like_count": 5117,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭ ・中文/ᴇɴ/ғʀ",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4658,
+          "following_count": 750,
+          "like_count": 2516,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

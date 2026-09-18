@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2098205570759331860",
+    "created_at": "2026-09-11T00:22:45.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T01:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098205570759331860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WXX0530/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/WXX0530/status/2098149194842394690",
+          "start": 38,
+          "url": "https://t.co/4badFLT8jA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098205570759331860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098149194842394690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜，以及你似乎用的我之前设计出来的头像呢，第一眼有种看到另一个自己的感觉 https://t.co/4badFLT8jA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_2098149189687611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4fklEakAAGfRw.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2098205570759331860",
+        "created_at": "2026-09-11T00:22:45.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098205570759331860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WXX0530/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/WXX0530/status/2098149194842394690",
+              "start": 38,
+              "url": "https://t.co/4badFLT8jA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098205570759331860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098149194842394690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜，以及你似乎用的我之前设计出来的头像呢，第一眼有种看到另一个自己的感觉 https://t.co/4badFLT8jA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098149189687611392"
+          ]
+        },
+        "author_id": "2078277656412581889",
+        "conversation_id": "2098149194842394690",
+        "created_at": "2026-09-10T20:38:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T21:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098149194842394690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M31JyeYpiI",
+              "end": 40,
+              "expanded_url": "https://x.com/WXX0530/status/2098149194842394690/photo/1",
+              "media_key": "3_2098149189687611392",
+              "start": 17,
+              "url": "https://t.co/M31JyeYpiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098149194842394690",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098149189687611392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜我突破了100fo 谢谢你们 https://t.co/M31JyeYpiI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2098205570759331860",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2829,
+          "following_count": 950,
+          "like_count": 7828,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 3135
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T00:37:34.000Z",
+        "description": "09年MTF \n厭學 🏳️‍⚧️🍥2026.5 1.65cm 41.55kg 出厂日期09 08 10\n私信互fo\n双向(?)\nhttps://t.co/BXKTi5WvpN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wxx0530",
+                "end": 87,
+                "expanded_url": "http://ngl.link/wxx0530",
+                "start": 64,
+                "url": "https://t.co/BXKTi5WvpN"
+              }
+            ]
+          }
+        },
+        "id": "2078277656412581889",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2098201986218991699",
+        "name": "Fiona",
+        "pinned_tweet_id": "2090403736753766602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078277656412581889/1788609903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096207981725773824/4yWNvg0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 124,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "WXX0530",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2078207083573571854",
+    "created_at": "2026-07-17T19:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078207083573571854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sylvielove2022…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Sylvielove2022/status/2078190283699970289",
+          "start": 30,
+          "url": "https://t.co/n76JsYGqn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078207083573571854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078190283699970289",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和咱一样想到啥发啥喵，发的多照样可以做到一周150K流量喵 https://t.co/n76JsYGqn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2078190003499524096",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HNc2zCZbYAAM8jy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HNc2zCZbYAAM8jy.mp4"
+          }
+        ],
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078207083573571854",
+        "created_at": "2026-07-17T19:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078207083573571854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sylvielove2022…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Sylvielove2022/status/2078190283699970289",
+              "start": 30,
+              "url": "https://t.co/n76JsYGqn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078207083573571854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078190283699970289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和咱一样想到啥发啥喵，发的多照样可以做到一周150K流量喵 https://t.co/n76JsYGqn0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2078190003499524096"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "conversation_id": "2078190283699970289",
+        "created_at": "2026-07-17T18:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078190283699970289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8JzK3229X",
+              "end": 123,
+              "expanded_url": "https://x.com/Sylvielove2022/status/2078190283699970289/photo/1",
+              "media_key": "16_2078190003499524096",
+              "start": 100,
+              "url": "https://t.co/d8JzK3229X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078190283699970289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过思考这段时间暂时不会在早晚安贴上转载P站美图了，避免再次引发版权问题以及被误认为创作者\n因为暂时没有想好用什么方式继续水推所以欢迎大家把有趣的想法在评论区留言或者私信发给我\n我会努力继续水推的) https://t.co/d8JzK3229X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 498,
+          "like_count": 3319,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1010
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "别担心，我在这里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sylvie87078",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sylvie87078",
+                "start": 0,
+                "url": "https://t.co/hRi0Xepa1R"
+              }
+            ]
+          }
+        },
+        "id": "1497213290706968576",
+        "location": "众神眷恋的幻想乡",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "pinned_tweet_id": "2077507103045149022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077506762668949504/pWKm6xZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1880,
+          "like_count": 20128,
+          "listed_count": 2,
+          "media_count": 2409,
+          "tweet_count": 8912
+        },
+        "url": "https://t.co/hRi0Xepa1R",
+        "username": "Sylvielove2022",
+        "verified": true
+      }
+    ]
+  }
+}

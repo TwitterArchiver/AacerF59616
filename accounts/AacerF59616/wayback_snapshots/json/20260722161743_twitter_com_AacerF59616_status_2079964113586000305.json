@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079964113586000305",
+    "created_at": "2026-07-22T16:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079964113586000305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2079960195003019300",
+          "start": 144,
+          "url": "https://t.co/1xcKAC6Auq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079964113586000305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079960195003019300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叠个甲以防有人说我是激跨，我认为进行性别肯定医疗本身就属于“个人选择自由”的范畴，所以才会这样说。\n\n是的，我们不应该干涉个人选择自由，只能说“你或许应该先充分了解并考虑好”，如果对方在没有经过自我评估和决策思考的情况下毅然决然的选择进行性别肯定治疗，那这是个人选择的结果，理应自行负责 https://t.co/1xcKAC6Auq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079964113586000305",
+        "created_at": "2026-07-22T16:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079964113586000305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2079960195003019300",
+              "start": 144,
+              "url": "https://t.co/1xcKAC6Auq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079964113586000305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079960195003019300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叠个甲以防有人说我是激跨，我认为进行性别肯定医疗本身就属于“个人选择自由”的范畴，所以才会这样说。\n\n是的，我们不应该干涉个人选择自由，只能说“你或许应该先充分了解并考虑好”，如果对方在没有经过自我评估和决策思考的情况下毅然决然的选择进行性别肯定治疗，那这是个人选择的结果，理应自行负责 https://t.co/1xcKAC6Auq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079960195003019300",
+        "created_at": "2026-07-22T16:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079960195003019300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2079956002666164518",
+              "start": 129,
+              "url": "https://t.co/uyRwXzAEbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079960195003019300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079956002666164518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这何尝不是一种温和的反对，在跨性别者尚处于未成年时期不予以干涉那不就是在强制ta们接受指派性别的发育吗？在不少时候发表这类观点的也并非性别少数，他们压根不清楚性别不一致是什么感受却试图替性别少数作出“最理智的判断”，那又何尝不是对性别少数的选择权进行了剥夺 https://t.co/uyRwXzAEbv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 619,
+          "like_count": 4142,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

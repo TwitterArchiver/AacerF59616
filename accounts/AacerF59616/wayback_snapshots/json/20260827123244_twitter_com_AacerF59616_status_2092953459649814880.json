@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092953459649814880",
+    "created_at": "2026-08-27T12:32:44.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092953459649814880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Bili40014error…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Bili40014error/status/2087344537933107624",
+          "start": 53,
+          "url": "https://t.co/3b8uxCaaKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092953459649814880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你看，这就是我们某些人的经典错误归因+以偏概全+重点偏差思维，其实这只会显得你像个偏执的二次元顺直小保。\n\n无论你的身体位于何处，都只能被困在一个自认为自然真理的社会建构里，觉得这个建构就是全部，就这样在一个被划定的认知圈子里，百无聊赖的活下去。当然了，我也会活下去，只是我可以在这个圈圈外散散步聊聊天，也就这样而已。\n\n哦对了，我可没攻击你或者给你定性什么的，因为我并不相信本质主义，你一个体量还不到我5%的互联网孑孓也不配被我攻击。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087344537933107624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看，这就是我们某些人的经典错误归因+以偏概全+重点偏差思维，其实这只会显得你像个偏执的二次元顺直小保。 https://t.co/3b8uxCaaKz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092953459649814880",
+        "created_at": "2026-08-27T12:32:44.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092953459649814880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Bili40014error…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Bili40014error/status/2087344537933107624",
+              "start": 53,
+              "url": "https://t.co/3b8uxCaaKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092953459649814880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你看，这就是我们某些人的经典错误归因+以偏概全+重点偏差思维，其实这只会显得你像个偏执的二次元顺直小保。\n\n无论你的身体位于何处，都只能被困在一个自认为自然真理的社会建构里，觉得这个建构就是全部，就这样在一个被划定的认知圈子里，百无聊赖的活下去。当然了，我也会活下去，只是我可以在这个圈圈外散散步聊聊天，也就这样而已。\n\n哦对了，我可没攻击你或者给你定性什么的，因为我并不相信本质主义，你一个体量还不到我5%的互联网孑孓也不配被我攻击。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087344537933107624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看，这就是我们某些人的经典错误归因+以偏概全+重点偏差思维，其实这只会显得你像个偏执的二次元顺直小保。 https://t.co/3b8uxCaaKz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416976245544345605",
+        "conversation_id": "2087009047211839594",
+        "created_at": "2026-08-12T01:04:53.000Z",
+        "display_text_range": [
+          27,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087344537933107624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558967960621940739",
+              "start": 0,
+              "username": "jamyunfeng"
+            },
+            {
+              "end": 26,
+              "id": "2014293353269997568",
+              "start": 12,
+              "username": "paperly_forge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087344537933107624",
+        "in_reply_to_user_id": "1558967960621940739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3022,
+          "like_count": 12,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087009047211839594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamyunfeng @paperly_forge “她的父母因为不支持她hrt 加上不给予生活费”哦牛逼的，这也能怪上了，所以我说大部分mtf都是精神病你懂吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092953459649814880",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 885,
+          "like_count": 7114,
+          "listed_count": 3,
+          "media_count": 422,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-19T04:20:45.000Z",
+        "description": "FH6 LOVER",
+        "id": "1416976245544345605",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092846650066927973",
+        "name": "40014error",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416976245544345605/1636532771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1416976355460276224/f3kb5Ue2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 581,
+          "like_count": 1911,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 978
+        },
+        "url": "",
+        "username": "Bili40014error",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-15T00:05:18.000Z",
+        "description": "CHN高中鼪，丢嘞老牟，\n跨🏳️‍⚧️，无证含糖hrt 2026/08/14 地下党，LGBT友好🏳️‍🌈🏳️‍⚧️\n全名：云iClaude；牢二次元，无用的心理委员，会点电脑\n老北京的，原先内蒙古birth，遣送到浙江金华上学（大市内游荡）\n国语很差🇹🇼，英语特别好🇺🇸，被人骂崇洋媚外（坏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmyf.uk",
+                "end": 23,
+                "expanded_url": "http://www.bmyf.uk",
+                "start": 0,
+                "url": "https://t.co/CKvL4MTPIm"
+              }
+            ]
+          }
+        },
+        "id": "1558967960621940739",
+        "is_identity_verified": true,
+        "location": "Zhejiang, mainland China",
+        "most_recent_tweet_id": "2092937351937069266",
+        "name": "iC1aude🏳️‍⚧️",
+        "pinned_tweet_id": "2086507630781141211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558967960621940739/1775530594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087902323125436416/tYlmuQPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 99,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/CKvL4MTPIm",
+        "username": "jamyunfeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

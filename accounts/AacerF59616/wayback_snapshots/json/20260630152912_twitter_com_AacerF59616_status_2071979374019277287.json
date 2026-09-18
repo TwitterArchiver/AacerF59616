@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071979374019277287",
+    "created_at": "2026-06-30T15:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071979374019277287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071574402479911085",
+          "start": 49,
+          "url": "https://t.co/BNcBMMxluI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071979374019277287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071574402479911085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种东西要传出去又得被反LGBT的老保小保说是反动然后借此继续打压国内性少数生存空间了，少话…… https://t.co/BNcBMMxluI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2071560909567180800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-pq_FWQAA3TnV.jpg",
+        "width": 892
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2071560905763016704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-pqw6XUAAGdpH.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071979374019277287",
+        "created_at": "2026-06-30T15:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071979374019277287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2071574402479911085",
+              "start": 49,
+              "url": "https://t.co/BNcBMMxluI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071979374019277287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071574402479911085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种东西要传出去又得被反LGBT的老保小保说是反动然后借此继续打压国内性少数生存空间了，少话…… https://t.co/BNcBMMxluI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071560909567180800",
+            "3_2071560905763016704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2071574402479911085",
+        "created_at": "2026-06-29T12:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071574402479911085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rnyCO3eoTB",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071574402479911085/photo/1",
+              "media_key": "3_2071560909567180800",
+              "start": 42,
+              "url": "https://t.co/rnyCO3eoTB"
+            },
+            {
+              "display_url": "pic.x.com/rnyCO3eoTB",
+              "end": 65,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2071574402479911085/photo/1",
+              "media_key": "3_2071560905763016704",
+              "start": 42,
+              "url": "https://t.co/rnyCO3eoTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071574402479911085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 170496,
+          "like_count": 2177,
+          "quote_count": 25,
+          "reply_count": 125,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "6月28日，多伦多彩虹游行现场\n和伙伴们“寻衅滋事”、“颠覆国家政权” 我很骄傲！ https://t.co/rnyCO3eoTB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 277,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242425,
+          "following_count": 1072,
+          "like_count": 9769,
+          "listed_count": 8809,
+          "media_count": 49536,
+          "tweet_count": 56724
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

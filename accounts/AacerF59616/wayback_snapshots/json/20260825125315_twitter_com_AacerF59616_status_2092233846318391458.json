@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092233846318391458",
+    "created_at": "2026-08-25T12:53:15.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092233846318391458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theqingqiuback…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/theqingqiuback/status/2092224132146675923",
+          "start": 71,
+          "url": "https://t.co/jQIjetF6Jf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092233846318391458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "脆弱的平衡被打破之后导致的连锁反应吗……唉，人就是这样，说脆弱的话可以很坚韧，说坚韧的话可以很脆弱，我没法去做什么，也不想去干预别人的行为。\n\n对于逝去的姐妹们，我深感惋惜，也希望仍然顽强的活着的姐妹们可以继续下去，不是为活而活下去，只是为了自己以后可以成为更好的自己，所以说，为了以后可以更好的作为女孩子生活，请活下去喵"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092224132146675923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "脆弱的平衡被打破之后导致的连锁反应吗……唉，人就是这样，说脆弱的话可以很坚韧，说坚韧的话可以很脆弱，我没法去做什么，也不想去干预别人的行为。 https://t.co/jQIjetF6Jf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092233846318391458",
+        "created_at": "2026-08-25T12:53:15.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092233846318391458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theqingqiuback…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/theqingqiuback/status/2092224132146675923",
+              "start": 71,
+              "url": "https://t.co/jQIjetF6Jf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092233846318391458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "脆弱的平衡被打破之后导致的连锁反应吗……唉，人就是这样，说脆弱的话可以很坚韧，说坚韧的话可以很脆弱，我没法去做什么，也不想去干预别人的行为。\n\n对于逝去的姐妹们，我深感惋惜，也希望仍然顽强的活着的姐妹们可以继续下去，不是为活而活下去，只是为了自己以后可以成为更好的自己，所以说，为了以后可以更好的作为女孩子生活，请活下去喵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092224132146675923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脆弱的平衡被打破之后导致的连锁反应吗……唉，人就是这样，说脆弱的话可以很坚韧，说坚韧的话可以很脆弱，我没法去做什么，也不想去干预别人的行为。 https://t.co/jQIjetF6Jf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087747116504666112",
+        "conversation_id": "2092224132146675923",
+        "created_at": "2026-08-25T12:14:39.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092224132146675923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092224132146675923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我看有人问我为什么跨圈会引发这次的zs浪潮。我作答一下我的理解，跨圈其实很多人精神上多少都是有些问题的，我自己也有问题在这上面。并且你会发现跨这个圈子是个小圈子，有很多人你都认识，这便有了联系，很多人情感本就是脆弱的，突然失去自己网上的一个朋友，这种轰击是直白的，线下没有多少朋友，只能依靠线上。加上现代心理学对于这方面的治疗可以说是收效甚微，很多极端疗法，让人惧怕，即使参与治疗，恢复周期又及其漫长，还有大量的副作用。这就导致这种精神状况及其有可能加剧，变成一种依靠朋友纽带而活的人，只要有一个人逝去，纽带一断，这便成了多米诺骨牌，掀起浪潮。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看有人问我为什么跨圈会引发这次的zs浪潮。我作答一下我的理解，跨圈其实很多人精神上多少都是有些问题的，我自己也有问题在这上面。并且你会发现跨这个圈子是个小圈子，有很多人你都认识，这便有了联系，很多人情感本就是脆弱的，突然失去自己网上的一个朋友，这种轰击是直白的，线下没有多少朋友，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092233846318391458",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 881,
+          "like_count": 6990,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T03:45:35.000Z",
+        "description": "做自己真正想做的事情，走自己愿意走的道路。一切遵循我愿，不在用虚伪的面具伪装自己，做真正的自我。帮助更多的人\n🐧1362752410",
+        "id": "2087747116504666112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092225601650479574",
+        "name": "孤城落月成孤倚🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2089623318387392575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087747116504666112/1787582964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091899107078180864/vWA720of_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 51,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "theqingqiuback",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2078868665290858647",
+    "created_at": "2026-07-19T15:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078868665290858647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gaga860166912/…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/gaga860166912/status/2078844732357431446",
+          "start": 51,
+          "url": "https://t.co/sD7KrGp4cP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078868665290858647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078844732357431446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ga圣别来烦我了，我真不想骂你，骂一个只会跟小型LLM一样说车轱辘话的偏执低智顺直只会显得我不够包容 https://t.co/sD7KrGp4cP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078868665290858647",
+        "created_at": "2026-07-19T15:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078868665290858647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gaga860166912/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/gaga860166912/status/2078844732357431446",
+              "start": 51,
+              "url": "https://t.co/sD7KrGp4cP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078868665290858647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078844732357431446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ga圣别来烦我了，我真不想骂你，骂一个只会跟小型LLM一样说车轱辘话的偏执低智顺直只会显得我不够包容 https://t.co/sD7KrGp4cP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "conversation_id": "2078828216828264807",
+        "created_at": "2026-07-19T14:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078844732357431446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078844732357431446",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078828216828264807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我们只是想要通过医疗手段来实现“能够正常生活”\n\n科學勒? 不要把自欺欺人 妄想當醫療手段!\n私自用藥還推崇 教學 濫用藥物~\n這叫甚麼醫療手段? 不要笑死人了!\n\n看看科學~ 現在國外方質疑對於青少年 兒童 hrt srs 走向 尋找共病跟心理支持!\n而推特跨性別 唯一推崇就是 閹割假體藥物邁向畸形自殘˙形象!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 545,
+          "like_count": 3627,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "pinned_tweet_id": "2069759036455882944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 18,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 533,
+          "tweet_count": 6549
+        },
+        "url": "",
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

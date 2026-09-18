@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092902441759146010",
+    "created_at": "2026-08-27T09:10:01.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092902441759146010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092902441759146010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我是真觉得，国内的心理医生属于是1000个里不一定能找到一个好的，反正就是问问你情况然后开药，然后说点车轱辘话，没了。\n\n完事了诊断标准也滞后，普遍还在用DSM5或者ICD10，又或者还在用那个又老又基于西方生活习惯的mmpi然后摁看你mf分是否足够……这一堆问题导致国内现阶段的性别肯定医疗体系对mtx和性别酷儿非常不友好。\n\n非典型跨女可能会被说不符合诊断标准什么的，非二元友好我记得有但非常稀少，纯纯稀有资源，性别酷儿友好更是听都没听说过，他们知不知道GenderQueer这个概念都不好说"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是真觉得，国内的心理医生属于是1000个里不一定能找到一个好的，反正就是问问你情况然后开药，然后说点车轱辘话，没了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092902441759146010",
+        "created_at": "2026-08-27T09:10:01.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092902441759146010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092902441759146010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是真觉得，国内的心理医生属于是1000个里不一定能找到一个好的，反正就是问问你情况然后开药，然后说点车轱辘话，没了。\n\n完事了诊断标准也滞后，普遍还在用DSM5或者ICD10，又或者还在用那个又老又基于西方生活习惯的mmpi然后摁看你mf分是否足够……这一堆问题导致国内现阶段的性别肯定医疗体系对mtx和性别酷儿非常不友好。\n\n非典型跨女可能会被说不符合诊断标准什么的，非二元友好我记得有但非常稀少，纯纯稀有资源，性别酷儿友好更是听都没听说过，他们知不知道GenderQueer这个概念都不好说"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真觉得，国内的心理医生属于是1000个里不一定能找到一个好的，反正就是问问你情况然后开药，然后说点车轱辘话，没了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092902441759146010",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2483,
+          "following_count": 884,
+          "like_count": 7103,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

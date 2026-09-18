@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080715472203644986",
+    "created_at": "2026-07-24T18:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080715472203644986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longyvling/sta…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/longyvling/status/2080695525129507230",
+          "start": 145,
+          "url": "https://t.co/uYsg4mPXh3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080715472203644986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080695525129507230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他说“扮演”就说明还在基于性别指派为核心的去看待性别，并非可能也不完全了解性别不一致这个东西，将其认为是一种主观选择而不是被动接受\n\n后面半段更是把异性恋规范主义暴露完了，他整句话表达的归根结底“跨性别改变自己以接近性别认同是主观唯心的，应该接受二元性别并且放弃改变”\n\n只是温和一点罢了 https://t.co/uYsg4mPXh3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2080695369818632192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAdajPW8AAr063.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080715472203644986",
+        "created_at": "2026-07-24T18:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080715472203644986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/longyvling/status/2080695525129507230",
+              "start": 145,
+              "url": "https://t.co/uYsg4mPXh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080715472203644986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080695525129507230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他说“扮演”就说明还在基于性别指派为核心的去看待性别，并非可能也不完全了解性别不一致这个东西，将其认为是一种主观选择而不是被动接受\n\n后面半段更是把异性恋规范主义暴露完了，他整句话表达的归根结底“跨性别改变自己以接近性别认同是主观唯心的，应该接受二元性别并且放弃改变”\n\n只是温和一点罢了 https://t.co/uYsg4mPXh3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080695369818632192"
+          ]
+        },
+        "author_id": "2040798583440527360",
+        "conversation_id": "2080695525129507230",
+        "created_at": "2026-07-24T16:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080695525129507230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QuyTVRVOW",
+              "end": 46,
+              "expanded_url": "https://x.com/longyvling/status/2080695525129507230/photo/1",
+              "media_key": "3_2080695369818632192",
+              "start": 23,
+              "url": "https://t.co/1QuyTVRVOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080695525129507230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "......某些人讨厌酷儿似乎并不是没有道理 https://t.co/1QuyTVRVOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 633,
+          "like_count": 4323,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 188,
+          "like_count": 1952,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

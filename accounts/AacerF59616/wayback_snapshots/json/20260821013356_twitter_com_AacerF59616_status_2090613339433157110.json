@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090612826620747776"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2090613339433157110",
+    "created_at": "2026-08-21T01:33:56.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T02:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090613339433157110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSy4wjHmVV",
+          "end": 100,
+          "expanded_url": "https://x.com/AacerF59616/status/2090613339433157110/photo/1",
+          "media_key": "3_2090612826620747776",
+          "start": 77,
+          "url": "https://t.co/YSy4wjHmVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090613339433157110",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090612826620747776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2000fo达成纪念！！！最近几天涨粉好快好快，真的非常感谢中推的各位对我的支持和关注，但是咱还没什么预算，可能暂时没法搞抽奖什么的……对不起喵对不起喵 https://t.co/YSy4wjHmVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090612826620747776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNZSg2a4AA18h1.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090612826620747776"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2090613339433157110",
+        "created_at": "2026-08-21T01:33:56.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090613339433157110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSy4wjHmVV",
+              "end": 100,
+              "expanded_url": "https://x.com/AacerF59616/status/2090613339433157110/photo/1",
+              "media_key": "3_2090612826620747776",
+              "start": 77,
+              "url": "https://t.co/YSy4wjHmVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090613339433157110",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090612826620747776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2000fo达成纪念！！！最近几天涨粉好快好快，真的非常感谢中推的各位对我的支持和关注，但是咱还没什么预算，可能暂时没法搞抽奖什么的……对不起喵对不起喵 https://t.co/YSy4wjHmVV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2090613339433157110",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 871,
+          "like_count": 6606,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

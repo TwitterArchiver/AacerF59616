@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065662546309496970",
+    "created_at": "2026-06-14T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066075066073592239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565892398257152000",
+          "start": 0,
+          "username": "littleloong233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066075066073592239",
+    "in_reply_to_user_id": "1565892398257152000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065662546309496970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littleloong233 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2065661730219511808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq0ZjfaUAARJ1S.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065661747714035712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKq0akqbkAAWNVe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065662546309496970",
+        "created_at": "2026-06-14T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066075066073592239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565892398257152000",
+              "start": 0,
+              "username": "littleloong233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066075066073592239",
+        "in_reply_to_user_id": "1565892398257152000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065662546309496970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littleloong233 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065661730219511808",
+            "3_2065661747714035712"
+          ]
+        },
+        "author_id": "1565892398257152000",
+        "conversation_id": "2065662546309496970",
+        "created_at": "2026-06-13T05:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065662546309496970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqDMJpIs02",
+              "end": 67,
+              "expanded_url": "https://x.com/littleloong233/status/2065662546309496970/photo/1",
+              "media_key": "3_2065661730219511808",
+              "start": 44,
+              "url": "https://t.co/oqDMJpIs02"
+            },
+            {
+              "display_url": "pic.x.com/oqDMJpIs02",
+              "end": 67,
+              "expanded_url": "https://x.com/littleloong233/status/2065662546309496970/photo/1",
+              "media_key": "3_2065661747714035712",
+              "start": 44,
+              "url": "https://t.co/oqDMJpIs02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065662546309496970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4031,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "cp都说多发了 那就再来两张好了()\n没有了啦！再有的就不能发了(\n真的很色气嘛难道( https://t.co/oqDMJpIs02"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 52,
+          "like_count": 670,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 240
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T02:40:31.000Z",
+        "description": "退役oier / python java c++ / 喜欢随便写写随便想想的吟游诗人 Telegram联系 @Loongqing ，X不经常用 / 💖 @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Loongqing"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "zwh20081"
+              }
+            ]
+          }
+        },
+        "id": "1565892398257152000",
+        "name": "LittleLoong233",
+        "pinned_tweet_id": "2050163542431760475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064625365067431936/jLGjsroW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 37,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 30
+        },
+        "username": "littleloong233",
+        "verified": false
+      }
+    ]
+  }
+}

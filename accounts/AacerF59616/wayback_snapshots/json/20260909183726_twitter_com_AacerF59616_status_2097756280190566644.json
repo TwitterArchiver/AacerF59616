@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097756280190566644",
+    "created_at": "2026-09-09T18:37:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097756280190566644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aginlab64/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/aginlab64/status/2097577583345033598",
+          "start": 141,
+          "url": "https://t.co/k5YwustTSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097756280190566644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "雌二醇的口服首过效应严重，吃下去经过肠道和肝脏，大量被代谢成雌酮和葡萄糖醛酸结合物，生物利用度极低；水溶性差，溶出慢吸收不稳定；代谢快，在血液里留不住。但在接上戊酸酯以后脂溶性变高可以被代谢保护，注射时能在注射部位缓慢释放，半衰期大幅延长，而且戊酸雌二醇本身不具备生物活性，需要身体自行分解成雌二醇后才会发挥生物活性，不用考虑它自身的活性。但也是因为接上了别的东西导致戊酸雌二醇的分子量比雌二醇更大，1mg的戊酸雌二醇最多只能转化成0.764mg的雌二醇，所以每天2～6mg的雌二醇实际上相当于2.6～7.9mg的戊酸雌二醇（这条换算跟给药途径无关，含服时也成立），在摄入量同等、吸收和水解情况基本一致的前提下，雌二醇对血药浓度的抬升会比戊酸雌二醇更明显"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097577583345033598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雌二醇的口服首过效应严重，吃下去经过肠道和肝脏，大量被代谢成雌酮和葡萄糖醛酸结合物，生物利用度极低；水溶性差，溶出慢吸收不稳定；代谢快，在血液里留不住。但在接上戊酸酯以后脂溶性变高可以被代谢保护，注射时能在注射部位缓慢释放，半衰期大幅延长，而且戊酸雌二醇本身不具备生物活性，需要身 https://t.co/k5YwustTSp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097756280190566644",
+        "created_at": "2026-09-09T18:37:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097756280190566644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aginlab64/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/aginlab64/status/2097577583345033598",
+              "start": 141,
+              "url": "https://t.co/k5YwustTSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097756280190566644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "雌二醇的口服首过效应严重，吃下去经过肠道和肝脏，大量被代谢成雌酮和葡萄糖醛酸结合物，生物利用度极低；水溶性差，溶出慢吸收不稳定；代谢快，在血液里留不住。但在接上戊酸酯以后脂溶性变高可以被代谢保护，注射时能在注射部位缓慢释放，半衰期大幅延长，而且戊酸雌二醇本身不具备生物活性，需要身体自行分解成雌二醇后才会发挥生物活性，不用考虑它自身的活性。但也是因为接上了别的东西导致戊酸雌二醇的分子量比雌二醇更大，1mg的戊酸雌二醇最多只能转化成0.764mg的雌二醇，所以每天2～6mg的雌二醇实际上相当于2.6～7.9mg的戊酸雌二醇（这条换算跟给药途径无关，含服时也成立），在摄入量同等、吸收和水解情况基本一致的前提下，雌二醇对血药浓度的抬升会比戊酸雌二醇更明显"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097577583345033598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雌二醇的口服首过效应严重，吃下去经过肠道和肝脏，大量被代谢成雌酮和葡萄糖醛酸结合物，生物利用度极低；水溶性差，溶出慢吸收不稳定；代谢快，在血液里留不住。但在接上戊酸酯以后脂溶性变高可以被代谢保护，注射时能在注射部位缓慢释放，半衰期大幅延长，而且戊酸雌二醇本身不具备生物活性，需要身 https://t.co/k5YwustTSp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2097577583345033598",
+        "created_at": "2026-09-09T06:47:21.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097577583345033598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097577583345033598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4083,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇和戊酸雌二醇区别是什么\n换成雌二醇效果会比补佳乐好吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097756280190566644",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 942,
+          "like_count": 7796,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 3107
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "自由左｜MtX·non-binary🍥｜取向未知｜民社｜卢森堡｜粉蛆劳保右逼你们的🐎怎么死掉了｜有限接纳毛左｜LGBTQIA➕｜容貌焦虑中😭｜民国99年出厂\n暂时无证hrt中\n不发表大量政治言论",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2097755055915237887",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈（互fo寻回）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1788786684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093031878249127936/gvgyEpBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 651,
+          "like_count": 2888,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "aginlab64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

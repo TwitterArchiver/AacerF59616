@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2091119924559466973",
+    "created_at": "2026-08-22T13:00:43.000Z",
+    "display_text_range": [
+      16,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091148561241297017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801067258682478592",
+          "start": 0,
+          "username": "FemboyQueenCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091148561241297017",
+    "in_reply_to_user_id": "1801067258682478592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091148408044081641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FemboyQueenCat 这个我确实知道，但「阉割」这个词对于男的而言总是有一种……很特别的意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091119924559466973",
+        "created_at": "2026-08-22T13:00:43.000Z",
+        "display_text_range": [
+          16,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091148561241297017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801067258682478592",
+              "start": 0,
+              "username": "FemboyQueenCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091148561241297017",
+        "in_reply_to_user_id": "1801067258682478592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091148408044081641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FemboyQueenCat 这个我确实知道，但「阉割」这个词对于男的而言总是有一种……很特别的意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801067258682478592",
+        "conversation_id": "2091119924559466973",
+        "created_at": "2026-08-22T13:00:06.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091148408044081641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091148408044081641",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091119924559466973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 請見化學閹割\n其實真的挺不錯的 還能達到預防再犯的目的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091148561241297017",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157,
+          "following_count": 875,
+          "like_count": 6788,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 2467
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T01:41:22.000Z",
+        "description": "男娘/mtf/🍥/Femboy/sissy/三性\n想認識的都可以聊聊喔~\n（偷偷跟你們講 有按追蹤的私訊比較容易被回🤭🤭\n不定期拍出好看的照片就會發 希望大家捧場囉\n偶爾搞抽象（包含但不限於鍵政 罵人 碎碎唸 圖文不符）\n拜託大家點個關注吧🥺",
+        "id": "1801067258682478592",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2091148408044081641",
+        "name": "男娘xing_yu⭐🐟🏳️‍⚧️",
+        "pinned_tweet_id": "2084672497157607427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801067258682478592/1785325105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091117056355958784/XtFqS4gV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 121,
+          "like_count": 187,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "FemboyQueenCat",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

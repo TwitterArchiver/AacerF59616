@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086172463705284917",
+    "created_at": "2026-08-08T19:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T20:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086172463705284917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xersy37737/sta…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/xersy37737/status/2086150663525023925",
+          "start": 128,
+          "url": "https://t.co/KYuPoP51kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086172463705284917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086150663525023925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你认同自己是女孩子，那便是女孩子，不需要「证明」。姐妹们，你们什么时候才能意识到靠外在特征去判断性别认同是完全不靠谱的，所谓的「像真正的女孩子」就是「像顺女」罢了，为什么你们总是要以融入或成为顺性别作为自己的唯一目标啊……这显得你们就像顺女的卑微下位一样 https://t.co/KYuPoP51kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086172463705284917",
+        "created_at": "2026-08-08T19:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086172463705284917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xersy37737/sta…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/xersy37737/status/2086150663525023925",
+              "start": 128,
+              "url": "https://t.co/KYuPoP51kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086172463705284917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086150663525023925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你认同自己是女孩子，那便是女孩子，不需要「证明」。姐妹们，你们什么时候才能意识到靠外在特征去判断性别认同是完全不靠谱的，所谓的「像真正的女孩子」就是「像顺女」罢了，为什么你们总是要以融入或成为顺性别作为自己的唯一目标啊……这显得你们就像顺女的卑微下位一样 https://t.co/KYuPoP51kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004949131450867712",
+        "conversation_id": "2086150663525023925",
+        "created_at": "2026-08-08T18:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T19:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086150663525023925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086150663525023925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得我还是女孩子喵。但是跟很多跨女姐妹们比，我离女孩子差太远了。所以我才反复要脱跨，对不起，我是个反复无常的人。\n跨性别的定义应该是只要性别认同和指派性别不一致就算吧。我这样的也可以算吗……请你们不要排斥我，不要觉得我恶心好吗。\n我真的很想成为女孩子，虽然我很笨，也很没有勇气，更是没什么行动力，但是我每一天都在为这个目标努力一点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我还是女孩子喵。但是跟很多跨女姐妹们比，我离女孩子差太远了。所以我才反复要脱跨，对不起，我是个反复无常的人。\n跨性别的定义应该是只要性别认同和指派性别不一致就算吧。我这样的也可以算吗……请你们不要排斥我，不要觉得我恶心好吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 769,
+          "like_count": 5271,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 1613
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "只是一个苦逼的CS学生……早知道不学计算机了喵;Communist/Maoist/远视主义;MTX/梦想是成为猫娘；分享每天的奇思妙想和计算机相关日常。",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 57,
+          "like_count": 2996,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": true
+      }
+    ]
+  }
+}

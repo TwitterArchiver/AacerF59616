@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2074855968631066793",
+    "created_at": "2026-07-08T14:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074868559227093205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1472419244126388226",
+          "start": 0,
+          "username": "Fubuki_027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074868559227093205",
+    "in_reply_to_user_id": "1472419244126388226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074855968631066793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fubuki_027 呜呜呜看着就痛，补药割啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2219,
+        "media_key": "3_2074855965590233088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtegfUbIAAejpc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2074855968631066793",
+        "created_at": "2026-07-08T14:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074868559227093205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1472419244126388226",
+              "start": 0,
+              "username": "Fubuki_027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074868559227093205",
+        "in_reply_to_user_id": "1472419244126388226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074855968631066793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fubuki_027 呜呜呜看着就痛，补药割啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074855965590233088"
+          ]
+        },
+        "author_id": "1472419244126388226",
+        "conversation_id": "2074855968631066793",
+        "created_at": "2026-07-08T13:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074855968631066793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mhbKK39Oj",
+              "end": 39,
+              "expanded_url": "https://x.com/Fubuki_027/status/2074855968631066793/photo/1",
+              "media_key": "3_2074855965590233088",
+              "start": 16,
+              "url": "https://t.co/7mhbKK39Oj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074855968631066793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听了某人的建议竖着割，好痛…… https://t.co/7mhbKK39Oj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 398,
+          "like_count": 2617,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-19T04:11:30.000Z",
+        "description": "🏳️‍⚧️我喜欢你🏳️‍⚧️ | INFP | MtX | 无证低糖 | 已炸柜家暴党 | 重生日2026.5.8 | 小号 @Rinfen_027 | 请多指教🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Rinfen_027"
+              }
+            ]
+          }
+        },
+        "id": "1472419244126388226",
+        "name": "Rinfen27.🍥",
+        "pinned_tweet_id": "2067391398488441144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066320077000228864/GiHJ7Exj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 1299,
+          "like_count": 3523,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 2492
+        },
+        "url": "",
+        "username": "Fubuki_027",
+        "verified": false
+      }
+    ]
+  }
+}

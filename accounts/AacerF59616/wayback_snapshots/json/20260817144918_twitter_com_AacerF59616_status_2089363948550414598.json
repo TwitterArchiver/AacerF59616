@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2089363948550414598",
+    "created_at": "2026-08-17T14:49:18.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089363948550414598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longyvling/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/longyvling/status/2089361636167495830",
+          "start": 36,
+          "url": "https://t.co/FkyXJoZxUv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089363948550414598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089361636167495830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊……好吧，我承认这个玩笑开过了，泠羽也是跟着我发的，问题在我，我道歉 https://t.co/FkyXJoZxUv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2089363948550414598",
+        "created_at": "2026-08-17T14:49:18.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089363948550414598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/longyvling/status/2089361636167495830",
+              "start": 36,
+              "url": "https://t.co/FkyXJoZxUv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089363948550414598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089361636167495830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊……好吧，我承认这个玩笑开过了，泠羽也是跟着我发的，问题在我，我道歉 https://t.co/FkyXJoZxUv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2089361636167495830",
+        "created_at": "2026-08-17T14:40:07.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089361636167495830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2089256323259204029",
+              "start": 79,
+              "url": "https://t.co/8aFw8cgCqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089361636167495830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089256323259204029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们一个一个能不能不要再提亚硝酸钠了\n这一点都不好玩也不值得好奇\n你没有别的意思\n不代表别人也没有\n这个东西能杀人啊……\n难道你们喜欢当不负责任的杀人凶手吗 https://t.co/8aFw8cgCqV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2089363948550414598",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 864,
+          "like_count": 6210,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | AuDHD | 🎂2010.1.3 | 🍥2026.5.18 | CPhO现役 | 中国西南某山城北部 | 悟往者之不谏，知来者之可追，实迷途之未远 | 再见了上帝，我要去独自旅行",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜孤灯",
+        "most_recent_tweet_id": "2089361636167495830",
+        "name": "龙雨绫🍥",
+        "pinned_tweet_id": "2087364969373335788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 304,
+          "like_count": 4170,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

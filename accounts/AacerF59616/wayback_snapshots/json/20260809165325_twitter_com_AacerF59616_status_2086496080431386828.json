@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086496080431386828",
+    "created_at": "2026-08-09T16:53:25.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T17:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086496080431386828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2086492419550589127",
+          "start": 95,
+          "url": "https://t.co/YAnnwzadjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086496080431386828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086492419550589127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就你妈的因为一部分人，然后你就他妈开始搁那借题发挥了，跨性别实际上只是LGBTQIA+里的一小部分而已，同性恋 双性恋 间性者 无性恋这些就这样给你全归类进跨里了是不是？你搁那滑你妈的坡呢 https://t.co/YAnnwzadjb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086496080431386828",
+        "created_at": "2026-08-09T16:53:25.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086496080431386828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2086492419550589127",
+              "start": 95,
+              "url": "https://t.co/YAnnwzadjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086496080431386828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086492419550589127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就你妈的因为一部分人，然后你就他妈开始搁那借题发挥了，跨性别实际上只是LGBTQIA+里的一小部分而已，同性恋 双性恋 间性者 无性恋这些就这样给你全归类进跨里了是不是？你搁那滑你妈的坡呢 https://t.co/YAnnwzadjb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086492419550589127",
+        "created_at": "2026-08-09T16:38:52.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086492419550589127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxianACT/sta…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/maoxianACT/status/2086155491831582919",
+              "start": 113,
+              "url": "https://t.co/XBmRP0uCrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086492419550589127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086155491831582919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说得对但是，即使按照0.5%的人群占比率来算，全中国也有700万左右的跨儿，不管是感觉上还是实际上，中推跨圈都不是一个百万人级别的圈子，实际人数并没有想象中的多，如果你觉得这点人就可以代表七百万跨儿的话那有点太以偏概全了点 https://t.co/XBmRP0uCrc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086496080431386828",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 770,
+          "like_count": 5295,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 1643
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

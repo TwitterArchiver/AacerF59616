@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2074990288385495151",
+    "created_at": "2026-07-08T22:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T23:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074990288385495151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Letana358121/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Letana358121/status/2074756615115579774",
+          "start": 21,
+          "url": "https://t.co/2iQOW4Aip1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074990288385495151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074756615115579774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这年头怎么有个心理状态都得需要门槛了…… https://t.co/2iQOW4Aip1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2074990288385495151",
+        "created_at": "2026-07-08T22:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T23:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074990288385495151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Letana358121/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Letana358121/status/2074756615115579774",
+              "start": 21,
+              "url": "https://t.co/2iQOW4Aip1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074990288385495151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074756615115579774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这年头怎么有个心理状态都得需要门槛了…… https://t.co/2iQOW4Aip1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669543422586421248",
+        "conversation_id": "2074756615115579774",
+        "created_at": "2026-07-08T07:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074756615115579774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074756615115579774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1794,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么这么搞笑啊啥叫做维护跨女群体的纯净度。。。一堆人这么喜欢给跨性别上门槛最后到底会怎么样我真的不好说哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 405,
+          "like_count": 2642,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T03:12:43.000Z",
+        "description": "Pour ne plus jamais avoir à mentir à mon reflet，\nPour enfin devenir le papillon que j’espérais/ @Yao_freezer❤️/🇲🇴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "Yao_freezer"
+              }
+            ]
+          }
+        },
+        "id": "1669543422586421248",
+        "location": "她的怀中",
+        "name": "SANAKA",
+        "pinned_tweet_id": "2068706275102478372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066462983572905985/yxZBQxCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 1558,
+          "like_count": 60216,
+          "listed_count": 7,
+          "media_count": 2380,
+          "tweet_count": 21715
+        },
+        "url": "",
+        "username": "Letana358121",
+        "verified": true
+      }
+    ]
+  }
+}

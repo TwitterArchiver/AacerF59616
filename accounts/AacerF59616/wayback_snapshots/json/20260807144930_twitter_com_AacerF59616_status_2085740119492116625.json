@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085740119492116625",
+    "created_at": "2026-08-07T14:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085740119492116625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2085730061827875267",
+          "start": 141,
+          "url": "https://t.co/Q88SO7EaAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085740119492116625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085730061827875267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为二元性别本就是一套为了方便计算和管理的简化模型，并不存在所谓的「标准男性」或者「标准女性」，不管是在生物学还是自我认同方面，性别都不是非黑即白的或者二元对立的，而且你不觉得你提出的问题就是建立在一个二元性别成立的预设之上的吗，照着箭头画靶子，试图用「既有现状」反证「规则合理」 https://t.co/Q88SO7EaAn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085740119492116625",
+        "created_at": "2026-08-07T14:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085740119492116625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2085730061827875267",
+              "start": 141,
+              "url": "https://t.co/Q88SO7EaAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085740119492116625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085730061827875267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为二元性别本就是一套为了方便计算和管理的简化模型，并不存在所谓的「标准男性」或者「标准女性」，不管是在生物学还是自我认同方面，性别都不是非黑即白的或者二元对立的，而且你不觉得你提出的问题就是建立在一个二元性别成立的预设之上的吗，照着箭头画靶子，试图用「既有现状」反证「规则合理」 https://t.co/Q88SO7EaAn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2085717636449743176",
+        "created_at": "2026-08-07T14:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085730061827875267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085730061827875267",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085717636449743176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 为什么性别不是二元的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 765,
+          "like_count": 5220,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 1569
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 119,
+                "expanded_url": "http://2345.lgbt",
+                "start": 96,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "埃迪卡拉纪",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2085674114535317860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 343,
+          "like_count": 12660,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true
+      }
+    ]
+  }
+}

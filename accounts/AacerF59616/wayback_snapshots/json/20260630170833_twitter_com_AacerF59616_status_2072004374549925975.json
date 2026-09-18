@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071872972382687562",
+    "created_at": "2026-06-30T17:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T18:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072004374549925975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022208955917979648",
+          "start": 0,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072004374549925975",
+    "in_reply_to_user_id": "2022208955917979648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071872972382687562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1r4i 这个是国产仿制药，思诺思是原研药，理论上差距不会很大，但实际上仿制药在很多情况下都比原研药略差一些，主要还是节省研发成本所以可以压价"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2071872815205097472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDFWSIWoAA-ra0.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071872972382687562",
+        "created_at": "2026-06-30T17:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T18:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072004374549925975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072004374549925975",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071872972382687562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 这个是国产仿制药，思诺思是原研药，理论上差距不会很大，但实际上仿制药在很多情况下都比原研药略差一些，主要还是节省研发成本所以可以压价"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071872815205097472"
+          ]
+        },
+        "author_id": "2022208955917979648",
+        "conversation_id": "2071872972382687562",
+        "created_at": "2026-06-30T08:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071872972382687562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nuXUBDuO1n",
+              "end": 48,
+              "expanded_url": "https://x.com/Ak1r4i/status/2071872972382687562/photo/1",
+              "media_key": "3_2071872815205097472",
+              "start": 25,
+              "url": "https://t.co/nuXUBDuO1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071872972382687562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2131,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天开到了国产唑吡坦呢 这个跟思诺思有什么区别？ https://t.co/nuXUBDuO1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 293,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\nMtf 无证含糖🍥/OD/休学中/毛绒玩具重度依赖  求求互fo🥹",
+        "id": "2022208955917979648",
+        "name": "惺🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071134075751211008/RPLFxoUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 53,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

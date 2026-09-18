@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088578961806946785",
+    "created_at": "2026-08-15T10:50:03.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T11:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088578961806946785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xue_zhi2008/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/xue_zhi2008/status/2088502103669174589",
+          "start": 142,
+          "url": "https://t.co/UYrjFozkh4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088578961806946785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088502103669174589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是很好说，因为不管是作为文化符号的LGBTQIA+，还是更为客观的SGM，其实都是很笼统的伞形词，是需要考虑只能接受性取向少数或者只能接受性别少数这种选择性接受的情况的。\n\n至少我妈可以接受我是mtf，但并不能接受我喜欢男生，这种情况下其实很难单纯用「接受」或者「不接受」去判断。 https://t.co/UYrjFozkh4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088578961806946785",
+        "created_at": "2026-08-15T10:50:03.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088578961806946785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xue_zhi2008/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/2088502103669174589",
+              "start": 142,
+              "url": "https://t.co/UYrjFozkh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088578961806946785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088502103669174589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是很好说，因为不管是作为文化符号的LGBTQIA+，还是更为客观的SGM，其实都是很笼统的伞形词，是需要考虑只能接受性取向少数或者只能接受性别少数这种选择性接受的情况的。\n\n至少我妈可以接受我是mtf，但并不能接受我喜欢男生，这种情况下其实很难单纯用「接受」或者「不接受」去判断。 https://t.co/UYrjFozkh4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "2088502103669174589",
+        "created_at": "2026-08-15T05:44:38.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088502103669174589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088502103669174589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得双方能不能接受孩子是LGBT+应该作为判断夫妻三观是否相合的重要指标"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088578961806946785",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 803,
+          "like_count": 5877,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2058
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n观上下至前后，知里外于左右 || 过期JK（悲）/医学与药物/有机化学/分子生物学/逻辑学/声乐/摄影（喜欢是一方面，啊我太菜了×）|| Arknights/Endfield/maimaiDX || 查完成分记得 ↑是我的投影 ↓是鲜活的我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088509086283579534",
+        "name": "织织织织织",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703297947121901568/1738898651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024737262987251713/RPkPlRXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 558,
+          "like_count": 8013,
+          "listed_count": 9,
+          "media_count": 829,
+          "tweet_count": 3145
+        },
+        "url": "",
+        "username": "xue_zhi2008",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

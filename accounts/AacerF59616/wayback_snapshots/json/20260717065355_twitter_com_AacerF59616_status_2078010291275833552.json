@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2078010291275833552",
+    "created_at": "2026-07-17T06:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078010291275833552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Leiting4s/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Leiting4s/status/2077989254882615439",
+          "start": 43,
+          "url": "https://t.co/NzJRzBbLvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078010291275833552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077989254882615439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "单纯口癖罢了，这都要找茬然后再借机说一下“你是个男的” “你永远都没法变成女的”吗？ https://t.co/NzJRzBbLvQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078010291275833552",
+        "created_at": "2026-07-17T06:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078010291275833552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Leiting4s/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Leiting4s/status/2077989254882615439",
+              "start": 43,
+              "url": "https://t.co/NzJRzBbLvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078010291275833552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077989254882615439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "单纯口癖罢了，这都要找茬然后再借机说一下“你是个男的” “你永远都没法变成女的”吗？ https://t.co/NzJRzBbLvQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077714153360457728",
+        "conversation_id": "2077826949339394328",
+        "created_at": "2026-07-17T05:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077989254882615439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077989254882615439",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077826949339394328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 说话加喵是和意为，不会真的以为加个字就是女的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 466,
+          "like_count": 3214,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 994
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:19:21.000Z",
+        "description": "",
+        "id": "2077714153360457728",
+        "name": "Leiting",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Leiting4s",
+        "verified": false
+      }
+    ]
+  }
+}

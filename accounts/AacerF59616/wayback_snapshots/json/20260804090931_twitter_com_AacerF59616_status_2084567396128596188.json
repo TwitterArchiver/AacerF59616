@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084567396128596188",
+    "created_at": "2026-08-04T09:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084567396128596188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/INKr170RA/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/INKr170RA/status/2084496527771463888",
+          "start": 27,
+          "url": "https://t.co/p5iNUxl1dN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084567396128596188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084496527771463888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没问题在哪，这不经典短命论言论吗？依旧是错误归因这块 https://t.co/p5iNUxl1dN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084567396128596188",
+        "created_at": "2026-08-04T09:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084567396128596188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/INKr170RA/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/INKr170RA/status/2084496527771463888",
+              "start": 27,
+              "url": "https://t.co/p5iNUxl1dN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084567396128596188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084496527771463888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没问题在哪，这不经典短命论言论吗？依旧是错误归因这块 https://t.co/p5iNUxl1dN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084213072466714624",
+        "conversation_id": "2084202825605677308",
+        "created_at": "2026-08-04T04:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084496527771463888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781868776918790144",
+              "start": 0,
+              "username": "Kazama_Nagi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084496527771463888",
+        "in_reply_to_user_id": "1781868776918790144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084202825605677308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kazama_Nagi_ 虽然但是这话其实说的是没问题的，吃这些东西就是在给自己上强度，小身板扛不住的早就美美飞升了，也不说推特上死了多少这样的人，光是能列举出来的就有将近30多号人，这些人不也是大多数扛不住这样的药，你现在吃不死不是说别人吃了也不会死，你只是在提前透支未来罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 745,
+          "like_count": 4972,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-03T09:43:06.000Z",
+        "description": "",
+        "id": "2084213072466714624",
+        "name": "天王星的秋刀鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084243068975501312/gHlzTbn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "INKr170RA",
+        "verified": false
+      }
+    ]
+  }
+}

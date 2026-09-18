@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067983001712017781",
+    "created_at": "2026-06-19T20:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068070387917992044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809084384563376128",
+          "start": 0,
+          "username": "SofHAvVenn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068070387917992044",
+    "in_reply_to_user_id": "1809084384563376128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067983001712017781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SofHAvVenn 炔雌醇似乎只能考虑当雌二醇短期替代，长期使用的话血栓风险太高了好像，感觉完全没必要为了省这点明面上的账去冒这么大的风险喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067983001712017781",
+        "created_at": "2026-06-19T20:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068070387917992044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809084384563376128",
+              "start": 0,
+              "username": "SofHAvVenn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068070387917992044",
+        "in_reply_to_user_id": "1809084384563376128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067983001712017781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SofHAvVenn 炔雌醇似乎只能考虑当雌二醇短期替代，长期使用的话血栓风险太高了好像，感觉完全没必要为了省这点明面上的账去冒这么大的风险喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809084384563376128",
+        "conversation_id": "2067983001712017781",
+        "created_at": "2026-06-19T14:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067983001712017781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067983001712017781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1545,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实目前最低成本就是戊酸雌二醇（补）还有螺内酯，前者2mg（一月小一百）后者100～200mg（一个月30）即可，如果前者价格不易负担的话可以购买炔雌醇（避孕药）。\nPS:炔雌醇的副作用极大，慎重考虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 123,
+          "like_count": 1347,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T04:38:31.000Z",
+        "description": "含糖mtx | 17岁 | 169cm 53kg | 家暴党\n\n一只绝望上学中的小药娘\n希望所有人都能拥有美好的人生\n不管您曾经经历了什么，我都希望喜乐和幸福能眷顾您",
+        "id": "1809084384563376128",
+        "location": "Nevermind",
+        "name": "一只猹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054541755416981504/3bucXgI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 40,
+          "like_count": 983,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "SofHAvVenn",
+        "verified": false
+      }
+    ]
+  }
+}

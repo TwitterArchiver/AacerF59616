@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067492276079915265",
+    "created_at": "2026-06-18T07:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067511373903561069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625827272090431488",
+          "start": 0,
+          "username": "jqdsn33865976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067511373903561069",
+    "in_reply_to_user_id": "1625827272090431488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067492276079915265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jqdsn33865976 哇呜，是漂亮姐姐～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4086,
+        "height": 1280,
+        "media_key": "7_2067492247239790592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067492247239790592/pu/img/Q6u7RVMyWTZdwWNE.jpg",
+        "public_metrics": {
+          "view_count": 86
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067492247239790592/pu/vid/avc1/320x568/Rjfc5P87jEAUe7mM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067492247239790592/pu/vid/avc1/480x852/8EPlzQ1NFcQBLOm9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067492247239790592/pu/vid/avc1/720x1280/s8paCH_lkRoWMUfq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067492247239790592/pu/pl/AtKI5a5W6QlJWYSr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067492276079915265",
+        "created_at": "2026-06-18T07:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067511373903561069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625827272090431488",
+              "start": 0,
+              "username": "jqdsn33865976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067511373903561069",
+        "in_reply_to_user_id": "1625827272090431488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067492276079915265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jqdsn33865976 哇呜，是漂亮姐姐～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067492247239790592"
+          ]
+        },
+        "author_id": "1625827272090431488",
+        "conversation_id": "2067492276079915265",
+        "created_at": "2026-06-18T06:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067492276079915265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqkzhmkeuE",
+              "end": 36,
+              "expanded_url": "https://x.com/jqdsn33865976/status/2067492276079915265/video/1",
+              "media_key": "7_2067492247239790592",
+              "start": 13,
+              "url": "https://t.co/sqkzhmkeuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067492276079915265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 378,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "超级萌有没有 ？\n#男娘 https://t.co/sqkzhmkeuE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 115,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 387
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T12:00:13.000Z",
+        "description": "含糖三年多/07/接三角洲或者其他游戏陪玩/人美声甜满足你情绪价值/不喜欢傻子/很好说话但是不代表我没有脾气/私只回🚪",
+        "id": "1625827272090431488",
+        "location": "🚪50解锁好友位🚪100解锁福利🚪520置顶解锁粘人精",
+        "name": "小厨神🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057699793779257344/sv4JOBhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 9,
+          "like_count": 6,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "username": "jqdsn33865976",
+        "verified": false
+      }
+    ]
+  }
+}

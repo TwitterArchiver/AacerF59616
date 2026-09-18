@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2073601512815878508",
+    "created_at": "2026-07-05T02:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073601512815878508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QY404MTF/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/QY404MTF/status/2073426518534185179",
+          "start": 23,
+          "url": "https://t.co/fHOBSB3IIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073601512815878508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073426518534185179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玛雅大姐咱可不想在秋叶刷到你哈🙄，好好活着喵 https://t.co/fHOBSB3IIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073426498258948096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZKaiibUAAQnfB.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2073601512815878508",
+        "created_at": "2026-07-05T02:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073601512815878508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QY404MTF/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/QY404MTF/status/2073426518534185179",
+              "start": 23,
+              "url": "https://t.co/fHOBSB3IIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073601512815878508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073426518534185179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玛雅大姐咱可不想在秋叶刷到你哈🙄，好好活着喵 https://t.co/fHOBSB3IIR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073426498258948096"
+          ]
+        },
+        "author_id": "886641021588611072",
+        "conversation_id": "2073426518534185179",
+        "created_at": "2026-07-04T15:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073426518534185179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cZvx13EF0",
+              "end": 29,
+              "expanded_url": "https://x.com/QY404MTF/status/2073426518534185179/photo/1",
+              "media_key": "3_2073426498258948096",
+              "start": 6,
+              "url": "https://t.co/8cZvx13EF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073426518534185179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 865,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要买吗… https://t.co/8cZvx13EF0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 372,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T17:37:47.000Z",
+        "description": "MTF/X｜长在春风里，活在药效里｜普瑞巴林重度依赖｜odzc｜生产日期：2008.11.25｜hrt起始日：2025.5.31｜常驻长春，偶尔济南｜戒断中｜割腕吞药复活ing",
+        "id": "886641021588611072",
+        "name": "千夜404🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071580598192476389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073047316551118849/PgWgEcph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 67,
+          "like_count": 168,
+          "listed_count": 23,
+          "media_count": 25,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "QY404MTF",
+        "verified": false
+      }
+    ]
+  }
+}

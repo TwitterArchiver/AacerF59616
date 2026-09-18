@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071636838167568633",
+    "created_at": "2026-06-30T15:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071984529116725527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013544170292674561",
+          "start": 0,
+          "username": "AmioYuuka15162"
+        },
+        {
+          "end": 27,
+          "id": "2004949131450867712",
+          "start": 16,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071984529116725527",
+    "in_reply_to_user_id": "2013544170292674561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071981531623776667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmioYuuka15162 @xersy37737 噢，是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071636838167568633",
+        "created_at": "2026-06-30T15:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071984529116725527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013544170292674561",
+              "start": 0,
+              "username": "AmioYuuka15162"
+            },
+            {
+              "end": 27,
+              "id": "2004949131450867712",
+              "start": 16,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071984529116725527",
+        "in_reply_to_user_id": "2013544170292674561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071981531623776667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmioYuuka15162 @xersy37737 噢，是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013544170292674561",
+        "conversation_id": "2071636838167568633",
+        "created_at": "2026-06-30T15:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071981531623776667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004949131450867712",
+              "start": 0,
+              "username": "xersy37737"
+            },
+            {
+              "end": 24,
+              "id": "1929798380240465921",
+              "start": 12,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071981531623776667",
+        "in_reply_to_user_id": "2004949131450867712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071972428910063630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xersy37737 @AacerF59616 巴黎奥运会那种白左作秀和现在的跨性别现况我是感觉没什么相关的……真正的跨性别还是趁早和那些政治化，标签化的内容切割了好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 283,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T09:28:46.000Z",
+        "description": "Name created by Myself\nEverything u see here are fake due to personal choice\nBackground shot when i test the fking ms-challenger motherboard haha",
+        "id": "2013544170292674561",
+        "location": "Geneva",
+        "name": "MeicroSn0w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055603394111500288/rtDcGbxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 26,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "AmioYuuka15162",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Radical Communist,TransLes,Machine Learning Worker,Good Cat.",
+        "id": "2004949131450867712",
+        "location": "数据层",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 35,
+          "like_count": 2016,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "xersy37737",
+        "verified": true
+      }
+    ]
+  }
+}

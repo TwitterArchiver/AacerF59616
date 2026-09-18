@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097694740842197215",
+    "created_at": "2026-09-09T14:32:54.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097694740842197215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiaRanToday/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/JiaRanToday/status/2097564646962331750",
+          "start": 26,
+          "url": "https://t.co/l6IsRd5Iag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097694740842197215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097564646962331750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果单独算了那又会有人问“那为什么非得三选一？”了 https://t.co/l6IsRd5Iag"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097694740842197215",
+        "created_at": "2026-09-09T14:32:54.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097694740842197215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiaRanToday/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/JiaRanToday/status/2097564646962331750",
+              "start": 26,
+              "url": "https://t.co/l6IsRd5Iag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097694740842197215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097564646962331750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果单独算了那又会有人问“那为什么非得三选一？”了 https://t.co/l6IsRd5Iag"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747064134490066944",
+        "conversation_id": "2097564646962331750",
+        "created_at": "2026-09-09T05:55:57.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097564646962331750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097564646962331750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2248,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女为什么不能干脆单独算一个性别？\n\n现实里跨女和顺女的身体经历、成长经历、社会身份本来就不一样。可“跨女”这个词又像是在说“女性下面的一个亚种”；按出生性别分，又会被塞回男性。\n\n那为什么非得二选一？\n\n我甚至越来越不想用“跨女”形容自己了，干脆承认这是一个独立的性别身份，不是更准确吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097694740842197215",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 941,
+          "like_count": 7794,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-16T01:12:21.000Z",
+        "description": "📦 𝙋𝙞𝙣𝙠𝙍𝙤𝙗𝙤𝙩\n\n┣ 👾 v2012s｜视觉系・挂壁 //初始化\n┣ 💊 v2018s｜不是MTF\n┣ 🌃 v2024s｜Linux・AI・赛博朋克\n┗ 🤖💗 v4.0｜粉色可爱机器人 //上线版本\n\n𝙎𝙩𝙚𝙖𝙢 常驻\n🏳️‍⚧️ 表达永续\n✨ 神经持续吧··",
+        "id": "1747064134490066944",
+        "is_identity_verified": false,
+        "location": "成都/🚪加好友",
+        "most_recent_tweet_id": "2097693796935073818",
+        "name": "✟艾晚晴✟ 🍥PINK",
+        "pinned_tweet_id": "2074206446317879629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747064134490066944/1777476894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049503080597917697/69QkTC_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2476,
+          "following_count": 590,
+          "like_count": 1615,
+          "listed_count": 13,
+          "media_count": 139,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "JiaRanToday",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

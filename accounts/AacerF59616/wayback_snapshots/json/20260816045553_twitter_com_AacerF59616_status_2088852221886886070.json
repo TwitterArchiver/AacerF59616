@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2088852221886886070",
+    "created_at": "2026-08-16T04:55:53.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088852221886886070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mirro_zinuo/st…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/Mirro_zinuo/status/2088802576212881791",
+          "start": 100,
+          "url": "https://t.co/OLYhdNYlsx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088852221886886070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088802576212881791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至少我确实没感觉到获取雌二醇的难度有什么提升，拿个女证依旧六盒六盒的买。说来说去感觉还是小证可能没用的问题，我对所谓的「正规治疗」没有任何好感，也不打算遵守什么医疗规范，小证在我看来也就是张破纸罢了 https://t.co/OLYhdNYlsx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2088802572895178752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34NW0AA8ogy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1048,
+        "media_key": "3_2088802572911923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34RWUAAbkNn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2088802572895227904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34NXkAAdDw1.jpg",
+        "width": 1647
+      },
+      {
+        "height": 1197,
+        "media_key": "3_2088802572899340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPzq34OWUAARHU2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2088852221886886070",
+        "created_at": "2026-08-16T04:55:53.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088852221886886070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mirro_zinuo/st…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/Mirro_zinuo/status/2088802576212881791",
+              "start": 100,
+              "url": "https://t.co/OLYhdNYlsx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088852221886886070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088802576212881791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至少我确实没感觉到获取雌二醇的难度有什么提升，拿个女证依旧六盒六盒的买。说来说去感觉还是小证可能没用的问题，我对所谓的「正规治疗」没有任何好感，也不打算遵守什么医疗规范，小证在我看来也就是张破纸罢了 https://t.co/OLYhdNYlsx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088802572895178752",
+            "3_2088802572911923200",
+            "3_2088802572895227904",
+            "3_2088802572899340288"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2088802576212881791",
+        "created_at": "2026-08-16T01:38:36.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T02:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088802576212881791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895178752",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572911923200",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572895227904",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            },
+            {
+              "display_url": "pic.x.com/rk3eXRQeJb",
+              "end": 105,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2088802576212881791/photo/1",
+              "media_key": "3_2088802572899340288",
+              "start": 82,
+              "url": "https://t.co/rk3eXRQeJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088802576212881791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088802572895178752"
+          },
+          {
+            "media_key": "3_2088802572911923200"
+          },
+          {
+            "media_key": "3_2088802572895227904"
+          },
+          {
+            "media_key": "3_2088802572899340288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。\n\n直到我被釋放後還有聲音批評：禁令沒有真的影響HRT藥物取得，淘寶、拼多多、京東主流電商只是換個說法——「本地診所預約留藥」、線下開方再發快遞——照賣不誤。是我們在炒作，我們太激進反而影響了普通跨性別者。\n\n上個月我們實測——在電商端，即使有線下「性別不一致」相關荷爾蒙治療處方，線上仍系統攔截無法購藥；在快遞端，我們嘗試寄藥也被拒絕。\n\n而在中國線下醫院跨性別醫療資源嚴重匱乏，僅集中在北上廣和部分省會城市，根本無法滿足全國跨性別者特別是長期用藥需求，還不斷被拉閘——線下醫院也出現系統攔截無法開方。在這樣的情況下，將天然荷爾蒙偷偷塞進\"用藥風險較高、禁止網絡銷售”的名單就是赤裸裸的惡意。\n\n同時附上2022年的對比。\n\n早已預料到今天會發生，因為一旦這樣的口子一開，今天這樣的情況的發生就是無法抑制之事。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2927,
+          "like_count": 76,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "這個事情我在2022年就警告過，當時我也是關於草案意見徵集的信訪運動及上訪運動發起人。\n\n後來的事情大家也知道了，牢糯喜提一年十個月有期徒刑，罪名是：尋釁滋事罪。 https://t.co/rk3eXRQeJb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088852221886886070",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 820,
+          "like_count": 5978,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamaboko.ngo",
+                "end": 23,
+                "expanded_url": "http://www.kamaboko.ngo",
+                "start": 0,
+                "url": "https://t.co/T24e8vg2iF"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "is_identity_verified": false,
+        "location": "@KamabokoNGO",
+        "most_recent_tweet_id": "2088816931981647878",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887069376031182848/1740695486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 228,
+          "like_count": 5640,
+          "listed_count": 11,
+          "media_count": 294,
+          "tweet_count": 1684
+        },
+        "url": "https://t.co/T24e8vg2iF",
+        "username": "Mirro_zinuo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

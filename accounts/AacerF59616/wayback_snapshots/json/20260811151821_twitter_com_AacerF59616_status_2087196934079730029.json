@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087196374546911354",
+    "created_at": "2026-08-11T15:18:21.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087196934079730029"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087196934079730029",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087196374546911354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "刚刚打错个字，「GAHT」打成了「GART」，现已修改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087196374546911354",
+        "created_at": "2026-08-11T15:18:21.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087196934079730029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087196934079730029",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087196374546911354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刚刚打错个字，「GAHT」打成了「GART」，现已修改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087196374546911354",
+        "created_at": "2026-08-11T15:16:08.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:51:27.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087190163025981544",
+          "2087190552781733937",
+          "2087196374546911354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087196374546911354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本人决定完全延续自己的跨籍，因为本人发现自己只是会对男性性征产生轻微焦虑恶心，轻微厌恶自己的生殖器，被当成女性也会感到非常开心，被当成男性会感到轻微难过，未经过多次尝试自我扭转和逃避现实，不知道有没有效，遂尝试GAHT减轻痛苦，但本人深知自己是跨，且与ICD-11中关于跨性别的诊断内容相符（指派性别与经验性别不一致），目前看来本人只是个脑子没有病的阳光跨直女，还请大家以她/she/her代词称呼我，希望未来科技发展可以让我更好的以经验性别的样子生活🥰🥰"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人决定完全延续自己的跨籍，因为本人发现自己只是会对男性性征产生轻微焦虑恶心，轻微厌恶自己的生殖器，被当成女性也会感到非常开心，被当成男性会感到轻微难过，未经过多次尝试自我扭转和逃避现实，不知道有没有效，遂尝试GAHT减轻痛苦，但本人深知自己是跨，且与ICD-11中关于跨性别的诊断内容相符"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087196934079730029",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 779,
+          "like_count": 5493,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1780
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

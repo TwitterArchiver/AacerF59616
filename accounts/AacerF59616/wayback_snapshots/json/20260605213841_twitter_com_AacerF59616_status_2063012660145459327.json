@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063012657100468224",
+        "3_2063012657393999872",
+        "3_2063012657444380672",
+        "3_2063012657347833856"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2063012660145459327",
+    "created_at": "2026-06-05T21:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T22:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063012660145459327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男娘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "伪娘"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "黑丝"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RcNbKSQY10",
+          "end": 57,
+          "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+          "media_key": "3_2063012657100468224",
+          "start": 34,
+          "url": "https://t.co/RcNbKSQY10"
+        },
+        {
+          "display_url": "pic.x.com/RcNbKSQY10",
+          "end": 57,
+          "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+          "media_key": "3_2063012657393999872",
+          "start": 34,
+          "url": "https://t.co/RcNbKSQY10"
+        },
+        {
+          "display_url": "pic.x.com/RcNbKSQY10",
+          "end": 57,
+          "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+          "media_key": "3_2063012657444380672",
+          "start": 34,
+          "url": "https://t.co/RcNbKSQY10"
+        },
+        {
+          "display_url": "pic.x.com/RcNbKSQY10",
+          "end": 57,
+          "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+          "media_key": "3_2063012657347833856",
+          "start": 34,
+          "url": "https://t.co/RcNbKSQY10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063012660145459327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黑丝肉腿喵，时隔五个月咱终于是想起来发推了 #男娘 #伪娘 #黑丝 https://t.co/RcNbKSQY10"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063012657100468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFLFNGbsAAKEx3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063012657393999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFLFOMaoAATl2R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063012657444380672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFLFOYbYAAiplx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063012657347833856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKFLFOBaMAA1UUM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063012657100468224",
+            "3_2063012657393999872",
+            "3_2063012657444380672",
+            "3_2063012657347833856"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2063012660145459327",
+        "created_at": "2026-06-05T21:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T22:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063012660145459327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "伪娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcNbKSQY10",
+              "end": 57,
+              "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+              "media_key": "3_2063012657100468224",
+              "start": 34,
+              "url": "https://t.co/RcNbKSQY10"
+            },
+            {
+              "display_url": "pic.x.com/RcNbKSQY10",
+              "end": 57,
+              "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+              "media_key": "3_2063012657393999872",
+              "start": 34,
+              "url": "https://t.co/RcNbKSQY10"
+            },
+            {
+              "display_url": "pic.x.com/RcNbKSQY10",
+              "end": 57,
+              "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+              "media_key": "3_2063012657444380672",
+              "start": 34,
+              "url": "https://t.co/RcNbKSQY10"
+            },
+            {
+              "display_url": "pic.x.com/RcNbKSQY10",
+              "end": 57,
+              "expanded_url": "https://x.com/AacerF59616/status/2063012660145459327/photo/1",
+              "media_key": "3_2063012657347833856",
+              "start": 34,
+              "url": "https://t.co/RcNbKSQY10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063012660145459327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑丝肉腿喵，时隔五个月咱终于是想起来发推了 #男娘 #伪娘 #黑丝 https://t.co/RcNbKSQY10"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "只是个在Wikidot上写东西的✍🏻📖，平常不会在这推文，更多应该是发发闲聊帖什么的。\n\n名字里带个Gen2是因为之前有个号找不到了（悲）。\n\n🛏️现在躺家里，基本上全天有空，平常可能会上推发发闲聊帖之类的，喜欢或者感兴趣的话点个关注吧，谢谢喵。",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 18,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 18
+        },
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

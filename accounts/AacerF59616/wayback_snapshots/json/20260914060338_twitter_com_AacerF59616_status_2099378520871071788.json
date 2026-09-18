@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099378067529691136",
+        "3_2099378067529715712"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2099378520871071788",
+    "created_at": "2026-09-14T06:03:38.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T07:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099378520871071788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1717388840938135552",
+          "start": 4,
+          "username": "DingGongYinLin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s3acPwEKwp",
+          "end": 114,
+          "expanded_url": "https://x.com/AacerF59616/status/2099378520871071788/photo/1",
+          "media_key": "3_2099378067529691136",
+          "start": 91,
+          "url": "https://t.co/s3acPwEKwp"
+        },
+        {
+          "display_url": "pic.x.com/s3acPwEKwp",
+          "end": 114,
+          "expanded_url": "https://x.com/AacerF59616/status/2099378520871071788/photo/1",
+          "media_key": "3_2099378067529715712",
+          "start": 91,
+          "url": "https://t.co/s3acPwEKwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099378520871071788",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099378067529691136"
+      },
+      {
+        "media_key": "3_2099378067529715712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特别感谢@DingGongYinLin赞助的100块！！！这太多了真的喵，不知道应该说什么了，把这个感谢帖加个亮点吧，总之非常感谢！以及有薄暮的夏天赞助的20块嘻嘻，好诶～爱你们喵 https://t.co/s3acPwEKwp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1306,
+        "media_key": "3_2099378067529691136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJ9OrxacAAWV9A.jpg",
+        "width": 1246
+      },
+      {
+        "height": 1303,
+        "media_key": "3_2099378067529715712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSJ9Orxa0AA4v7a.jpg",
+        "width": 1238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099378067529691136",
+            "3_2099378067529715712"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099378520871071788",
+        "created_at": "2026-09-14T06:03:38.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099378520871071788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1717388840938135552",
+              "start": 4,
+              "username": "DingGongYinLin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3acPwEKwp",
+              "end": 114,
+              "expanded_url": "https://x.com/AacerF59616/status/2099378520871071788/photo/1",
+              "media_key": "3_2099378067529691136",
+              "start": 91,
+              "url": "https://t.co/s3acPwEKwp"
+            },
+            {
+              "display_url": "pic.x.com/s3acPwEKwp",
+              "end": 114,
+              "expanded_url": "https://x.com/AacerF59616/status/2099378520871071788/photo/1",
+              "media_key": "3_2099378067529715712",
+              "start": 91,
+              "url": "https://t.co/s3acPwEKwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099378520871071788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099378067529691136"
+          },
+          {
+            "media_key": "3_2099378067529715712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别感谢@DingGongYinLin赞助的100块！！！这太多了真的喵，不知道应该说什么了，把这个感谢帖加个亮点吧，总之非常感谢！以及有薄暮的夏天赞助的20块嘻嘻，好诶～爱你们喵 https://t.co/s3acPwEKwp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099378520871071788",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 971,
+          "like_count": 7866,
+          "listed_count": 2,
+          "media_count": 544,
+          "tweet_count": 3223
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-26T03:53:18.000Z",
+        "description": "我想自由的歌舞在这片土地",
+        "id": "1717388840938135552",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099376416672657552",
+        "name": "钉宫银琳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717388840938135552/1771354221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023832209636163584/ozoek5lt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 341,
+          "like_count": 23250,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 5224
+        },
+        "url": "",
+        "username": "DingGongYinLin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

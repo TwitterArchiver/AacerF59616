@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2090363528821760473",
+    "created_at": "2026-08-20T09:01:17.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T10:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090363528821760473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiafeimao3591/…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/jiafeimao3591/status/2090338323269038375",
+          "start": 130,
+          "url": "https://t.co/qoGZsG1PTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090363528821760473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090338323269038375",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉稍微有点绝对了，可能是我本身也不是很在乎家里人到底认不认可我吧，我只在乎有没有实际受阻的情况，但至少我目前是没有感受到任何阻力的。\n\n那对方到底怎么想和我也没什么关系了，保持和平现状即可，至于以后的事情，那交给以后的我去处理吧，我没什么帮她作出决策的能力 https://t.co/qoGZsG1PTC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2090363528821760473",
+        "created_at": "2026-08-20T09:01:17.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T10:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090363528821760473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2090338323269038375",
+              "start": 130,
+              "url": "https://t.co/qoGZsG1PTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090363528821760473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090338323269038375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉稍微有点绝对了，可能是我本身也不是很在乎家里人到底认不认可我吧，我只在乎有没有实际受阻的情况，但至少我目前是没有感受到任何阻力的。\n\n那对方到底怎么想和我也没什么关系了，保持和平现状即可，至于以后的事情，那交给以后的我去处理吧，我没什么帮她作出决策的能力 https://t.co/qoGZsG1PTC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2090338323269038375",
+        "created_at": "2026-08-20T07:21:07.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090338323269038375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moningmeng/sta…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/moningmeng/status/2089923742906589588",
+              "start": 156,
+              "url": "https://t.co/f62gcJBv8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090338323269038375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我以前就说，真正的家长党只有一种，那就是家长的价值观里真的对这件事觉得无所谓or个人选择or本身就倾向西方左翼价值的。剩下的所谓“家长党”内心都是不认同跨性别的，只不过出于亲情/对孩子的爱/害怕彻底失去孩子/害怕投资失败而选择暂时不说不吵架。这种叫做tolerate，不叫agree。tolerate时间长了基本上100%出问题，因为他实际上还是不支持跨性别的。所以我之前就说跨女跟家里的斗争属于无法避免，越早越好，你越搁置争议，将来越麻烦🤣🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 808,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089923742906589588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以前就说，真正的家长党只有一种，那就是家长的价值观里真的对这件事觉得无所谓or个人选择or本身就倾向西方左翼价值的。剩下的所谓“家长党”内心都是不认同跨性别的，只不过出于亲情/对孩子的爱/害怕彻底失去孩子/害怕投资失败而选择暂时不说不吵架。这种叫做tolerate，不叫agree。tolerate时间长了基 https://t.co/f62gcJBv8f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2090363528821760473",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 862,
+          "like_count": 6542,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别女🏳️‍⚧️/transles/只喜欢同类，男性勿扰/同类可面基/无证hrt中/荷兰生活6年，现居长春/曾经的化竞党/吉林省省一/JLU化学本科/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，疯批一个",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2090363172989386936",
+        "name": "🏳️‍⚧️坏猪宝宝🐷🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 545,
+          "like_count": 1116,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 1764
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2077418360401478101",
+    "created_at": "2026-07-15T15:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077418360401478101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ScarsTowel616/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/ScarsTowel616/status/2077351428696543256",
+          "start": 17,
+          "url": "https://t.co/QBM3BIjvvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077418360401478101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077351428696543256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在中推圈能算是非常小有名气吗🤔 https://t.co/QBM3BIjvvc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077418360401478101",
+        "created_at": "2026-07-15T15:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077418360401478101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScarsTowel616/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/ScarsTowel616/status/2077351428696543256",
+              "start": 17,
+              "url": "https://t.co/QBM3BIjvvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077418360401478101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077351428696543256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中推圈能算是非常小有名气吗🤔 https://t.co/QBM3BIjvvc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766407744536420352",
+        "conversation_id": "2077351428696543256",
+        "created_at": "2026-07-15T11:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077351428696543256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/1gdsb/status/2077276609648951614",
+              "start": 15,
+              "url": "https://t.co/5mreCk3UdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077351428696543256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077276609648951614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中推圈能算是小有名气吗🧐 https://t.co/5mreCk3UdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 455,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 973
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋超大只疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 107,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 590,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

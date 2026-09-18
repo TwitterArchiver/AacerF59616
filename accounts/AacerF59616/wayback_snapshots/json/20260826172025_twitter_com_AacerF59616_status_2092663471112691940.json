@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092663471112691940",
+    "created_at": "2026-08-26T17:20:25.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092663471112691940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Noa__Shirayuki…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Noa__Shirayuki/status/2092633982651548020",
+          "start": 45,
+          "url": "https://t.co/7ZaJDAdefy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092663471112691940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因为你这句话就是建立在「跨性别女性是男性」的预设下的啊，在最开始就不是一个角度去想问题。\n\n而且你真的不觉得「天生是哪种性别这一世就体验哪种性别」去其实是一种基于生理差异的叙事捆绑吗？生物学性状当然是真实存在的，但‘生理性别’作为一个单一、唯一、能够直接决定一个人的全部性别属性的类别，并不是一个简单的自然事实，事实上我们更多情况下说的还是指派性别，只是不自知罢了。\n\n那么，我被指认为男性，我就真的完完全全是男性吗？我也不明白这个「倒反天罡」又是在哪里？又有什么标准？这些标准是存在的、可被量化的、有准确数值的、均匀分布的，还是说只是一种基于生理差异的建构呢？如果是建构，那为什么要将其唯一化、真理化呢？\n\n这些你都没有回答，当成了本应如此，当成了理所当然，甚至你说的都是「变成女性」和「不完美的变性生活」，而你在这段话里完全没有论证「为什么变性是不完美的」，又是假定成立。\n\n我想请问，一个女性变成女性，这种命题看起来难道不会觉得很奇怪吗？如果你觉得奇怪那就对了，因为这就是把指派性别、经验性别、法律性别、社会性别……这一大堆东西搞混在一起然后统称「性别」导致的。\n\n出生时具有某些生物学特征，那么它最多只能说明：这个人的身体具有某些生物学特征。\n\n而并不能自动推出：因此这个人必须采用某种社会角色、法律身份、生活方式、自我理解和性别表达。因为这中间缺了一整个推理链。\n\n都说sex是sex，gender是gender，其实只要我们换一个思路，不认为sex就是gender，那很多问题其实就有解了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092633982651548020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为你这句话就是建立在「跨性别女性是男性」的预设下的啊，在最开始就不是一个角度去想问题。 https://t.co/7ZaJDAdefy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092663471112691940",
+        "created_at": "2026-08-26T17:20:25.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092663471112691940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Noa__Shirayuki…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Noa__Shirayuki/status/2092633982651548020",
+              "start": 45,
+              "url": "https://t.co/7ZaJDAdefy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092663471112691940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为你这句话就是建立在「跨性别女性是男性」的预设下的啊，在最开始就不是一个角度去想问题。\n\n而且你真的不觉得「天生是哪种性别这一世就体验哪种性别」去其实是一种基于生理差异的叙事捆绑吗？生物学性状当然是真实存在的，但‘生理性别’作为一个单一、唯一、能够直接决定一个人的全部性别属性的类别，并不是一个简单的自然事实，事实上我们更多情况下说的还是指派性别，只是不自知罢了。\n\n那么，我被指认为男性，我就真的完完全全是男性吗？我也不明白这个「倒反天罡」又是在哪里？又有什么标准？这些标准是存在的、可被量化的、有准确数值的、均匀分布的，还是说只是一种基于生理差异的建构呢？如果是建构，那为什么要将其唯一化、真理化呢？\n\n这些你都没有回答，当成了本应如此，当成了理所当然，甚至你说的都是「变成女性」和「不完美的变性生活」，而你在这段话里完全没有论证「为什么变性是不完美的」，又是假定成立。\n\n我想请问，一个女性变成女性，这种命题看起来难道不会觉得很奇怪吗？如果你觉得奇怪那就对了，因为这就是把指派性别、经验性别、法律性别、社会性别……这一大堆东西搞混在一起然后统称「性别」导致的。\n\n出生时具有某些生物学特征，那么它最多只能说明：这个人的身体具有某些生物学特征。\n\n而并不能自动推出：因此这个人必须采用某种社会角色、法律身份、生活方式、自我理解和性别表达。因为这中间缺了一整个推理链。\n\n都说sex是sex，gender是gender，其实只要我们换一个思路，不认为sex就是gender，那很多问题其实就有解了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092633982651548020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你这句话就是建立在「跨性别女性是男性」的预设下的啊，在最开始就不是一个角度去想问题。 https://t.co/7ZaJDAdefy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849826752891408385",
+        "conversation_id": "2092518260835233966",
+        "created_at": "2026-08-26T15:23:15.000Z",
+        "display_text_range": [
+          16,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092633982651548020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798684142722281473",
+              "start": 0,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092633982651548020",
+        "in_reply_to_user_id": "1798684142722281473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092518260835233966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiguangji2019 問題是男性為什麼要變成女性呢⋯這不是一種倒反天罡嗎？天生是哪種性別這一世就體驗哪種性別的完美生活⋯一些人一定要逆天去過不完美的變性生活，意義在哪？\n(=ﾟωﾟ)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092663471112691940",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 882,
+          "like_count": 7078,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 2629
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T14:54:21.000Z",
+        "description": "專業銳評 & 情色藝術家\nIT（Windows Server）｜業餘混音／音樂鑑賞／攝影\n正體中文🇹🇼｜簡體中文🇨🇳｜粵語🇭🇰🇲🇴｜日語🇯🇵\n動畫／Galgame 愛好者",
+        "id": "1849826752891408385",
+        "is_identity_verified": false,
+        "location": "Macao(SAR) ,China",
+        "most_recent_tweet_id": "2092638093966991656",
+        "name": "白雪乃愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849826752891408385/1729870550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849837151518851072/QsQejokl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 102,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Noa__Shirayuki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。",
+        "id": "1798684142722281473",
+        "is_identity_verified": false,
+        "location": "香港。。",
+        "most_recent_tweet_id": "2092641860619755656",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 2053,
+          "like_count": 107598,
+          "listed_count": 1,
+          "media_count": 804,
+          "tweet_count": 5636
+        },
+        "url": "",
+        "username": "shiguangji2019",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

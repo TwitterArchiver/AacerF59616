@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2091205609832202435",
+    "created_at": "2026-08-22T16:47:24.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:46:38.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091205415271055803",
+      "2091205515938603103",
+      "2091205609832202435"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091205609832202435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样\n\n我的GE很容易就失控，有多容易失控呢，我只需要想一下自己是个女孩子，GE就有可能直接爆发，或者说是姐姐，妹妹，女朋友之类的女性身份代称，再或是觉得自己其实是个特别的女孩子，都会一触即发"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091205415271055803",
+        "created_at": "2026-08-22T16:46:38.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:46:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091205415271055803",
+          "2091205515938603103",
+          "2091205609832202435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091205415271055803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天\nGE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为GE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091205515938603103",
+        "created_at": "2026-08-22T16:47:02.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:46:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091205415271055803",
+          "2091205515938603103",
+          "2091205609832202435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091205515938603103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天\n都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样\n\n我的GE很容易就失控，有多容易失控呢，我只需要想一下自己是个女孩子，GE就有可能直接爆发，或者说是姐姐，妹妹，女朋友之类的女性身份代称，再或是觉得自己其实是个特别的女孩子，都会一触即发"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天\n都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2091205609832202435",
+        "created_at": "2026-08-22T16:47:24.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:46:38.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091205415271055803",
+          "2091205515938603103",
+          "2091205609832202435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091205609832202435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样\n\n我的GE很容易就失控，有多容易失控呢，我只需要想一下自己是个女孩子，GE就有可能直接爆发，或者说是姐姐，妹妹，女朋友之类的女性身份代称，再或是觉得自己其实是个特别的女孩子，都会一触即发"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和自己男友贴贴然后天天GE，好吧虽然我现在也差不多是天天都GE了，你们琳大王就是这样整天被正向情绪冲成傻子，有时候突然降智也是因为这样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2091205609832202435",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 874,
+          "like_count": 6802,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 2476
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

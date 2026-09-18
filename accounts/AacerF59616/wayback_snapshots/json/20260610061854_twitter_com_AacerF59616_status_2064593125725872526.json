@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064430050179752156",
+    "created_at": "2026-06-10T06:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064593125725872526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979308662117273604",
+          "start": 0,
+          "username": "kuaizichopstick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064593125725872526",
+    "in_reply_to_user_id": "1979308662117273604",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064430050179752156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuaizichopstick 好看捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064430037856833536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZULn4aUAAhrkV.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2064430037869477888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKZULn7bQAAhb_j.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064430050179752156",
+        "created_at": "2026-06-10T06:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064593125725872526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979308662117273604",
+              "start": 0,
+              "username": "kuaizichopstick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064593125725872526",
+        "in_reply_to_user_id": "1979308662117273604",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064430050179752156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuaizichopstick 好看捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064430037856833536",
+            "3_2064430037869477888"
+          ]
+        },
+        "author_id": "1979308662117273604",
+        "conversation_id": "2064430050179752156",
+        "created_at": "2026-06-09T19:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064430050179752156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OT73cHgoyk",
+              "end": 30,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2064430050179752156/photo/1",
+              "media_key": "3_2064430037856833536",
+              "start": 7,
+              "url": "https://t.co/OT73cHgoyk"
+            },
+            {
+              "display_url": "pic.x.com/OT73cHgoyk",
+              "end": 30,
+              "expanded_url": "https://x.com/kuaizichopstick/status/2064430050179752156/photo/1",
+              "media_key": "3_2064430037869477888",
+              "start": 7,
+              "url": "https://t.co/OT73cHgoyk"
+            },
+            {
+              "display_url": "x.com/kuaizichopstic…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/kuaizichopstick/status/2064416581585924488",
+              "start": 31,
+              "url": "https://t.co/hInlBdhxM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064430050179752156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064416581585924488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有黑丝咪… https://t.co/OT73cHgoyk https://t.co/hInlBdhxM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2063016362285617215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 25,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 83
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T22:09:11.000Z",
+        "description": "高二在读/物化生\n生产日期08.12.25hrt25.12.05 MtF/X 无证含糖|已炸柜|家暴党 191cm/86kg\n同类可互fo喵！日麻狂热爱好者/各种音游（不玩街机！）/二次元 \n妹妹@ScarsTowel616     最爱的老公@ovoxiaotuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "ScarsTowel616"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "ovoxiaotuan"
+              }
+            ]
+          }
+        },
+        "id": "1979308662117273604",
+        "location": "青岛",
+        "name": "筷子不会用筷子🍥",
+        "pinned_tweet_id": "2062520541278527656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060613592324657152/WsMbZT_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 416,
+          "like_count": 686,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 311
+        },
+        "username": "kuaizichopstick",
+        "verified": false
+      }
+    ]
+  }
+}

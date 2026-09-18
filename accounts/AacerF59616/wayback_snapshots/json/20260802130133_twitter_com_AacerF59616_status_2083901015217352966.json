@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2083901015217352966",
+    "created_at": "2026-08-02T13:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083901015217352966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mmmammm_a/stat…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/mmmammm_a/status/2083890929023226356",
+          "start": 87,
+          "url": "https://t.co/hvNosc9Y6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083901015217352966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083890929023226356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "认同女也是女，大家都喜欢把指派女当作唯一的、真正的、标准的女性，并基于此认为mtf应该怎么怎么样，完全忽略mtf个体差异和每个人在性别表达上的多样性，何尝不是一种变相的自负 https://t.co/hvNosc9Y6Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2083901015217352966",
+        "created_at": "2026-08-02T13:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083901015217352966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mmmammm_a/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/mmmammm_a/status/2083890929023226356",
+              "start": 87,
+              "url": "https://t.co/hvNosc9Y6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083901015217352966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083890929023226356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认同女也是女，大家都喜欢把指派女当作唯一的、真正的、标准的女性，并基于此认为mtf应该怎么怎么样，完全忽略mtf个体差异和每个人在性别表达上的多样性，何尝不是一种变相的自负 https://t.co/hvNosc9Y6Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2083890929023226356",
+        "created_at": "2026-08-02T12:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083890929023226356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083890929023226356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我来说我接受「我是跨女」更胜过于「我是女性」这件事，不如说我对我是跨女这件事的承认就是建立在我将永远会被（包括我自己）怀疑是一位女性的这个事实之上的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 729,
+          "like_count": 4834,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She/ They / Transfeminist",
+        "id": "1601549039287566336",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 296,
+          "like_count": 16695,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 6915
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": false
+      }
+    ]
+  }
+}

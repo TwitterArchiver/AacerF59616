@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073954540723003392"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2073954811519918166",
+    "created_at": "2026-07-06T02:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073954811519918166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kUZyxteeZ",
+          "end": 47,
+          "expanded_url": "https://x.com/AacerF59616/status/2073954811519918166/photo/1",
+          "media_key": "3_2073954540723003392",
+          "start": 24,
+          "url": "https://t.co/3kUZyxteeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073954811519918166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "保持日更喵，感觉加了个腿环之后看着没那么单调了 https://t.co/3kUZyxteeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073954540723003392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgqqqAaYAAMyuJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073954540723003392"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2073954811519918166",
+        "created_at": "2026-07-06T02:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073954811519918166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kUZyxteeZ",
+              "end": 47,
+              "expanded_url": "https://x.com/AacerF59616/status/2073954811519918166/photo/1",
+              "media_key": "3_2073954540723003392",
+              "start": 24,
+              "url": "https://t.co/3kUZyxteeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073954811519918166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持日更喵，感觉加了个腿环之后看着没那么单调了 https://t.co/3kUZyxteeZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 382,
+          "like_count": 2402,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

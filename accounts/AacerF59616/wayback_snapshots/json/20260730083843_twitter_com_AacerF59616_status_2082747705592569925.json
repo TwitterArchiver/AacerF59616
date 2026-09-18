@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082747705592569925",
+    "created_at": "2026-07-30T08:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082747705592569925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2082743916080791922",
+          "start": 143,
+          "url": "https://t.co/uGmSLJeukN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082747705592569925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082743916080791922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "歧视的根源是社会的不包容，而不是跨性别者本身，因为环境有污名就剥夺别人建立家庭的权利是顺从歧视而不是保护孩子\n\n其次，“传宗接代”是把孩子当作工具，而想当妈妈可能只是想要付出爱，只要动机是出于爱和幸福，跨性别者追求自己的家庭生活就没有任何问题，我们没有权利去规范任何人追求幸福的方式的 https://t.co/uGmSLJeukN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082747705592569925",
+        "created_at": "2026-07-30T08:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082747705592569925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2082743916080791922",
+              "start": 143,
+              "url": "https://t.co/uGmSLJeukN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082747705592569925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082743916080791922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "歧视的根源是社会的不包容，而不是跨性别者本身，因为环境有污名就剥夺别人建立家庭的权利是顺从歧视而不是保护孩子\n\n其次，“传宗接代”是把孩子当作工具，而想当妈妈可能只是想要付出爱，只要动机是出于爱和幸福，跨性别者追求自己的家庭生活就没有任何问题，我们没有权利去规范任何人追求幸福的方式的 https://t.co/uGmSLJeukN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2082742920516686119",
+        "created_at": "2026-07-30T08:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082743916080791922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082743916080791922",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082742920516686119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 完全不为孩子着想，自己受歧视还要拉个孩子一起来，我都不敢想孩子上学的时候同学嘲笑ta有两个妈或者拿这个开txl恶俗玩笑有多恐怖，想组建家庭完全可以去领养，非要带有自己的血脉吗，那这样和以传宗接代至上的牢保有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 698,
+          "like_count": 4690,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 110,
+                "expanded_url": "http://2345.lgbt",
+                "start": 87,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "埃迪卡拉纪",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2081363135844557240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 322,
+          "like_count": 11166,
+          "listed_count": 5,
+          "media_count": 95,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true
+      }
+    ]
+  }
+}

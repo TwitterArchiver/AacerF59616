@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084611781683761498",
+    "created_at": "2026-08-04T12:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084611781683761498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonsweetsuger/…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/nonsweetsuger/status/2084201628375400617",
+          "start": 96,
+          "url": "https://t.co/2h5mqGq4zB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084611781683761498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084201628375400617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧，至少我认为，如果让一个性别指派和认同都是男性的人持续以女性身份生活那我觉得他其实会很难受，而且早已有相关现实案例证明这点了，但很可惜大部分顺性别者因为指派和认同一致所以很难理解这种难受 https://t.co/2h5mqGq4zB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084611781683761498",
+        "created_at": "2026-08-04T12:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084611781683761498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonsweetsuger/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/nonsweetsuger/status/2084201628375400617",
+              "start": 96,
+              "url": "https://t.co/2h5mqGq4zB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084611781683761498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084201628375400617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧，至少我认为，如果让一个性别指派和认同都是男性的人持续以女性身份生活那我觉得他其实会很难受，而且早已有相关现实案例证明这点了，但很可惜大部分顺性别者因为指派和认同一致所以很难理解这种难受 https://t.co/2h5mqGq4zB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2084201628375400617",
+        "created_at": "2026-08-03T08:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084201628375400617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/princess_01011…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/princess_01011/status/2084100062171513313",
+              "start": 108,
+              "url": "https://t.co/iR9YDWSFbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084201628375400617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3806,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100062171513313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多观看伪娘或者ts作品的人，没意识到的一点是：能长期以女性身份生活，甚至身体完全改变成女性也不感到严重焦虑的人已经不太可能是一个顺性别了\n一些人会以为这些角色只是装扮成另一个性别的“男性”，但其实这是几乎不可能的 https://t.co/iR9YDWSFbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 745,
+          "like_count": 4980,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 808,
+          "like_count": 25370,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 11034
+        },
+        "url": "",
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

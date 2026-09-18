@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085715838565560795",
+    "created_at": "2026-08-07T13:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085715838565560795"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085715838565560795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是不是对于有些人来说所谓「男女有别」就是唧唧和福的区别，因为唧唧和福不同，所以男女就注定了应该怎么样不应该怎么怎么样，两性之间就注定了二元对立，你们是有什么生殖崇拜吗把一个器官看得这么重要，把全部价值都押注在上面，显示自己的价值之前还需要先有个唧唧或者福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085715838565560795",
+        "created_at": "2026-08-07T13:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085715838565560795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085715838565560795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是对于有些人来说所谓「男女有别」就是唧唧和福的区别，因为唧唧和福不同，所以男女就注定了应该怎么样不应该怎么怎么样，两性之间就注定了二元对立，你们是有什么生殖崇拜吗把一个器官看得这么重要，把全部价值都押注在上面，显示自己的价值之前还需要先有个唧唧或者福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 764,
+          "like_count": 5214,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1564
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

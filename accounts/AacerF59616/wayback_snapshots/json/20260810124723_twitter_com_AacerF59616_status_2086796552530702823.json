@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086796552530702823",
+    "created_at": "2026-08-10T12:47:23.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086796552530702823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hf0721933/stat…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/hf0721933/status/2086795823765934096",
+          "start": 42,
+          "url": "https://t.co/u1jWQKGwSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086796552530702823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086795823765934096",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为「侵占女性空间」本来就是无稽之谈啊，某些顺性别的借口罢了，他们不是一直如此吗？ https://t.co/u1jWQKGwSW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086796552530702823",
+        "created_at": "2026-08-10T12:47:23.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086796552530702823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hf0721933/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/hf0721933/status/2086795823765934096",
+              "start": 42,
+              "url": "https://t.co/u1jWQKGwSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086796552530702823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086795823765934096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为「侵占女性空间」本来就是无稽之谈啊，某些顺性别的借口罢了，他们不是一直如此吗？ https://t.co/u1jWQKGwSW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627292658157907968",
+        "conversation_id": "2086599606209818830",
+        "created_at": "2026-08-10T12:44:29.000Z",
+        "display_text_range": [
+          13,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086795823765934096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086795823765934096",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086599606209818830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 谈社会地位时说跨女只占总人口百分之零点几，人数少活该被边缘。谈什么加深性别刻板印象，侵占女性空间，抹黑顺女形象的时候跨女又突然成为最大众的群体了。我请问百分之零点几的跨女和满大街短裙的顺女哪个更能加深刻板印象?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086796552530702823",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 774,
+          "like_count": 5379,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1692
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-19T13:03:18.000Z",
+        "description": "🏳️‍⚧️/💚🩶🤍🖤/🎀🎨🔄🆗",
+        "id": "1627292658157907968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086796382053048769",
+        "name": "llly",
+        "pinned_tweet_id": "2028914510526845209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1627292658157907968/1720462416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077014693252665344/itVnYGiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 311,
+          "like_count": 2822,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "hf0721933",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

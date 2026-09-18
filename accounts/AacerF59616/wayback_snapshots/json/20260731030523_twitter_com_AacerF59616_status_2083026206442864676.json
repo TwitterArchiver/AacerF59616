@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2082750409454874977",
+    "created_at": "2026-07-31T03:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083026206442864676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072236795534917632",
+          "start": 0,
+          "username": "TransRongsakura"
+        },
+        {
+          "end": 32,
+          "id": "2069272102784659456",
+          "start": 17,
+          "username": "mizukisaki2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083026206442864676",
+    "in_reply_to_user_id": "2072236795534917632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082886008434274372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransRongsakura @mizukisaki2333 可以的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2082750409454874977",
+        "created_at": "2026-07-31T03:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083026206442864676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072236795534917632",
+              "start": 0,
+              "username": "TransRongsakura"
+            },
+            {
+              "end": 32,
+              "id": "2069272102784659456",
+              "start": 17,
+              "username": "mizukisaki2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083026206442864676",
+        "in_reply_to_user_id": "2072236795534917632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082886008434274372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransRongsakura @mizukisaki2333 可以的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072236795534917632",
+        "conversation_id": "2082750409454874977",
+        "created_at": "2026-07-30T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082886008434274372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            },
+            {
+              "end": 28,
+              "id": "2069272102784659456",
+              "start": 13,
+              "username": "mizukisaki2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082886008434274372",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082840766263808059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 @mizukisaki2333 我能转吗喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 701,
+          "like_count": 4729,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T08:37:14.000Z",
+        "description": "🏳️‍⚧️MTF一只/身高166cm/体重54kg/生产日期:2010.11.12/产地:湘A/无证🍥:2026.05.17/泛性恋/不od/支持平权/地雷系/APEX/战舰世界/CS2",
+        "id": "2072236795534917632",
+        "location": "湘A",
+        "name": "樱雪赤鸢sakura🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073309082229121024/arrsPy9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 67,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "TransRongsakura",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T04:12:58.000Z",
+        "description": "出厂日期2003，25時重度依赖💜，易性症患者",
+        "id": "2069272102784659456",
+        "name": "水希咲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071452205769760768/gSxvwIXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 37,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "mizukisaki2333",
+        "verified": false
+      }
+    ]
+  }
+}

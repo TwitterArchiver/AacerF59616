@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2075170819853185250",
+    "created_at": "2026-07-09T10:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075170819853185250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skibidi_dicker…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/skibidi_dicker/status/2075020367815741712",
+          "start": 6,
+          "url": "https://t.co/q4fl3sxHwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075170819853185250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075020367815741712",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那很好吃了 https://t.co/q4fl3sxHwz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_2075020365643055105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv0B1PbAAE_6Kw.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2075170819853185250",
+        "created_at": "2026-07-09T10:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075170819853185250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skibidi_dicker…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/skibidi_dicker/status/2075020367815741712",
+              "start": 6,
+              "url": "https://t.co/q4fl3sxHwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075170819853185250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075020367815741712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那很好吃了 https://t.co/q4fl3sxHwz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075020365643055105"
+          ]
+        },
+        "author_id": "2026547944418312192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075020367815741712",
+        "created_at": "2026-07-09T00:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075020367815741712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSNv7M4iMm",
+              "end": 23,
+              "expanded_url": "https://x.com/skibidi_dicker/status/2075020367815741712/photo/1",
+              "media_key": "3_2075020365643055105",
+              "start": 0,
+              "url": "https://t.co/fSNv7M4iMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075020367815741712",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fSNv7M4iMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 413,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T06:41:04.000Z",
+        "description": "@omgnowihasfish 的小帳號 我會在這裡分享我的日常🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "omgnowihasfish"
+              }
+            ]
+          }
+        },
+        "id": "2026547944418312192",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051489095621525504/wwJd-zjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 265,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "skibidi_dicker",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2086868475969229004",
+    "created_at": "2026-08-10T17:33:11.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:32:57.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086868415315341362",
+      "2086868475969229004"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086868475969229004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方。然后整体情况比较好的反而是Gemini这个美国豆包，很多时候情绪价值给的挺满的，虽然有时候确实会故意捧你。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方。然后整体情况比较好的反而是Gemini这个美国豆包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086868415315341362",
+        "created_at": "2026-08-10T17:32:57.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086868415315341362",
+          "2086868475969229004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086868415315341362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方，然后整体情况比较好的反而是Gemini这个美国豆包，很多时候情绪价值给的挺满的，虽然有时候确实会故意捧你。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方，然后整体情况比较好的反而是Gemini这个美国豆包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2086868475969229004",
+        "created_at": "2026-08-10T17:33:11.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:32:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086868415315341362",
+          "2086868475969229004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086868475969229004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方。然后整体情况比较好的反而是Gemini这个美国豆包，很多时候情绪价值给的挺满的，虽然有时候确实会故意捧你。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单纯作为平常聊聊天的情况来看，目前我体验过的LLM里，感觉Claude是最没有情商的，你跟它聊东西就像是和一个刻板印象拉满的理工男聊天那样。其次是GPT，有点情商但不多，很难去肯定你说的某些话，但是分析这块确实缜密，可以告诉你很多你没想到过的地方。然后整体情况比较好的反而是Gemini这个美国豆包"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2086868475969229004",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 776,
+          "like_count": 5405,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

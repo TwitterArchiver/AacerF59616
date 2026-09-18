@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079108533799571719",
+    "created_at": "2026-07-20T07:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T08:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079108533799571719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851416603990405120",
+          "start": 3,
+          "username": "ogsa1687497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079108533799571719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079105697153974446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ogsa1687497: 是的，任何以年龄进行统计标准的其实都没有什么现实意义，几乎所有的40周岁，30周岁的统计学言论都来自于立场鲜明的反跨团体，如果你想跟我玩数字游戏，可以跟我来玩，统计学是数据上的游戏，它不包括实验的过程，更何况实验的过程以及跟进大多数P值都高的离…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079108533799571719",
+        "created_at": "2026-07-20T07:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079108533799571719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851416603990405120",
+              "start": 3,
+              "username": "ogsa1687497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079108533799571719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079105697153974446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ogsa1687497: 是的，任何以年龄进行统计标准的其实都没有什么现实意义，几乎所有的40周岁，30周岁的统计学言论都来自于立场鲜明的反跨团体，如果你想跟我玩数字游戏，可以跟我来玩，统计学是数据上的游戏，它不包括实验的过程，更何况实验的过程以及跟进大多数P值都高的离…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851416603990405120",
+        "conversation_id": "2079105697153974446",
+        "created_at": "2026-07-20T07:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079105697153974446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2079100261369586056",
+              "start": 130,
+              "url": "https://t.co/D8OICe007v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079105697153974446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079100261369586056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，任何以年龄进行统计标准的其实都没有什么现实意义，几乎所有的40周岁，30周岁的统计学言论都来自于立场鲜明的反跨团体，如果你想跟我玩数字游戏，可以跟我来玩，统计学是数据上的游戏，它不包括实验的过程，更何况实验的过程以及跟进大多数P值都高的离谱，你知道吗？ https://t.co/D8OICe007v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 565,
+          "like_count": 3722,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "嗯……不开心☹️",
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073411023261016064/sFFv5oDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 315,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "ogsa1687497",
+        "verified": false
+      }
+    ]
+  }
+}

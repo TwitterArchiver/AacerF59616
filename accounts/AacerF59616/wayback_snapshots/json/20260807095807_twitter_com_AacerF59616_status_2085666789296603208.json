@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085666789296603208",
+    "created_at": "2026-08-07T09:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T10:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085666789296603208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Irosas_xyn/sta…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/Irosas_xyn/status/2085633567191920841",
+          "start": 150,
+          "url": "https://t.co/BcMcnu8faA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085666789296603208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085633567191920841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从不觉得自己进行GAHT为时过晚，即使我确实已经错失了早期干预期，我发现自己的性别认同非常晚，大概15.5岁才发现，在这不久之后我就因为在学校割腕被送回家里了，随后就是居家养病的生活\n\n一直到17.5岁的时候，在犹犹豫豫了两年之后，我才决定进行GAHT，我不觉得吃的早点可以让自己的病情有什么缓解 https://t.co/BcMcnu8faA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085666789296603208",
+        "created_at": "2026-08-07T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085666789296603208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosas_xyn/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Irosas_xyn/status/2085633567191920841",
+              "start": 150,
+              "url": "https://t.co/BcMcnu8faA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085666789296603208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085633567191920841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从不觉得自己进行GAHT为时过晚，即使我确实已经错失了早期干预期，我发现自己的性别认同非常晚，大概15.5岁才发现，在这不久之后我就因为在学校割腕被送回家里了，随后就是居家养病的生活\n\n一直到17.5岁的时候，在犹犹豫豫了两年之后，我才决定进行GAHT，我不觉得吃的早点可以让自己的病情有什么缓解 https://t.co/BcMcnu8faA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2085633567191920841",
+        "created_at": "2026-08-07T07:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085633567191920841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085633567191920841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果这一切更早，我是不是就不会这么难受\n如果在13甚至更早我就意识到自己的特殊之处然后开始HRT是不是就不会这么残这么痛苦这么gd……\n很多人觉得我们吃糖以后会后悔，但是我只后悔没有早点吃……却庆幸已经最快吃了……🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 763,
+          "like_count": 5206,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1559
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 119,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 96,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 143,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 120,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 395,
+          "like_count": 1397,
+          "listed_count": 6,
+          "media_count": 63,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

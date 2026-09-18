@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065007752716702040",
+    "created_at": "2026-06-11T09:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065007752716702040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761282483834998784",
+          "start": 3,
+          "username": "qiancongxyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2064…",
+          "end": 40,
+          "expanded_url": "http://x.com/i/article/2064938494540259328",
+          "start": 17,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2064938494540259328",
+          "url": "https://t.co/Q4kbx4hdU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065007752716702040",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064946997547978935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiancongxyn: https://t.co/Q4kbx4hdU8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065007752716702040",
+        "created_at": "2026-06-11T09:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065007752716702040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761282483834998784",
+              "start": 3,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2064…",
+              "end": 40,
+              "expanded_url": "http://x.com/i/article/2064938494540259328",
+              "start": 17,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2064938494540259328",
+              "url": "https://t.co/Q4kbx4hdU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065007752716702040",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064946997547978935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiancongxyn: https://t.co/Q4kbx4hdU8"
+      },
+      {
+        "article": {
+          "title": "或许是最后的话"
+        },
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064946997547978935",
+        "created_at": "2026-06-11T05:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064946997547978935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2064…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2064938494540259328",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2064938494540259328",
+              "url": "https://t.co/Q4kbx4hdU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946997547978935",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5288,
+          "like_count": 57,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q4kbx4hdU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 37,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 136
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜觉得我傻逼就ban\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n\n对象是小一\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi\n宝宝 @picxis63594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "picxis63594"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064946997547978935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 1046,
+          "like_count": 2440,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 1851
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

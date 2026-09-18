@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2099178472405106733",
+    "created_at": "2026-09-13T16:48:43.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099178472405106733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liulingyo/stat…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/liulingyo/status/2099168679065944483",
+          "start": 148,
+          "url": "https://t.co/lvZID4U99m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099178472405106733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我看看我哈……1没有；2的话我卡里加上微信总共就11500左右，应该不多不少姑且也算没有；3对上了，我前天才丢了工作；4没有，我和我对象处了830多天几乎没有为对方花过钱，最多买点小礼物；5有过，还干过不少措事，不过现在情况好很多了；6也是有过，但是现在没了；7有而且挺严重的，只是我不咋表现出来；8没有，我觉得我不会去从事性工作"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099168679065944483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看看我哈……1没有；2的话我卡里加上微信总共就11500左右，应该不多不少姑且也算没有；3对上了，我前天才丢了工作；4没有，我和我对象处了830多天几乎没有为对方花过钱，最多买点小礼物；5有过，还干过不少措事，不过现在情况好很多了；6也是有过，但是现在没了；7有而且挺严重的，只是我不咋表现出 https://t.co/lvZID4U99m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099178472405106733",
+        "created_at": "2026-09-13T16:48:43.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099178472405106733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/liulingyo/status/2099168679065944483",
+              "start": 148,
+              "url": "https://t.co/lvZID4U99m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099178472405106733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我看看我哈……1没有；2的话我卡里加上微信总共就11500左右，应该不多不少姑且也算没有；3对上了，我前天才丢了工作；4没有，我和我对象处了830多天几乎没有为对方花过钱，最多买点小礼物；5有过，还干过不少措事，不过现在情况好很多了；6也是有过，但是现在没了；7有而且挺严重的，只是我不咋表现出来；8没有，我觉得我不会去从事性工作"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099168679065944483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看看我哈……1没有；2的话我卡里加上微信总共就11500左右，应该不多不少姑且也算没有；3对上了，我前天才丢了工作；4没有，我和我对象处了830多天几乎没有为对方花过钱，最多买点小礼物；5有过，还干过不少措事，不过现在情况好很多了；6也是有过，但是现在没了；7有而且挺严重的，只是我不咋表现出 https://t.co/lvZID4U99m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2099168679065944483",
+        "created_at": "2026-09-13T16:09:48.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099168679065944483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099168679065944483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几个很容易发生在药娘身上的现象：\n1、寄居在对象或朋友家\n2、没什么存款喵\n3、没有工作或工作不稳定\n4、靠对象养活，甚至吃喝方面\n5、因为经济问题或精神问题和对象或朋友吵架 \n6、有自残自杀od倾向\n7、讨厌父母、讨厌学校\n8、想要卖屁股赚快钱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099178472405106733",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 968,
+          "like_count": 7850,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年MTF 睪丸已經切除了喵🐱\nhrt：2024.10 crush:@GanYuluo\n熱愛發一些日常 喜歡看番 有不良嗜好\n同類回fo建議私訊 謝謝諸君的關注喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "Ciallo～ (∠・ω 𠃋 )⌒★",
+        "most_recent_tweet_id": "2099168679065944483",
+        "name": "悠悠不是雜魚🍥",
+        "pinned_tweet_id": "2097530592946741616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1788365951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184318620676097/LuN4vrWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5081,
+          "following_count": 1125,
+          "like_count": 4862,
+          "listed_count": 7,
+          "media_count": 254,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

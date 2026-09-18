@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064647769151909921",
+    "created_at": "2026-06-10T14:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064709172583944448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "mili_bugia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064709172583944448",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064647769151909921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mili_bugia 第五高原是不是太危险了一点喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2064647748503433216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcaMDPbcAAnfDd.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2064647750608990208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcaMLFbsAA15WN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064647750625677312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcaMLJaUAAUQzh.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064647750621499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcaMLIakAAamF6.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064647769151909921",
+        "created_at": "2026-06-10T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064709172583944448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "mili_bugia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064709172583944448",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064647769151909921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mili_bugia 第五高原是不是太危险了一点喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064647748503433216",
+            "3_2064647750608990208",
+            "3_2064647750625677312",
+            "3_2064647750621499392"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064647769151909921",
+        "created_at": "2026-06-10T09:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064647769151909921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMSun5oIKZ",
+              "end": 62,
+              "expanded_url": "https://x.com/mili_bugia/status/2064647769151909921/photo/1",
+              "media_key": "3_2064647748503433216",
+              "start": 39,
+              "url": "https://t.co/NMSun5oIKZ"
+            },
+            {
+              "display_url": "pic.x.com/NMSun5oIKZ",
+              "end": 62,
+              "expanded_url": "https://x.com/mili_bugia/status/2064647769151909921/photo/1",
+              "media_key": "3_2064647750608990208",
+              "start": 39,
+              "url": "https://t.co/NMSun5oIKZ"
+            },
+            {
+              "display_url": "pic.x.com/NMSun5oIKZ",
+              "end": 62,
+              "expanded_url": "https://x.com/mili_bugia/status/2064647769151909921/photo/1",
+              "media_key": "3_2064647750625677312",
+              "start": 39,
+              "url": "https://t.co/NMSun5oIKZ"
+            },
+            {
+              "display_url": "pic.x.com/NMSun5oIKZ",
+              "end": 62,
+              "expanded_url": "https://x.com/mili_bugia/status/2064647769151909921/photo/1",
+              "media_key": "3_2064647750621499392",
+              "start": 39,
+              "url": "https://t.co/NMSun5oIKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064647769151909921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 304,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熟悉的老位置\n第五高原见！\n“我要去高原旅游了”\n哪个高原？\n“西格玛高原” https://t.co/NMSun5oIKZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 27,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 108
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 家长不管党 → 家长党+od不管党 | 割手手！ | o！长在春风中，活在药效里。  | 第五高原的背后是什么，你不应告诉我，我自己会去看",
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 98,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "username": "mili_bugia",
+        "verified": false
+      }
+    ]
+  }
+}

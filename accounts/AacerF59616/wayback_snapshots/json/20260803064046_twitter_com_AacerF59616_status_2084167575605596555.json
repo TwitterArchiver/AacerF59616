@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084167575605596555",
+    "created_at": "2026-08-03T06:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084167575605596555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoshu_yy33/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2083831718193336415",
+          "start": 67,
+          "url": "https://t.co/ZPIonP6Lae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084167575605596555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083831718193336415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管是跨男还是跨女都仍然处于二元性别之内，不管是基于其性别指派还是性别认同来判断性别都无法得出“双性恋不会对跨性别产生性吸引”的结论 https://t.co/ZPIonP6Lae"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084167575605596555",
+        "created_at": "2026-08-03T06:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084167575605596555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoshu_yy33/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/xiaoshu_yy33/status/2083831718193336415",
+              "start": 67,
+              "url": "https://t.co/ZPIonP6Lae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084167575605596555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083831718193336415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管是跨男还是跨女都仍然处于二元性别之内，不管是基于其性别指派还是性别认同来判断性别都无法得出“双性恋不会对跨性别产生性吸引”的结论 https://t.co/ZPIonP6Lae"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2083831718193336415",
+        "created_at": "2026-08-02T08:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083831718193336415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083831718193336415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10004,
+          "like_count": 69,
+          "quote_count": 3,
+          "reply_count": 74,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "双性恋不包含喜欢跨吗？为啥xhs清一色的说双性恋不喜欢跨 这样说的话双性恋定义只包含顺性别吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 739,
+          "like_count": 4906,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1438
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️｜喜欢我就打钱",
+        "id": "1922650331454058496",
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "name": "解树",
+        "pinned_tweet_id": "2062106773948158246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077145173986062337/yLxzLwqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5089,
+          "following_count": 54,
+          "like_count": 1530,
+          "listed_count": 18,
+          "media_count": 237,
+          "tweet_count": 2563
+        },
+        "url": "",
+        "username": "xiaoshu_yy33",
+        "verified": false
+      }
+    ]
+  }
+}

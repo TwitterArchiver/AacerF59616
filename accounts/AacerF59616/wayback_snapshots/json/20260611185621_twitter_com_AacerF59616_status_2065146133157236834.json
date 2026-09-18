@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065076860200140975",
+    "created_at": "2026-06-11T18:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065146133157236834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699107168807706625",
+          "start": 0,
+          "username": "yueqingzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065146133157236834",
+    "in_reply_to_user_id": "1699107168807706625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065076860200140975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueqingzou 抱抱喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065076860200140975",
+        "created_at": "2026-06-11T18:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065146133157236834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699107168807706625",
+              "start": 0,
+              "username": "yueqingzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065146133157236834",
+        "in_reply_to_user_id": "1699107168807706625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065076860200140975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueqingzou 抱抱喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699107168807706625",
+        "conversation_id": "2065076860200140975",
+        "created_at": "2026-06-11T14:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065076860200140975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065076860200140975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么我天天都在哭……我什么都做不到……好累好累，哭完又睡着了我不知道该做什么……我好累喵……呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 38,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:09:03.000Z",
+        "description": "音游账号@leqingzou/hrt2022.12.2🏳️‍⚧️/🈚证/some blood/大学生 休学ing~/熬夜党/家暴党/179cm/60kg/地址:成都/oopz频道：782238569/bilibili直播间:12808097/匿名提问箱:https://t.co/0c8hOkT4Nq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leqingzou",
+                "end": 150,
+                "expanded_url": "https://ngl.link/leqingzou",
+                "start": 127,
+                "url": "https://t.co/0c8hOkT4Nq"
+              }
+            ]
+          }
+        },
+        "id": "1699107168807706625",
+        "name": "晓乐\\🍥/",
+        "pinned_tweet_id": "2055183135693058079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004207120267595778/erS2uxRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 1949,
+          "like_count": 6523,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 2775
+        },
+        "username": "yueqingzou",
+        "verified": false
+      }
+    ]
+  }
+}

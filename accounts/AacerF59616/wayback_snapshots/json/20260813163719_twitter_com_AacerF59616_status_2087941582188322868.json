@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087941582188322868",
+    "created_at": "2026-08-13T16:37:19.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087941582188322868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liulingyo/stat…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/liulingyo/status/2087805482828488843",
+          "start": 142,
+          "url": "https://t.co/j8KFC3lORZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087941582188322868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "真的拜托，请千万不要把任何具备自我伤害性质的行为称之为「勇敢」，我没有反对自切的意思，你理应拥有对自身器官的所有权，但不能把这种行为和正向性质进行挂钩。\n\n如果将其称作「勇敢」，赋予其正向意义，引发其他有自我伤害倾向的姐妹争相模仿的话，无异于鼓励自杀自伤，只是自毁程度轻重区别罢了。\n\n考虑到跨圈是一个充斥着负面和压抑情绪的地方，所以真的，不要把这种行为叫做「勇敢」，不要对其赋予正向意义，这不是为了个人偏好，而是为了避免引发群体模仿行为"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087805482828488843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的拜托，请千万不要把任何具备自我伤害性质的行为称之为「勇敢」，我没有反对自切的意思，你理应拥有对自身器官的所有权，但不能把这种行为和正向性质进行挂钩。\n\n如果将其称作「勇敢」，赋予其正向意义，引发其他有自我伤害倾向的姐妹争相模仿的话，无异于鼓励自杀自伤，只是自毁程度轻重区别罢了。 https://t.co/j8KFC3lORZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087805454911262720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_-Qb0AAITAp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087805454873509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_-HbwAApoSO.jpg",
+        "width": 946
+      },
+      {
+        "height": 448,
+        "media_key": "3_2087805453992673281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_61bQAE227X.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087941582188322868",
+        "created_at": "2026-08-13T16:37:19.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087941582188322868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/liulingyo/status/2087805482828488843",
+              "start": 142,
+              "url": "https://t.co/j8KFC3lORZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087941582188322868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真的拜托，请千万不要把任何具备自我伤害性质的行为称之为「勇敢」，我没有反对自切的意思，你理应拥有对自身器官的所有权，但不能把这种行为和正向性质进行挂钩。\n\n如果将其称作「勇敢」，赋予其正向意义，引发其他有自我伤害倾向的姐妹争相模仿的话，无异于鼓励自杀自伤，只是自毁程度轻重区别罢了。\n\n考虑到跨圈是一个充斥着负面和压抑情绪的地方，所以真的，不要把这种行为叫做「勇敢」，不要对其赋予正向意义，这不是为了个人偏好，而是为了避免引发群体模仿行为"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087805482828488843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的拜托，请千万不要把任何具备自我伤害性质的行为称之为「勇敢」，我没有反对自切的意思，你理应拥有对自身器官的所有权，但不能把这种行为和正向性质进行挂钩。\n\n如果将其称作「勇敢」，赋予其正向意义，引发其他有自我伤害倾向的姐妹争相模仿的话，无异于鼓励自杀自伤，只是自毁程度轻重区别罢了。 https://t.co/j8KFC3lORZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087805454911262720",
+            "3_2087805454873509888",
+            "3_2087805453992673281"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2087805482828488843",
+        "created_at": "2026-08-13T07:36:31.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087805482828488843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "2045829915149324288",
+              "start": 79,
+              "username": "PoisonlQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805454911262720",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            },
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805454873509888",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            },
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805453992673281",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087805482828488843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087805454911262720"
+          },
+          {
+            "media_key": "3_2087805454873509888"
+          },
+          {
+            "media_key": "3_2087805453992673281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 15689,
+          "like_count": 133,
+          "quote_count": 9,
+          "reply_count": 59,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目前见过的最勇敢的mtf年龄党，在不注射m药的情况下直接进行自切，可惜进行到一半就因为剧痛送进医院，这个计划以失败告终，目前人已平安无恙（发帖已经过本人同意）@PoisonlQAQ https://t.co/as2CuvDdHV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087941582188322868",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 785,
+          "like_count": 5664,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 1930
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年mtf 已切蛋 已炸柜 重抑 0.5\n🍥hrt：2024.10 🔪切蛋：2026.07\n1米75 bmi17+ 脚码38 严肃戒掉zc od\n抖音号：js8r （可陪聊（ 门槛🚪30\n吾の傻猫：@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDKVXQ"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "📍浙",
+        "most_recent_tweet_id": "2087934066352132411",
+        "name": "悠悠ちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2081746042371109056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1786638942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083812453872435200/_9JqN1ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3954,
+          "following_count": 1084,
+          "like_count": 4539,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/i1HGsDKVXQ",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

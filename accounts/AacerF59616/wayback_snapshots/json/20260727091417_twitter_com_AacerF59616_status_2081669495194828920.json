@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081669495194828920",
+    "created_at": "2026-07-27T09:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081669495194828920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081669495194828920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "至于什么“别当mtf了去当mtx吧”更是纯招，在你看来跨是随时可变的，和变色龙一样。mtf的性别认同为女，这意味着她的性别认同还处于二元性别，是无法随便的划入非二元性别定义的\n\n然后你又说自己“没规定什么”，但“应该怎么样”不就是规范主义范围内的东西吗？怎么自己干的事情自己还不承认呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081669495194828920",
+        "created_at": "2026-07-27T09:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081669495194828920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081669495194828920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至于什么“别当mtf了去当mtx吧”更是纯招，在你看来跨是随时可变的，和变色龙一样。mtf的性别认同为女，这意味着她的性别认同还处于二元性别，是无法随便的划入非二元性别定义的\n\n然后你又说自己“没规定什么”，但“应该怎么样”不就是规范主义范围内的东西吗？怎么自己干的事情自己还不承认呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 670,
+          "like_count": 4487,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

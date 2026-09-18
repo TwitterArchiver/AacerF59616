@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084938753278410851",
+    "created_at": "2026-08-05T09:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084938753278410851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fleshgaitFucke…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/fleshgaitFucker/status/2084792710871879996",
+          "start": 29,
+          "url": "https://t.co/i50oPW1vsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084938753278410851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084792710871879996",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的看法是，火星跨性别女孩真心比地球跨性别女孩更有特权。 https://t.co/i50oPW1vsA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084938753278410851",
+        "created_at": "2026-08-05T09:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084938753278410851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fleshgaitFucke…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/fleshgaitFucker/status/2084792710871879996",
+              "start": 29,
+              "url": "https://t.co/i50oPW1vsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084938753278410851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084792710871879996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的看法是，火星跨性别女孩真心比地球跨性别女孩更有特权。 https://t.co/i50oPW1vsA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560005437159886859",
+        "conversation_id": "2084792710871879996",
+        "created_at": "2026-08-05T00:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T01:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084792710871879996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084792710871879996",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6695,
+          "like_count": 24,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "my hottest take is that asian tgirls unironically hold privilege over white tgirls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 752,
+          "like_count": 5046,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 1504
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T20:47:42.000Z",
+        "description": "autist hikkikomori  st4t girl who leglocks shotas until their bones shatter",
+        "id": "1560005437159886859",
+        "location": "england",
+        "name": "straightJoshi",
+        "pinned_tweet_id": "2080498307638444189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684332678097641473/-64Jf0TI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 856,
+          "like_count": 104659,
+          "listed_count": 2,
+          "media_count": 6180,
+          "tweet_count": 85162
+        },
+        "url": "",
+        "username": "fleshgaitFucker",
+        "verified": false
+      }
+    ]
+  }
+}

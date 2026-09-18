@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2097289961708134727",
+    "created_at": "2026-09-08T11:44:27.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097289961708134727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RS006741/statu…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/RS006741/status/2096972899852923120",
+          "start": 97,
+          "url": "https://t.co/xyxzhi7SZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097289961708134727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096972899852923120",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，我觉得在国内的话女人都很不容易啊，受到的歧视也不少，所谓女性特权很多时候就是一个浮于表面的东西，我就感同身受了，我连被外界认可是一个女的都要历经千辛万苦呢，所以说我觉得姐妹你没什么问题的 https://t.co/xyxzhi7SZp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2097289961708134727",
+        "created_at": "2026-09-08T11:44:27.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097289961708134727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RS006741/statu…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/RS006741/status/2096972899852923120",
+              "start": 97,
+              "url": "https://t.co/xyxzhi7SZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097289961708134727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096972899852923120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，我觉得在国内的话女人都很不容易啊，受到的歧视也不少，所谓女性特权很多时候就是一个浮于表面的东西，我就感同身受了，我连被外界认可是一个女的都要历经千辛万苦呢，所以说我觉得姐妹你没什么问题的 https://t.co/xyxzhi7SZp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964631394686222336",
+        "conversation_id": "2096972899852923120",
+        "created_at": "2026-09-07T14:44:33.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096972899852923120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096972899852923120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 40053,
+          "like_count": 2926,
+          "quote_count": 6,
+          "reply_count": 78,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "每一个中国女人都是从鬼门关出生的，从小在重男轻女的环境下长大，受的歧视数不胜数，女同性恋更是弱势中的弱势，我缺你那几句恐跨威胁吗，少来我这儿卖惨🤗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2097289961708134727",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804,
+          "following_count": 938,
+          "like_count": 7753,
+          "listed_count": 2,
+          "media_count": 501,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-07T10:07:06.000Z",
+        "description": "我会骂所有该骂的人。",
+        "id": "1964631394686222336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097288977388814346",
+        "name": "fu杨杨",
+        "pinned_tweet_id": "2096659682689720348",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964631394686222336/1784582363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079315005623934976/wo_8ZYMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 8,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "RS006741",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

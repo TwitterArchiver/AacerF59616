@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064186824344612864",
+        "3_2064186824390815744",
+        "3_2064186824600453120",
+        "3_2064186824751529984"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064186827502969222",
+    "created_at": "2026-06-09T03:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064186827502969222"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "伪娘"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "男娘"
+        },
+        {
+          "end": 30,
+          "start": 27,
+          "tag": "女装"
+        },
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "黑丝"
+        },
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDGexm15XF",
+          "end": 66,
+          "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+          "media_key": "3_2064186824344612864",
+          "start": 43,
+          "url": "https://t.co/UDGexm15XF"
+        },
+        {
+          "display_url": "pic.x.com/UDGexm15XF",
+          "end": 66,
+          "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+          "media_key": "3_2064186824390815744",
+          "start": 43,
+          "url": "https://t.co/UDGexm15XF"
+        },
+        {
+          "display_url": "pic.x.com/UDGexm15XF",
+          "end": 66,
+          "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+          "media_key": "3_2064186824600453120",
+          "start": 43,
+          "url": "https://t.co/UDGexm15XF"
+        },
+        {
+          "display_url": "pic.x.com/UDGexm15XF",
+          "end": 66,
+          "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+          "media_key": "3_2064186824751529984",
+          "start": 43,
+          "url": "https://t.co/UDGexm15XF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064186827502969222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "裙子上面刷卡了喵～有没有人来捡一下呢 #伪娘 #男娘 #女装 #黑丝 #可爱的男孩子 https://t.co/UDGexm15XF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064186824344612864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV2-u8aMAAPpGh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064186824390815744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV2-vHbMAAWjft.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064186824600453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV2-v5aAAA-4IW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064186824751529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV2-wdbQAAXAC1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064186824344612864",
+            "3_2064186824390815744",
+            "3_2064186824600453120",
+            "3_2064186824751529984"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064186827502969222",
+        "created_at": "2026-06-09T03:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064186827502969222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "女装"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "黑丝"
+            },
+            {
+              "end": 42,
+              "start": 35,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDGexm15XF",
+              "end": 66,
+              "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+              "media_key": "3_2064186824344612864",
+              "start": 43,
+              "url": "https://t.co/UDGexm15XF"
+            },
+            {
+              "display_url": "pic.x.com/UDGexm15XF",
+              "end": 66,
+              "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+              "media_key": "3_2064186824390815744",
+              "start": 43,
+              "url": "https://t.co/UDGexm15XF"
+            },
+            {
+              "display_url": "pic.x.com/UDGexm15XF",
+              "end": 66,
+              "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+              "media_key": "3_2064186824600453120",
+              "start": 43,
+              "url": "https://t.co/UDGexm15XF"
+            },
+            {
+              "display_url": "pic.x.com/UDGexm15XF",
+              "end": 66,
+              "expanded_url": "https://x.com/AacerF59616/status/2064186827502969222/photo/1",
+              "media_key": "3_2064186824751529984",
+              "start": 43,
+              "url": "https://t.co/UDGexm15XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064186827502969222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裙子上面刷卡了喵～有没有人来捡一下呢 #伪娘 #男娘 #女装 #黑丝 #可爱的男孩子 https://t.co/UDGexm15XF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2063016362285617215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 23,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 48
+        },
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

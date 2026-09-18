@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2075472369750319175",
+    "created_at": "2026-07-13T12:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076647207248474327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1441038887321735170",
+          "start": 0,
+          "username": "Cherries_Hsu"
+        },
+        {
+          "end": 26,
+          "id": "2038192732028469248",
+          "start": 14,
+          "username": "Akiraoo_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076647207248474327",
+    "in_reply_to_user_id": "1441038887321735170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076630587683598613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cherries_Hsu @Akiraoo_xyn 这个要找糖商才行呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2075472369750319175",
+        "created_at": "2026-07-13T12:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076647207248474327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1441038887321735170",
+              "start": 0,
+              "username": "Cherries_Hsu"
+            },
+            {
+              "end": 26,
+              "id": "2038192732028469248",
+              "start": 14,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076647207248474327",
+        "in_reply_to_user_id": "1441038887321735170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630587683598613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cherries_Hsu @Akiraoo_xyn 这个要找糖商才行呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1441038887321735170",
+        "conversation_id": "2075472369750319175",
+        "created_at": "2026-07-13T11:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076630587683598613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            },
+            {
+              "end": 25,
+              "id": "1929798380240465921",
+              "start": 13,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076630587683598613",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075698377057251693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn @AacerF59616 可要从哪里买泰补呢🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 434,
+          "like_count": 2941,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T13:57:18.000Z",
+        "description": "",
+        "id": "1441038887321735170",
+        "name": "雪璃🍒Cherries",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441038970763231232/JoQD9sTz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Cherries_Hsu",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076447859147497472/aD_5IgSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 158,
+          "like_count": 1055,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

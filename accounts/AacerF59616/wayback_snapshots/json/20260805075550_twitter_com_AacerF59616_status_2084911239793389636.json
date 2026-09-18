@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084911239793389636",
+    "created_at": "2026-08-05T07:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084911239793389636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pbeqwq/status/…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/pbeqwq/status/2084819672843895203",
+          "start": 96,
+          "url": "https://t.co/lK22PuoBL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084911239793389636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084819672843895203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的指派性别一直都是男的，我知道也承认，不需要你反复强调，我也不认为指派性别可以代表什么，它只能代表我出生的时候被授予到了“男生”这个分类里，好了没了，并不影响我干什么，也不影响我是一个女的 https://t.co/lK22PuoBL2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084911239793389636",
+        "created_at": "2026-08-05T07:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084911239793389636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbeqwq/status/…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/pbeqwq/status/2084819672843895203",
+              "start": 96,
+              "url": "https://t.co/lK22PuoBL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084911239793389636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084819672843895203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的指派性别一直都是男的，我知道也承认，不需要你反复强调，我也不认为指派性别可以代表什么，它只能代表我出生的时候被授予到了“男生”这个分类里，好了没了，并不影响我干什么，也不影响我是一个女的 https://t.co/lK22PuoBL2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077257519538544640",
+        "conversation_id": "2084686629520937354",
+        "created_at": "2026-08-05T01:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084819672843895203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084819672843895203",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686629520937354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 男的就是男的，哪来那么多借口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 752,
+          "like_count": 5042,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1497
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T05:03:27.000Z",
+        "description": "不叠甲纯瞎说，不信谣不传谣\n联系我：q1qaz2wsxg098@outlook.com",
+        "id": "2077257519538544640",
+        "name": "蒲泓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084818701543780352/QUu0vPOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "pbeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

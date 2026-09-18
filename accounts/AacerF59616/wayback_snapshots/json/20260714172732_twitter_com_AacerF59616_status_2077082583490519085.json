@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2076894627756658780",
+    "created_at": "2026-07-14T17:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077082583490519085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062913360908423168",
+          "start": 0,
+          "username": "dawang415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077082583490519085",
+    "in_reply_to_user_id": "2062913360908423168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077047055139442724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dawang415 知道啦，以及并非bro喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2076894627756658780",
+        "created_at": "2026-07-14T17:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077082583490519085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062913360908423168",
+              "start": 0,
+              "username": "dawang415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077082583490519085",
+        "in_reply_to_user_id": "2062913360908423168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077047055139442724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dawang415 知道啦，以及并非bro喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062913360908423168",
+        "conversation_id": "2076894627756658780",
+        "created_at": "2026-07-14T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077047055139442724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077047055139442724",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076894627756658780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 他就是被药娘骗感情了bro😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 448,
+          "like_count": 3032,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T15:05:51.000Z",
+        "description": "反日右/男娘万岁/樱岛麻衣天下第一/蓝v必回关/会四处留下奇思妙想（碎嘴子）",
+        "id": "2062913360908423168",
+        "name": "绵大王",
+        "pinned_tweet_id": "2064308226666156250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062914176486674432/VtetnMbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 82,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "dawang415",
+        "verified": true
+      }
+    ]
+  }
+}

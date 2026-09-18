@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080720368013095134",
+    "created_at": "2026-07-24T18:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080726108430102904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "905786405866979328",
+          "start": 0,
+          "username": "6854hb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080726108430102904",
+    "in_reply_to_user_id": "905786405866979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080724405546848613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6854hb 噢噢，知道了，谢谢解惑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080720368013095134",
+        "created_at": "2026-07-24T18:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080726108430102904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "905786405866979328",
+              "start": 0,
+              "username": "6854hb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080726108430102904",
+        "in_reply_to_user_id": "905786405866979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080724405546848613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6854hb 噢噢，知道了，谢谢解惑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "905786405866979328",
+        "conversation_id": "2080720368013095134",
+        "created_at": "2026-07-24T18:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080724405546848613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080724405546848613",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080723485849235936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 跳了没死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 634,
+          "like_count": 4324,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1214
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-07T13:34:42.000Z",
+        "description": "MTF/26岁/无证含糖24.03/宅/计算机/ 主要关注感兴趣的不一定回f/只发生活负能量",
+        "id": "905786405866979328",
+        "name": "6854号 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787861672113340416/SpVcbYZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 124,
+          "like_count": 7604,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "6854hb",
+        "verified": false
+      }
+    ]
+  }
+}

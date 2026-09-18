@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2089623577574457831",
+    "created_at": "2026-08-18T08:00:58.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089623577574457831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AmJellyCar/sta…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/AmJellyCar/status/2089341382356091348",
+          "start": 48,
+          "url": "https://t.co/X8iPug8rd9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089623577574457831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089341382356091348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢这是对的！宜家鲨鲨是全球mtf不约而同的喜爱物，至少在我收到它之后每天晚上都会紧紧抱着它睡觉 https://t.co/X8iPug8rd9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2977,
+        "media_key": "3_2089341372281282560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7U6IVaYAAF2Og.jpg",
+        "width": 2232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2089623577574457831",
+        "created_at": "2026-08-18T08:00:58.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089623577574457831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmJellyCar/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/AmJellyCar/status/2089341382356091348",
+              "start": 48,
+              "url": "https://t.co/X8iPug8rd9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089623577574457831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089341382356091348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢这是对的！宜家鲨鲨是全球mtf不约而同的喜爱物，至少在我收到它之后每天晚上都会紧紧抱着它睡觉 https://t.co/X8iPug8rd9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089341372281282560"
+          ]
+        },
+        "author_id": "2071693390895616000",
+        "conversation_id": "2089341382356091348",
+        "created_at": "2026-08-17T13:19:38.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089341382356091348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S5R71nArp8",
+              "end": 57,
+              "expanded_url": "https://x.com/AmJellyCar/status/2089341382356091348/photo/1",
+              "media_key": "3_2089341372281282560",
+              "start": 34,
+              "url": "https://t.co/S5R71nArp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089341382356091348",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089341372281282560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 6910,
+          "like_count": 1133,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "every trans girl's best friend :3 https://t.co/S5R71nArp8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2089623577574457831",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 873,
+          "like_count": 6310,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:33:32.000Z",
+        "description": "girl EST. 2024 ♀️\nmassively skill issued 🎮\nDMs open, let's be friends? 💖\nneed.... more.... jirai.... outfits.... ✨️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/xskdFx8fPg",
+                "end": 23,
+                "expanded_url": "https://discord.gg/xskdFx8fPg",
+                "start": 0,
+                "url": "https://t.co/DDKqoMLixZ"
+              }
+            ]
+          }
+        },
+        "id": "2071693390895616000",
+        "is_identity_verified": false,
+        "location": "shrimp town",
+        "most_recent_tweet_id": "2089586961363390609",
+        "name": "Angelica 🏳️‍⚧️",
+        "pinned_tweet_id": "2089198210082574390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071693390895616000/1783640016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071785286196133888/UaLXtgHt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3042,
+          "following_count": 102,
+          "like_count": 1645,
+          "listed_count": 4,
+          "media_count": 169,
+          "tweet_count": 1055
+        },
+        "url": "https://t.co/DDKqoMLixZ",
+        "username": "AmJellyCar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081426356471251044",
+    "created_at": "2026-07-26T17:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081426356471251044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AirisTendouX2K…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/AirisTendouX2K/status/2081158001122296218",
+          "start": 43,
+          "url": "https://t.co/eJCrXZn6wN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081426356471251044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081158001122296218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！ https://t.co/eJCrXZn6wN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081426356471251044",
+        "created_at": "2026-07-26T17:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081426356471251044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AirisTendouX2K…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/AirisTendouX2K/status/2081158001122296218",
+              "start": 43,
+              "url": "https://t.co/eJCrXZn6wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081426356471251044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081158001122296218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！ https://t.co/eJCrXZn6wN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "conversation_id": "2081158001122296218",
+        "created_at": "2026-07-25T23:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081158001122296218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Irosas_xyn/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Irosas_xyn/status/2080882015759745508",
+              "start": 43,
+              "url": "https://t.co/RpPPUqeWhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081158001122296218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080882015759745508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女生我是女生我是女生我是女生我是女生我是女生我是女生我是女生，鬼才要当男生！！！ https://t.co/RpPPUqeWhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 651,
+          "like_count": 4462,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od（化掉），但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️（2026/5/31炸柜），以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "pinned_tweet_id": "2077500001455120500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 200,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "AirisTendouX2K",
+        "verified": true
+      }
+    ]
+  }
+}

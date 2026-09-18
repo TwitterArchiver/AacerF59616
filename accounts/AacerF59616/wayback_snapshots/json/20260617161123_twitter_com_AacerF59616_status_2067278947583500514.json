@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067278323085131912",
+    "created_at": "2026-06-17T16:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067278947583500514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053769520968527872",
+          "start": 0,
+          "username": "Tomatoubto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067278947583500514",
+    "in_reply_to_user_id": "2053769520968527872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067278323085131912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tomatoubto 哇哦，恭喜哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067278318085500928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLByrWlacAAva5y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067278323085131912",
+        "created_at": "2026-06-17T16:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067278947583500514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053769520968527872",
+              "start": 0,
+              "username": "Tomatoubto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067278947583500514",
+        "in_reply_to_user_id": "2053769520968527872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067278323085131912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tomatoubto 哇哦，恭喜哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067278318085500928"
+          ]
+        },
+        "author_id": "2053769520968527872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067278323085131912",
+        "created_at": "2026-06-17T16:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067278323085131912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEx6MQZn9c",
+              "end": 29,
+              "expanded_url": "https://x.com/Tomatoubto/status/2067278323085131912/photo/1",
+              "media_key": "3_2067278318085500928",
+              "start": 6,
+              "url": "https://t.co/fEx6MQZn9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067278323085131912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "600了！ https://t.co/fEx6MQZn9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 109,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 371
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T09:30:15.000Z",
+        "description": "香港🇭🇰小男娘一个，臭男娘群https://t.co/gQaIpZ2fNL\n😜高160重40公斤，本人还在长身体，隔几个月数据可能就得变了🥵，扩列的话，要么就微信，要么纸飞机，我那个企鹅没有实名用不了😰😰😰求互fo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+3eiJDkM7D3ZkO…",
+                "end": 37,
+                "expanded_url": "https://t.me/+3eiJDkM7D3ZkOWM1",
+                "start": 14,
+                "url": "https://t.co/gQaIpZ2fNL"
+              }
+            ]
+          }
+        },
+        "id": "2053769520968527872",
+        "location": "香港🇭🇰",
+        "name": "Potato薯仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063033546466533376/ehsII3-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 599,
+          "like_count": 873,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 139
+        },
+        "username": "Tomatoubto",
+        "verified": false
+      }
+    ]
+  }
+}

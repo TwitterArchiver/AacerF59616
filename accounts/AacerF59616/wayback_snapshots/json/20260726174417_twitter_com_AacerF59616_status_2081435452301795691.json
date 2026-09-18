@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2081435452301795691",
+    "created_at": "2026-07-26T17:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081435452301795691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081435452301795691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去了，昨天下午的时候我在超市买东西闲逛然后走一路我左边乃子就疼一路，虽然说是那种隐隐约约的痛感，不是很明显。\n\n当时我还不信邪呢，稍微按了一下，我去有点痛，不按了不按了我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2081435452301795691",
+        "created_at": "2026-07-26T17:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081435452301795691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081435452301795691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去了，昨天下午的时候我在超市买东西闲逛然后走一路我左边乃子就疼一路，虽然说是那种隐隐约约的痛感，不是很明显。\n\n当时我还不信邪呢，稍微按了一下，我去有点痛，不按了不按了我错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 653,
+          "like_count": 4472,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

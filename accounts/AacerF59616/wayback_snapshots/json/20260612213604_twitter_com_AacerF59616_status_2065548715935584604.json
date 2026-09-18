@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065548715935584604",
+    "created_at": "2026-06-12T21:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T22:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065548715935584604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UnkMtX/status/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/UnkMtX/status/2065383652029280374",
+          "start": 129,
+          "url": "https://t.co/DbN7PjviAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065548715935584604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065383652029280374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "称呼   自指 他指\n顺男     🟥    🟥\n男娘     🟩    🟩\ngay       🟥    🟥\namab  🟨     🟨\n药娘     🟥    🟧\n跨女     🟩    🟩\n顺女     🟧    🟩\nmtf       🟩    🟩 https://t.co/DbN7PjviAv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065548715935584604",
+        "created_at": "2026-06-12T21:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065548715935584604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UnkMtX/status/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/UnkMtX/status/2065383652029280374",
+              "start": 129,
+              "url": "https://t.co/DbN7PjviAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065548715935584604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065383652029280374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "称呼   自指 他指\n顺男     🟥    🟥\n男娘     🟩    🟩\ngay       🟥    🟥\namab  🟨     🟨\n药娘     🟥    🟧\n跨女     🟩    🟩\n顺女     🟧    🟩\nmtf       🟩    🟩 https://t.co/DbN7PjviAv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2065383652029280374",
+        "created_at": "2026-06-12T10:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065383652029280374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/NL8526/status/2065368187936637160",
+              "start": 157,
+              "url": "https://t.co/hub4GqeuGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065383652029280374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1506,
+          "like_count": 17,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065368187936637160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "想知道大家对称呼的接受程度\n咱个人目前是这样\n称呼   自指 他指\n顺男     🟨    🟥\n男娘     🟥    🟥\ngay        🟥    🟥\namab     🟨     🟨\n药娘     🟩    🟩\n跨女     🟩    🟩\n顺女     🟨    🟩\nmtf        🟩    🟩 https://t.co/hub4GqeuGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 47,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 203
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm53kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.𝙐𝙣𝙠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 952,
+          "like_count": 1769,
+          "listed_count": 15,
+          "media_count": 46,
+          "tweet_count": 362
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

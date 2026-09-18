@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085100432708575494",
+    "created_at": "2026-08-05T20:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085100432708575494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abaablon/statu…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/abaablon/status/2085095703790154230",
+          "start": 136,
+          "url": "https://t.co/BBfiS1i3kl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085100432708575494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085095703790154230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但现实情况是总有人在拿这个词去大肆攻击同类，看到谁作出了自己认为不合理的事情就大骂对方是跨畜，我不否认酷儿这个词的含义在后续出现了改变，毕竟这是酷儿群体对自身解释权的夺回。但目前看来，「跨畜」一词的使用多倾向于同类之间的互相攻击和否定，并不像反抗形式，因此我有些不敢苟同 https://t.co/BBfiS1i3kl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085100432708575494",
+        "created_at": "2026-08-05T20:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085100432708575494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abaablon/statu…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/abaablon/status/2085095703790154230",
+              "start": 136,
+              "url": "https://t.co/BBfiS1i3kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085100432708575494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085095703790154230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但现实情况是总有人在拿这个词去大肆攻击同类，看到谁作出了自己认为不合理的事情就大骂对方是跨畜，我不否认酷儿这个词的含义在后续出现了改变，毕竟这是酷儿群体对自身解释权的夺回。但目前看来，「跨畜」一词的使用多倾向于同类之间的互相攻击和否定，并不像反抗形式，因此我有些不敢苟同 https://t.co/BBfiS1i3kl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768309380108406784",
+        "conversation_id": "2084919263610237185",
+        "created_at": "2026-08-05T20:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085095703790154230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085095703790154230",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084919263610237185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 把贬义词加诸自身并以此为名的做法在语言学上叫reappropriation，事实上queers如今自称的queer也是他们当时所遭受的贬义用语；最近印度的蟑螂党也是这样。黑人之间也会互称nigger开玩笑。这是弱势少数群体反抗的一种形式，我个人对此持积极态度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 757,
+          "like_count": 5102,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "❤️平等 科学 自由 平和 友愛☀️\n激进(顺)男(同)权 坚决反对剥夺童权\nちち@SShn_30741 はは@kir1same7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "SShn_30741"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "kir1same7"
+              }
+            ]
+          }
+        },
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1981677439614087425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002788092428836865/obEOgkd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 453,
+          "like_count": 32180,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "abaablon",
+        "verified": false
+      }
+    ]
+  }
+}

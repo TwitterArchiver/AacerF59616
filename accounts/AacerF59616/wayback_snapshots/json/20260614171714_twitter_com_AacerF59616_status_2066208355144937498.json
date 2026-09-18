@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "1960068901573992779",
+    "created_at": "2026-06-14T17:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066208355144937498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859219215062028288",
+          "start": 0,
+          "username": "jiang_chua28655"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066208355144937498",
+    "in_reply_to_user_id": "1859219215062028288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960068901573992779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiang_chua28655 那很色气了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1960068880551837696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOQQxCXAAA03r9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "1960068901573992779",
+        "created_at": "2026-06-14T17:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066208355144937498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859219215062028288",
+              "start": 0,
+              "username": "jiang_chua28655"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066208355144937498",
+        "in_reply_to_user_id": "1859219215062028288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960068901573992779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiang_chua28655 那很色气了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960068880551837696"
+          ]
+        },
+        "author_id": "1859219215062028288",
+        "conversation_id": "1960068901573992779",
+        "created_at": "2025-08-25T19:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T20:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960068901573992779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UmI28WIPy",
+              "end": 56,
+              "expanded_url": "https://x.com/jiang_chua28655/status/1960068901573992779/photo/1",
+              "media_key": "3_1960068880551837696",
+              "start": 33,
+              "url": "https://t.co/6UmI28WIPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960068901573992779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3396,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚上妹妹强迫我穿上丝袜，然后把我压在身下玩我乳头，还说我脸红可爱 https://t.co/6UmI28WIPy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 73,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 295
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:56:33.000Z",
+        "description": "喵喵喵妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹\n天天导管的杂鱼@WinkCat1234\n涩涩的同类@kukudejiaxibei\n喵呜~老婆老婆@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "WinkCat1234"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1859219215062028288",
+        "location": "山东济宁",
+        "name": "涩涩の喵🍥",
+        "pinned_tweet_id": "1911406933405204650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879070661320073216/nSTgIxRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 52,
+          "like_count": 132,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 1013
+        },
+        "username": "jiang_chua28655",
+        "verified": false
+      }
+    ]
+  }
+}

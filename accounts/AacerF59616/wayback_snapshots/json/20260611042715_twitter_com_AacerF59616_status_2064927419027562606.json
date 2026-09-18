@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064879724913217847",
+    "created_at": "2026-06-11T04:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064927419027562606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831712966150148097",
+          "start": 0,
+          "username": "zhangyv_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064927419027562606",
+    "in_reply_to_user_id": "1831712966150148097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064879724913217847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangyv_ovo 头发被剪了嘛……确实又要重新留了很麻烦呢，摸摸喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2064879707456405504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKftJ1raAAAP7bl.jpg",
+        "width": 540
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2064879713349488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKftKLobUAA6dby.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2064879719309602817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKftKh1bcAERCkL.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064879724913217847",
+        "created_at": "2026-06-11T04:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064927419027562606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831712966150148097",
+              "start": 0,
+              "username": "zhangyv_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064927419027562606",
+        "in_reply_to_user_id": "1831712966150148097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064879724913217847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyv_ovo 头发被剪了嘛……确实又要重新留了很麻烦呢，摸摸喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064879707456405504",
+            "3_2064879713349488640",
+            "3_2064879719309602817"
+          ]
+        },
+        "author_id": "1831712966150148097",
+        "conversation_id": "2064879724913217847",
+        "created_at": "2026-06-11T01:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T02:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064879724913217847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XNhOMfW7Ac",
+              "end": 74,
+              "expanded_url": "https://x.com/zhangyv_ovo/status/2064879724913217847/photo/1",
+              "media_key": "3_2064879707456405504",
+              "start": 51,
+              "url": "https://t.co/XNhOMfW7Ac"
+            },
+            {
+              "display_url": "pic.x.com/XNhOMfW7Ac",
+              "end": 74,
+              "expanded_url": "https://x.com/zhangyv_ovo/status/2064879724913217847/photo/1",
+              "media_key": "3_2064879713349488640",
+              "start": 51,
+              "url": "https://t.co/XNhOMfW7Ac"
+            },
+            {
+              "display_url": "pic.x.com/XNhOMfW7Ac",
+              "end": 74,
+              "expanded_url": "https://x.com/zhangyv_ovo/status/2064879724913217847/photo/1",
+              "media_key": "3_2064879719309602817",
+              "start": 51,
+              "url": "https://t.co/XNhOMfW7Ac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064879724913217847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 626,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家里把头发给我剪了\n本来不用剪的\n现在也就比寸头长一点了哎\n请假在家了不想上学\n哭了好几天了我好想死 https://t.co/XNhOMfW7Ac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 34,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 120
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:16:26.000Z",
+        "description": "生日2010.04.04/xyn一个/170/52kg\n可以跟咱聊天/缺爱型/烤批/HRT🏳️‍⚧️2024.12.30\n渴望与别人抱抱/目前精神还算稳定？.../好老公@miaoeatcarrot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "miaoeatcarrot"
+              }
+            ]
+          }
+        },
+        "id": "1831712966150148097",
+        "location": "Kawasaki-shi Tama-ku, Kanagawa",
+        "name": "章鱼小丸子🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061668348312858902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019977478996099073/afO_rdl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 115,
+          "like_count": 442,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 505
+        },
+        "username": "zhangyv_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

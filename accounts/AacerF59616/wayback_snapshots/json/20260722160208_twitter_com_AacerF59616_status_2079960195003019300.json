@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079960195003019300",
+    "created_at": "2026-07-22T16:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079960195003019300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2079956002666164518",
+          "start": 129,
+          "url": "https://t.co/uyRwXzAEbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079960195003019300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079956002666164518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这何尝不是一种温和的反对，在跨性别者尚处于未成年时期不予以干涉那不就是在强制ta们接受指派性别的发育吗？在不少时候发表这类观点的也并非性别少数，他们压根不清楚性别不一致是什么感受却试图替性别少数作出“最理智的判断”，那又何尝不是对性别少数的选择权进行了剥夺 https://t.co/uyRwXzAEbv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079960195003019300",
+        "created_at": "2026-07-22T16:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079960195003019300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2079956002666164518",
+              "start": 129,
+              "url": "https://t.co/uyRwXzAEbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079960195003019300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079956002666164518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这何尝不是一种温和的反对，在跨性别者尚处于未成年时期不予以干涉那不就是在强制ta们接受指派性别的发育吗？在不少时候发表这类观点的也并非性别少数，他们压根不清楚性别不一致是什么感受却试图替性别少数作出“最理智的判断”，那又何尝不是对性别少数的选择权进行了剥夺 https://t.co/uyRwXzAEbv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079956002666164518",
+        "created_at": "2026-07-22T15:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079956002666164518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2079753141579657726",
+              "start": 147,
+              "url": "https://t.co/SPQXkfrADE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079956002666164518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079753141579657726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那他们支持的其实是“已成年跨性别权益”，而对于未成年跨性别，他们只会持保守态度，又是说不应该宣传误导又是说避免顺性别者进行没必要的GAHT，然后看到因为痛失早期干预而难以pass的跨性别又说“哎呀你看着这么男/女怎么还敢说自己是个女性/男性”，说到底还是不支持，只是觉得说反对容易招到争议罢了 https://t.co/SPQXkfrADE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 617,
+          "like_count": 4139,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

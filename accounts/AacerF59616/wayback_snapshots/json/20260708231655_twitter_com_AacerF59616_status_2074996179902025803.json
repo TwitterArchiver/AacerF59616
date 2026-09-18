@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2074996179902025803",
+    "created_at": "2026-07-08T23:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074996179902025803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Alive543975550…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/Alive5439755508/status/2074901228425982191",
+          "start": 121,
+          "url": "https://t.co/Pz3Wf2TXQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074996179902025803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074901228425982191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直都说国内情况不能和欧美一概而论但到跨儿这里又可以一概而论了\n\n以及，在我看来，与某个性别相关的特质或行为本身是“学习和表演”出来的，一个人的性别指派为男并不意味着ta的性别表达 性别认同都需要进行同步，你并没有给别人规定义务的权力不是吗 https://t.co/Pz3Wf2TXQu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2074996179902025803",
+        "created_at": "2026-07-08T23:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074996179902025803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Alive543975550…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Alive5439755508/status/2074901228425982191",
+              "start": 121,
+              "url": "https://t.co/Pz3Wf2TXQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074996179902025803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074901228425982191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直都说国内情况不能和欧美一概而论但到跨儿这里又可以一概而论了\n\n以及，在我看来，与某个性别相关的特质或行为本身是“学习和表演”出来的，一个人的性别指派为男并不意味着ta的性别表达 性别认同都需要进行同步，你并没有给别人规定义务的权力不是吗 https://t.co/Pz3Wf2TXQu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040103777550700544",
+        "conversation_id": "2074289434116456475",
+        "created_at": "2026-07-08T16:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074901228425982191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784636606659383296",
+              "start": 0,
+              "username": "momoya051115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074901228425982191",
+        "in_reply_to_user_id": "1784636606659383296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074289434116456475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoya051115 神人，出生是男就是男，回避什么？看来美国的东亚去雄计划很成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 406,
+          "like_count": 2645,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T16:27:14.000Z",
+        "description": "",
+        "id": "2040103777550700544",
+        "name": "Alive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040103845418725376/YH8SCdM-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Alive5439755508",
+        "verified": false
+      }
+    ]
+  }
+}

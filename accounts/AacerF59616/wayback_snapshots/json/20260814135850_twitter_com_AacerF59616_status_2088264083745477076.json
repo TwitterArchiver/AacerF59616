@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088264083745477076",
+    "created_at": "2026-08-14T13:58:50.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088264083745477076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/huihui_mikumi/status/2088038473467085101",
+          "start": 23,
+          "url": "https://t.co/a9oeSQjPFK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088264083745477076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088038473467085101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我来跨圈看到的第几个讣告了来着？记不清了 https://t.co/a9oeSQjPFK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088038442878001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoz5qEaYAAAtv3.jpg",
+        "width": 1853
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088038449819557888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoz6D7aIAATEJ3.jpg",
+        "width": 1853
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088038459575603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoz6oRbkAAxpbK.jpg",
+        "width": 1853
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2088038466387111937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoz7Bpa8AEwUKf.jpg",
+        "width": 1853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088264083745477076",
+        "created_at": "2026-08-14T13:58:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088264083745477076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2088038473467085101",
+              "start": 23,
+              "url": "https://t.co/a9oeSQjPFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088264083745477076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088038473467085101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我来跨圈看到的第几个讣告了来着？记不清了 https://t.co/a9oeSQjPFK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088038442878001152",
+            "3_2088038449819557888",
+            "3_2088038459575603200",
+            "3_2088038466387111937"
+          ]
+        },
+        "author_id": "1598557374046179328",
+        "conversation_id": "2088038473467085101",
+        "created_at": "2026-08-13T23:02:20.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088038473467085101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2014293353269997568",
+              "start": 5,
+              "username": "paperly_forge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdpjEkJK5h",
+              "end": 145,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2088038473467085101/photo/1",
+              "media_key": "3_2088038442878001152",
+              "start": 122,
+              "url": "https://t.co/hdpjEkJK5h"
+            },
+            {
+              "display_url": "pic.x.com/hdpjEkJK5h",
+              "end": 145,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2088038473467085101/photo/1",
+              "media_key": "3_2088038449819557888",
+              "start": 122,
+              "url": "https://t.co/hdpjEkJK5h"
+            },
+            {
+              "display_url": "pic.x.com/hdpjEkJK5h",
+              "end": 145,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2088038473467085101/photo/1",
+              "media_key": "3_2088038459575603200",
+              "start": 122,
+              "url": "https://t.co/hdpjEkJK5h"
+            },
+            {
+              "display_url": "pic.x.com/hdpjEkJK5h",
+              "end": 145,
+              "expanded_url": "https://x.com/huihui_mikumi/status/2088038473467085101/photo/1",
+              "media_key": "3_2088038466387111937",
+              "start": 122,
+              "url": "https://t.co/hdpjEkJK5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088038473467085101",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088038442878001152"
+          },
+          {
+            "media_key": "3_2088038449819557888"
+          },
+          {
+            "media_key": "3_2088038459575603200"
+          },
+          {
+            "media_key": "3_2088038466387111937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1361,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n星星@paperly_forge因与父母吵架，于8月10日吃盐去世\n\n明天前几天还聊的好好的，找我买糖，还开心的跟我炫耀性激素六项的结果，没想到说走就走了，我在跨圈这么久，经历了太多熟人的离世，我只能喝酒思念你\n愿你来生是个可爱的女孩🌟 https://t.co/hdpjEkJK5h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088264083745477076",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 794,
+          "like_count": 5781,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 2005
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列🌟/危机干预🔪\nqq1621320515 微信admin22334\n\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑\n\n 姐姐@Air_Yukiha 小贱狗 @yuerQwQ 小号@mikumi_huihui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 118,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "yuerQwQ"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "mikumi_huihui"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/OxJDjmVvNJ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088241627118870533",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）(糖商)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598557374046179328/1773134277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1149,
+          "like_count": 1494,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 3090
+        },
+        "url": "https://t.co/OxJDjmVvNJ",
+        "username": "huihui_mikumi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

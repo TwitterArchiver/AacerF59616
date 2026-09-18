@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2071265385773473870",
+    "created_at": "2026-06-29T13:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071592581277073449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970828240442028033",
+          "start": 0,
+          "username": "puffpuppyovoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071592581277073449",
+    "in_reply_to_user_id": "1970828240442028033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071265385773473870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puffpuppyovoo 这个点了，性取向不应该以“正常”和“不正常”区分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071265385773473870",
+        "created_at": "2026-06-29T13:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071592581277073449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970828240442028033",
+              "start": 0,
+              "username": "puffpuppyovoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071592581277073449",
+        "in_reply_to_user_id": "1970828240442028033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071265385773473870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puffpuppyovoo 这个点了，性取向不应该以“正常”和“不正常”区分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970828240442028033",
+        "conversation_id": "2071265385773473870",
+        "created_at": "2026-06-28T16:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071265385773473870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071265385773473870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1083,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性取向正常那么请问您是同性恋异性恋双性恋泛性恋还是无性恋呢🫪还是看不出来呀！大家不都是正常的吗🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 237,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T12:30:50.000Z",
+        "description": "🌈 狗 生活の断片｜不约 讨厌人｜请不要认出我",
+        "id": "1970828240442028033",
+        "location": "Tokyo-to, Japan",
+        "name": "もふびー🐾",
+        "pinned_tweet_id": "2013884078777414034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070910332172685312/tgP1mrtW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 16,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "puffpuppyovoo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084095439423549597",
+    "created_at": "2026-08-03T01:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084095439423549597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaoqimiaowu/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaoqimiaowu/status/2083873633471267311",
+          "start": 5,
+          "url": "https://t.co/9CsdjS3PZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084095439423549597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083873633471267311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以的喵 https://t.co/9CsdjS3PZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3770,
+        "media_key": "3_2083873621248978944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtoBIdaMAAQHv6.jpg",
+        "width": 2821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084095439423549597",
+        "created_at": "2026-08-03T01:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084095439423549597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoqimiaowu/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaoqimiaowu/status/2083873633471267311",
+              "start": 5,
+              "url": "https://t.co/9CsdjS3PZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084095439423549597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083873633471267311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以的喵 https://t.co/9CsdjS3PZ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083873621248978944"
+          ]
+        },
+        "author_id": "3302119874",
+        "conversation_id": "2083873633471267311",
+        "created_at": "2026-08-02T11:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083873633471267311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHKTcAazDd",
+              "end": 40,
+              "expanded_url": "https://x.com/xiaoqimiaowu/status/2083873633471267311/photo/1",
+              "media_key": "3_2083873621248978944",
+              "start": 17,
+              "url": "https://t.co/jHKTcAazDd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083873633471267311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大咱们这样就可以吸引来小药娘么 https://t.co/jHKTcAazDd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 734,
+          "like_count": 4884,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 1431
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-31T05:15:55.000Z",
+        "description": "2010.1.8｜93斤｜165｜严肃吃糖3月",
+        "id": "3302119874",
+        "name": "小祺🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058820988272599040/fd77kSb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 87,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "xiaoqimiaowu",
+        "verified": true
+      }
+    ]
+  }
+}

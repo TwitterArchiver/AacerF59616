@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2099941459642429838",
+    "created_at": "2026-09-15T19:20:33.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T20:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099941459642429838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realimmort/sta…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/realimmort/status/2099913351170232451",
+          "start": 145,
+          "url": "https://t.co/DR1Ir62JYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099941459642429838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我没在比谁更惨，也没嫌家里的条件。\n\n我那句\"只在乎卡里能不能正常收到钱\"，说的不是钱多钱少，是怕那根线断。我没有别的收入，药钱、生活费全靠它。所以我不是嫌它，是我只有它。\n\n你羡慕的那一万，在我这儿也不等于被爱。它更像一句\"我给你钱，所以我不欠你\"。这东西我要不是因为没别的，也不想要。\n\n你受过的那些伤，我信，不用拿来跟谁比，我也不打算跟你比。我从来没说我的比谁的轻。\n\n但\"你嫌弃的家庭条件\"这句，是你替我下的结论。我没这么说过，也没这么想过。你可以讲你自己的经历，那是你的；但别替我定义我在想什么。\n\n痛苦不是货币，不用换算率。你要的其实不是赢我，是有人听见你。那个我听见了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099913351170232451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我没在比谁更惨，也没嫌家里的条件。\n\n我那句\"只在乎卡里能不能正常收到钱\"，说的不是钱多钱少，是怕那根线断。我没有别的收入，药钱、生活费全靠它。所以我不是嫌它，是我只有它。\n\n你羡慕的那一万，在我这儿也不等于被爱。它更像一句\"我给你钱，所以我不欠你\"。这东西我要不是因为没别的，也不想要。 https://t.co/DR1Ir62JYJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2099941459642429838",
+        "created_at": "2026-09-15T19:20:33.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099941459642429838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realimmort/sta…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/realimmort/status/2099913351170232451",
+              "start": 145,
+              "url": "https://t.co/DR1Ir62JYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099941459642429838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我没在比谁更惨，也没嫌家里的条件。\n\n我那句\"只在乎卡里能不能正常收到钱\"，说的不是钱多钱少，是怕那根线断。我没有别的收入，药钱、生活费全靠它。所以我不是嫌它，是我只有它。\n\n你羡慕的那一万，在我这儿也不等于被爱。它更像一句\"我给你钱，所以我不欠你\"。这东西我要不是因为没别的，也不想要。\n\n你受过的那些伤，我信，不用拿来跟谁比，我也不打算跟你比。我从来没说我的比谁的轻。\n\n但\"你嫌弃的家庭条件\"这句，是你替我下的结论。我没这么说过，也没这么想过。你可以讲你自己的经历，那是你的；但别替我定义我在想什么。\n\n痛苦不是货币，不用换算率。你要的其实不是赢我，是有人听见你。那个我听见了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099913351170232451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没在比谁更惨，也没嫌家里的条件。\n\n我那句\"只在乎卡里能不能正常收到钱\"，说的不是钱多钱少，是怕那根线断。我没有别的收入，药钱、生活费全靠它。所以我不是嫌它，是我只有它。\n\n你羡慕的那一万，在我这儿也不等于被爱。它更像一句\"我给你钱，所以我不欠你\"。这东西我要不是因为没别的，也不想要。 https://t.co/DR1Ir62JYJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036431003158454277",
+        "conversation_id": "2099808887545139411",
+        "created_at": "2026-09-15T17:28:52.000Z",
+        "display_text_range": [
+          13,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T18:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099913351170232451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099913351170232451",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099808887545139411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 要是真每月能拿出一万，这样的家庭我想都不敢想，我也一直被打压还没钱，一样休过学，并且我一直以来受到的精神，生理伤害都是极大的，任何一件事拿出来都是噩梦，看过很多原生家庭帖子，至今没有任何一家比我恶劣，甚至不如1/3，你嫌弃的家庭条件却让我羡慕。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2099941459642429838",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3091,
+          "following_count": 984,
+          "like_count": 7933,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 3284
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T13:13:04.000Z",
+        "description": "双相，精神近乎崩溃中，情绪控制力弱，深柜无证🍬，极度封建且迷信家庭，超地狱开局。木桶饭可互佛喵\n🚪52，老牌魔法少女，至今还是处，忌永久伤害和黄金等重口，其余随意，需报销来回车费，包月大优惠",
+        "id": "2036431003158454277",
+        "is_identity_verified": false,
+        "location": "天国寰宇",
+        "most_recent_tweet_id": "2099930295101444164",
+        "name": "Immort🍥🏳️‍⚧️极度限流版",
+        "pinned_tweet_id": "2099190435642229231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036431003158454277/1775569026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098067884761399296/c7ZfONGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 68,
+          "like_count": 985,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 912
+        },
+        "url": "",
+        "username": "realimmort",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088169653982126504",
+    "created_at": "2026-08-14T07:43:36.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088169653982126504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Amin1650752/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Amin1650752/status/2088162171985543459",
+          "start": 50,
+          "url": "https://t.co/2Azq9jrn2z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088169653982126504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088162171985543459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉实际上就是一群传统跨和非传统跨搁那吵一些40年前就已经吵过的话题罢了，人类总是很喜欢重复造轮子 https://t.co/2Azq9jrn2z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088169653982126504",
+        "created_at": "2026-08-14T07:43:36.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088169653982126504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amin1650752/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Amin1650752/status/2088162171985543459",
+              "start": 50,
+              "url": "https://t.co/2Azq9jrn2z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088169653982126504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088162171985543459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉实际上就是一群传统跨和非传统跨搁那吵一些40年前就已经吵过的话题罢了，人类总是很喜欢重复造轮子 https://t.co/2Azq9jrn2z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055205435011936256",
+        "conversation_id": "2088162171985543459",
+        "created_at": "2026-08-14T07:13:52.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088162171985543459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088162171985543459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦看到轰轰烈烈的跨圈大辩论来多嘴了：\n\n我是跨女同啊，前任是泛性恋顺女而且我也可以和mtf共度余生（前提是足够pass不然很难忽视那种微弱的冲突感）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088169653982126504",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 789,
+          "like_count": 5730,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "04/RLE学习中/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/transles/同类互fo/不鉴证&不o不割/大概同人游戏女（？）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "黑流树海",
+        "most_recent_tweet_id": "2088166720813015267",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2087531868929622273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1781585938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 810,
+          "like_count": 10148,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

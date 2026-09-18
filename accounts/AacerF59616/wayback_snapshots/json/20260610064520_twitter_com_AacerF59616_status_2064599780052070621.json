@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064599776994443264",
+        "3_2064599777149587456"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064599780052070621",
+    "created_at": "2026-06-10T06:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064599780052070621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTmnllEoVa",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2064599780052070621/photo/1",
+          "media_key": "3_2064599776994443264",
+          "start": 36,
+          "url": "https://t.co/kTmnllEoVa"
+        },
+        {
+          "display_url": "pic.x.com/kTmnllEoVa",
+          "end": 59,
+          "expanded_url": "https://x.com/AacerF59616/status/2064599780052070621/photo/1",
+          "media_key": "3_2064599777149587456",
+          "start": 36,
+          "url": "https://t.co/kTmnllEoVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064599780052070621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵找咱玩的话记得说明来意和身份哦，如果大号显示被封了请加右边小号喵 https://t.co/kTmnllEoVa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1994,
+        "media_key": "3_2064599776994443264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbujvcawAAzJBh.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1994,
+        "media_key": "3_2064599777149587456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbujwBaEAAfA_f.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064599776994443264",
+            "3_2064599777149587456"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064599780052070621",
+        "created_at": "2026-06-10T06:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064599780052070621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTmnllEoVa",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2064599780052070621/photo/1",
+              "media_key": "3_2064599776994443264",
+              "start": 36,
+              "url": "https://t.co/kTmnllEoVa"
+            },
+            {
+              "display_url": "pic.x.com/kTmnllEoVa",
+              "end": 59,
+              "expanded_url": "https://x.com/AacerF59616/status/2064599780052070621/photo/1",
+              "media_key": "3_2064599777149587456",
+              "start": 36,
+              "url": "https://t.co/kTmnllEoVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064599780052070621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵找咱玩的话记得说明来意和身份哦，如果大号显示被封了请加右边小号喵 https://t.co/kTmnllEoVa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2063016362285617215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 27,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 87
+        },
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079956002666164518",
+    "created_at": "2026-07-22T15:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T16:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079956002666164518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SonogamiRinneT…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2079753141579657726",
+          "start": 147,
+          "url": "https://t.co/SPQXkfrADE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079956002666164518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079753141579657726",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那他们支持的其实是“已成年跨性别权益”，而对于未成年跨性别，他们只会持保守态度，又是说不应该宣传误导又是说避免顺性别者进行没必要的GAHT，然后看到因为痛失早期干预而难以pass的跨性别又说“哎呀你看着这么男/女怎么还敢说自己是个女性/男性”，说到底还是不支持，只是觉得说反对容易招到争议罢了 https://t.co/SPQXkfrADE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079956002666164518",
+        "created_at": "2026-07-22T15:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T16:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079956002666164518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2079753141579657726",
+              "start": 147,
+              "url": "https://t.co/SPQXkfrADE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079956002666164518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079753141579657726",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那他们支持的其实是“已成年跨性别权益”，而对于未成年跨性别，他们只会持保守态度，又是说不应该宣传误导又是说避免顺性别者进行没必要的GAHT，然后看到因为痛失早期干预而难以pass的跨性别又说“哎呀你看着这么男/女怎么还敢说自己是个女性/男性”，说到底还是不支持，只是觉得说反对容易招到争议罢了 https://t.co/SPQXkfrADE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2079753141579657726",
+        "created_at": "2026-07-22T02:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079753141579657726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079753141579657726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3529,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "感觉那些说“我支持跨性别权益，但我反对未成年人性别过渡治疗”的人，和说“我支持建核电站，但反对往里面添加核燃料”是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 617,
+          "like_count": 4137,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5187,
+          "following_count": 3834,
+          "like_count": 1545,
+          "listed_count": 19,
+          "media_count": 296,
+          "tweet_count": 2051
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

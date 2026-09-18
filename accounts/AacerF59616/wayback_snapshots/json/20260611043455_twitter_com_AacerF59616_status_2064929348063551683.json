@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064719487694422458",
+    "created_at": "2026-06-11T04:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064929348063551683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646393740851036160",
+          "start": 0,
+          "username": "huai12312332132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064929348063551683",
+    "in_reply_to_user_id": "1646393740851036160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064719487694422458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huai12312332132 可爱宝宝喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2064719484783673344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdbbptbwAAmUIr.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064719487694422458",
+        "created_at": "2026-06-11T04:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064929348063551683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646393740851036160",
+              "start": 0,
+              "username": "huai12312332132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064929348063551683",
+        "in_reply_to_user_id": "1646393740851036160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064719487694422458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huai12312332132 可爱宝宝喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064719484783673344"
+          ]
+        },
+        "author_id": "1646393740851036160",
+        "conversation_id": "2064719487694422458",
+        "created_at": "2026-06-10T14:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064719487694422458"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XLnp2h32Zn",
+              "end": 34,
+              "expanded_url": "https://x.com/huai12312332132/status/2064719487694422458/photo/1",
+              "media_key": "3_2064719484783673344",
+              "start": 11,
+              "url": "https://t.co/XLnp2h32Zn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064719487694422458",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2071,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 ww https://t.co/XLnp2h32Zn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 34,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 122
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T06:03:58.000Z",
+        "description": "06年河南小男娘喵，没吃药，没门槛，推特当朋友圈发，超级缺爱喵，快来找我聊天\nQQ3444814595",
+        "id": "1646393740851036160",
+        "name": "阿荷吖",
+        "pinned_tweet_id": "1978954748339380646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991150866666295296/6mX62LbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 48
+        },
+        "username": "huai12312332132",
+        "verified": false
+      }
+    ]
+  }
+}

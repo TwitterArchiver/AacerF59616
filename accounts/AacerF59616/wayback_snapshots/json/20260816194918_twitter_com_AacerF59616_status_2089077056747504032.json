@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2089077056747504032",
+    "created_at": "2026-08-16T19:49:18.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089077056747504032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CeKuest/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/CeKuest/status/2088957295963291715",
+          "start": 28,
+          "url": "https://t.co/mSJJvjtEGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089077056747504032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088957295963291715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼，因为自己是顺性别异性恋就预设自己是「正常」了吗？ https://t.co/mSJJvjtEGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 269,
+        "media_key": "3_2088957123728412672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP13b67akAAO8lK.png",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2089077056747504032",
+        "created_at": "2026-08-16T19:49:18.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089077056747504032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CeKuest/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/CeKuest/status/2088957295963291715",
+              "start": 28,
+              "url": "https://t.co/mSJJvjtEGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089077056747504032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088957295963291715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼，因为自己是顺性别异性恋就预设自己是「正常」了吗？ https://t.co/mSJJvjtEGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088957123728412672"
+          ]
+        },
+        "author_id": "1239478597632405505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088957295963291715",
+        "created_at": "2026-08-16T11:53:24.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088957295963291715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ogwcTW7qw",
+              "end": 54,
+              "expanded_url": "https://x.com/CeKuest/status/2088957295963291715/photo/1",
+              "media_key": "3_2088957123728412672",
+              "start": 31,
+              "url": "https://t.co/9ogwcTW7qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088957295963291715",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088957123728412672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致命的同情心就是这样的后果。精神病人觉得正常人才是精神病了。 https://t.co/9ogwcTW7qw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2089077056747504032",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 842,
+          "like_count": 6110,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T09:10:03.000Z",
+        "description": "https://t.co/Hq0tdeyzDt.Evolution",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Truth.Strength.Family",
+                "end": 23,
+                "expanded_url": "http://Truth.Strength.Family",
+                "start": 0,
+                "url": "https://t.co/Hq0tdeyzDt"
+              }
+            ]
+          }
+        },
+        "id": "1239478597632405505",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089018424139857962",
+        "name": "CeKuest",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239478597632405505/1732742665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012264344130830336/DqWitCuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 246,
+          "like_count": 4382,
+          "listed_count": 11,
+          "media_count": 151,
+          "tweet_count": 14715
+        },
+        "url": "",
+        "username": "CeKuest",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

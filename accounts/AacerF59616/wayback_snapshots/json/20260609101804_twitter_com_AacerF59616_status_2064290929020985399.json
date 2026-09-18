@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2064061281137824119",
+    "created_at": "2026-06-09T10:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064290929020985399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1822170840231776256",
+          "start": 0,
+          "username": "mofa_ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064290929020985399",
+    "in_reply_to_user_id": "1822170840231776256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064061281137824119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofa_ee 别诶，好难受的哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064061278667292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUEzA2aQAASzY0.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2064061281137824119",
+        "created_at": "2026-06-09T10:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064290929020985399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1822170840231776256",
+              "start": 0,
+              "username": "mofa_ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064290929020985399",
+        "in_reply_to_user_id": "1822170840231776256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064061281137824119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofa_ee 别诶，好难受的哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064061278667292672"
+          ]
+        },
+        "author_id": "1822170840231776256",
+        "conversation_id": "2064061281137824119",
+        "created_at": "2026-06-08T19:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064061281137824119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jkwwm5lt4r",
+              "end": 66,
+              "expanded_url": "https://x.com/mofa_ee/status/2064061281137824119/photo/1",
+              "media_key": "3_2064061278667292672",
+              "start": 43,
+              "url": "https://t.co/Jkwwm5lt4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064061281137824119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2453,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爱你们，希望酒精能让鸽子死的时候轻松一点\n来世要是可爱的女孩子就好了……\n爱你们大家 https://t.co/Jkwwm5lt4r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2063016362285617215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 23,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 56
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T07:19:38.000Z",
+        "description": "无证含糖🍥 | hrt💊2026.5.10 | 誕生日🍰2006.9 | 168cm 53kg | infp | 是只鸽子~ | 不划手手 不od | 好孤独，想要得到关注 | 爱好是画画，术曲，有时会唱点歌 | 没有存在感的透明小鸽子一只",
+        "id": "1822170840231776256",
+        "name": "已成汤的魔法鸽🍥",
+        "pinned_tweet_id": "2063267571584102611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 110,
+          "like_count": 496,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "username": "mofa_ee",
+        "verified": false
+      }
+    ]
+  }
+}

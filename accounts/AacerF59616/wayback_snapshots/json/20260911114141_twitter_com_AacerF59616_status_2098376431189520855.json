@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098376318765412352",
+        "3_2098376318769586176",
+        "3_2098376318752804864"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2098376431189520855",
+    "created_at": "2026-09-11T11:41:41.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098376431189520855"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "小药娘今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yJTDf49Iu1",
+          "end": 55,
+          "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+          "media_key": "3_2098376318765412352",
+          "start": 32,
+          "url": "https://t.co/yJTDf49Iu1"
+        },
+        {
+          "display_url": "pic.x.com/yJTDf49Iu1",
+          "end": 55,
+          "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+          "media_key": "3_2098376318769586176",
+          "start": 32,
+          "url": "https://t.co/yJTDf49Iu1"
+        },
+        {
+          "display_url": "pic.x.com/yJTDf49Iu1",
+          "end": 55,
+          "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+          "media_key": "3_2098376318752804864",
+          "start": 32,
+          "url": "https://t.co/yJTDf49Iu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098376431189520855",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098376318765412352"
+      },
+      {
+        "media_key": "3_2098376318769586176"
+      },
+      {
+        "media_key": "3_2098376318752804864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#小药娘今天吃什么 下班早所以吃萨莉亚喵，鸡肉丁好吃所以点两份 https://t.co/yJTDf49Iu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098376318765412352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7uJO0asAAWOBn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098376318769586176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7uJO1aYAAHmDK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098376318752804864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7uJOxaUAAcXiH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098376318765412352",
+            "3_2098376318769586176",
+            "3_2098376318752804864"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2098376431189520855",
+        "created_at": "2026-09-11T11:41:41.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098376431189520855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "小药娘今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yJTDf49Iu1",
+              "end": 55,
+              "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+              "media_key": "3_2098376318765412352",
+              "start": 32,
+              "url": "https://t.co/yJTDf49Iu1"
+            },
+            {
+              "display_url": "pic.x.com/yJTDf49Iu1",
+              "end": 55,
+              "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+              "media_key": "3_2098376318769586176",
+              "start": 32,
+              "url": "https://t.co/yJTDf49Iu1"
+            },
+            {
+              "display_url": "pic.x.com/yJTDf49Iu1",
+              "end": 55,
+              "expanded_url": "https://x.com/AacerF59616/status/2098376431189520855/photo/1",
+              "media_key": "3_2098376318752804864",
+              "start": 32,
+              "url": "https://t.co/yJTDf49Iu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098376431189520855",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098376318765412352"
+          },
+          {
+            "media_key": "3_2098376318769586176"
+          },
+          {
+            "media_key": "3_2098376318752804864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小药娘今天吃什么 下班早所以吃萨莉亚喵，鸡肉丁好吃所以点两份 https://t.co/yJTDf49Iu1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "生产日期：2008.4.15｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2098376431189520855",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 950,
+          "like_count": 7745,
+          "listed_count": 2,
+          "media_count": 519,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

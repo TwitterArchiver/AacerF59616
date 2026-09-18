@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067888734901883009",
+    "created_at": "2026-06-19T20:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068070792689250663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057784302369456128",
+          "start": 0,
+          "username": "jingzi8688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068070792689250663",
+    "in_reply_to_user_id": "2057784302369456128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067888734901883009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingzi8688 不介意口感变差的话稍微加热可以稍微加热一下喵，加热过一遍后的凤梨（或者是菠萝）不会再扎嘴了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067888734901883009",
+        "created_at": "2026-06-19T20:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068070792689250663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057784302369456128",
+              "start": 0,
+              "username": "jingzi8688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068070792689250663",
+        "in_reply_to_user_id": "2057784302369456128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067888734901883009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingzi8688 不介意口感变差的话稍微加热可以稍微加热一下喵，加热过一遍后的凤梨（或者是菠萝）不会再扎嘴了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057784302369456128",
+        "conversation_id": "2067888734901883009",
+        "created_at": "2026-06-19T08:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067888734901883009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067888734901883009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完凤梨舌头麻了😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 123,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T11:23:23.000Z",
+        "description": "我重生了，上一世我被白月光小药娘迷了心智，我的家人朋友们都被我冷落，这一世我势必要夺回属于我的一切......\n长期提供手作凝胶、手作庚酸\n好闺蜜@Muswrldliams大老婆@tamayurichann\n靠谱且耐用的巨乳瑶@Mira10022568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Muswrldliams"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "tamayurichann"
+              },
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Mira10022568"
+              }
+            ]
+          }
+        },
+        "id": "2057784302369456128",
+        "name": "京子",
+        "pinned_tweet_id": "2062320118701699191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064548572813832192/rYpoevVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 529,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "jingzi8688",
+        "verified": false
+      }
+    ]
+  }
+}

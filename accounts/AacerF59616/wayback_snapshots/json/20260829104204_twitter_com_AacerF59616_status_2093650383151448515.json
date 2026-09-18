@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2093576341644075115",
+    "created_at": "2026-08-29T10:42:04.000Z",
+    "display_text_range": [
+      14,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093650383151448515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1500278992674246658",
+          "start": 0,
+          "username": "Barends_Elon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093650383151448515",
+    "in_reply_to_user_id": "1500278992674246658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093644824385864148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Barends_Elon 可能得考虑一下其他因素影响，毕竟生物等效性这个等效只是用部分健康人群做小规模的交叉实验证明来的，原研药毕竟有长期跟踪，制造工艺什么的也是一回事，原研药咋造的是保密内容，仿制药只能逆向去拆……只能说便宜归便宜但不能既要又要了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2093576341644075115",
+        "created_at": "2026-08-29T10:42:04.000Z",
+        "display_text_range": [
+          14,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093650383151448515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1500278992674246658",
+              "start": 0,
+              "username": "Barends_Elon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093650383151448515",
+        "in_reply_to_user_id": "1500278992674246658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093644824385864148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Barends_Elon 可能得考虑一下其他因素影响，毕竟生物等效性这个等效只是用部分健康人群做小规模的交叉实验证明来的，原研药毕竟有长期跟踪，制造工艺什么的也是一回事，原研药咋造的是保密内容，仿制药只能逆向去拆……只能说便宜归便宜但不能既要又要了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500278992674246658",
+        "conversation_id": "2093576341644075115",
+        "created_at": "2026-08-29T10:19:58.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093644824385864148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093644824385864148",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093576341644075115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 从国产进口阿司匹林对比来看，进口国产的差别其实很大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2093650383151448515",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 892,
+          "like_count": 7259,
+          "listed_count": 3,
+          "media_count": 441,
+          "tweet_count": 2749
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-06T01:16:36.000Z",
+        "description": "Passionate about paws & pixels: Sharing animal adventures, tech breakthroughs, and everything in between. Join the fun! 🐾 #AnimalLover #TechEnthusiast",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 134,
+                "start": 122,
+                "tag": "AnimalLover"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "tag": "TechEnthusiast"
+              }
+            ]
+          }
+        },
+        "id": "1500278992674246658",
+        "is_identity_verified": false,
+        "location": "Hounslow, London",
+        "most_recent_tweet_id": "2093645845698588689",
+        "name": "Elon Barends",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500278992674246658/1760063634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976316143100141568/wBdEtENG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 289,
+          "like_count": 74441,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 12700
+        },
+        "url": "",
+        "username": "Barends_Elon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

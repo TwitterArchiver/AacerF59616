@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084699965629362485",
+    "created_at": "2026-08-04T17:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084699965629362485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LingYu0612/sta…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/LingYu0612/status/2084660566808015130",
+          "start": 77,
+          "url": "https://t.co/afCPhEqeI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084699965629362485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084660566808015130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯呐，我在来这里之前就戒了很久了，曾经是od苯二类的，上次印象中是25.12.10，原来已经238天没干过了。如果可以的话，我会保持这样的，我不想变回去 https://t.co/afCPhEqeI6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084699965629362485",
+        "created_at": "2026-08-04T17:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084699965629362485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingYu0612/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/LingYu0612/status/2084660566808015130",
+              "start": 77,
+              "url": "https://t.co/afCPhEqeI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084699965629362485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084660566808015130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯呐，我在来这里之前就戒了很久了，曾经是od苯二类的，上次印象中是25.12.10，原来已经238天没干过了。如果可以的话，我会保持这样的，我不想变回去 https://t.co/afCPhEqeI6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083872895659634688",
+        "conversation_id": "2084630406666842596",
+        "created_at": "2026-08-04T15:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084660566808015130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084660566808015130",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084630406666842596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 看样子小琳也挺厉害的呐\n\n但是要坚持下去哦～\n咱不想再看到有人继续选择这类手段伤害自己了……\n\n至少目前为止遇到的人咱都不希望！\n都要好好的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 750,
+          "like_count": 5014,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1490
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "location": "重庆市",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2084621297091527050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": false
+      }
+    ]
+  }
+}

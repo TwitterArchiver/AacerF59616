@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2100286150296715337",
+    "created_at": "2026-09-16T18:10:14.000Z",
+    "display_text_range": [
+      0,
+      181
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100286150296715337"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100286150296715337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看完极客湾这期 iPhone 18 Pro / A20 Pro 性能分析，感觉这代真的可以算苹果 A 系列近五年来幅度最大的一次升级了，而且不是“2nm 换工艺所以跑分涨一点”这么简单，基本上是 CPU、GPU、内存、NPU、封装和散热一起大改。\n\nA20 Pro 采用 TSMC 2nm，CPU 还是 2P+4E，不过性能核最高频率已经从 A19 Pro 的约 4.26GHz 拉到 4.93GHz，单看频率就是 +15.7%。目前公开的 Geekbench 7 成绩大概是单核 4719、多核 12677，相较 A19 Pro 单核大约 +21%～23%，多核 +27%～28%，这已经不是最近几年 A 系列那种比较平缓的迭代了。\n\n首先是内存，A 系列用了这么多年 64-bit 内存总线，这次直接拉到 96-bit，LPDDR5X-9600，理论带宽从 A19 Pro 的 76.8GB/s 提高到 115.2GB/s，正好 +50%，而且极客湾测出来内存延迟还能压在 70ns 以下。对于 GPU、NPU 和现在越来越重的端侧 AI 来说，这种带宽提升明显比单纯多几百 MHz 有意义得多。\n\nGPU 也从 6 核增加到 7 核，Apple 官方给的是最高 +40% 性能；Neural Engine 更夸张，直接从原来的 16 核变成 Dual 16-core，也就是总共 32 核，Apple 官方称 AI 处理能力达到 A19 Pro 的 2 倍。\n\nCPU 小核这次其实也挺狠。A19 Pro 四个能效核共享 6MB 缓存，A20 Pro 增加到了 8MB。极客湾测出来的新 E-core 性能已经很接近一些安卓旗舰 SoC 的中核，但是功耗明显更低，所以这代并不是只有两个大核在暴力拉频，小核本身也算一次挺大的升级。\n\n更有意思的是新大核本身面积反而缩小了大约 15%，SPEC2026 浮点 IPC 甚至还低了约 1%，也就是说 A20 Pro 这次巨大的性能增幅并不是“IPC 突然暴涨”，更多是 2nm、微架构调整、频率、缓存、内存系统和供电共同堆出来的。单线程 SPEC2026 下 CPU+内存+供电整个平台甚至能冲到大概 9～10W。\n\nA20 Pro 改用了类似 M 系列思路的新封装，把内存从过去堆在 SoC 上面的布局改成和芯片并排放置，这样 SoC 可以直接接触均热板；iPhone 18 Pro 的新 VC 面积大约是 17 Pro 的 3 倍。Apple 官方宣称持续性能最高 +40%。\n\n极客湾测试里一个很能说明问题的数据是：A20 Pro 在常温和主动散热条件下，单线程性能几乎没有差别，多线程也只差大约 3%。以前 iPhone 峰值性能一直很强，真正的问题是手机压不住，持续负载一上来很快就会撞温度墙；这代等于把这个短板也一起补了。\n\n这次最重要的并不是 A20 Pro 某一个跑分项目涨了 20% 还是 40%，而是苹果几乎把限制手机 SoC 性能的每一层都一起动了：CPU 大核拉到 4.93GHz、小核扩缓存、内存从 64-bit 变 96-bit、带宽 +50%、GPU 6→7 核、NPU 16→32 核，再加新的并排封装和 3 倍面积 VC。\n\n以前几代 A 系列更多给我一种“底子已经很强，所以每年稳定加一点”的感觉，这次反而像苹果重新认真做了一轮底层平台升级，尤其是 96-bit 内存和新封装。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完极客湾这期 iPhone 18 Pro / A20 Pro 性能分析，感觉这代真的可以算苹果 A 系列近五年来幅度最大的一次升级了，而且不是“2nm 换工艺所以跑分涨一点”这么简单，基本上是 CPU、GPU、内存、NPU、封装和散热一起大改。\n\nA20 Pro 采用 TSMC 2nm，CPU 还是 2P+4E，不过性能核最高频率已经从 A19 Pro 的约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2100286150296715337",
+        "created_at": "2026-09-16T18:10:14.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100286150296715337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100286150296715337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看完极客湾这期 iPhone 18 Pro / A20 Pro 性能分析，感觉这代真的可以算苹果 A 系列近五年来幅度最大的一次升级了，而且不是“2nm 换工艺所以跑分涨一点”这么简单，基本上是 CPU、GPU、内存、NPU、封装和散热一起大改。\n\nA20 Pro 采用 TSMC 2nm，CPU 还是 2P+4E，不过性能核最高频率已经从 A19 Pro 的约 4.26GHz 拉到 4.93GHz，单看频率就是 +15.7%。目前公开的 Geekbench 7 成绩大概是单核 4719、多核 12677，相较 A19 Pro 单核大约 +21%～23%，多核 +27%～28%，这已经不是最近几年 A 系列那种比较平缓的迭代了。\n\n首先是内存，A 系列用了这么多年 64-bit 内存总线，这次直接拉到 96-bit，LPDDR5X-9600，理论带宽从 A19 Pro 的 76.8GB/s 提高到 115.2GB/s，正好 +50%，而且极客湾测出来内存延迟还能压在 70ns 以下。对于 GPU、NPU 和现在越来越重的端侧 AI 来说，这种带宽提升明显比单纯多几百 MHz 有意义得多。\n\nGPU 也从 6 核增加到 7 核，Apple 官方给的是最高 +40% 性能；Neural Engine 更夸张，直接从原来的 16 核变成 Dual 16-core，也就是总共 32 核，Apple 官方称 AI 处理能力达到 A19 Pro 的 2 倍。\n\nCPU 小核这次其实也挺狠。A19 Pro 四个能效核共享 6MB 缓存，A20 Pro 增加到了 8MB。极客湾测出来的新 E-core 性能已经很接近一些安卓旗舰 SoC 的中核，但是功耗明显更低，所以这代并不是只有两个大核在暴力拉频，小核本身也算一次挺大的升级。\n\n更有意思的是新大核本身面积反而缩小了大约 15%，SPEC2026 浮点 IPC 甚至还低了约 1%，也就是说 A20 Pro 这次巨大的性能增幅并不是“IPC 突然暴涨”，更多是 2nm、微架构调整、频率、缓存、内存系统和供电共同堆出来的。单线程 SPEC2026 下 CPU+内存+供电整个平台甚至能冲到大概 9～10W。\n\nA20 Pro 改用了类似 M 系列思路的新封装，把内存从过去堆在 SoC 上面的布局改成和芯片并排放置，这样 SoC 可以直接接触均热板；iPhone 18 Pro 的新 VC 面积大约是 17 Pro 的 3 倍。Apple 官方宣称持续性能最高 +40%。\n\n极客湾测试里一个很能说明问题的数据是：A20 Pro 在常温和主动散热条件下，单线程性能几乎没有差别，多线程也只差大约 3%。以前 iPhone 峰值性能一直很强，真正的问题是手机压不住，持续负载一上来很快就会撞温度墙；这代等于把这个短板也一起补了。\n\n这次最重要的并不是 A20 Pro 某一个跑分项目涨了 20% 还是 40%，而是苹果几乎把限制手机 SoC 性能的每一层都一起动了：CPU 大核拉到 4.93GHz、小核扩缓存、内存从 64-bit 变 96-bit、带宽 +50%、GPU 6→7 核、NPU 16→32 核，再加新的并排封装和 3 倍面积 VC。\n\n以前几代 A 系列更多给我一种“底子已经很强，所以每年稳定加一点”的感觉，这次反而像苹果重新认真做了一轮底层平台升级，尤其是 96-bit 内存和新封装。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完极客湾这期 iPhone 18 Pro / A20 Pro 性能分析，感觉这代真的可以算苹果 A 系列近五年来幅度最大的一次升级了，而且不是“2nm 换工艺所以跑分涨一点”这么简单，基本上是 CPU、GPU、内存、NPU、封装和散热一起大改。\n\nA20 Pro 采用 TSMC 2nm，CPU 还是 2P+4E，不过性能核最高频率已经从 A19 Pro 的约"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100286150296715337",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3167,
+          "following_count": 987,
+          "like_count": 8003,
+          "listed_count": 2,
+          "media_count": 566,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

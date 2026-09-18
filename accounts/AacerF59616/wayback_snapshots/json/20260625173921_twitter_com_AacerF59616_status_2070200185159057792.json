@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2070178124156055795",
+    "created_at": "2026-06-25T17:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T18:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070200185159057792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875534359547277319",
+          "start": 0,
+          "username": "NippouMika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070200185159057792",
+    "in_reply_to_user_id": "1875534359547277319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070178124156055795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NippouMika 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070178112332320768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrABl9bUAAUkvR.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070178101724946432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrAA-cboAAUBDQ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2070178124156055795",
+        "created_at": "2026-06-25T17:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070200185159057792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875534359547277319",
+              "start": 0,
+              "username": "NippouMika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070200185159057792",
+        "in_reply_to_user_id": "1875534359547277319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070178124156055795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NippouMika 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070178112332320768",
+            "3_2070178101724946432"
+          ]
+        },
+        "author_id": "1875534359547277319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070178124156055795",
+        "created_at": "2026-06-25T16:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070178124156055795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/acx2C6GT6e",
+              "end": 26,
+              "expanded_url": "https://x.com/NippouMika/status/2070178124156055795/photo/1",
+              "media_key": "3_2070178112332320768",
+              "start": 3,
+              "url": "https://t.co/acx2C6GT6e"
+            },
+            {
+              "display_url": "pic.x.com/acx2C6GT6e",
+              "end": 26,
+              "expanded_url": "https://x.com/NippouMika/status/2070178124156055795/photo/1",
+              "media_key": "3_2070178101724946432",
+              "start": 3,
+              "url": "https://t.co/acx2C6GT6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070178124156055795",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21 https://t.co/acx2C6GT6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 180,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T13:27:06.000Z",
+        "description": "我终于能做自己了",
+        "id": "1875534359547277319",
+        "location": "Kasukabe-shi, Saitama",
+        "name": "万诗维☔️",
+        "pinned_tweet_id": "1961121410166001995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042576598545956864/KwBLiQGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 131,
+          "like_count": 8543,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 2470
+        },
+        "url": "",
+        "username": "NippouMika",
+        "verified": false
+      }
+    ]
+  }
+}

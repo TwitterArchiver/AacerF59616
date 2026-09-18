@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088223893769367698",
+    "created_at": "2026-08-15T09:40:38.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088561494531469645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878984105183920128",
+          "start": 0,
+          "username": "EternalSterne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088561494531469645",
+    "in_reply_to_user_id": "1878984105183920128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088556443335356915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EternalSterne 噢，我想也是，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088223893769367698",
+        "created_at": "2026-08-15T09:40:38.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088561494531469645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878984105183920128",
+              "start": 0,
+              "username": "EternalSterne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088561494531469645",
+        "in_reply_to_user_id": "1878984105183920128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088556443335356915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EternalSterne 噢，我想也是，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878984105183920128",
+        "conversation_id": "2088223893769367698",
+        "created_at": "2026-08-15T09:20:34.000Z",
+        "display_text_range": [
+          13,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088556443335356915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088556443335356915",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088223893769367698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 小孩纸往往看不出人表面上的一些比如头发代表的东西，但是更能看到一个人的本质。所以恭喜你，从心里是一个成功的女孩纸~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088561494531469645",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 798,
+          "like_count": 5858,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 2049
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-14T01:55:16.000Z",
+        "description": "私わSternenstaub☆Lichtyahr「凌恒」Foreverです☆~\nOtaku + Linux & FOSS\nCapable of a bit Python, C++, Html\nCall me if you want newbee contributor to mess up your poi☆ject~",
+        "id": "1878984105183920128",
+        "is_identity_verified": false,
+        "location": "Mars (+8:00 UTC)",
+        "most_recent_tweet_id": "2088556443335356915",
+        "name": "Lace🏳️‍⚧️",
+        "pinned_tweet_id": "2086810982542971132",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878984195604951040/ku0c466G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 98,
+          "like_count": 4319,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "EternalSterne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

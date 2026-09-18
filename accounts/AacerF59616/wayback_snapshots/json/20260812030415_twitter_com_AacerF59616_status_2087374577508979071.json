@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087374577508979071",
+    "created_at": "2026-08-12T03:04:15.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T03:51:46.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087371434817618213",
+      "2087373185071345838",
+      "2087374577508979071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longyvling/sta…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/longyvling/status/2087368413115031991",
+          "start": 99,
+          "url": "https://t.co/UuZzHbK157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087374577508979071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。\n\n你认为「争论性别焦虑是否为一种病」并不具备现实建议性，那的确，因为早就定下来了，不是病，但到底是谁先挑起来的话题呢？\n\n无论怎么说，我从来不觉得性别不一致及其所致痛苦是什么病理性特征，有人觉得这是病再正常不过了，毕竟人各有各理解，我也没有过「自诩进步」然后贬低别人的行为，但你要和我说这是病并打算以此反驳什么，我进行驳回也只是再正常不过的行为"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087368413115031991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。 https://t.co/UuZzHbK157"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087371434817618213",
+        "created_at": "2026-08-12T02:51:46.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:51:46.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087371434817618213",
+          "2087373185071345838",
+          "2087374577508979071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/longyvling/status/2087368413115031991",
+              "start": 36,
+              "url": "https://t.co/UuZzHbK157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087371434817618213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087368413115031991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的 https://t.co/UuZzHbK157"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087373185071345838",
+        "created_at": "2026-08-12T02:58:43.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:51:46.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087371434817618213",
+          "2087373185071345838",
+          "2087374577508979071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/longyvling/status/2087368413115031991",
+              "start": 99,
+              "url": "https://t.co/UuZzHbK157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087373185071345838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。\n\n你认为「争论性别焦虑是否为一种病」并不具备现实建议性，那的确，因为早就定下来了，不是病，但到底是谁先挑起来的话题呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087368413115031991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。 https://t.co/UuZzHbK157"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087374577508979071",
+        "created_at": "2026-08-12T03:04:15.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:51:46.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087371434817618213",
+          "2087373185071345838",
+          "2087374577508979071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/longyvling/status/2087368413115031991",
+              "start": 99,
+              "url": "https://t.co/UuZzHbK157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087374577508979071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。\n\n你认为「争论性别焦虑是否为一种病」并不具备现实建议性，那的确，因为早就定下来了，不是病，但到底是谁先挑起来的话题呢？\n\n无论怎么说，我从来不觉得性别不一致及其所致痛苦是什么病理性特征，有人觉得这是病再正常不过了，毕竟人各有各理解，我也没有过「自诩进步」然后贬低别人的行为，但你要和我说这是病并打算以此反驳什么，我进行驳回也只是再正常不过的行为"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087368413115031991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真不是先发现gd的，我察觉到自己经验性别的起因是发现性别欣快导致的\n\n以及是谁告诉你的我在「批判」把自己称作病人的跨女了？这不是她们自己说的吗？我可没有说过什么「啊跨性别就应该反抗规范」的话。 https://t.co/UuZzHbK157"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2087171634134495236",
+        "created_at": "2026-08-12T02:39:45.000Z",
+        "display_text_range": [
+          13,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087368413115031991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087368413115031991",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087171634134495236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 难道不是先有痛苦再有状态吗？难道你不是因为发现自己有GD再跨的？\n另外，也并不是所有精神疾病（泛指ICD-11中的精神、行为或神经发育障碍）都具有你所说的认知能力、现实判断、人格结构损害的特点。狭义的来说“精神病”倒是可能比较接近。\n非外源的“严重影响生活质量”似乎也只有疾病能做到。（1/n）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087374577508979071",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 782,
+          "like_count": 5534,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1814
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | AuDHD | 🎂2010.1.3 | 🍥2026.5.18 | CPhO现役 | 中国西南某山城北部 | 悟往者之不谏，知来者之可追，实迷途之未远 | 再见了上帝，我要去独自旅行",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜孤灯",
+        "most_recent_tweet_id": "2087374417340899636",
+        "name": "龙雨绫🍥",
+        "pinned_tweet_id": "2087364969373335788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 292,
+          "like_count": 3447,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

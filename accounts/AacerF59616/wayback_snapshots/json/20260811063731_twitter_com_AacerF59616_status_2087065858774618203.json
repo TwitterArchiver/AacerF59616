@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087065858774618203",
+    "created_at": "2026-08-11T06:37:31.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087065858774618203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paperly_forge/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/paperly_forge/status/2087053106362318966",
+          "start": 18,
+          "url": "https://t.co/C7QF3iySLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087065858774618203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087053106362318966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以别走吗好姐妹，不想看到再走一个 https://t.co/C7QF3iySLo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087065858774618203",
+        "created_at": "2026-08-11T06:37:31.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087065858774618203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paperly_forge/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/paperly_forge/status/2087053106362318966",
+              "start": 18,
+              "url": "https://t.co/C7QF3iySLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087065858774618203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087053106362318966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以别走吗好姐妹，不想看到再走一个 https://t.co/C7QF3iySLo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014293353269997568",
+        "conversation_id": "2087053106362318966",
+        "created_at": "2026-08-11T05:46:50.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087053106362318966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1953688493160542208",
+              "start": 6,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087053106362318966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 14,
+                "id": "1953688493160542208",
+                "start": 6,
+                "username": "SYFSASN"
+              }
+            ]
+          },
+          "text": "讣告\n\n我是@SYFSASN，得知星星去世的消息让我非常心痛，我决定去陪她了，如果不出意外我将在8月12日去世\n\n如果没有7月16日那件事她是不是就不会死了，我什么都没做到，现在我要去陪她了，至少不会让她再感到孤独，我欠她的永远都还不完\n\n致我的朋友们：谢谢你们愿意陪我，我真的很开心，谢谢星星在我最难过的时候陪着我，假如还有来生我想再遇到你们，我希望来生能和星星都成为女孩子，我希望能再遇到她，我想她了……我真的好想她……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 356,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n我是@SYFSASN，得知星星去世的消息让我非常心痛，我决定去陪她了，如果不出意外我将在8月12日去世\n\n如果没有7月16日那件事她是不是就不会死了，我什么都没做到，现在我要去陪她了，至少不会让她再感到孤独，我欠她的永远都还不完"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087065858774618203",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 777,
+          "like_count": 5447,
+          "listed_count": 2,
+          "media_count": 283,
+          "tweet_count": 1743
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T11:05:38.000Z",
+        "description": "生产日期2011.7.10的一只mtf🍥喵\nHRT26.5.29 ISTJ\n176.5 68kg脸丑麻了喵   姐姐@QY_xier\n已有对象@SYFSASN\n计算机爱好者化学爱好者\n人很好说话的喵常驻义乌可以找我面基喵\n欢迎互fo和聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "QY_xier"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "username": "SYFSASN"
+              }
+            ]
+          }
+        },
+        "id": "2014293353269997568",
+        "is_identity_verified": true,
+        "location": "中国大陆 浙江",
+        "most_recent_tweet_id": "2087053106362318966",
+        "name": "🍥星に祈りを🏳️‍⚧️",
+        "pinned_tweet_id": "2086164249353822506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014293353269997568/1786211904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086638845916041216/1CoZSOmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 270,
+          "like_count": 1300,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "paperly_forge",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092236363794120704"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092236996802699591",
+    "created_at": "2026-08-25T13:05:46.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:02:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092236257527218296",
+      "2092236996802699591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rl5198m5kA",
+          "end": 76,
+          "expanded_url": "https://x.com/AacerF59616/status/2092236996802699591/photo/1",
+          "media_key": "3_2092236363794120704",
+          "start": 53,
+          "url": "https://t.co/rl5198m5kA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092236996802699591",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092236363794120704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "看到超市里卖的这个突然想起以前了，小时候我很喜欢吃四洲紫菜，大概是高中之前都超喜欢吃的，一吃就是一大包。\n\n当时真好啊……有时候我会想，如果我没有确诊抑郁，没有在学校里割腕未遂，那这一切是不是会更好呢？我不知道，我没法去真正推算一条我从来没走过的路。也许吧，就当作给自己一个心理安慰算了，虽然我自己也知道是安慰。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到超市里卖的这个突然想起以前了，小时候我很喜欢吃四洲紫菜，大概是高中之前都超喜欢吃的，一吃就是一大包。 https://t.co/rl5198m5kA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092235907315425280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkdePnaYAAMbwE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 900,
+        "media_key": "3_2092236363794120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkd40IagAALe-9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092235907315425280"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092236257527218296",
+        "created_at": "2026-08-25T13:02:50.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:02:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092236257527218296",
+          "2092236996802699591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QnBx9FzKMj",
+              "end": 94,
+              "expanded_url": "https://x.com/AacerF59616/status/2092236257527218296/photo/1",
+              "media_key": "3_2092235907315425280",
+              "start": 71,
+              "url": "https://t.co/QnBx9FzKMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092236257527218296",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092235907315425280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到超市里卖的这个突然想起以前了，小时候我很喜欢吃四洲紫菜，大概是初中之前都超喜欢吃的，一吃就是一大包…当时真好啊，也有可能是我先入为主了吧 https://t.co/QnBx9FzKMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092236363794120704"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092236996802699591",
+        "created_at": "2026-08-25T13:05:46.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:02:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092236257527218296",
+          "2092236996802699591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rl5198m5kA",
+              "end": 76,
+              "expanded_url": "https://x.com/AacerF59616/status/2092236996802699591/photo/1",
+              "media_key": "3_2092236363794120704",
+              "start": 53,
+              "url": "https://t.co/rl5198m5kA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092236996802699591",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092236363794120704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看到超市里卖的这个突然想起以前了，小时候我很喜欢吃四洲紫菜，大概是高中之前都超喜欢吃的，一吃就是一大包。\n\n当时真好啊……有时候我会想，如果我没有确诊抑郁，没有在学校里割腕未遂，那这一切是不是会更好呢？我不知道，我没法去真正推算一条我从来没走过的路。也许吧，就当作给自己一个心理安慰算了，虽然我自己也知道是安慰。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到超市里卖的这个突然想起以前了，小时候我很喜欢吃四洲紫菜，大概是高中之前都超喜欢吃的，一吃就是一大包。 https://t.co/rl5198m5kA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092236996802699591",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 881,
+          "like_count": 6993,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 2582
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

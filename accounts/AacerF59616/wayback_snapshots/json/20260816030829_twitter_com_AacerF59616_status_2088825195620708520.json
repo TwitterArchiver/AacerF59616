@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088825195620708520",
+    "created_at": "2026-08-16T03:08:29.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088825195620708520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2088816907776598214",
+          "start": 54,
+          "url": "https://t.co/ySZ41FWwCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088825195620708520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "好奇「盲目友跨」是怎么个盲目，是给予适当引导还是直接说可以进行GAHT之类的，又或是基于病理化框架的关怀。\n\n毕竟「友跨」存在很多种形式，其中不乏将其视为一种人文关怀的，我曾经见过认为跨儿都是精神病患者所以不应该歧视的，这种与其说是友跨不如说是病理化处理，只是形式比较平和罢了，这种居高临下的怜悯总是令我反感。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088816907776598214",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好奇「盲目友跨」是怎么个盲目，是给予适当引导还是直接说可以进行GAHT之类的，又或是基于病理化框架的关怀。 https://t.co/ySZ41FWwCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 952,
+        "media_key": "3_2088816901220888576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPz355YacAA0FVi.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088825195620708520",
+        "created_at": "2026-08-16T03:08:29.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088825195620708520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2088816907776598214",
+              "start": 54,
+              "url": "https://t.co/ySZ41FWwCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088825195620708520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好奇「盲目友跨」是怎么个盲目，是给予适当引导还是直接说可以进行GAHT之类的，又或是基于病理化框架的关怀。\n\n毕竟「友跨」存在很多种形式，其中不乏将其视为一种人文关怀的，我曾经见过认为跨儿都是精神病患者所以不应该歧视的，这种与其说是友跨不如说是病理化处理，只是形式比较平和罢了，这种居高临下的怜悯总是令我反感。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088816907776598214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇「盲目友跨」是怎么个盲目，是给予适当引导还是直接说可以进行GAHT之类的，又或是基于病理化框架的关怀。 https://t.co/ySZ41FWwCM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088816901220888576"
+          ]
+        },
+        "author_id": "1863319222765428736",
+        "conversation_id": "2088816907776598214",
+        "created_at": "2026-08-16T02:35:33.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088816907776598214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibfEtwK7lE",
+              "end": 99,
+              "expanded_url": "https://x.com/Re_ZaoTon/status/2088816907776598214/photo/1",
+              "media_key": "3_2088816901220888576",
+              "start": 76,
+              "url": "https://t.co/ibfEtwK7lE"
+            },
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/xiey57828/status/2088519570055376977",
+              "start": 100,
+              "url": "https://t.co/ujOLMoDQiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088816907776598214",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088816901220888576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088519570055376977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家真的不要盲目友跨，小时候的枣桐在群里问问题被温柔大姐姐私信鉴跨，还直白地说我是不是想吃药，当时的枣桐什么都不懂就觉得这是洗脑，并产生了严重的恐跨🥺 https://t.co/ibfEtwK7lE https://t.co/ujOLMoDQiK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088825195620708520",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 821,
+          "like_count": 5969,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 119,
+                "expanded_url": "http://2345.lgbt",
+                "start": 96,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2088824766828556644",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2087893876845773031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1785402666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088615976455770112/vx0cR8MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 375,
+          "like_count": 15557,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

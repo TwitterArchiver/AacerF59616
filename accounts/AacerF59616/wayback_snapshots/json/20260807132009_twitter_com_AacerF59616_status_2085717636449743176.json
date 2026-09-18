@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085717636449743176",
+    "created_at": "2026-08-07T13:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085717636449743176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tkk27bb6991/st…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/tkk27bb6991/status/2085434439497355458",
+          "start": 143,
+          "url": "https://t.co/CmV0VTz8bg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085717636449743176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085434439497355458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他们没把性别少数当人看过，上来就说啊性别只有两个，一问为什么只有两个好了哑火了，只能转移话题了，更有甚者只是因为看到LGBTQIA+这个词就应激认为是欧美白左文化入侵，对着一个被曲解严重的文化符号开启棘背龙形态，给LGBTQIA+换成SGM就立马不认识了，都自嗨成这样了请谁来都没用了 https://t.co/CmV0VTz8bg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085717636449743176",
+        "created_at": "2026-08-07T13:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085717636449743176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tkk27bb6991/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/tkk27bb6991/status/2085434439497355458",
+              "start": 143,
+              "url": "https://t.co/CmV0VTz8bg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085717636449743176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085434439497355458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们没把性别少数当人看过，上来就说啊性别只有两个，一问为什么只有两个好了哑火了，只能转移话题了，更有甚者只是因为看到LGBTQIA+这个词就应激认为是欧美白左文化入侵，对着一个被曲解严重的文化符号开启棘背龙形态，给LGBTQIA+换成SGM就立马不认识了，都自嗨成这样了请谁来都没用了 https://t.co/CmV0VTz8bg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071227667354140672",
+        "conversation_id": "2085434439497355458",
+        "created_at": "2026-08-06T18:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085434439497355458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085434439497355458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1154,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得那些反跨反酷的人最恶心人的地方不是对跨儿酷儿的反对态度，而是ta们根本不承认跨儿酷儿是真实存在的，ta们反的前提是预设跨儿酷儿都有认知障碍，给人一种又蠢又坏的感觉，纯坏的人已经很恶心人了，又蠢又坏的恶心程度更上一层楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 765,
+          "like_count": 5217,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T13:45:28.000Z",
+        "description": "🏳️‍⚧️transfemboy🏳️‍⚧️\n❤️🧡💛💚💙💜🩵🩷🤍🩷🩵\n\nhe or she/adhd/asd/纯血直男/非单意识体，成员共用账号所以存在左右脑互搏的情况\n\n杨响是我最爱的女儿（我的tulpa），她的小名是锵锵\n\n有精神病，治疗中，不参与任何对线，因此看到可能影响心态的发言会直接拉黑账号",
+        "id": "2071227667354140672",
+        "location": "淘坤坤de梦幻之逼",
+        "name": "沉睡小男仆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071236008650133504/IF9QLmcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 117,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1442
+        },
+        "url": "",
+        "username": "tkk27bb6991",
+        "verified": false
+      }
+    ]
+  }
+}

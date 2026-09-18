@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2080151643245678867",
+    "created_at": "2026-07-23T04:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080151643245678867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zmjjkk0okhmn/s…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/zmjjkk0okhmn/status/2079989451879821609",
+          "start": 148,
+          "url": "https://t.co/2pyqWCJdhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080151643245678867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079989451879821609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶我，依旧异性恋规范主义，依旧把性别认同和个人选择强行绑定在宏大叙事上，假定这些是“错误的” “对宏大叙事不利的”，然后再对此进行否定，我寻思政府也没给SGM定性成非法或反动啊你们急什么呢\n\n以及SGM里同样有相当多的高级知识分子，ta们对人类社会的建设似乎远高于某些只会喊喊口号的顺性别异性恋 https://t.co/2pyqWCJdhK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2080151643245678867",
+        "created_at": "2026-07-23T04:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080151643245678867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zmjjkk0okhmn/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/zmjjkk0okhmn/status/2079989451879821609",
+              "start": 148,
+              "url": "https://t.co/2pyqWCJdhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080151643245678867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079989451879821609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶我，依旧异性恋规范主义，依旧把性别认同和个人选择强行绑定在宏大叙事上，假定这些是“错误的” “对宏大叙事不利的”，然后再对此进行否定，我寻思政府也没给SGM定性成非法或反动啊你们急什么呢\n\n以及SGM里同样有相当多的高级知识分子，ta们对人类社会的建设似乎远高于某些只会喊喊口号的顺性别异性恋 https://t.co/2pyqWCJdhK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079240339009966083",
+        "conversation_id": "2079479008199319812",
+        "created_at": "2026-07-22T17:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079989451879821609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079989451879821609",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079479008199319812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 作为一名光荣的共青团员，我现在告诉你，建设中国的任务，不需要你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 625,
+          "like_count": 4198,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1179
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T16:23:54.000Z",
+        "description": "",
+        "id": "2079240339009966083",
+        "name": "王小桃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079241560215203840/88D9HrWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "zmjjkk0okhmn",
+        "verified": false
+      }
+    ]
+  }
+}

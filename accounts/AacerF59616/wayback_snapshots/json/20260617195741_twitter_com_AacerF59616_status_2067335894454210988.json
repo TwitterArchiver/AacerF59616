@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067273581005025667",
+    "created_at": "2026-06-17T19:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067335894454210988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063085390668689408",
+          "start": 0,
+          "username": "tomorrowomg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067335894454210988",
+    "in_reply_to_user_id": "2063085390668689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067273581005025667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorrowomg 咱也是在发现自己是mtf后逐渐对女生失去兴趣了，目前更喜欢男生，包括咱对象也是普通男生喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067273581005025667",
+        "created_at": "2026-06-17T19:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067335894454210988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063085390668689408",
+              "start": 0,
+              "username": "tomorrowomg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067335894454210988",
+        "in_reply_to_user_id": "2063085390668689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067273581005025667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorrowomg 咱也是在发现自己是mtf后逐渐对女生失去兴趣了，目前更喜欢男生，包括咱对象也是普通男生喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063085390668689408",
+        "conversation_id": "2067273581005025667",
+        "created_at": "2026-06-17T15:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067273581005025667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067273581005025667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪，自从心理慢慢转变之后，明明没吃糖，却一点星宇都没了，对女生也没有想法了，可我对男生应该暂时也没有想法吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 115,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 377
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "pinned_tweet_id": "2066808630964523252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 84,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 118
+        },
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

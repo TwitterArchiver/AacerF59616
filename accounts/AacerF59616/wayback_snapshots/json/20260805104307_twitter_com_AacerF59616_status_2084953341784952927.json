@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084953341784952927",
+    "created_at": "2026-08-05T10:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084953341784952927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10Lystra/statu…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/10Lystra/status/2084818888399741190",
+          "start": 50,
+          "url": "https://t.co/gIDLhsSg3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084953341784952927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084818888399741190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "遇到傻逼顺口骂一句罢了，这逼之前因为我开玩笑调侃国补不耐吃上来就是零帧起手骂我弱智，跟疯狗撕咬似的 https://t.co/gIDLhsSg3e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084953341784952927",
+        "created_at": "2026-08-05T10:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084953341784952927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10Lystra/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/10Lystra/status/2084818888399741190",
+              "start": 50,
+              "url": "https://t.co/gIDLhsSg3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953341784952927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084818888399741190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "遇到傻逼顺口骂一句罢了，这逼之前因为我开玩笑调侃国补不耐吃上来就是零帧起手骂我弱智，跟疯狗撕咬似的 https://t.co/gIDLhsSg3e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692075579850563584",
+        "conversation_id": "2084818888399741190",
+        "created_at": "2026-08-05T01:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084818888399741190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sorcerer1311/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/sorcerer1311/status/2084659749984108551",
+              "start": 25,
+              "url": "https://t.co/9RubxzDyff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084818888399741190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1180,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084659749984108551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上很多人每天就在和这种狗哨言论争论来消耗自己 https://t.co/9RubxzDyff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 754,
+          "like_count": 5051,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 1508
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T07:27:26.000Z",
+        "description": "最爱的宝宝妈妈主人老婆🥰@dandelion6238 /妹妹@strf_9040c/好闺女@agteshdesu\n玖璋/Lystra she/her omni hrt2024.10.04\n常驻天津的猫猫抱枕 小猫形态🐱@uwulystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "dandelion6238"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "strf_9040c"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "agteshdesu"
+              },
+              {
+                "end": 119,
+                "start": 109,
+                "username": "uwulystra"
+              }
+            ]
+          }
+        },
+        "id": "1692075579850563584",
+        "location": "你醒来就彻底忘掉的那个梦里",
+        "name": "璋🏳️‍⚧️",
+        "pinned_tweet_id": "1921501230049677322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060274602710855685/jxZxOqFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1113,
+          "like_count": 2860,
+          "listed_count": 6,
+          "media_count": 374,
+          "tweet_count": 10130
+        },
+        "url": "",
+        "username": "10Lystra",
+        "verified": false
+      }
+    ]
+  }
+}

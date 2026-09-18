@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2069338134803091697",
+    "created_at": "2026-06-24T10:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069732205950357654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055214408784125953",
+          "start": 0,
+          "username": "OMEmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069732205950357654",
+    "in_reply_to_user_id": "2055214408784125953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069338134803091697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OMEmtf Unk诱捕器来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069338085691969537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfEBm3bUAEVOgW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2069338134803091697",
+        "created_at": "2026-06-24T10:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069732205950357654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055214408784125953",
+              "start": 0,
+              "username": "OMEmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069732205950357654",
+        "in_reply_to_user_id": "2055214408784125953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069338134803091697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OMEmtf Unk诱捕器来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069338085691969537"
+          ]
+        },
+        "author_id": "2055214408784125953",
+        "conversation_id": "2069338134803091697",
+        "created_at": "2026-06-23T08:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069338134803091697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7ma2Dfchj",
+              "end": 29,
+              "expanded_url": "https://x.com/OMEmtf/status/2069338134803091697/photo/1",
+              "media_key": "3_2069338085691969537",
+              "start": 6,
+              "url": "https://t.co/J7ma2Dfchj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069338134803091697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉真好喝 https://t.co/J7ma2Dfchj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 164,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:11:39.000Z",
+        "description": "这里是OME，身高170体重95斤hrt26.5.28，为什么我不是女生好难受他们都在骂我变态我好讨厌我的脸和我的声音",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ome.917826.xyz",
+                "end": 23,
+                "expanded_url": "http://ome.917826.xyz",
+                "start": 0,
+                "url": "https://t.co/HWBdWVKUXh"
+              }
+            ]
+          }
+        },
+        "id": "2055214408784125953",
+        "location": "地球",
+        "name": "OME",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065014949370568704/TY3IUFl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/HWBdWVKUXh",
+        "username": "OMEmtf",
+        "verified": false
+      }
+    ]
+  }
+}

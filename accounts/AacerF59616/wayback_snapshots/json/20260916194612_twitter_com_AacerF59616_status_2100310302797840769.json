@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100310302797840769",
+    "created_at": "2026-09-16T19:46:12.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100310302797840769"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100310302797840769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "刚刚拿 5.6 Terra，模式开到高然后做图，我给了它 12 张人物参考图，最开始只说了几句话，让它先理解人物名字和关系，再参考其中一张合照去画。原本是 8 个人的合照，后面我又继续要求加 3 个人、改背景、改画风。\n\n前前后后其实就六句话，然后它真的给我跑出来了两张完成度很高的大合照。最让我震惊的甚至不是画得好不好看，而是它真的把 12 张图里的人物关系理顺了，谁是谁、谁应该和谁站得更近、原本合照里的位置关系怎么保留、新加的三个人怎么塞进去才不显得乱，这些我根本没有一条一条写进 prompt，它自己就理解了。\n\n这任务如果让我拿别的模型做，我第一反应是得写一个长得吓人的 prompt，把每个人是谁、外观特征、关系、站位、谁不能和谁搞混、哪些细节必须保留全部列清楚，然后还得做好来回修很多轮的准备。\n\n结果 Terra 高就靠六句话，加 12 张参考图，把两轮复杂修改都接住了，那一瞬间我是真懵了。现在模型厉害的地方已经不只是“能不能生成一张漂亮图片”了，而是它开始能自己把大量隐含需求整理出来，我没有把所有规则写出来，但它知道我要什么。\n\n这种感觉是单纯看跑分什么的完全比不了的，这个任务完全就是我自己临时想出来然后亲手丢给它的，我很清楚它到底有多麻烦。\n\n这还只是5.6Terra，如果换成 5.6Sol，在这种多图理解、人物关系、复杂约束和后续修改上的完成度还能继续往上走的话，我已经有点难想象了。至于 6Astra……不敢想，突然就很能理解为什么有人第一次真正遇到这种能力的时候会“震惊瘫坐”了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚拿 5.6 Terra，模式开到高然后做图，我给了它 12 张人物参考图，最开始只说了几句话，让它先理解人物名字和关系，再参考其中一张合照去画。原本是 8 个人的合照，后面我又继续要求加 3 个人、改背景、改画风。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100310302797840769",
+        "created_at": "2026-09-16T19:46:12.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100310302797840769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100310302797840769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚拿 5.6 Terra，模式开到高然后做图，我给了它 12 张人物参考图，最开始只说了几句话，让它先理解人物名字和关系，再参考其中一张合照去画。原本是 8 个人的合照，后面我又继续要求加 3 个人、改背景、改画风。\n\n前前后后其实就六句话，然后它真的给我跑出来了两张完成度很高的大合照。最让我震惊的甚至不是画得好不好看，而是它真的把 12 张图里的人物关系理顺了，谁是谁、谁应该和谁站得更近、原本合照里的位置关系怎么保留、新加的三个人怎么塞进去才不显得乱，这些我根本没有一条一条写进 prompt，它自己就理解了。\n\n这任务如果让我拿别的模型做，我第一反应是得写一个长得吓人的 prompt，把每个人是谁、外观特征、关系、站位、谁不能和谁搞混、哪些细节必须保留全部列清楚，然后还得做好来回修很多轮的准备。\n\n结果 Terra 高就靠六句话，加 12 张参考图，把两轮复杂修改都接住了，那一瞬间我是真懵了。现在模型厉害的地方已经不只是“能不能生成一张漂亮图片”了，而是它开始能自己把大量隐含需求整理出来，我没有把所有规则写出来，但它知道我要什么。\n\n这种感觉是单纯看跑分什么的完全比不了的，这个任务完全就是我自己临时想出来然后亲手丢给它的，我很清楚它到底有多麻烦。\n\n这还只是5.6Terra，如果换成 5.6Sol，在这种多图理解、人物关系、复杂约束和后续修改上的完成度还能继续往上走的话，我已经有点难想象了。至于 6Astra……不敢想，突然就很能理解为什么有人第一次真正遇到这种能力的时候会“震惊瘫坐”了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚拿 5.6 Terra，模式开到高然后做图，我给了它 12 张人物参考图，最开始只说了几句话，让它先理解人物名字和关系，再参考其中一张合照去画。原本是 8 个人的合照，后面我又继续要求加 3 个人、改背景、改画风。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100310302797840769",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 987,
+          "like_count": 8007,
+          "listed_count": 2,
+          "media_count": 567,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

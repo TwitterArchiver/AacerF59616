@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2094142840259686450",
+    "created_at": "2026-08-30T19:18:55.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T20:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094142840259686450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wilf_Lin/statu…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Wilf_Lin/status/2094133697209397320",
+          "start": 45,
+          "url": "https://t.co/FIDL8SoXwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094142840259686450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "事实上Les和Gay本身还在被歧视着，是怎么觉得隐形于L/G就等于隐形于社会并被善待了。\n\n其次是，一个跨女同，她同时是两个身份：跨性别和女同。你前者塞进后者里，等于说\"你其实就是个女同\"。但这两个轴压根不是一回事，经验性别和性取向是两条独立的线。用性取向去\"吞掉\"经验性别，这完完全全就是一种消解\n\n而且谁告诉你跨儿都是同了，那我这种跨直女呢？是不是要被当直人看了？我还要额外的隐形于异性恋框架里是吗？什么搞笑逻辑"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094133697209397320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "事实上Les和Gay本身还在被歧视着，是怎么觉得隐形于L/G就等于隐形于社会并被善待了。 https://t.co/FIDL8SoXwR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2094142840259686450",
+        "created_at": "2026-08-30T19:18:55.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T20:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094142840259686450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wilf_Lin/statu…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Wilf_Lin/status/2094133697209397320",
+              "start": 45,
+              "url": "https://t.co/FIDL8SoXwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094142840259686450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "事实上Les和Gay本身还在被歧视着，是怎么觉得隐形于L/G就等于隐形于社会并被善待了。\n\n其次是，一个跨女同，她同时是两个身份：跨性别和女同。你前者塞进后者里，等于说\"你其实就是个女同\"。但这两个轴压根不是一回事，经验性别和性取向是两条独立的线。用性取向去\"吞掉\"经验性别，这完完全全就是一种消解\n\n而且谁告诉你跨儿都是同了，那我这种跨直女呢？是不是要被当直人看了？我还要额外的隐形于异性恋框架里是吗？什么搞笑逻辑"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094133697209397320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上Les和Gay本身还在被歧视着，是怎么觉得隐形于L/G就等于隐形于社会并被善待了。 https://t.co/FIDL8SoXwR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2094030282022338744",
+        "created_at": "2026-08-30T18:42:35.000Z",
+        "display_text_range": [
+          10,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094133697209397320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094133697209397320",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094133286620848427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 既然你无法理解，不妨描述的更通俗一点。\n\nL/G是社会构成的一部分\n\n隐形于L/G中也可算是隐形于社会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2094142840259686450",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 903,
+          "like_count": 7330,
+          "listed_count": 3,
+          "media_count": 449,
+          "tweet_count": 2786
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "朔望月 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFWNJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 50,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 27,
+                "url": "https://t.co/6GiurlFWNJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTXmnh"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2094141869391233141",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1554803647909097472/1777252044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 2090,
+          "like_count": 108097,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 10314
+        },
+        "url": "https://t.co/QOeJWTXmnh",
+        "username": "Wilf_Lin",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//「我是我自己的爱人」//我开始了新的生活，我的盛夏：@paedeiaPan//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "paedeiaPan"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2094139928494174573",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 851,
+          "like_count": 6750,
+          "listed_count": 4,
+          "media_count": 943,
+          "tweet_count": 7390
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

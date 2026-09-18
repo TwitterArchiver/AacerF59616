@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2067354848702673082",
+    "created_at": "2026-06-18T15:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067625674119233649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039857342217408512",
+          "start": 0,
+          "username": "shubbley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067625674119233649",
+    "in_reply_to_user_id": "2039857342217408512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067354848702673082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shubbley Thank you"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1881,
+        "media_key": "3_2064991534085197824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhS3AVWUAAMAH1.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2067354848702673082",
+        "created_at": "2026-06-18T15:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067625674119233649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039857342217408512",
+              "start": 0,
+              "username": "shubbley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067625674119233649",
+        "in_reply_to_user_id": "2039857342217408512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067354848702673082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shubbley Thank you"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064991534085197824"
+          ]
+        },
+        "author_id": "2039857342217408512",
+        "conversation_id": "2067354848702673082",
+        "created_at": "2026-06-17T21:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067354848702673082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSGPX8RT6h",
+              "end": 60,
+              "expanded_url": "https://x.com/shubbley/status/2067354848702673082/photo/1",
+              "media_key": "3_2064991534085197824",
+              "start": 37,
+              "url": "https://t.co/ZSGPX8RT6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067354848702673082",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 601,
+          "impression_count": 48171,
+          "like_count": 12039,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 941
+        },
+        "reply_settings": "everyone",
+        "text": "Proud of you, my trans siblings🏳️‍⚧️ https://t.co/ZSGPX8RT6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 119,
+          "like_count": 1278,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T00:08:00.000Z",
+        "description": "mafia boss & bar owner VTuber ▸\nget some @holysquad_de with CODE: SHUBBLEY5  ▸\nart tag : #ShubAtelier ▸ clips tag : #ShubuClips\n▸ 2.0⤷ @rovaruru × @aliveisweird",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 89,
+                "tag": "ShubAtelier"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "tag": "ShubuClips"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "holysquad_de"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "rovaruru"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "aliveisweird"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/shubbley",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/shubbley",
+                "start": 0,
+                "url": "https://t.co/PhdEhGrfoQ"
+              }
+            ]
+          }
+        },
+        "id": "2039857342217408512",
+        "name": "shub 🌗🍸",
+        "pinned_tweet_id": "2041061587717333407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044867788700012545/5tVQvbcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 254,
+          "like_count": 1393,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/PhdEhGrfoQ",
+        "username": "shubbley",
+        "verified": true
+      }
+    ]
+  }
+}

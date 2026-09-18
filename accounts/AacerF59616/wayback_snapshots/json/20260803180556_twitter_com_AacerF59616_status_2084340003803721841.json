@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2084340003803721841",
+    "created_at": "2026-08-03T18:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T19:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084340003803721841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_Malinorne/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/_Malinorne/status/2084277356093686026",
+          "start": 13,
+          "url": "https://t.co/Dv5UcvoEMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084340003803721841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084277356093686026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用来放置笔或者橡皮什么的 https://t.co/Dv5UcvoEMz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2084340003803721841",
+        "created_at": "2026-08-03T18:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084340003803721841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Malinorne/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/_Malinorne/status/2084277356093686026",
+              "start": 13,
+              "url": "https://t.co/Dv5UcvoEMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084340003803721841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084277356093686026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用来放置笔或者橡皮什么的 https://t.co/Dv5UcvoEMz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967668314095853570",
+        "conversation_id": "2084221124389527663",
+        "created_at": "2026-08-03T13:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084277356093686026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084277356093686026",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 911,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084221124389527663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 我一直好奇那个凹槽是做什么的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 743,
+          "like_count": 4937,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-25T07:51:19.000Z",
+        "description": "MtF || 泛性恋 || INFP-A || 无证含糖🍥 HRT：7. 10. 2026 || 精神状况良好（？）|| 180cm 65kg || 应该是只兔子 || 永远18岁 || xp是正太和美少年 || 重度网瘾少女 || 饥荒 原神 Minecraft 希望有人一起玩 || 欢迎同类互fo",
+        "id": "967668314095853570",
+        "location": "Tasarinan",
+        "name": "一凣 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083748323606032384/KvWnJQhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 167,
+          "like_count": 7106,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "_Malinorne",
+        "verified": false
+      }
+    ]
+  }
+}

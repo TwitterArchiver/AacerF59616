@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2077731239327670658",
+    "created_at": "2026-07-16T12:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077731239327670658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gaga860166912/…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/gaga860166912/status/2077716170292252676",
+          "start": 118,
+          "url": "https://t.co/HbBTTWBVa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077731239327670658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077716170292252676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“阉割”在哪，“妄想”在哪，“当异性”在哪，“畸形”在哪，“强迫勒索”在哪\n\n首先，你预设了跨女一定先要是“男的”，并且基于此认为跨女的性别认同是无端妄想，那我请问到底是谁在强迫勒索呢？不是你先把某个前置条件放在全体跨女的头上先的吗？ https://t.co/HbBTTWBVa7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077731239327670658",
+        "created_at": "2026-07-16T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077731239327670658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gaga860166912/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/gaga860166912/status/2077716170292252676",
+              "start": 118,
+              "url": "https://t.co/HbBTTWBVa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077731239327670658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077716170292252676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“阉割”在哪，“妄想”在哪，“当异性”在哪，“畸形”在哪，“强迫勒索”在哪\n\n首先，你预设了跨女一定先要是“男的”，并且基于此认为跨女的性别认同是无端妄想，那我请问到底是谁在强迫勒索呢？不是你先把某个前置条件放在全体跨女的头上先的吗？ https://t.co/HbBTTWBVa7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "conversation_id": "2077481998000816524",
+        "created_at": "2026-07-16T11:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077716170292252676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077716170292252676",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077481998000816524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 解構然哩 \n給出 閹割 假體藥物  的畸形自殘模樣當女人˙男人!\n\n我們憑甚麼要同意!?\n解構! 然後硬要 把自己可悲妄想貼上性別 來強迫勒索他人承認!\n解構 為啥還要 閹割 HRT  SRS 換證?\n還要所有人把自己當異性勒\n\n實際上真實解構 性別早就從行為 表達 個性上自由\n這就言論自由你國家沒有不是因為性別關係~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 459,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 983
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "pinned_tweet_id": "2069759036455882944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 17,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 532,
+          "tweet_count": 6517
+        },
+        "url": "",
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2090709028481675607",
+    "created_at": "2026-08-21T17:54:35.000Z",
+    "display_text_range": [
+      7,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090860129856233618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2065022834737561600",
+          "start": 0,
+          "username": "ddbcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090860129856233618",
+    "in_reply_to_user_id": "2065022834737561600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090709028481675607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddbcw 极品SSR卡吗有点意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2090709028481675607",
+        "created_at": "2026-08-21T17:54:35.000Z",
+        "display_text_range": [
+          7,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090860129856233618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2065022834737561600",
+              "start": 0,
+              "username": "ddbcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090860129856233618",
+        "in_reply_to_user_id": "2065022834737561600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090709028481675607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddbcw 极品SSR卡吗有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065022834737561600",
+        "conversation_id": "2090709028481675607",
+        "created_at": "2026-08-21T07:54:10.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090709028481675607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090709028481675607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你觉得这个世界上会有那种「腰臀比接近女性，皮肤细腻，臀部和大腿丰满，体毛稀少，还拥有粉色巨大牛子的极品伪娘」吗\n牛牛好用能用能射好射，男装像帅哥，女装是美女，声音也不突兀。\n不是mtf，必须心理性别认同男，且没有用过任何药。\n我觉得这人必须是性别认同男才是最色的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2090860129856233618",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 874,
+          "like_count": 6719,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T10:46:53.000Z",
+        "description": "大阪に住んでいるライン工\n工場で食住付き生活\n月6,000円で生存中\n2,000万円貯めたら仕事から卒業します",
+        "id": "2065022834737561600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090832264901144715",
+        "name": "ddb",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 148,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "ddbcw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

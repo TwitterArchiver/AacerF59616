@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079095219379974615",
+    "created_at": "2026-07-20T06:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079095219379974615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkaawaayii/sta…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/kkaawaayii/status/2079083815956611495",
+          "start": 71,
+          "url": "https://t.co/Hym4xL6Nb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079095219379974615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079083815956611495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "泌乳素高应该是服用CPA导致的，CPA本身是一种强行孕激素，会大幅提升泌乳素水平，如果你有在通过CPA进行抗雄的话那泌乳素比较高应该是正常的 https://t.co/Hym4xL6Nb7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_2079083803419754496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpjtCkaQAAQYn5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079095219379974615",
+        "created_at": "2026-07-20T06:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079095219379974615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkaawaayii/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/kkaawaayii/status/2079083815956611495",
+              "start": 71,
+              "url": "https://t.co/Hym4xL6Nb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079095219379974615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079083815956611495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泌乳素高应该是服用CPA导致的，CPA本身是一种强行孕激素，会大幅提升泌乳素水平，如果你有在通过CPA进行抗雄的话那泌乳素比较高应该是正常的 https://t.co/Hym4xL6Nb7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079083803419754496"
+          ]
+        },
+        "author_id": "1882099914886537220",
+        "conversation_id": "2079083815956611495",
+        "created_at": "2026-07-20T05:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079083815956611495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCOzaTg3xk",
+              "end": 76,
+              "expanded_url": "https://x.com/kkaawaayii/status/2079083815956611495/photo/1",
+              "media_key": "3_2079083803419754496",
+              "start": 53,
+              "url": "https://t.co/qCOzaTg3xk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079083815956611495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周末去测了激素六项，貌似雌吃少了，我以为舌下吸收率高一点，2mg每日够了呢。\n话说为什么泌乳素这么高…… https://t.co/qCOzaTg3xk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 561,
+          "like_count": 3706,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 79,
+          "like_count": 9092,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

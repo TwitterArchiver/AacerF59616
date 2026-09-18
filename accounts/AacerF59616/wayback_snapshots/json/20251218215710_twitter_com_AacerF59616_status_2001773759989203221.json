@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "1999569268904480788",
+    "created_at": "2025-12-18T21:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T22:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001773759989203221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1907170603670577152",
+          "start": 0,
+          "username": "qiubing1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001773759989203221",
+    "in_reply_to_user_id": "1907170603670577152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001768707970797878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiubing1019 是艾丝尔娜……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "1999569268904480788",
+        "created_at": "2025-12-18T21:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T22:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001773759989203221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1907170603670577152",
+              "start": 0,
+              "username": "qiubing1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001773759989203221",
+        "in_reply_to_user_id": "1907170603670577152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001768707970797878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiubing1019 是艾丝尔娜……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907170603670577152",
+        "conversation_id": "1999569268904480788",
+        "created_at": "2025-12-18T21:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T22:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001768707970797878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001768707970797878",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999569268904480788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 最喜欢艾尔斯娜姐姐了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "只是个在Wikidot上写东西的✍🏻📖，平常不会在这推文，更多应该是发发闲聊帖什么的。\n\n名字里带个Gen2是因为之前有个号找不到了（悲）。\n\n🛏️现在躺家里，基本上全天有空，平常可能会上推发发闲聊帖之类的，喜欢或者感兴趣的话点个关注吧，谢谢喵。",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942121757940543488/WJdgVg7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 16
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T20:38:21.000Z",
+        "description": "",
+        "id": "1907170603670577152",
+        "name": "张秋水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907170695458758656/704EEh2f_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "qiubing1019",
+        "verified": false
+      }
+    ]
+  }
+}

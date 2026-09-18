@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2088919155575779732",
+    "created_at": "2026-08-16T09:21:51.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088919155575779732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KitsuMio7/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/KitsuMio7/status/2088913412747296932",
+          "start": 3,
+          "url": "https://t.co/o35Kpp02rz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088919155575779732",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088913412747296932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵～ https://t.co/o35Kpp02rz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2088919155575779732",
+        "created_at": "2026-08-16T09:21:51.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088919155575779732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KitsuMio7/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/KitsuMio7/status/2088913412747296932",
+              "start": 3,
+              "url": "https://t.co/o35Kpp02rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088919155575779732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088913412747296932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵～ https://t.co/o35Kpp02rz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2088913412747296932",
+        "created_at": "2026-08-16T08:59:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088913412747296932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088913412747296932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵！MtF 都是猫猫～！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2088919155575779732",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 834,
+          "like_count": 6013,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MtF | HRT 2023 | ENTP | AuDHD | DID | BPD | C-PTSD | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别认同解构 | 碎碎念@Mioeecv | 同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "Mioeecv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki",
+                "start": 0,
+                "url": "https://t.co/Rw9ougFO2F"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "is_identity_verified": false,
+        "location": "距离你 325m",
+        "most_recent_tweet_id": "2088913412747296932",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060679315126439936/1785832792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 1262,
+          "like_count": 2508,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/Rw9ougFO2F",
+        "username": "KitsuMio7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

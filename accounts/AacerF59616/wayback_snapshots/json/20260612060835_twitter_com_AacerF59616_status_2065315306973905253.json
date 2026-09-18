@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2065296401769349209",
+    "created_at": "2026-06-12T06:08:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:08:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065315306973905253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060587975982141440",
+          "start": 0,
+          "username": "Rinyuyuyuyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065315306973905253",
+    "in_reply_to_user_id": "2060587975982141440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065296401769349209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuyuyuyuyu 哇是大药娘，贴贴喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065296385688436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKloHtDbgAABTv1.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2065296401769349209",
+        "created_at": "2026-06-12T06:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065315306973905253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060587975982141440",
+              "start": 0,
+              "username": "Rinyuyuyuyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065315306973905253",
+        "in_reply_to_user_id": "2060587975982141440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065296401769349209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuyuyuyuyu 哇是大药娘，贴贴喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065296385688436736"
+          ]
+        },
+        "author_id": "2060587975982141440",
+        "conversation_id": "2065296401769349209",
+        "created_at": "2026-06-12T04:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065296401769349209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEwnc90tGE",
+              "end": 33,
+              "expanded_url": "https://x.com/Rinyuyuyuyuyu/status/2065296401769349209/photo/1",
+              "media_key": "3_2065296385688436736",
+              "start": 10,
+              "url": "https://t.co/pEwnc90tGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065296401769349209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt500天纪念 https://t.co/pEwnc90tGE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜可以加QQ找咱玩，名字里带Gen2是因为上个号忘密码了",
+        "id": "1929798380240465921",
+        "name": "艾丝尔娜·芙蕾琳·Gen2",
+        "pinned_tweet_id": "2064599780052070621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 43,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 174
+        },
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "🏳️‍⚧️🍥MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325/里推@Rinyu002 熟悉的会过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "shuangxing0325"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Rinyu002"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2060610237128999129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 86,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

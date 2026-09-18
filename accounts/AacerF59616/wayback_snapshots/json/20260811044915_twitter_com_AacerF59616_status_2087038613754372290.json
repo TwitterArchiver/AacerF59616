@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087038613754372290",
+    "created_at": "2026-08-11T04:49:15.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087038613754372290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Re_ZaoTon/stat…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087028967962538488",
+          "start": 94,
+          "url": "https://t.co/YM7Anxkpza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087038613754372290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "首先是，你把「非多数」和「极小概率」的概念进行了混淆，我举个例子，左撇子占人群约 10%，单眼皮占人群约 20-30%，它们都不属于多数，但你会把“左撇子+单眼皮”当作不可思议的奇迹吗？\n\n你认为两者独立，所以相乘概率极低；但现实中，特定群体内部的属性分布不能直接套用全人群基础概率。顺性别群体受到的性别规范同样很严重，很多人即使有同性或其他取向也可能更多的会选择自我压抑式的不表达。跨性别者本身就是不遵守这套性别规范的，这意味着跨性别者对自身性取向的觉察和接纳度更高是完全正常的。\n\n而根据其他的大型采样数据，跨性别群体中自我认同为异性恋的比例仅占约 15-23%，同性恋、双性恋、泛性恋等占绝大多数。是谁告诉你「喜欢异性」就意味着是异性恋的？事实情况是，双性恋、泛性恋、全性恋、多性恋、流动性恋这些性取向同样存在「喜欢异性」的情况，把「喜欢异性」全部归类为异性恋难道不是在以偏概全吗？\n\n第三，你不能用「基因病」去和SGM划等号，这是对SGM的曲解和病理化。事实上，如今的精神学界也早就不认为这是精神疾病了，同性恋最早于1973年12月经投票决定从DSM-2中删除，开始去病化，到1990年5月发布的ICD-10将其从「精神与行为障碍」列表中除名，完成彻底去病化；跨性别去病化则最早在2013年发布的DSM-5中，从「性别认同障碍」被更名「性别焦虑」，到2019年5月制定的ICD-11将其更名为「性别不一致」并正式移出「精神与行为障碍」列表，并放入「性健康」列表中，并于2022年正式生效。\n\n用病理概率分布和抽卡作为逻辑来判断，那前提其实就已经走偏了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087028967962538488",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先是，你把「非多数」和「极小概率」的概念进行了混淆，我举个例子，左撇子占人群约 10%，单眼皮占人群约 20-30%，它们都不属于多数，但你会把“左撇子+单眼皮”当作不可思议的奇迹吗？ https://t.co/YM7Anxkpza"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087038613754372290",
+        "created_at": "2026-08-11T04:49:15.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087038613754372290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Re_ZaoTon/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/Re_ZaoTon/status/2087028967962538488",
+              "start": 94,
+              "url": "https://t.co/YM7Anxkpza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087038613754372290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "首先是，你把「非多数」和「极小概率」的概念进行了混淆，我举个例子，左撇子占人群约 10%，单眼皮占人群约 20-30%，它们都不属于多数，但你会把“左撇子+单眼皮”当作不可思议的奇迹吗？\n\n你认为两者独立，所以相乘概率极低；但现实中，特定群体内部的属性分布不能直接套用全人群基础概率。顺性别群体受到的性别规范同样很严重，很多人即使有同性或其他取向也可能更多的会选择自我压抑式的不表达。跨性别者本身就是不遵守这套性别规范的，这意味着跨性别者对自身性取向的觉察和接纳度更高是完全正常的。\n\n而根据其他的大型采样数据，跨性别群体中自我认同为异性恋的比例仅占约 15-23%，同性恋、双性恋、泛性恋等占绝大多数。是谁告诉你「喜欢异性」就意味着是异性恋的？事实情况是，双性恋、泛性恋、全性恋、多性恋、流动性恋这些性取向同样存在「喜欢异性」的情况，把「喜欢异性」全部归类为异性恋难道不是在以偏概全吗？\n\n第三，你不能用「基因病」去和SGM划等号，这是对SGM的曲解和病理化。事实上，如今的精神学界也早就不认为这是精神疾病了，同性恋最早于1973年12月经投票决定从DSM-2中删除，开始去病化，到1990年5月发布的ICD-10将其从「精神与行为障碍」列表中除名，完成彻底去病化；跨性别去病化则最早在2013年发布的DSM-5中，从「性别认同障碍」被更名「性别焦虑」，到2019年5月制定的ICD-11将其更名为「性别不一致」并正式移出「精神与行为障碍」列表，并放入「性健康」列表中，并于2022年正式生效。\n\n用病理概率分布和抽卡作为逻辑来判断，那前提其实就已经走偏了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087028967962538488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先是，你把「非多数」和「极小概率」的概念进行了混淆，我举个例子，左撇子占人群约 10%，单眼皮占人群约 20-30%，它们都不属于多数，但你会把“左撇子+单眼皮”当作不可思议的奇迹吗？ https://t.co/YM7Anxkpza"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2087028468416757947",
+        "created_at": "2026-08-11T04:10:55.000Z",
+        "display_text_range": [
+          13,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087028967962538488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087028967962538488",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087028468416757947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 5.8%超过50%了吗？超过50%才能算多数，而且就是因为两者相互独立，我才说这是稀有情况，我举的十连双金例子还不够吗，你能同时换有两个基因病吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087038613754372290",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 777,
+          "like_count": 5433,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 1737
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21（不是跨）｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农民🌾｜生产日期09 06 01🥳｜账号用来随便发点东西，分享自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 121,
+                "expanded_url": "http://2345.lgbt",
+                "start": 98,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2087032274701468007",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2086812930562298141",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1785402666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 352,
+          "like_count": 13300,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

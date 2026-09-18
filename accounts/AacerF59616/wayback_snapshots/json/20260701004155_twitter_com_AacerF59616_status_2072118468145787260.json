@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072118253737127936",
+        "3_2072118253737127937"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2072118468145787260",
+    "created_at": "2026-07-01T00:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T01:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072118468145787260"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "伪娘"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "女装"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "黑丝"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cyAmOaA7my",
+          "end": 52,
+          "expanded_url": "https://x.com/AacerF59616/status/2072118468145787260/photo/1",
+          "media_key": "3_2072118253737127936",
+          "start": 29,
+          "url": "https://t.co/cyAmOaA7my"
+        },
+        {
+          "display_url": "pic.x.com/cyAmOaA7my",
+          "end": 52,
+          "expanded_url": "https://x.com/AacerF59616/status/2072118468145787260/photo/1",
+          "media_key": "3_2072118253737127937",
+          "start": 29,
+          "url": "https://t.co/cyAmOaA7my"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072118468145787260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡裙和黑丝腿腿～醒了就继续日更喵 #伪娘 #女装 #黑丝 https://t.co/cyAmOaA7my"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2072118253737127936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGkkr6asAAJXcl.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2072118253737127937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGkkr6asAEj1Zf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072118253737127936",
+            "3_2072118253737127937"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2072118468145787260",
+        "created_at": "2026-07-01T00:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072118468145787260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "女装"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cyAmOaA7my",
+              "end": 52,
+              "expanded_url": "https://x.com/AacerF59616/status/2072118468145787260/photo/1",
+              "media_key": "3_2072118253737127936",
+              "start": 29,
+              "url": "https://t.co/cyAmOaA7my"
+            },
+            {
+              "display_url": "pic.x.com/cyAmOaA7my",
+              "end": 52,
+              "expanded_url": "https://x.com/AacerF59616/status/2072118468145787260/photo/1",
+              "media_key": "3_2072118253737127937",
+              "start": 29,
+              "url": "https://t.co/cyAmOaA7my"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072118468145787260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡裙和黑丝腿腿～醒了就继续日更喵 #伪娘 #女装 #黑丝 https://t.co/cyAmOaA7my"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 296,
+          "like_count": 2103,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 705
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

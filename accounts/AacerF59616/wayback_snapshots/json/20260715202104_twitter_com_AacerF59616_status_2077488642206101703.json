@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2077430960489205974",
+    "created_at": "2026-07-15T20:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T21:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077488642206101703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2064597027623981056",
+          "start": 0,
+          "username": "subdronexyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077488642206101703",
+    "in_reply_to_user_id": "2064597027623981056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077430960489205974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@subdronexyn 摸摸喵，啊其实咱求生欲也挺强的来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2077430960489205974",
+        "created_at": "2026-07-15T20:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077488642206101703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2064597027623981056",
+              "start": 0,
+              "username": "subdronexyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077488642206101703",
+        "in_reply_to_user_id": "2064597027623981056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077430960489205974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subdronexyn 摸摸喵，啊其实咱求生欲也挺强的来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064597027623981056",
+        "conversation_id": "2077430960489205974",
+        "created_at": "2026-07-15T16:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077430960489205974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/subdronexyn/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/subdronexyn/status/2077428843317797321",
+              "start": 69,
+              "url": "https://t.co/WZhiDhPOSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077430960489205974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428843317797321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的凭什么？\n凭什么你们这帮条件那么好的还在这里byd要死要活的样，\n为什么这么夸张的求生欲会落在我这个生存环境这么恶劣的傻逼身上？？？ https://t.co/WZhiDhPOSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 457,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-10T06:36:42.000Z",
+        "description": "跟咱互fo喵！陪咱聊天！",
+        "id": "2064597027623981056",
+        "location": "火星 水手谷",
+        "name": "無人機潜水",
+        "pinned_tweet_id": "2065366952844136631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064597787225038850/w3LgZpct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 81,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "subdronexyn",
+        "verified": false
+      }
+    ]
+  }
+}

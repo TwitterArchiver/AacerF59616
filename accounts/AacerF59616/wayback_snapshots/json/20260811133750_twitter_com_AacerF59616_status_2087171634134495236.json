@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2087171634134495236",
+    "created_at": "2026-08-11T13:37:50.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T14:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087171634134495236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/longyvling/sta…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/longyvling/status/2087156821962146204",
+          "start": 42,
+          "url": "https://t.co/bJkVKWsixO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087171634134495236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "什么叫做「导致跨性别这一结果的性别焦虑」先有痛苦再有状态是吗？疑似有点本末倒置了。\n\n尽然，性别焦虑可能会导致个体出现非常明显的痛苦状态，而且很容易导致各种次生伤害，但其实，很多即使性别焦虑非常严重的跨性别者，其认知能力、现实判断、人格结构都无法排查出任何病理性特征，你是很难把它真的归类到某种「精神疾病」上的。\n\n「严重影响生活质量」也不见得意味着它和精神疾病就是划等号的，因为现实生活里会严重影响生活的东西实在太多了，比如：丧亲创伤会导致心理危机；失眠会导致抑郁风险增加；慢性疼痛也会严重影响生活……是不能够把它们都简单的归类成一个类别的。\n\n而关于「导致精神疾病」，是需要考虑缺乏支持、遭遇歧视或长期压抑的情况下的，这些也是我刚刚所说的次生伤害——它们不是性别焦虑直接导致的，而是社会排斥导致的，同样也是不能把性别焦虑和诱发精神疾病之间说是直接关联的\n\n然后我继续沿着回答你的下一个回复啊，不想再额外开引用了。怎么说呢，同性恋去病化和跨性别去病化其实在时间上差了非常久，最早的同性恋去病化其实可以追溯到1973年，在1990年完全去病化；而最早的跨性别则是在2013年，彻底去病化则是在2022年，两边最开始去病化的时间点中间隔了整整40年，这又是哪门子的「紧跟着」？\n\n至于神经多样性相关内容，我没怎么了解过，不对此发表评价。即使未来的ICD-12可能真的会对ASD、ADHD进行去病化，但你也说了这是「趋势」，是发展动向，而且有争议正在吵，而跨性别去病化并非趋势，它已经彻底完成了，拿一件还在吵的还不确定是否会落地的事情去反证对另一件已经落地的事情的猜疑，这…这对吗？这个论证链条感觉并不充分啊。\n\n最后嘛，不管大家怎么争，怎么有看法差距，我们其实都知道，痛苦是客观存在的，所以才有性别肯定医疗。而它之所以叫「性别肯定医疗」，也是为了让跨儿们能够以自身认同的模样来生活。各种的去病化和去污名化不意味着是在「否定医疗需求」，而是为了让人们意识到其实对方也是正常人。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087156821962146204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么叫做「导致跨性别这一结果的性别焦虑」先有痛苦再有状态是吗？疑似有点本末倒置了。 https://t.co/bJkVKWsixO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087171634134495236",
+        "created_at": "2026-08-11T13:37:50.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087171634134495236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/longyvling/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/longyvling/status/2087156821962146204",
+              "start": 42,
+              "url": "https://t.co/bJkVKWsixO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087171634134495236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "什么叫做「导致跨性别这一结果的性别焦虑」先有痛苦再有状态是吗？疑似有点本末倒置了。\n\n尽然，性别焦虑可能会导致个体出现非常明显的痛苦状态，而且很容易导致各种次生伤害，但其实，很多即使性别焦虑非常严重的跨性别者，其认知能力、现实判断、人格结构都无法排查出任何病理性特征，你是很难把它真的归类到某种「精神疾病」上的。\n\n「严重影响生活质量」也不见得意味着它和精神疾病就是划等号的，因为现实生活里会严重影响生活的东西实在太多了，比如：丧亲创伤会导致心理危机；失眠会导致抑郁风险增加；慢性疼痛也会严重影响生活……是不能够把它们都简单的归类成一个类别的。\n\n而关于「导致精神疾病」，是需要考虑缺乏支持、遭遇歧视或长期压抑的情况下的，这些也是我刚刚所说的次生伤害——它们不是性别焦虑直接导致的，而是社会排斥导致的，同样也是不能把性别焦虑和诱发精神疾病之间说是直接关联的\n\n然后我继续沿着回答你的下一个回复啊，不想再额外开引用了。怎么说呢，同性恋去病化和跨性别去病化其实在时间上差了非常久，最早的同性恋去病化其实可以追溯到1973年，在1990年完全去病化；而最早的跨性别则是在2013年，彻底去病化则是在2022年，两边最开始去病化的时间点中间隔了整整40年，这又是哪门子的「紧跟着」？\n\n至于神经多样性相关内容，我没怎么了解过，不对此发表评价。即使未来的ICD-12可能真的会对ASD、ADHD进行去病化，但你也说了这是「趋势」，是发展动向，而且有争议正在吵，而跨性别去病化并非趋势，它已经彻底完成了，拿一件还在吵的还不确定是否会落地的事情去反证对另一件已经落地的事情的猜疑，这…这对吗？这个论证链条感觉并不充分啊。\n\n最后嘛，不管大家怎么争，怎么有看法差距，我们其实都知道，痛苦是客观存在的，所以才有性别肯定医疗。而它之所以叫「性别肯定医疗」，也是为了让跨儿们能够以自身认同的模样来生活。各种的去病化和去污名化不意味着是在「否定医疗需求」，而是为了让人们意识到其实对方也是正常人。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087156821962146204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫做「导致跨性别这一结果的性别焦虑」先有痛苦再有状态是吗？疑似有点本末倒置了。 https://t.co/bJkVKWsixO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040798583440527360",
+        "conversation_id": "2087133574206214287",
+        "created_at": "2026-08-11T12:38:58.000Z",
+        "display_text_range": [
+          13,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087156821962146204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087156821962146204",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087154599660859694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 纠结于“是不是病”这个名称并没有什么意义……至少应该承认的是性别焦虑和其他精神疾病一样能够严重影响当事人的生活质量，并且有过之而无不及，甚至还能导致其他精神疾病。一个事物的名字并不重要，问题在于它的实质，能够导致跨性别这一结果的性别焦虑并不像普通的负面情绪，反而更类似于精神疾病。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087171634134495236",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 779,
+          "like_count": 5483,
+          "listed_count": 2,
+          "media_count": 287,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | AuDHD | 🎂2010.1.3 | 🍥2026.5.18 | CPhO现役 | 中国西南某山城北部 | 悟往者之不谏，知来者之可追，实迷途之未远 | 再见了上帝，我要去独自旅行",
+        "id": "2040798583440527360",
+        "is_identity_verified": false,
+        "location": "长夜孤灯",
+        "most_recent_tweet_id": "2087165303759175706",
+        "name": "龙雨绫🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040798583440527360/1775400213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 291,
+          "like_count": 3421,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

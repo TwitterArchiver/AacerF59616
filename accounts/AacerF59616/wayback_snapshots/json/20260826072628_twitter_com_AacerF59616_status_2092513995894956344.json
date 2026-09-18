@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2092513995894956344",
+    "created_at": "2026-08-26T07:26:28.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092513995894956344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QueerLawWatchC…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2092501883675873282",
+          "start": 126,
+          "url": "https://t.co/uRykwygICe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092513995894956344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092501883675873282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分来分去的，说白了本来也不是一路人，保守同和跨儿之间也不见得有什么很紧密的联系，只能说同为SGM罢了。要继续分的话还能性取向归性取向，性别归性别式的分成「LGBA」和「TQI」呢。\n\n切割就切割吧，两边核心诉求都不完全一致，硬凑在一起还容易吵起来呢。 https://t.co/uRykwygICe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2092513995894956344",
+        "created_at": "2026-08-26T07:26:28.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092513995894956344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QueerLawWatchC…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/QueerLawWatchCN/status/2092501883675873282",
+              "start": 126,
+              "url": "https://t.co/uRykwygICe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092513995894956344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092501883675873282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分来分去的，说白了本来也不是一路人，保守同和跨儿之间也不见得有什么很紧密的联系，只能说同为SGM罢了。要继续分的话还能性取向归性取向，性别归性别式的分成「LGBA」和「TQI」呢。\n\n切割就切割吧，两边核心诉求都不完全一致，硬凑在一起还容易吵起来呢。 https://t.co/uRykwygICe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037909112055300096",
+        "conversation_id": "2092501883675873282",
+        "created_at": "2026-08-26T06:38:20.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092501883675873282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092501883675873282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "reuters.com/legal/governme…",
+                "end": 808,
+                "expanded_url": "https://www.reuters.com/legal/government/us-conservative-gay-rights-group-says-it-is-ending-advocacy-transgender-causes-2026-08-26/",
+                "start": 785,
+                "url": "https://t.co/VzYFHD7MIr"
+              }
+            ]
+          },
+          "text": "Log Cabin Republicans：终止跨性别议题倡导，重新定位为LGB组织🇺🇸🏳️‍⚧️\n\n美国最大的保守派同性恋权益组织“木屋共和党人”（Log Cabin Republicans，简称LCR）总裁罗斯·赫明格（Ross Hemminger）8月20日在保守派媒体Townhall发表署名文章，宣布该组织董事会已投票决定，将全国层面的倡导工作“聚焦于性倾向议题与保守价值”，不再以跨性别群体为倡导对象，成为一个“LGB倡导组织”（LGB advocacy organization）。路透社8月25日对此进行了报道。\n\nLCR成立于1977年，是美国历史最长、影响力最大的保守派LGBTQ权益团体，长期在共和党内部为同性婚姻、军队服役权和反歧视立法游说。2015年，该组织董事会曾投票将跨性别权益正式纳入倡导范围。赫明格在文章中称，当时的判断基于“所有成年人都应被允许在不损害他人不可剥夺权利的前提下追求自身幸福”这一信念，但如今“跨性别运动已完全不再聚焦成年人”，其相关议题几乎全部指向未成年人，包括校园性别意识形态教育与变性人参与女子体育竞赛等。\n\nLCR前董事会成员莎拉·亨特（Sarah Hunt）公开表示对这一决定“感到失望”，并援引跨性别人士、特朗普支持者凯特琳·詹娜（Caitlyn Jenner）作为反例。赫明格则强调，组织成员资格仍向所有保守派人士开放，包括跨性别者本人，此次调整只涉及全国层面的政策倡导方向。\n\n这一决定发生在特朗普政府持续以行政令限制跨性别权益、联邦最高法院维持各州跨性别运动员参赛禁令、以及联邦医保对未成年人变性相关医疗程序施加新限制的背景下。作为曾在共和党内部代表LGBTQ群体存在感的组织，LCR此次主动切割跨性别议题，标志着美国保守派同性恋权益倡导与跨性别权益运动之间的分裂进一步公开化与制度化。\n\n参考来源： https://t.co/VzYFHD7MIr"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Log Cabin Republicans：终止跨性别议题倡导，重新定位为LGB组织🇺🇸🏳️‍⚧️\n\n美国最大的保守派同性恋权益组织“木屋共和党人”（Log Cabin Republicans，简称LCR）总裁罗斯·赫明格（Ross"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜指派男性 经验女性 性别酷儿？｜GAHT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2092513995894956344",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 884,
+          "like_count": 7050,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T15:08:39.000Z",
+        "description": "这里是阿冬。\n联系/投稿请私信或邮箱📮queerlawwatchcn@gmail.com\n关注全球LGBTQ运动经验和法律实践🏳️‍🌈🏳️‍⚧️，为关注中国的LGBTQ行动者提供他山之石。\ntracking queer law & policy globally | personal",
+        "id": "2037909112055300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092501883675873282",
+        "name": "阿冬的酷儿法律观察",
+        "pinned_tweet_id": "2068670204628910335",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037909112055300096/1774712007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047360437906182144/TuWas3GX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 1395,
+          "like_count": 1288,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "QueerLawWatchCN",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

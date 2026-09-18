@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2078458618933051849",
+    "created_at": "2026-07-18T12:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T13:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078458618933051849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2078456344085197032",
+          "start": 146,
+          "url": "https://t.co/eTgy8eHAAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078458618933051849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078456344085197032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叠个甲，这里的“冻肉”仅仅是对于极端顺性别异性恋的反击称呼，我本人对同盟者（支持性少数的顺性别异性恋）和中立态度的顺直保持友好态度，并愿意与其保持正常交流。\n\n某些人别看到个词就给我贴上“极端反顺直”的标签，因为我讨厌的自始至终都不是顺直而是你这个打着顺直旗号肆意攻击LGBTQIA+的伪人 https://t.co/eTgy8eHAAr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078458618933051849",
+        "created_at": "2026-07-18T12:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078458618933051849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2078456344085197032",
+              "start": 146,
+              "url": "https://t.co/eTgy8eHAAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078458618933051849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078456344085197032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叠个甲，这里的“冻肉”仅仅是对于极端顺性别异性恋的反击称呼，我本人对同盟者（支持性少数的顺性别异性恋）和中立态度的顺直保持友好态度，并愿意与其保持正常交流。\n\n某些人别看到个词就给我贴上“极端反顺直”的标签，因为我讨厌的自始至终都不是顺直而是你这个打着顺直旗号肆意攻击LGBTQIA+的伪人 https://t.co/eTgy8eHAAr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2078456344085197032",
+        "created_at": "2026-07-18T12:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078456344085197032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/1gdsb/status/2078445002943058091",
+              "start": 19,
+              "url": "https://t.co/aj2988l61l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078456344085197032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078445002943058091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夏天了用冰箱多了，冻肉自然也多了嗯啊 https://t.co/aj2988l61l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 518,
+          "like_count": 3425,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1026
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

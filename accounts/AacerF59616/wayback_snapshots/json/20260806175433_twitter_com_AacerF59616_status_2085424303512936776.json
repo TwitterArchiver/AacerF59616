@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2085424303512936776",
+    "created_at": "2026-08-06T17:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085424303512936776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cfgzb123/statu…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/cfgzb123/status/2085420025490661648",
+          "start": 140,
+          "url": "https://t.co/CSygGKoKny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085424303512936776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085420025490661648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男娘并不算是跨女，大多数男娘属于性别表达为女性的顺性别男性，可能其中有一部分是尚处于认同探索早期的mtf或mtx。不过这些倒没那么重要，因为事实证明国内的激女群体就是无差别的厌恶任何指派性别为男的人，将其视为眼中钉，无论性别认同、性别表达和社会性别如何，只要指派为男那就默认敌对 https://t.co/CSygGKoKny"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2085418644662824960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDlNVMasAA8_ss.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2085424303512936776",
+        "created_at": "2026-08-06T17:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085424303512936776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cfgzb123/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/cfgzb123/status/2085420025490661648",
+              "start": 140,
+              "url": "https://t.co/CSygGKoKny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085424303512936776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085420025490661648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男娘并不算是跨女，大多数男娘属于性别表达为女性的顺性别男性，可能其中有一部分是尚处于认同探索早期的mtf或mtx。不过这些倒没那么重要，因为事实证明国内的激女群体就是无差别的厌恶任何指派性别为男的人，将其视为眼中钉，无论性别认同、性别表达和社会性别如何，只要指派为男那就默认敌对 https://t.co/CSygGKoKny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085418644662824960"
+          ]
+        },
+        "author_id": "1504273495605198855",
+        "conversation_id": "2085337210346479865",
+        "created_at": "2026-08-06T17:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085420025490661648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhL3fB6qhF",
+              "end": 178,
+              "expanded_url": "https://x.com/cfgzb123/status/2085420025490661648/photo/1",
+              "media_key": "3_2085418644662824960",
+              "start": 155,
+              "url": "https://t.co/JhL3fB6qhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085420025490661648",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085337210346479865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我也懒得争辩什么了，虽然我不是跨性别，但我也能理解跨性别了。可能中国真的存在种姓制度吧，有“婆罗门”，也有“不可接触者”。婆罗门的遗弃物都能被某些下等种姓疯狂的舔，而不可接触者的每一个细胞都会被嫌弃，都会被认定为是罪该万死的东西。下等种姓唯一的任务就是给高等种姓上贡，哎...... https://t.co/JhL3fB6qhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 761,
+          "like_count": 5181,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 1553
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T01:48:55.000Z",
+        "description": "",
+        "id": "1504273495605198855",
+        "location": "Jakarta, Indonesia🌏",
+        "name": "拔累拔累",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895123931973197824/u3OgXbat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 11588,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 736
+        },
+        "url": "",
+        "username": "cfgzb123",
+        "verified": false
+      }
+    ]
+  }
+}

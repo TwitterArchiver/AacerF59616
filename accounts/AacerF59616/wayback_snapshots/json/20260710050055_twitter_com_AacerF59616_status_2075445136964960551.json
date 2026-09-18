@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2075119044144058847",
+    "created_at": "2026-07-10T05:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075445136964960551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038192732028469248",
+          "start": 0,
+          "username": "Akiraoo_xyn"
+        },
+        {
+          "end": 24,
+          "id": "967668314095853570",
+          "start": 13,
+          "username": "_Malinorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075445136964960551",
+    "in_reply_to_user_id": "2038192732028469248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075335368409514123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraoo_xyn @_Malinorne 2mg一般是最低剂量喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2075119044144058847",
+        "created_at": "2026-07-10T05:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075445136964960551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            },
+            {
+              "end": 24,
+              "id": "967668314095853570",
+              "start": 13,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075445136964960551",
+        "in_reply_to_user_id": "2038192732028469248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075335368409514123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn @_Malinorne 2mg一般是最低剂量喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038192732028469248",
+        "conversation_id": "2075119044144058847",
+        "created_at": "2026-07-09T21:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075335368409514123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            },
+            {
+              "end": 24,
+              "id": "967668314095853570",
+              "start": 13,
+              "username": "_Malinorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075335368409514123",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075266187177624040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 @_Malinorne 嘛...我现在倒是把2mg当做常规剂量了\n会太少吗？毕竟我也不是MtF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党？｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 416,
+          "like_count": 2720,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 895
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073124599328559104/qT_B1DyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 154,
+          "like_count": 1025,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-25T07:51:19.000Z",
+        "description": "可能只会存在一瞬罢了",
+        "id": "967668314095853570",
+        "location": "Tasarinan",
+        "name": "一凣 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063839912017985536/_8Tr-_sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 93,
+          "like_count": 2930,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "_Malinorne",
+        "verified": false
+      }
+    ]
+  }
+}

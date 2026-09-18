@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2079525548041359412",
+    "created_at": "2026-07-21T11:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079525548041359412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SamYangAus/sta…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/SamYangAus/status/2079517346713243833",
+          "start": 65,
+          "url": "https://t.co/odRVIJ0MFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079525548041359412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079517346713243833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不觉得自己哪傲慢了，我似乎从来没有强迫过谁承认我的观点，如果你觉得我通过自称女性来获取性别肯定是“傲慢”的话，那其实没什么好说的 https://t.co/odRVIJ0MFf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2079525548041359412",
+        "created_at": "2026-07-21T11:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079525548041359412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SamYangAus/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/SamYangAus/status/2079517346713243833",
+              "start": 65,
+              "url": "https://t.co/odRVIJ0MFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079525548041359412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079517346713243833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不觉得自己哪傲慢了，我似乎从来没有强迫过谁承认我的观点，如果你觉得我通过自称女性来获取性别肯定是“傲慢”的话，那其实没什么好说的 https://t.co/odRVIJ0MFf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2916917561",
+        "conversation_id": "2079516909914194118",
+        "created_at": "2026-07-21T10:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079517346713243833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079517346713243833",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079516909914194118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 你谦虚，我就没资格傲慢。这个道理很简单～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 605,
+          "like_count": 3954,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-12T05:21:18.000Z",
+        "description": "",
+        "id": "2916917561",
+        "name": "SamYang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 17,
+          "media_count": 317,
+          "tweet_count": 20471
+        },
+        "url": "",
+        "username": "SamYangAus",
+        "verified": false
+      }
+    ]
+  }
+}
