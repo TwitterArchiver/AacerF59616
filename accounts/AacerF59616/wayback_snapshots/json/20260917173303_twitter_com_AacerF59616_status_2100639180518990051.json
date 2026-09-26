@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100639180518990051",
+    "created_at": "2026-09-17T17:33:03.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100639180518990051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2100620966598705338",
+          "start": 122,
+          "url": "https://t.co/d2n3v6JI5V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100639180518990051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在不同情境下，人的身份也会产生变化，两个男性完全可能因为国籍不同成为敌人，两个不同性别的人也完全可能因为家庭、朋友或共同利益而成为最紧密的盟友。同类这个概念的作用更接近提高某些情境下形成认同、信任和互助的概率，而不是保证彼此之间永远不会冲突。\n\n比如，“都是学生”可能让两个人更容易理解考试压力；“都是跨性别者”可能让彼此更容易共享某些经验；“都是女性”可能在某些性别议题上产生共同感，但这些都不意味着她们在其他所有问题上利益一致，更不意味着不会互相讨厌、竞争甚至伤害。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100620966598705338",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在不同情境下，人的身份也会产生变化，两个男性完全可能因为国籍不同成为敌人，两个不同性别的人也完全可能因为家庭、朋友或共同利益而成为最紧密的盟友。同类这个概念的作用更接近提高某些情境下形成认同、信任和互助的概率，而不是保证彼此之间永远不会冲突。 https://t.co/d2n3v6JI5V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100639180518990051",
+        "created_at": "2026-09-17T17:33:03.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100639180518990051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2100620966598705338",
+              "start": 122,
+              "url": "https://t.co/d2n3v6JI5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100639180518990051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在不同情境下，人的身份也会产生变化，两个男性完全可能因为国籍不同成为敌人，两个不同性别的人也完全可能因为家庭、朋友或共同利益而成为最紧密的盟友。同类这个概念的作用更接近提高某些情境下形成认同、信任和互助的概率，而不是保证彼此之间永远不会冲突。\n\n比如，“都是学生”可能让两个人更容易理解考试压力；“都是跨性别者”可能让彼此更容易共享某些经验；“都是女性”可能在某些性别议题上产生共同感，但这些都不意味着她们在其他所有问题上利益一致，更不意味着不会互相讨厌、竞争甚至伤害。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100620966598705338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在不同情境下，人的身份也会产生变化，两个男性完全可能因为国籍不同成为敌人，两个不同性别的人也完全可能因为家庭、朋友或共同利益而成为最紧密的盟友。同类这个概念的作用更接近提高某些情境下形成认同、信任和互助的概率，而不是保证彼此之间永远不会冲突。 https://t.co/d2n3v6JI5V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100620966598705338",
+        "created_at": "2026-09-17T16:20:40.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100620966598705338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100620966598705338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同类是我见过最匪夷所思的关系\n如果同类有用的话，那男性间为什么二战都能发动？他们不是同类吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100639180518990051",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3233,
+          "following_count": 990,
+          "like_count": 8072,
+          "listed_count": 2,
+          "media_count": 579,
+          "tweet_count": 3363
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100627043843256367",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5849,
+          "following_count": 1001,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3681,
+          "tweet_count": 16765
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

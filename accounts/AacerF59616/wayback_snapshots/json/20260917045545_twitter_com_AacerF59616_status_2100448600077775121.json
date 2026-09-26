@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100448600077775121",
+    "created_at": "2026-09-17T04:55:45.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100448600077775121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quaintlotus142…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/quaintlotus142/status/2100211617795305856",
+          "start": 88,
+          "url": "https://t.co/Sw8JKq32Sz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100448600077775121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国社会长期存在重男偏好、性别化养育和对男女不同的行为期待，这些当然都是真的。男孩的淘气更容易被解释成“活泼”，女孩则更容易被要求乖、懂事、会照顾人，这种双重标准也确实存在。\n\n但从这里直接跳到“中国男人从小没被打压过、全社会都在宠他们”，就明显过头了。传统性别规范对男性也有另一套要求，比如必须有出息、能赚钱、不能软弱、不能哭、要承担家庭责任。它不是“男孩完全自由，女孩完全受压迫”，而是两套不同、而且并不对称的性别脚本。\n\n至于杨笠那句“那么普通却那么自信”所引发的争议，我觉得也不能简单归结成“因为她说中了所以男的破防”。一部分人确实会把它理解成对某类缺乏自知之明男性的讽刺，但另一部分人听到的其实是“普通男性不配自信”，这两个命题完全不是一回事。\n\n所以我觉得真正值得批评的是，为什么同一种行为放在男女身上会被社会作出不同解释，为什么男性更容易被允许拥有某些权威和行动空间，女性却更容易被要求克制和照顾别人。\n\n这些问题本来就有足够多现实依据，没必要再靠“全中国男人从小都是被宠大的”这种总括来证明。反而说得太绝对，会把一个本来可以认真讨论的问题变成互相贴标签。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100211617795305856",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国社会长期存在重男偏好、性别化养育和对男女不同的行为期待，这些当然都是真的。男孩的淘气更容易被解释成“活泼”，女孩则更容易被要求乖、懂事、会照顾人，这种双重标准也确实存在。 https://t.co/Sw8JKq32Sz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100448600077775121",
+        "created_at": "2026-09-17T04:55:45.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100448600077775121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quaintlotus142…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/quaintlotus142/status/2100211617795305856",
+              "start": 88,
+              "url": "https://t.co/Sw8JKq32Sz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100448600077775121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国社会长期存在重男偏好、性别化养育和对男女不同的行为期待，这些当然都是真的。男孩的淘气更容易被解释成“活泼”，女孩则更容易被要求乖、懂事、会照顾人，这种双重标准也确实存在。\n\n但从这里直接跳到“中国男人从小没被打压过、全社会都在宠他们”，就明显过头了。传统性别规范对男性也有另一套要求，比如必须有出息、能赚钱、不能软弱、不能哭、要承担家庭责任。它不是“男孩完全自由，女孩完全受压迫”，而是两套不同、而且并不对称的性别脚本。\n\n至于杨笠那句“那么普通却那么自信”所引发的争议，我觉得也不能简单归结成“因为她说中了所以男的破防”。一部分人确实会把它理解成对某类缺乏自知之明男性的讽刺，但另一部分人听到的其实是“普通男性不配自信”，这两个命题完全不是一回事。\n\n所以我觉得真正值得批评的是，为什么同一种行为放在男女身上会被社会作出不同解释，为什么男性更容易被允许拥有某些权威和行动空间，女性却更容易被要求克制和照顾别人。\n\n这些问题本来就有足够多现实依据，没必要再靠“全中国男人从小都是被宠大的”这种总括来证明。反而说得太绝对，会把一个本来可以认真讨论的问题变成互相贴标签。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100211617795305856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国社会长期存在重男偏好、性别化养育和对男女不同的行为期待，这些当然都是真的。男孩的淘气更容易被解释成“活泼”，女孩则更容易被要求乖、懂事、会照顾人，这种双重标准也确实存在。 https://t.co/Sw8JKq32Sz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346651417533173762",
+        "conversation_id": "2100211617795305856",
+        "created_at": "2026-09-16T13:14:04.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:11:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100211032023068830",
+          "2100211617795305856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wodanggangqian…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/wodanggangqiang/status/2100171093889909016",
+              "start": 130,
+              "url": "https://t.co/h3wr6KYZUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100211617795305856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么杨笠的那句很多中国男人”明明那么普通却那么自信”，会让那么多中国bro破防？\n\n因为他们从小连会尿尿都能被一群长辈围着笑夸。\n\n当我把这个奇葩现象闲聊时说给我的美国同事朋友们听，他们的下巴都快要掉下来。\n\n中国社会对男孩和女孩是两套完全不同的养育方式。\n\n对男孩：淘气叫有出息；手欠嘴欠叫活泼；成绩差叫男孩子后劲大；长得丑不讲卫生叫男人味，中国男从小在家里就是资源优先、情绪优先、一切优先。\n\n对女孩：要漂亮；要乖巧懂事；要会照顾人；不要太强势；不要太自信；不要太挑；别老觉得自己了不起；家里资源全归她们的兄弟。\n\n中国bro不仅从小没被打压过，还被全中国社会变态般的护着捧着惯着溺爱着。\n\n最后可不就说不得么。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16513,
+          "like_count": 361,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100171093889909016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "为什么杨笠的那句很多中国男人”明明那么普通却那么自信”，会让那么多中国bro破防？\n\n因为他们从小连会尿尿都能被一群长辈围着笑夸。\n\n当我把这个奇葩现象闲聊时说给我的美国同事朋友们听，他们的下巴都快要掉下来。\n\n中国社会对男孩和女孩是两套完全不同的养育方式。 https://t.co/h3wr6KYZUL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100448600077775121",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 987,
+          "like_count": 8016,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-06T02:55:05.000Z",
+        "description": "我见诸君多有病，料诸君见我应如是。",
+        "id": "1346651417533173762",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100381220504777073",
+        "name": "逃跑的韭菜🇺🇸",
+        "pinned_tweet_id": "2004955488643928196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346651417533173762/1721769940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022350193463881730/PRU_m4qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52660,
+          "following_count": 1699,
+          "like_count": 147537,
+          "listed_count": 135,
+          "media_count": 6210,
+          "tweet_count": 73058
+        },
+        "url": "",
+        "username": "quaintlotus142",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

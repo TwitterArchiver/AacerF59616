@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100991104044990769",
+    "created_at": "2026-09-18T16:51:28.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100991104044990769"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rin_Mashiro_/s…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/Rin_Mashiro_/status/2100760095881830503",
+          "start": 92,
+          "url": "https://t.co/j0i0PLpWv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100991104044990769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100760095881830503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么服用安慰剂可以带来第二性征的改变吗？如果能的话要怎么论证呢；如果不能的话，你又是怎么得出“任何激素治疗的作用都与安慰剂无异”的结论的呢？怎么还有左右脑互搏，自己反对自己吗有点意思 https://t.co/j0i0PLpWv2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100991104044990769",
+        "created_at": "2026-09-18T16:51:28.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100991104044990769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rin_Mashiro_/s…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/Rin_Mashiro_/status/2100760095881830503",
+              "start": 92,
+              "url": "https://t.co/j0i0PLpWv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100991104044990769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100760095881830503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么服用安慰剂可以带来第二性征的改变吗？如果能的话要怎么论证呢；如果不能的话，你又是怎么得出“任何激素治疗的作用都与安慰剂无异”的结论的呢？怎么还有左右脑互搏，自己反对自己吗有点意思 https://t.co/j0i0PLpWv2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2100760095881830503",
+        "created_at": "2026-09-18T01:33:31.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100760095881830503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rin_mashiro_/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/rin_mashiro_/status/2100211308163641380",
+              "start": 145,
+              "url": "https://t.co/se9lM0celY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100760095881830503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "才看到这么多人反对我的观点（x没有消息提醒）\n结果一个观点都没有拿出任何实证\n我是结果论者\n反对我的人我想问激素治疗除了改变第二性征又能给你带来什么呢\n从结果上来看毫无用处\n甚至都没有阻断剂有用\n天生的生理结构并不是依靠一种两种性激素就能够改变的\n那是刻在dna中的发育路径\n不得不承认的\n我至少也是认真阅读过部分基础文献的你们呢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6596,
+          "like_count": 5,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100211308163641380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才看到这么多人反对我的观点（x没有消息提醒）\n结果一个观点都没有拿出任何实证\n我是结果论者\n反对我的人我想问激素治疗除了改变第二性征又能给你带来什么呢\n从结果上来看毫无用处\n甚至都没有阻断剂有用\n天生的生理结构并不是依靠一种两种性激素就能够改变的\n那是刻在dna中的发育路径\n不得不承认的 https://t.co/se9lM0celY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100991104044990769",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 998,
+          "like_count": 8105,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜LLM｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\nTG:https://t.co/mrZzq3tXAY(24h在线)\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 94,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 71,
+                "url": "https://t.co/mrZzq3tXAY"
+              },
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 130,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 107,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 159,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 136,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100989469361062170",
+        "name": "Rin",
+        "pinned_tweet_id": "2095914123938943477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1789446351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 142,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 375,
+          "tweet_count": 4057
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

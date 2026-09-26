@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2101316549147873327",
+    "created_at": "2026-09-19T14:24:40.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101316549147873327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AmanoHinauh8x/…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/AmanoHinauh8x/status/2101267429137748271",
+          "start": 154,
+          "url": "https://t.co/79kMDCqul1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101316549147873327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101267429137748271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得没错的话GPT生图是先把你说的内容通过语言模型转成prompt再告诉Image2.5的，如果你用是的免费版或者GO的话只有5.6Luna可以用，这个是5.6系列里最轻量的，把你要求的内容转为具体的prompt几乎不可能有旗舰模型5.6sol好，如果预算足够而且确实有需求的话开一个Plus也挺不错的。 https://t.co/79kMDCqul1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2101316549147873327",
+        "created_at": "2026-09-19T14:24:40.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101316549147873327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AmanoHinauh8x/…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/AmanoHinauh8x/status/2101267429137748271",
+              "start": 154,
+              "url": "https://t.co/79kMDCqul1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101316549147873327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101267429137748271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得没错的话GPT生图是先把你说的内容通过语言模型转成prompt再告诉Image2.5的，如果你用是的免费版或者GO的话只有5.6Luna可以用，这个是5.6系列里最轻量的，把你要求的内容转为具体的prompt几乎不可能有旗舰模型5.6sol好，如果预算足够而且确实有需求的话开一个Plus也挺不错的。 https://t.co/79kMDCqul1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078217810594140160",
+        "conversation_id": "2101267429137748271",
+        "created_at": "2026-09-19T11:09:29.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101267429137748271"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101267429137748271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GPT 开了会员之后除了能提升额度和对话模型，生图水平也会提高嘛，现在用 gpt 主要就是做图的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101316549147873327",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3272,
+          "following_count": 1001,
+          "like_count": 8140,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T20:39:30.000Z",
+        "description": "友跨顺女，平权主义，自由派，一个情绪承受能力特别强的人，无论你多伤心我都不会被影响的，希望帮助真正需要帮助的人",
+        "id": "2078217810594140160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101310423232606665",
+        "name": "Amano Hina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078217810594140160/1789817094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084984870363877376/jm5Q6rkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 76,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "AmanoHinauh8x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

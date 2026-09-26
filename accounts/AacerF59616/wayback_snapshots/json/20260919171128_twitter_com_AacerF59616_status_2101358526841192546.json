@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2101358526841192546",
+    "created_at": "2026-09-19T17:11:28.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101358526841192546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tkcmta/status/…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/tkcmta/status/2101244187111022699",
+          "start": 129,
+          "url": "https://t.co/P4e8x58khY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101358526841192546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101244187111022699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "泌乳素明显偏高啦，这个值是实验室参考上限的4.2倍，折算一下相当于1169 mIU/L，得注意高泌乳素导致的问题呢。如果后续测出来的结果＞2000～3000 mIU/L（94～142 ng/mL）的话还得去排查一下看看是不是泌乳素瘤导致的。唔……总之祝好喵 https://t.co/P4e8x58khY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2101244180395888641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkecv7akAEmsqa.jpg",
+        "width": 1205
+      },
+      {
+        "height": 2622,
+        "media_key": "3_2101244180437913601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkecwFb0AEgf4-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2101358526841192546",
+        "created_at": "2026-09-19T17:11:28.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101358526841192546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tkcmta/status/…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/tkcmta/status/2101244187111022699",
+              "start": 129,
+              "url": "https://t.co/P4e8x58khY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101358526841192546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101244187111022699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泌乳素明显偏高啦，这个值是实验室参考上限的4.2倍，折算一下相当于1169 mIU/L，得注意高泌乳素导致的问题呢。如果后续测出来的结果＞2000～3000 mIU/L（94～142 ng/mL）的话还得去排查一下看看是不是泌乳素瘤导致的。唔……总之祝好喵 https://t.co/P4e8x58khY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101244180395888641",
+            "3_2101244180437913601"
+          ]
+        },
+        "author_id": "1010322251269300224",
+        "conversation_id": "2101244187111022699",
+        "created_at": "2026-09-19T09:37:08.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101244187111022699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gk9oHS0N0a",
+              "end": 79,
+              "expanded_url": "https://x.com/tkcmta/status/2101244187111022699/photo/1",
+              "media_key": "3_2101244180395888641",
+              "start": 56,
+              "url": "https://t.co/Gk9oHS0N0a"
+            },
+            {
+              "display_url": "pic.x.com/Gk9oHS0N0a",
+              "end": 79,
+              "expanded_url": "https://x.com/tkcmta/status/2101244187111022699/photo/1",
+              "media_key": "3_2101244180437913601",
+              "start": 56,
+              "url": "https://t.co/Gk9oHS0N0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101244187111022699",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101244180395888641"
+          },
+          {
+            "media_key": "3_2101244180437913601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1070,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT 4年多第一次测激素六项（\n使用的是日雌7天一次+CPA 12.5mg/2d，抽血时间距离下次注射6小时 https://t.co/Gk9oHS0N0a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101358526841192546",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 1003,
+          "like_count": 8141,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-23T00:42:50.000Z",
+        "description": "05MtF / INFJ-T / 小证HRT22.01.27 / 同类互fo喵(忘了请私信提醒喵) / Wolfx Project / #防災 / #EEW / #地震観測 / #プロセカ / ZH、EN、JA / 平时主要玩PJSK喵 / 😈🥰 @realcodestudio",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "防災"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "EEW"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "地震観測"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "プロセカ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 124,
+                "username": "realcodestudio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wolfx.jp",
+                "end": 23,
+                "expanded_url": "https://wolfx.jp",
+                "start": 0,
+                "url": "https://t.co/Etun1cXcZX"
+              }
+            ]
+          }
+        },
+        "id": "1010322251269300224",
+        "is_identity_verified": false,
+        "location": "Inazuma",
+        "most_recent_tweet_id": "2101315733905187104",
+        "name": "TenkyuChimata🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2096905754607521917",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010322251269300224/1731019726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617528974112083969/kjfqMLFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 1171,
+          "like_count": 58510,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/Etun1cXcZX",
+        "username": "tkcmta",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100986570971234543",
+    "created_at": "2026-09-18T16:33:27.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T17:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100986570971234543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Dadey1444/stat…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/Dadey1444/status/2100967543821533447",
+          "start": 134,
+          "url": "https://t.co/sG5VsJ3xnG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100986570971234543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100967543821533447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水色系没有，感觉不适合我；腿照有，但只是因为我没活了而且我全身照一般般；粉蓝白背景头像有但我不用，我现在背景是V字形酷儿旗；鱼板名字有但是在微信和拍照水印上；每日记录是什么？指的是GAHT吗？那我偶尔会有。非要说的话我可以算是你所说的“非跨圈主流思想的跨性别”就是了 https://t.co/sG5VsJ3xnG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100986570971234543",
+        "created_at": "2026-09-18T16:33:27.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T17:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100986570971234543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Dadey1444/stat…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/Dadey1444/status/2100967543821533447",
+              "start": 134,
+              "url": "https://t.co/sG5VsJ3xnG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100986570971234543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100967543821533447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水色系没有，感觉不适合我；腿照有，但只是因为我没活了而且我全身照一般般；粉蓝白背景头像有但我不用，我现在背景是V字形酷儿旗；鱼板名字有但是在微信和拍照水印上；每日记录是什么？指的是GAHT吗？那我偶尔会有。非要说的话我可以算是你所说的“非跨圈主流思想的跨性别”就是了 https://t.co/sG5VsJ3xnG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737507370031611904",
+        "conversation_id": "2100967543821533447",
+        "created_at": "2026-09-18T15:17:51.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100967543821533447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "跨本探索"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100967543821533447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#跨本探索\n我一直很好奇，跨圈一直在要求他人接受多元化。但跨圈真的是多元化的吗？\n看着清一色的水色系，腿照，蓝白粉公式头像，鱼板名字，每日记录。\n这统一的格式，反而不怎么显得多元了。\n像我这种非跨圈主流思想的跨性别，居然也会被贴上标签排挤。这就是多元化吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100986570971234543",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 998,
+          "like_count": 8101,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T16:17:08.000Z",
+        "description": "对正常人是普通社民，对畜生也不会降低底线。\n我一直觉得共情力太强是一种病，那种空有悲悯之心却无救世之力的无助让自己太内耗了，直到听到过一句话 。“共情到底是诅咒还是奖赏”答：“是善良者的天赋”\n｜社會民主主義｜ENTP｜不自恨｜出廠於100年｜博愛｜無證含糖｜拒絕🔪🩸｜拒絕💊💉｜零度抑鬱｜",
+        "id": "1737507370031611904",
+        "is_identity_verified": false,
+        "location": "見瀧原自由市",
+        "most_recent_tweet_id": "2100983971115122731",
+        "name": "晓虹焰🌹🇹🇼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2099520342511530286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1737507370031611904/1786456348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099521324117016577/8OIz4CpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 309,
+          "like_count": 1845,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1100
+        },
+        "url": "",
+        "username": "Dadey1444",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

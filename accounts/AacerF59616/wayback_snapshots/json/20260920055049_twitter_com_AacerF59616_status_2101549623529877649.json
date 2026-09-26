@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101549458559549440"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2101549623529877649",
+    "created_at": "2026-09-20T05:50:49.000Z",
+    "display_text_range": [
+      0,
+      188
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101549623529877649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "socpk.com",
+          "end": 137,
+          "expanded_url": "https://socpk.com",
+          "start": 114,
+          "url": "https://t.co/hM7WLGHhEM"
+        },
+        {
+          "display_url": "pic.x.com/AY2FQ4DtiO",
+          "end": 212,
+          "expanded_url": "https://x.com/AacerF59616/status/2101549623529877649/video/1",
+          "media_key": "13_2101549458559549440",
+          "start": 189,
+          "url": "https://t.co/AY2FQ4DtiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101549623529877649",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101549458559549440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "socpk.com",
+            "end": 137,
+            "expanded_url": "http://socpk.com",
+            "start": 114,
+            "url": "https://t.co/jx3XFARWLL"
+          }
+        ]
+      },
+      "text": "《天玑9500真的不如8E5？我分析了SOCPK的11495个能效数据点》\n\n本视频由 GPT-5.6 Luna 工作模式 协助完成数据整理、分析、脚本、图表、字幕与视频合成，我负责研究方向与任务设计。\n\n数据来源：SOCPK（https://t.co/jx3XFARWLL）\n数据提取日期：2026-09-20\n\n涉及测试包括：Geekbench 6、Geekbench 7 多核能效、SPEC CPU 2026、3DMark Steel Nomad Light、3DMark Wild Life Extreme、Geekbench 5、GFXBench 5。\n\n不同 benchmark 原始分数不跨版本直接比较；部分能效曲线为 SOCPK 网站拟合数据，视频中的部分功耗对比值为测试范围内插值结果。\n\n仅作数据分析与科普参考。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《天玑9500真的不如8E5？我分析了SOCPK的11495个能效数据点》\n\n本视频由 GPT-5.6 Luna 工作模式 协助完成数据整理、分析、脚本、图表、字幕与视频合成，我负责研究方向与任务设计。\n\n数据来源：SOCPK（https://t.co/hM7WLGHhEM）\n数据提取日期：2026-09-20\n\n涉及测试包括：Geekbench 6、Geekbench 7 https://t.co/AY2FQ4DtiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 484338,
+        "height": 1080,
+        "media_key": "13_2101549458559549440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101549458559549440/img/QX-IWVuQHSAXoLGt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101549458559549440/pl/ef6-kzpQTboYDtmt.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/640x360/3lEiP-G2qqxjQMSc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/1920x1080/d7onA6yL0Qh1tSns.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/480x270/I7bb0XeTQYkq_fHN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/1280x720/mAUFhdgxWWT5nVuH.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101549458559549440"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2101549623529877649",
+        "created_at": "2026-09-20T05:50:49.000Z",
+        "display_text_range": [
+          0,
+          188
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101549623529877649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "socpk.com",
+              "end": 137,
+              "expanded_url": "https://socpk.com",
+              "start": 114,
+              "url": "https://t.co/hM7WLGHhEM"
+            },
+            {
+              "display_url": "pic.x.com/AY2FQ4DtiO",
+              "end": 212,
+              "expanded_url": "https://x.com/AacerF59616/status/2101549623529877649/video/1",
+              "media_key": "13_2101549458559549440",
+              "start": 189,
+              "url": "https://t.co/AY2FQ4DtiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101549623529877649",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101549458559549440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "socpk.com",
+                "end": 137,
+                "expanded_url": "http://socpk.com",
+                "start": 114,
+                "url": "https://t.co/jx3XFARWLL"
+              }
+            ]
+          },
+          "text": "《天玑9500真的不如8E5？我分析了SOCPK的11495个能效数据点》\n\n本视频由 GPT-5.6 Luna 工作模式 协助完成数据整理、分析、脚本、图表、字幕与视频合成，我负责研究方向与任务设计。\n\n数据来源：SOCPK（https://t.co/jx3XFARWLL）\n数据提取日期：2026-09-20\n\n涉及测试包括：Geekbench 6、Geekbench 7 多核能效、SPEC CPU 2026、3DMark Steel Nomad Light、3DMark Wild Life Extreme、Geekbench 5、GFXBench 5。\n\n不同 benchmark 原始分数不跨版本直接比较；部分能效曲线为 SOCPK 网站拟合数据，视频中的部分功耗对比值为测试范围内插值结果。\n\n仅作数据分析与科普参考。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《天玑9500真的不如8E5？我分析了SOCPK的11495个能效数据点》\n\n本视频由 GPT-5.6 Luna 工作模式 协助完成数据整理、分析、脚本、图表、字幕与视频合成，我负责研究方向与任务设计。\n\n数据来源：SOCPK（https://t.co/hM7WLGHhEM）\n数据提取日期：2026-09-20\n\n涉及测试包括：Geekbench 6、Geekbench 7 https://t.co/AY2FQ4DtiO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101549623529877649",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 1004,
+          "like_count": 8154,
+          "listed_count": 2,
+          "media_count": 593,
+          "tweet_count": 3430
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

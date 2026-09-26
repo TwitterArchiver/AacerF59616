@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2102299756974542878",
+    "created_at": "2026-09-22T07:31:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102299756974542878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liulingyo/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/liulingyo/status/2102279638206796018",
+          "start": 141,
+          "url": "https://t.co/hItqS5yLDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102299756974542878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得这个聊天记录里额，重点没正确强调，因为这个很明显的个人生活习性极端恶劣导致的。反推一下，如果对方是顺女/男，那么这件事情就完全不成立了吗？如果对方不是药娘，这件事就完全不成立了吗？这件事是对方的身份或者经验性别直接导致的吗？它的置信度问题在于，对方的身份和经验性别，是不是和这个事件本身具备强关联性，为什么具备关联性，如果换作其他变量是否完全不成立"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102279638206796018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这个聊天记录里额，重点没正确强调，因为这个很明显的个人生活习性极端恶劣导致的。反推一下，如果对方是顺女/男，那么这件事情就完全不成立了吗？如果对方不是药娘，这件事就完全不成立了吗？这件事是对方的身份或者经验性别直接导致的吗？它的置信度问题在于，对方的身份和经验性别，是不是和 https://t.co/hItqS5yLDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102279582133133313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzMJD-aIAEQDlc.jpg",
+        "width": 946
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2102279582145740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzMJEBagAAcjRU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2102279582816813056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzMJGhaQAAo1gu.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2102279582141513728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzMJEAaAAAeup6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2102299756974542878",
+        "created_at": "2026-09-22T07:31:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102299756974542878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/liulingyo/status/2102279638206796018",
+              "start": 141,
+              "url": "https://t.co/hItqS5yLDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102299756974542878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得这个聊天记录里额，重点没正确强调，因为这个很明显的个人生活习性极端恶劣导致的。反推一下，如果对方是顺女/男，那么这件事情就完全不成立了吗？如果对方不是药娘，这件事就完全不成立了吗？这件事是对方的身份或者经验性别直接导致的吗？它的置信度问题在于，对方的身份和经验性别，是不是和这个事件本身具备强关联性，为什么具备关联性，如果换作其他变量是否完全不成立"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102279638206796018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这个聊天记录里额，重点没正确强调，因为这个很明显的个人生活习性极端恶劣导致的。反推一下，如果对方是顺女/男，那么这件事情就完全不成立了吗？如果对方不是药娘，这件事就完全不成立了吗？这件事是对方的身份或者经验性别直接导致的吗？它的置信度问题在于，对方的身份和经验性别，是不是和 https://t.co/hItqS5yLDh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102279582133133313",
+            "3_2102279582145740800",
+            "3_2102279582816813056",
+            "3_2102279582141513728"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2102279638206796018",
+        "created_at": "2026-09-22T06:11:38.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102279638206796018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcC9fdg8Ua",
+              "end": 84,
+              "expanded_url": "https://x.com/liulingyo/status/2102279638206796018/photo/1",
+              "media_key": "3_2102279582133133313",
+              "start": 61,
+              "url": "https://t.co/JcC9fdg8Ua"
+            },
+            {
+              "display_url": "pic.x.com/JcC9fdg8Ua",
+              "end": 84,
+              "expanded_url": "https://x.com/liulingyo/status/2102279638206796018/photo/1",
+              "media_key": "3_2102279582145740800",
+              "start": 61,
+              "url": "https://t.co/JcC9fdg8Ua"
+            },
+            {
+              "display_url": "pic.x.com/JcC9fdg8Ua",
+              "end": 84,
+              "expanded_url": "https://x.com/liulingyo/status/2102279638206796018/photo/1",
+              "media_key": "3_2102279582816813056",
+              "start": 61,
+              "url": "https://t.co/JcC9fdg8Ua"
+            },
+            {
+              "display_url": "pic.x.com/JcC9fdg8Ua",
+              "end": 84,
+              "expanded_url": "https://x.com/liulingyo/status/2102279638206796018/photo/1",
+              "media_key": "3_2102279582141513728",
+              "start": 61,
+              "url": "https://t.co/JcC9fdg8Ua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102279638206796018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102279582133133313"
+          },
+          {
+            "media_key": "3_2102279582145740800"
+          },
+          {
+            "media_key": "3_2102279582816813056"
+          },
+          {
+            "media_key": "3_2102279582141513728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2094,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个药娘能把别人家糟蹋成这样也是相当猎奇了，这个卫生问题哪怕是普通顺男都没有这么严重，这个药娘完全是异于人类的另一个物种 https://t.co/JcC9fdg8Ua"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2102299756974542878",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3319,
+          "following_count": 1022,
+          "like_count": 8184,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 3486
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️已去势MTF🍥｜热爱发一些日常🐱ありがとう〜にゃー｜喜欢看番🌸｜柚子厨🍀｜自宅警备员🥝｜日本語学习中🍬｜回关建议私讯🌸よろしくお願いします❤️\ncrush:@GanYuluo🌟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 93,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "Ciallo～ (∠・ω 𠃋 )⌒★",
+        "most_recent_tweet_id": "2102279638206796018",
+        "name": "悠悠不是雜魚🍭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1789903703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101892577155067904/oeWyGkvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 1138,
+          "like_count": 4955,
+          "listed_count": 7,
+          "media_count": 274,
+          "tweet_count": 1624
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

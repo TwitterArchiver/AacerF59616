@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100558255693111406",
+    "created_at": "2026-09-17T12:11:29.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100558255693111406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkggxxyy/statu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/kkggxxyy/status/2100336971478679733",
+          "start": 144,
+          "url": "https://t.co/AQ2kpIGzoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100558255693111406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "“那些东西对顺直男压根不算压迫”说得似乎有点太绝了，男性确实会被性别规范伤害，只是不能因为这一点就把所有性别权力关系直接倒过来。不管是把“顺男会因性别规范而受限”说成“顺男群体被压迫”，还是把跨女在被误认成男性时的经历直接当作顺性别男性经历，这两步都跳得太快了，很明显的缺少一块逻辑链条。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100336971478679733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“那些东西对顺直男压根不算压迫”说得似乎有点太绝了，男性确实会被性别规范伤害，只是不能因为这一点就把所有性别权力关系直接倒过来。不管是把“顺男会因性别规范而受限”说成“顺男群体被压迫”，还是把跨女在被误认成男性时的经历直接当作顺性别男性经历，这两步都跳得太快了，很明显的缺少一块逻辑链条 https://t.co/AQ2kpIGzoh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100558255693111406",
+        "created_at": "2026-09-17T12:11:29.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100558255693111406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkggxxyy/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/kkggxxyy/status/2100336971478679733",
+              "start": 144,
+              "url": "https://t.co/AQ2kpIGzoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100558255693111406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“那些东西对顺直男压根不算压迫”说得似乎有点太绝了，男性确实会被性别规范伤害，只是不能因为这一点就把所有性别权力关系直接倒过来。不管是把“顺男会因性别规范而受限”说成“顺男群体被压迫”，还是把跨女在被误认成男性时的经历直接当作顺性别男性经历，这两步都跳得太快了，很明显的缺少一块逻辑链条。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100336971478679733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“那些东西对顺直男压根不算压迫”说得似乎有点太绝了，男性确实会被性别规范伤害，只是不能因为这一点就把所有性别权力关系直接倒过来。不管是把“顺男会因性别规范而受限”说成“顺男群体被压迫”，还是把跨女在被误认成男性时的经历直接当作顺性别男性经历，这两步都跳得太快了，很明显的缺少一块逻辑链条 https://t.co/AQ2kpIGzoh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452537509875834880",
+        "conversation_id": "2100336971478679733",
+        "created_at": "2026-09-16T21:32:11.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100336971478679733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100336971478679733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3402,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "怎么总有傻逼觉得自己 transition 过程的艰难是对男性的压迫然后去打男拳的，你们真的好他妈的傻逼啊，那些对顺直男压根就不是压迫行么，你对你自己都代入顺直男了那你真是活该人嫌狗厌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100558255693111406",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3215,
+          "following_count": 991,
+          "like_count": 8057,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T07:28:33.000Z",
+        "description": "不可结缘",
+        "id": "1452537509875834880",
+        "is_identity_verified": false,
+        "location": "大象鼻子",
+        "most_recent_tweet_id": "2100557485262430235",
+        "name": "하나나",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452537509875834880/1734359512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043310679210569728/ph6qicjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 244,
+          "like_count": 7351,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 6999
+        },
+        "url": "",
+        "username": "kkggxxyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

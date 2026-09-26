@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2100998621487587330",
+    "created_at": "2026-09-18T17:21:20.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T18:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100998621487587330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/muyilianxue/st…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/muyilianxue/status/2100997139946172442",
+          "start": 99,
+          "url": "https://t.co/rnHsWHtDbv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100998621487587330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100997139946172442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实医学治疗本来也很少要求“彻底重写整个生物学系统”才算有效，降压药不会重写遗传倾向但能降低血压；注射胰岛素也不会改写糖尿病患者的DNA，那这些是安慰剂吗？当然不是，不然三期临床咋过的？蒙过去吗？ https://t.co/rnHsWHtDbv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2100998621487587330",
+        "created_at": "2026-09-18T17:21:20.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100998621487587330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muyilianxue/st…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/muyilianxue/status/2100997139946172442",
+              "start": 99,
+              "url": "https://t.co/rnHsWHtDbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100998621487587330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100997139946172442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实医学治疗本来也很少要求“彻底重写整个生物学系统”才算有效，降压药不会重写遗传倾向但能降低血压；注射胰岛素也不会改写糖尿病患者的DNA，那这些是安慰剂吗？当然不是，不然三期临床咋过的？蒙过去吗？ https://t.co/rnHsWHtDbv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2097019248082350080",
+        "conversation_id": "2100991104044990769",
+        "created_at": "2026-09-18T17:15:27.000Z",
+        "display_text_range": [
+          13,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T18:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100997139946172442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100997139946172442",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100991104044990769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 因为他说他是结果论者，他得出的结论就是激素治疗无法改变生理结构，又认为激素治疗改变第二性征效果微乎其微相当于“安慰剂”，所以他得出的结论就是hrt只是“安慰剂”，这什么雷霆观点，安慰剂只给的了精神上的安慰，其他没有任何变化，但hrt的效果与变化绝对不是安慰剂能做到的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2100998621487587330",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 998,
+          "like_count": 8105,
+          "listed_count": 2,
+          "media_count": 584,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T17:57:24.000Z",
+        "description": "MTF🏳️‍⚧️｜比较乖的小药娘｜出生于2008年10.19｜168cm中小体型｜含糖日2025.2.3｜入圈晚｜家长党｜轻度抑郁症，略带轻微强迫症｜中度社恐｜性别焦虑｜年龄焦虑｜害怕孤独｜怕疼很少割手手，不od｜喜欢休闲游戏，想去自由的大草坪，想成为女孩子｜想和同类交朋友，可以互fo嘛",
+        "id": "2097019248082350080",
+        "is_identity_verified": false,
+        "location": "湖南",
+        "most_recent_tweet_id": "2100997139946172442",
+        "name": "忆恋雪🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2097019248082350080/1788850014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097214741299236864/cdulftDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 148,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "muyilianxue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2101717596420866417",
+    "created_at": "2026-09-20T16:58:17.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101717596420866417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuXi520326/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/YuXi520326/status/2101502171183563043",
+          "start": 47,
+          "url": "https://t.co/NP47j8aSZ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101717596420866417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101502171183563043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说来我的伪音挺基础的，声线听着很明显不像完整意义上的女声，更像是那种男娘声线的Promax版 https://t.co/NP47j8aSZ5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2101717596420866417",
+        "created_at": "2026-09-20T16:58:17.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101717596420866417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuXi520326/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/YuXi520326/status/2101502171183563043",
+              "start": 47,
+              "url": "https://t.co/NP47j8aSZ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101717596420866417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101502171183563043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说来我的伪音挺基础的，声线听着很明显不像完整意义上的女声，更像是那种男娘声线的Promax版 https://t.co/NP47j8aSZ5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093296238196318208",
+        "conversation_id": "2101502171183563043",
+        "created_at": "2026-09-20T02:42:16.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101502171183563043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101502171183563043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 370,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠了你们怎么都会伪音啊😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101717596420866417",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3295,
+          "following_count": 1010,
+          "like_count": 8178,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 3449
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T11:16:12.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜看成分回fo\n会发一些日常和自己唠叨\n最爱的妹妹：@LingAiye\n前世：@YuXi520LingLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 115,
+                "username": "LingAiye"
+              },
+              {
+                "end": 144,
+                "start": 128,
+                "username": "YuXi520LingLing"
+              }
+            ]
+          }
+        },
+        "id": "2093296238196318208",
+        "is_identity_verified": false,
+        "location": "你的心里",
+        "most_recent_tweet_id": "2101690508976550213",
+        "name": "语汐汐喵🍥（三号机）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093296238196318208/1787915850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093296662911578113/g59HSNDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 139,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "YuXi520326",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
