@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-27T09:39:03",
+  "last_updated": "2026-09-27T09:39:35",
   "html": {
     "https://web.archive.org/web/20251210145128if_/https://twitter.com/AacerF59616/status/1998767527829360716": {
       "status": "done",
@@ -25682,9 +25682,9 @@
       "referenced_by": [
         "20260811142016_twitter_com_AacerF59616_status_2087182315013492736.json"
       ],
-      "last_updated": "2026-09-18T11:46:43",
+      "last_updated": "2026-09-27T09:39:29",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260811142016/https://video.twimg.com/tweet_video/HPciKjOaIAA3V1I.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2087245854864515072/vid/avc1/946x522/BC3QO3WIyACwIDWM.mp4": {
       "status": "done",
@@ -25744,20 +25744,20 @@
       "last_updated": "2026-09-18T11:46:44"
     },
     "https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/1920x1080/d7onA6yL0Qh1tSns.mp4": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260920055049_twitter_com_AacerF59616_status_2101549623529877649.json"
       ],
-      "last_updated": "2026-09-26T07:53:19",
+      "last_updated": "2026-09-27T09:39:31",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260920055049/https://video.twimg.com/amplify_video/2101549458559549440/vid/avc1/1920x1080/d7onA6yL0Qh1tSns.mp4",
       "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2102371577270882304/vid/avc1/1920x1080/oYp5XHp24_Evd57b.mp4": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260922122912_twitter_com_AacerF59616_status_2102374654409326792.json"
       ],
-      "last_updated": "2026-09-26T07:53:20",
+      "last_updated": "2026-09-27T09:39:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260922122912/https://video.twimg.com/amplify_video/2102371577270882304/vid/avc1/1920x1080/oYp5XHp24_Evd57b.mp4",
       "miss_count": 1
     },
