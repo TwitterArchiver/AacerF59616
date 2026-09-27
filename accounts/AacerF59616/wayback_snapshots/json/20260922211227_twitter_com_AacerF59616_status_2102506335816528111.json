@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102506327029506048"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2102506335816528111",
+    "created_at": "2026-09-22T21:12:27.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T22:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102506335816528111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NqzOIyvNxd",
+          "end": 48,
+          "expanded_url": "https://x.com/AacerF59616/status/2102506335816528111/photo/1",
+          "media_key": "3_2102506327029506048",
+          "start": 25,
+          "url": "https://t.co/NqzOIyvNxd"
+        },
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2102480347061727559",
+          "start": 49,
+          "url": "https://t.co/g3hwGxLvVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102506335816528111",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102506327029506048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102480347061727559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "3:47 开始，4:31 结束，共 44 分钟。 https://t.co/NqzOIyvNxd https://t.co/g3hwGxLvVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2780,
+        "media_key": "3_2102506327029506048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS2aXWia4AABfQU.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102506327029506048"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2102506335816528111",
+        "created_at": "2026-09-22T21:12:27.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T22:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102506335816528111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqzOIyvNxd",
+              "end": 48,
+              "expanded_url": "https://x.com/AacerF59616/status/2102506335816528111/photo/1",
+              "media_key": "3_2102506327029506048",
+              "start": 25,
+              "url": "https://t.co/NqzOIyvNxd"
+            },
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2102480347061727559",
+              "start": 49,
+              "url": "https://t.co/g3hwGxLvVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102506335816528111",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102506327029506048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102480347061727559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3:47 开始，4:31 结束，共 44 分钟。 https://t.co/NqzOIyvNxd https://t.co/g3hwGxLvVS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2102480347061727559",
+        "created_at": "2026-09-22T19:29:11.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102480347061727559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102480347061727559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备三点半了，我要开始自慰了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2102506335816528111",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1023,
+          "like_count": 8194,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 3503
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

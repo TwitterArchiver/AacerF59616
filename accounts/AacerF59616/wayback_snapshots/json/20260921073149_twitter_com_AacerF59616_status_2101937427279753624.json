@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101937417636995072",
+        "3_2101937417641160704"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2101937427279753624",
+    "created_at": "2026-09-21T07:31:49.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T08:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101937427279753624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0j8Yghe624",
+          "end": 99,
+          "expanded_url": "https://x.com/AacerF59616/status/2101937427279753624/photo/1",
+          "media_key": "3_2101937417636995072",
+          "start": 76,
+          "url": "https://t.co/0j8Yghe624"
+        },
+        {
+          "display_url": "pic.x.com/0j8Yghe624",
+          "end": 99,
+          "expanded_url": "https://x.com/AacerF59616/status/2101937427279753624/photo/1",
+          "media_key": "3_2101937417641160704",
+          "start": 76,
+          "url": "https://t.co/0j8Yghe624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101937427279753624",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101937417636995072"
+      },
+      {
+        "media_key": "3_2101937417641160704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Luna是真的省额度，这次我让它制作了内嵌中文字幕，少量过渡动画，优化了一下配音，并且加上了BGM，跑了80分钟，也就用掉了23%的五小时额度，有点强 https://t.co/0j8Yghe624"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101937417636995072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuU8d5a4AAzJ4H.jpg",
+        "width": 1357
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2101937417641160704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuU8d6acAA9IWC.png",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101937417636995072",
+            "3_2101937417641160704"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2101937427279753624",
+        "created_at": "2026-09-21T07:31:49.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101937427279753624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0j8Yghe624",
+              "end": 99,
+              "expanded_url": "https://x.com/AacerF59616/status/2101937427279753624/photo/1",
+              "media_key": "3_2101937417636995072",
+              "start": 76,
+              "url": "https://t.co/0j8Yghe624"
+            },
+            {
+              "display_url": "pic.x.com/0j8Yghe624",
+              "end": 99,
+              "expanded_url": "https://x.com/AacerF59616/status/2101937427279753624/photo/1",
+              "media_key": "3_2101937417641160704",
+              "start": 76,
+              "url": "https://t.co/0j8Yghe624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101937427279753624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101937417636995072"
+          },
+          {
+            "media_key": "3_2101937417641160704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Luna是真的省额度，这次我让它制作了内嵌中文字幕，少量过渡动画，优化了一下配音，并且加上了BGM，跑了80分钟，也就用掉了23%的五小时额度，有点强 https://t.co/0j8Yghe624"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101937427279753624",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3303,
+          "following_count": 1012,
+          "like_count": 8189,
+          "listed_count": 2,
+          "media_count": 602,
+          "tweet_count": 3460
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

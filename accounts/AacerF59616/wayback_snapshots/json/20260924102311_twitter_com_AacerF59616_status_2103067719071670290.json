@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2103067719071670290",
+    "created_at": "2026-09-24T10:23:11.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T11:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103067719071670290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jellyfi7788510…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/Jellyfi77885103/status/2103015217433358344",
+          "start": 75,
+          "url": "https://t.co/IQjnKbkHiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103067719071670290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103015217433358344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要不是我在主页刷到你这个回复了我还没注意到你回复的这个逼给我b了，也是回b了，谢谢你变相提醒我有个路边看我不爽但又不敢直接和我说什么直接眼不见心不烦 https://t.co/IQjnKbkHiH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2103067719071670290",
+        "created_at": "2026-09-24T10:23:11.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103067719071670290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jellyfi7788510…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/Jellyfi77885103/status/2103015217433358344",
+              "start": 75,
+              "url": "https://t.co/IQjnKbkHiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103067719071670290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103015217433358344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不是我在主页刷到你这个回复了我还没注意到你回复的这个逼给我b了，也是回b了，谢谢你变相提醒我有个路边看我不爽但又不敢直接和我说什么直接眼不见心不烦 https://t.co/IQjnKbkHiH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408751443360710662",
+        "conversation_id": "2102757744805814301",
+        "created_at": "2026-09-24T06:54:34.000Z",
+        "display_text_range": [
+          12,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103015217433358344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1483178480917303299",
+              "start": 0,
+              "username": "RealDVBTBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103015217433358344",
+        "in_reply_to_user_id": "1408751443360710662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 196,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103012150633808232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RealDVBTBN 当一个顺性别者，开始真正正视自己的性别时，对社会性别规范产生质疑时，哪怕它最终性别认同和指派性别是一致的，但它也已经是某种意义上的跨性别了，因为那个一致只是一个表面上的巧合，其实理解和感受已经完全不同了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2103067719071670290",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 1023,
+          "like_count": 8216,
+          "listed_count": 2,
+          "media_count": 632,
+          "tweet_count": 3549
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-26T11:38:21.000Z",
+        "description": "🍥🏳️‍⚧️🏳️‍🌈🇦🇶\nMeat is girl, girl is meat.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfish43147",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jellyfish43147",
+                "start": 0,
+                "url": "https://t.co/GIVt2793kz"
+              }
+            ]
+          }
+        },
+        "id": "1408751443360710662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103024704479236312",
+        "name": "果冻鱼",
+        "pinned_tweet_id": "2096203051157921997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1408751443360710662/1789768833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101065346103091200/q1DckZU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 248,
+          "like_count": 14082,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/GIVt2793kz",
+        "username": "Jellyfi77885103",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
