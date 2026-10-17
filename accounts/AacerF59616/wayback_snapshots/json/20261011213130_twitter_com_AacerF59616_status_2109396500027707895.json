@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109396500027707895",
+    "created_at": "2026-10-11T21:31:30.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T22:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109396500027707895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LLYmgxml/statu…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/LLYmgxml/status/2109207912422006848",
+          "start": 103,
+          "url": "https://t.co/DCSUowEhxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109396500027707895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我曾和一些经历过、或尝试过自行去势的姐妹深入聊过。她们中的很多人，是因为极度严重的性别烦躁，导致对原生器官产生了无时无刻的厌恶与反感。甚至仅仅是看到、感受到它的存在，对她们来说都是一种难以忍受的心理折磨。\n\n她们绝非不知晓这种行为的巨大风险和后续的修复难题。但在日复一日的剧烈痛苦面前，为了活下去、为了缓解这种折磨，她们不得不在绝望中选择了这种极端的“自救”手段。\n\n如果我们只盯着这个极端的行为本身去批判，却对把她们逼到这一步的根源——那份真切且致命的心理痛苦视而不见，那这种高高在上的指责，与其说是揭露，不如说是毫无共情能力的说教。随意假定别人的目标，甚至用“阉割癖”去揣测她们经历的地狱，不仅是在漠视苦难，也让结论显得片面又残忍。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109207912422006848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我曾和一些经历过、或尝试过自行去势的姐妹深入聊过。她们中的很多人，是因为极度严重的性别烦躁，导致对原生器官产生了无时无刻的厌恶与反感。甚至仅仅是看到、感受到它的存在，对她们来说都是一种难以忍受的心理折磨。 https://t.co/DCSUowEhxf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109396500027707895",
+        "created_at": "2026-10-11T21:31:30.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T22:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109396500027707895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LLYmgxml/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/LLYmgxml/status/2109207912422006848",
+              "start": 103,
+              "url": "https://t.co/DCSUowEhxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109396500027707895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我曾和一些经历过、或尝试过自行去势的姐妹深入聊过。她们中的很多人，是因为极度严重的性别烦躁，导致对原生器官产生了无时无刻的厌恶与反感。甚至仅仅是看到、感受到它的存在，对她们来说都是一种难以忍受的心理折磨。\n\n她们绝非不知晓这种行为的巨大风险和后续的修复难题。但在日复一日的剧烈痛苦面前，为了活下去、为了缓解这种折磨，她们不得不在绝望中选择了这种极端的“自救”手段。\n\n如果我们只盯着这个极端的行为本身去批判，却对把她们逼到这一步的根源——那份真切且致命的心理痛苦视而不见，那这种高高在上的指责，与其说是揭露，不如说是毫无共情能力的说教。随意假定别人的目标，甚至用“阉割癖”去揣测她们经历的地狱，不仅是在漠视苦难，也让结论显得片面又残忍。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109207912422006848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我曾和一些经历过、或尝试过自行去势的姐妹深入聊过。她们中的很多人，是因为极度严重的性别烦躁，导致对原生器官产生了无时无刻的厌恶与反感。甚至仅仅是看到、感受到它的存在，对她们来说都是一种难以忍受的心理折磨。 https://t.co/DCSUowEhxf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2109207912422006848",
+        "created_at": "2026-10-11T09:02:08.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T09:47:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109204140387926402",
+          "2109207912422006848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109207912422006848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？\n最终下体被毁，材料也破坏了，修复费用接踵而至，学业也出现问题，家庭也可能随之破裂，本来就是困难模式，自己还给自己又开了地狱模式\n泰国的手术难道一辈子都消费不起吗？这样真的是你想要的生活吗，这难道就是你追求的人生吗？太搞笑了\n恕我直言这哪里像女生，怕不是有阉割癖吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9148,
+          "like_count": 71,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不少药娘不择手段的想各种办法把下面切除掉，甚至不考虑是否安全；而面部、发型、身材等等一些非常关键的方面却都通通抛之脑后，难道是抱着只要切掉就万事大吉、这样就能被大家当作女生的想法吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109396500027707895",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1065,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4020
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "已去勢MTF🏳️‍⚧️｜自宅警備員〜にゃー｜抑郁，喜歡看番，柚子厨｜回关建议私讯 よろしくお願いします🐾\ncrush:@GanYuluo @ganyuluo2\n好朋友：@jyz86663912 @jinshu_0822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "GanYuluo"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "ganyuluo2"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "jyz86663912"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "jinshu_0822"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDLtNo"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "海鸥学园",
+        "most_recent_tweet_id": "2109331138129080753",
+        "name": "芒果西米露🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1791285664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107404151697391616/mqEhcO6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5973,
+          "following_count": 1143,
+          "like_count": 5114,
+          "listed_count": 6,
+          "media_count": 306,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/i1HGsDLtNo",
+        "username": "LLYmgxml",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

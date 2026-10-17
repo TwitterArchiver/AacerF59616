@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108441549709398041",
+    "created_at": "2026-10-09T06:17:16.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T07:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108441647495414169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "免登录的 GAHT 记录、复查与药代估算工具。核心数据默认保存在当前浏览器。",
+          "display_url": "gaht-eridani.site/?v=2",
+          "end": 23,
+          "expanded_url": "https://gaht-eridani.site/?v=2",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/2108083394735427584/rA74zIpb?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2108083394735427584/rA74zIpb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "GAHT-Eridaniε",
+          "unwound_url": "https://gaht-eridani.site/?v=2",
+          "url": "https://t.co/PzmdJiPGVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108441647495414169",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108441549709398041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PzmdJiPGVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "16_2108441498543067137",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HUKwXzZaEAEP-0O.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HUKwXzZaEAEP-0O.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108441549709398041",
+        "created_at": "2026-10-09T06:17:16.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108441647495414169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "免登录的 GAHT 记录、复查与药代估算工具。核心数据默认保存在当前浏览器。",
+              "display_url": "gaht-eridani.site/?v=2",
+              "end": 23,
+              "expanded_url": "https://gaht-eridani.site/?v=2",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2108083394735427584/rA74zIpb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2108083394735427584/rA74zIpb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "GAHT-Eridaniε",
+              "unwound_url": "https://gaht-eridani.site/?v=2",
+              "url": "https://t.co/PzmdJiPGVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108441647495414169",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108441549709398041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PzmdJiPGVS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2108441498543067137"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108441549709398041",
+        "created_at": "2026-10-09T06:16:53.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108441549709398041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kRo8yDibj",
+              "end": 178,
+              "expanded_url": "https://x.com/AacerF59616/status/2108441549709398041/photo/1",
+              "media_key": "16_2108441498543067137",
+              "start": 155,
+              "url": "https://t.co/2kRo8yDibj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108441549709398041",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2108441498543067137"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "来介绍一下GAHT-Eridaniε\n\n一个在浏览器里运行的 GAHT 药代追踪工具。每一次用药记录都会进入药代模型,实时更新你的预测曲线。无需注册,数据留在本地。\n\n✦ 严格安全审查机制\n给药记录在输入后就会按规则逐条检查单次剂量、滚动24小时累计、多药联用、给药间隔、跨途径组合，审查与药代计算联动\n\n✦ 异常数据隔离\n被标记的记录可以排除在预测与校准之外，一个输错的剂量不会再拉歪整条曲线。你可以直接定位到问题记录，查看原因，修正它,或在核实无误后按规则确认保留\n\n✦ 灵动岛提醒与警告\n屏幕顶部的动态通知胶囊，统一承载给药提醒、复查提醒和异常警告。点开展开详情，再一键跳转到对应记录\n\n✦ 个体数据相信程度\n你的化验数据和群体先验参数各占多大权重由你选择，边界约束、异常防护和不确定性处理在每个档位下都保留\n\n✦ Eridanie 个体数据强化\n一套独立的个体化拟合机制，有自己的配置，与相信程度档位分开运作。它仍处于测试阶段，请把结果当作参考\n\n✦ 多途径建模与化验校准\n口服、舌下含服、凝胶、贴片、注射,按实际剂量和时间生成预测曲线。录入性激素化验单后,系统结合用药历史做个体化拟合，给出拟合诊断，并按校准情况安排复查计划\n\n✦ 界面设计\n第一次记录用药时，你只会看到几个基础控件，高级参数默认折叠，可以在需要时再展开。支持毛玻璃面板、胶囊控件、粒子滑条、过渡动画、移动端适配等，数据可以进行备份和导入"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来介绍一下GAHT-Eridaniε\n\n一个在浏览器里运行的 GAHT 药代追踪工具。每一次用药记录都会进入药代模型,实时更新你的预测曲线。无需注册,数据留在本地。\n\n✦ 严格安全审查机制\n给药记录在输入后就会按规则逐条检查单次剂量、滚动24小时累计、多药联用、给药间隔、跨途径组合，审查与药代计算联动\n\n✦ https://t.co/2kRo8yDibj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108441647495414169",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 1060,
+          "like_count": 8327,
+          "listed_count": 1,
+          "media_count": 725,
+          "tweet_count": 3956
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

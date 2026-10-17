@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107856554234098151",
+    "created_at": "2026-10-07T17:12:03.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107881654920544694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078217810594140160",
+          "start": 0,
+          "username": "AmanoHinauh8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107881654920544694",
+    "in_reply_to_user_id": "2078217810594140160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107856554234098151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmanoHinauh8x 祝顺利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107856554234098151",
+        "created_at": "2026-10-07T17:12:03.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107881654920544694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078217810594140160",
+              "start": 0,
+              "username": "AmanoHinauh8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107881654920544694",
+        "in_reply_to_user_id": "2078217810594140160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107856554234098151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmanoHinauh8x 祝顺利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078217810594140160",
+        "conversation_id": "2107856554234098151",
+        "created_at": "2026-10-07T15:32:19.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T16:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107856554234098151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107856554234098151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要做手术了，人生中的第一次大手术\n其实很害怕很害怕\n就算再怎么用数据来证明安全，但是也总会忍不住的害怕呀\n就算是安全的，但是我也怕疼，也怕冷呀\n看到这里的宝宝，能祝我顺利吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107881654920544694",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 1057,
+          "like_count": 8332,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 3916
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T20:39:30.000Z",
+        "description": "直女（已有男友），平权主义，关爱性少数，一个情绪承受能力特别强的人，无论你多伤心我都不会被影响的，希望帮助真正需要帮助的人\n想成为大家的晴女\n心里难受可私信我 愿意安慰你们",
+        "id": "2078217810594140160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107863645812310387",
+        "name": "Amano Hina",
+        "pinned_tweet_id": "2102451209164701754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078217810594140160/1789817094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084984870363877376/jm5Q6rkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 118,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "AmanoHinauh8x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

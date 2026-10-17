@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105996321132011520"
+      ]
+    },
+    "author_id": "1929798380240465921",
+    "conversation_id": "2105996501285736579",
+    "created_at": "2026-10-02T12:21:08.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105996501285736579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2633837845",
+          "start": 5,
+          "username": "StjarnaOvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66qfueoq04",
+          "end": 83,
+          "expanded_url": "https://x.com/AacerF59616/status/2105996501285736579/photo/1",
+          "media_key": "3_2105996321132011520",
+          "start": 60,
+          "url": "https://t.co/66qfueoq04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105996501285736579",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105996321132011520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢星汐姐@StjarnaOvO送给咱的Claude Pro账号喵！！太大方了呜呜呜变相给咱140块，谢谢谢谢喵喵喵～ https://t.co/66qfueoq04"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105996321132011520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToAfvtaYAAf1Db.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105996321132011520"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2105996501285736579",
+        "created_at": "2026-10-02T12:21:08.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105996501285736579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2633837845",
+              "start": 5,
+              "username": "StjarnaOvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66qfueoq04",
+              "end": 83,
+              "expanded_url": "https://x.com/AacerF59616/status/2105996501285736579/photo/1",
+              "media_key": "3_2105996321132011520",
+              "start": 60,
+              "url": "https://t.co/66qfueoq04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105996501285736579",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105996321132011520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢星汐姐@StjarnaOvO送给咱的Claude Pro账号喵！！太大方了呜呜呜变相给咱140块，谢谢谢谢喵喵喵～ https://t.co/66qfueoq04"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2105996501285736579",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 1051,
+          "like_count": 8306,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-07-13T00:33:57.000Z",
+        "description": "Computer Systems/INTP-A/终有一日，每个人都将能够平等自由的活着/❌任何形式的歧视❌",
+        "id": "2633837845",
+        "is_identity_verified": false,
+        "location": "Reykjavik, Iceland",
+        "most_recent_tweet_id": "2105976399710564626",
+        "name": "Stjarna🌠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2633837845/1704939043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101227764326264833/Ejw0jZvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 330,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "StjarnaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

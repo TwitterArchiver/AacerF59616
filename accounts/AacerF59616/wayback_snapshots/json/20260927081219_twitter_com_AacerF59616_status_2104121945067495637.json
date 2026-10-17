@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2104121945067495637",
+    "created_at": "2026-09-27T08:12:19.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104121945067495637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiafeimao3591/…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/jiafeimao3591/status/2104050201283695047",
+          "start": 78,
+          "url": "https://t.co/FfWTismku8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104121945067495637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我不太同意这个判断，不是想争论到底应该去哪个厕所，而是感觉这里把几件原本不一定相关的事情绑定得有点太紧了。\n\n穿什么衣服是一件事，怎么判断自己的 pass 程度是一件事，选择进入哪个卫生间又是另一件事。如果把穿明显女装进入男厕直接定义成某种行为，那么我们是不是需要解释一下为什么服装本身足以决定这个分类。\n\n一个人当然可以觉得这种组合很违和，也可以把它定义成自己不喜欢的某种行为，但这个定义本身不会自然变成所有人都需要接受的标准。如果穿中性衣服进男厕可以接受，换成裙子以后，同一个人、同样的身份和同样的使用目的就突然变成了另一种性质，那真正起决定作用的似乎已经不是进男厕这件事，而是旁人如何解读她当时的服装表达。我更倾向于把穿什么理解成个人的表达和行动自由，它可能影响别人怎么看你，但不太适合直接拿来规定一个人应该使用哪个空间。\n\n觉得自己不 pass 和敢不敢日常女装出门之间没有这么稳定的对应关系。有人可能很清楚自己不 pass，但并不因此放弃自己喜欢的衣服；有人可能对自己的外貌判断很悲观，实际上旁人未必这么看；也有人只是已经不愿意继续为了 pass 与否限制自己的穿着。反过来也一样，日常敢穿女装，并不能证明一个人认为自己 pass。\n\n从穿着女装一路推出她应该认为自己足够 pass，再从足够 pass 推出她理应选择女厕，中间其实跳跃了好几步。至于改没改证、现实环境是否安全、当地有没有第三卫生间、一个人对进入男女厕分别有什么顾虑，这些反而可能比她当天穿的是裙子还是中性衣服更直接地影响选择。\n\n当然，你可以把某一种组合定义成嘉豪行为，但个人定义和普遍规则是两回事。\n\n我可以理解你为什么觉得它违和，只是不觉得这种违和感本身就足够推出所有人都应该按照同一套方式选择。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104050201283695047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不太同意这个判断，不是想争论到底应该去哪个厕所，而是感觉这里把几件原本不一定相关的事情绑定得有点太紧了。\n\n穿什么衣服是一件事，怎么判断自己的 pass https://t.co/FfWTismku8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2104121945067495637",
+        "created_at": "2026-09-27T08:12:19.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104121945067495637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2104050201283695047",
+              "start": 78,
+              "url": "https://t.co/FfWTismku8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104121945067495637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不太同意这个判断，不是想争论到底应该去哪个厕所，而是感觉这里把几件原本不一定相关的事情绑定得有点太紧了。\n\n穿什么衣服是一件事，怎么判断自己的 pass 程度是一件事，选择进入哪个卫生间又是另一件事。如果把穿明显女装进入男厕直接定义成某种行为，那么我们是不是需要解释一下为什么服装本身足以决定这个分类。\n\n一个人当然可以觉得这种组合很违和，也可以把它定义成自己不喜欢的某种行为，但这个定义本身不会自然变成所有人都需要接受的标准。如果穿中性衣服进男厕可以接受，换成裙子以后，同一个人、同样的身份和同样的使用目的就突然变成了另一种性质，那真正起决定作用的似乎已经不是进男厕这件事，而是旁人如何解读她当时的服装表达。我更倾向于把穿什么理解成个人的表达和行动自由，它可能影响别人怎么看你，但不太适合直接拿来规定一个人应该使用哪个空间。\n\n觉得自己不 pass 和敢不敢日常女装出门之间没有这么稳定的对应关系。有人可能很清楚自己不 pass，但并不因此放弃自己喜欢的衣服；有人可能对自己的外貌判断很悲观，实际上旁人未必这么看；也有人只是已经不愿意继续为了 pass 与否限制自己的穿着。反过来也一样，日常敢穿女装，并不能证明一个人认为自己 pass。\n\n从穿着女装一路推出她应该认为自己足够 pass，再从足够 pass 推出她理应选择女厕，中间其实跳跃了好几步。至于改没改证、现实环境是否安全、当地有没有第三卫生间、一个人对进入男女厕分别有什么顾虑，这些反而可能比她当天穿的是裙子还是中性衣服更直接地影响选择。\n\n当然，你可以把某一种组合定义成嘉豪行为，但个人定义和普遍规则是两回事。\n\n我可以理解你为什么觉得它违和，只是不觉得这种违和感本身就足够推出所有人都应该按照同一套方式选择。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104050201283695047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不太同意这个判断，不是想争论到底应该去哪个厕所，而是感觉这里把几件原本不一定相关的事情绑定得有点太紧了。\n\n穿什么衣服是一件事，怎么判断自己的 pass https://t.co/FfWTismku8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2104050201283695047",
+        "created_at": "2026-09-27T03:27:14.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104050201283695047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104050201283695047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2720,
+          "like_count": 40,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不管改没改证，我是觉得穿裙子或者那种极明显的女装去炸男厕都属于嘉豪行为。你哪怕穿个中性的看不出男女的衣服去男厕呢？穿女装就好好去女厕或者第三卫生间就好了嘛？也不要说觉得自己不pass，真觉得自己不pass的人是不太可能日常穿女装出门的（漫展除外🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳天王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2104121945067495637",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3361,
+          "following_count": 1023,
+          "like_count": 8253,
+          "listed_count": 2,
+          "media_count": 646,
+          "tweet_count": 3597
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别女🏳️‍⚧️/transles/只喜欢同类，男性勿扰/同类可面基/无证hrt中/荷兰生活6年，现居长春/曾经的化竞党/吉林省省一/JLU化学本科/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，疯批一个",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2104106201705505148",
+        "name": "🏳️‍⚧️坏猪宝宝🐷🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236685274907906049/1787525732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091658982029160448/38I_e0Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 749,
+          "like_count": 2799,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

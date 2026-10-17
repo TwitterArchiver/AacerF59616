@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108113934322749671",
+    "created_at": "2026-10-08T08:35:03.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108113934322749671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Roxy55my/statu…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/Roxy55my/status/2107888304914047015",
+          "start": 145,
+          "url": "https://t.co/i9WBDaoXcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108113934322749671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107888304914047015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说来，在国内进行SRS的话几乎必须得是家长党才行，因为必须要家长知情并同意，过伦理审核什么的也需要看家长态度，总之挺麻烦的。\n\n不过我其实天然的没有SRS的需求，我的性别焦虑很轻，对自己的身体感到满意，也不觉得再造一个阴道可以给我带来什么，我更有可能会带着自己原生的外生殖器一直生活下去吧 https://t.co/i9WBDaoXcZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108113934322749671",
+        "created_at": "2026-10-08T08:35:03.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108113934322749671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Roxy55my/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/Roxy55my/status/2107888304914047015",
+              "start": 145,
+              "url": "https://t.co/i9WBDaoXcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108113934322749671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107888304914047015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说来，在国内进行SRS的话几乎必须得是家长党才行，因为必须要家长知情并同意，过伦理审核什么的也需要看家长态度，总之挺麻烦的。\n\n不过我其实天然的没有SRS的需求，我的性别焦虑很轻，对自己的身体感到满意，也不觉得再造一个阴道可以给我带来什么，我更有可能会带着自己原生的外生殖器一直生活下去吧 https://t.co/i9WBDaoXcZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030835866852294656",
+        "conversation_id": "2107712296491622879",
+        "created_at": "2026-10-07T17:38:29.000Z",
+        "display_text_range": [
+          13,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107888304914047015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107888304914047015",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107712296491622879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 好妈妈，如果你有一天打算手术，一定要至少先和她商量，打消她的顾虑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108113934322749671",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 1058,
+          "like_count": 8328,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-09T02:40:19.000Z",
+        "description": "",
+        "id": "2030835866852294656",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108036821972390311",
+        "name": "Roxy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030835866852294656/1773025724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107250960884203520/sPBkAm-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 174,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Roxy55my",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

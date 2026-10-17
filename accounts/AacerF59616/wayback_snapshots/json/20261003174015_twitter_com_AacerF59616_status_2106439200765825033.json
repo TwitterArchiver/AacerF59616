@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2106439200765825033",
+    "created_at": "2026-10-03T17:40:15.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106439200765825033"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106439200765825033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我还挺好运的，每次真要自杀前夕都会被非常巧妙的拦住或者中止掉，以至于我到现在一次医院都没进过，每次都是他把我拦住，不然估计早成功了，你们也就不知道有“小琳”的存在了。\n\n我答应他会好好的，好好的活着，那是两年前就答应他的吧，不知不觉过了好久。我现在也没那种想法了，我想好好的活，亲自去把各种东西都经历一遍，但是我好累好茫然，我不知道该怎么办，我害怕失败，害怕孤身一人，害怕过往的事情……好吧，我知道哭也解决不了什么，只是释放释放情绪吧，都说女人是水做的，爱哭也很正常吧。\n\n等到哭完了，哭干了，也就可以收拾收拾继续考虑新事情新计划了。生活什么的，总可以慢慢来的吧，毕竟以后还有十几甚至几十年呢，对吧"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还挺好运的，每次真要自杀前夕都会被非常巧妙的拦住或者中止掉，以至于我到现在一次医院都没进过，每次都是他把我拦住，不然估计早成功了，你们也就不知道有“小琳”的存在了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2106439200765825033",
+        "created_at": "2026-10-03T17:40:15.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106439200765825033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106439200765825033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我还挺好运的，每次真要自杀前夕都会被非常巧妙的拦住或者中止掉，以至于我到现在一次医院都没进过，每次都是他把我拦住，不然估计早成功了，你们也就不知道有“小琳”的存在了。\n\n我答应他会好好的，好好的活着，那是两年前就答应他的吧，不知不觉过了好久。我现在也没那种想法了，我想好好的活，亲自去把各种东西都经历一遍，但是我好累好茫然，我不知道该怎么办，我害怕失败，害怕孤身一人，害怕过往的事情……好吧，我知道哭也解决不了什么，只是释放释放情绪吧，都说女人是水做的，爱哭也很正常吧。\n\n等到哭完了，哭干了，也就可以收拾收拾继续考虑新事情新计划了。生活什么的，总可以慢慢来的吧，毕竟以后还有十几甚至几十年呢，对吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还挺好运的，每次真要自杀前夕都会被非常巧妙的拦住或者中止掉，以至于我到现在一次医院都没进过，每次都是他把我拦住，不然估计早成功了，你们也就不知道有“小琳”的存在了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2106439200765825033",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 1050,
+          "like_count": 8312,
+          "listed_count": 1,
+          "media_count": 695,
+          "tweet_count": 3795
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2105243870883906042",
+    "created_at": "2026-09-30T10:30:27.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105243870883906042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XiaYiGongHeQiu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/XiaYiGongHeQiu/status/2105239632464240906",
+          "start": 54,
+          "url": "https://t.co/0CqBfNEphe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105243870883906042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "好奇怪的说法，其实我说的是sex，而sex本身就没法被压缩成“有Y就是雄性，没Y就是雌性”这么简单的结论。\n\nsex涉及染色体、性腺、激素及其反应、内外生殖解剖、第二性征等多个相互关联的特征，这些特征通常高度相关，但并不意味着永远完全一致。直接规定有Y就是雄性，只是先把Y选成了唯一分类标准，那为什么偏偏是Y染呢？为什么它天然比其他sex相关特征拥有更高的分类优先级？\n\n至于“生理性别只检查外观性征并与法定性别挂钩”就更奇怪了，我不知道这是哪里的通行定义。法定性别、出生时的性别指派、身体性征、sex，本来就不是一个东西，我一直都是分开来说的。\n\n把sex直接简化成看有没有Y的话，那其实并不是把一个复杂的生物学概念解释清楚了，只是强行选了一个变量把其他变量全部盖过去而已。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105239632464240906",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好奇怪的说法，其实我说的是sex，而sex本身就没法被压缩成“有Y就是雄性，没Y就是雌性”这么简单的结论。 https://t.co/0CqBfNEphe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2105243870883906042",
+        "created_at": "2026-09-30T10:30:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105243870883906042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaYiGongHeQiu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/XiaYiGongHeQiu/status/2105239632464240906",
+              "start": 54,
+              "url": "https://t.co/0CqBfNEphe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105243870883906042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好奇怪的说法，其实我说的是sex，而sex本身就没法被压缩成“有Y就是雄性，没Y就是雌性”这么简单的结论。\n\nsex涉及染色体、性腺、激素及其反应、内外生殖解剖、第二性征等多个相互关联的特征，这些特征通常高度相关，但并不意味着永远完全一致。直接规定有Y就是雄性，只是先把Y选成了唯一分类标准，那为什么偏偏是Y染呢？为什么它天然比其他sex相关特征拥有更高的分类优先级？\n\n至于“生理性别只检查外观性征并与法定性别挂钩”就更奇怪了，我不知道这是哪里的通行定义。法定性别、出生时的性别指派、身体性征、sex，本来就不是一个东西，我一直都是分开来说的。\n\n把sex直接简化成看有没有Y的话，那其实并不是把一个复杂的生物学概念解释清楚了，只是强行选了一个变量把其他变量全部盖过去而已。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105239632464240906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇怪的说法，其实我说的是sex，而sex本身就没法被压缩成“有Y就是雄性，没Y就是雌性”这么简单的结论。 https://t.co/0CqBfNEphe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443439089710092288",
+        "conversation_id": "2105180124941549831",
+        "created_at": "2026-09-30T10:13:36.000Z",
+        "display_text_range": [
+          13,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105239632464240906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105239632464240906",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105180124941549831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 因为生理性别不等于生物学性别，生物学性别中有Y的是雄性没Y的是雌性，生理性别确实只检查外观性征并与当下的法定性别挂钩（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2105243870883906042",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 1044,
+          "like_count": 8297,
+          "listed_count": 1,
+          "media_count": 665,
+          "tweet_count": 3689
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-30T04:54:53.000Z",
+        "description": "A transfeminine student of management | beloved @maplemarate | sub-acct @XiaYGHQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "maplemarate"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "XiaYGHQiu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiayigongheqiu.github.io",
+                "end": 23,
+                "expanded_url": "http://xiayigongheqiu.github.io",
+                "start": 0,
+                "url": "https://t.co/Vqf4BH2GQ4"
+              }
+            ]
+          }
+        },
+        "id": "1443439089710092288",
+        "is_identity_verified": false,
+        "location": "山東省煙臺市萊山區",
+        "most_recent_tweet_id": "2105240323123495110",
+        "name": "虾夷共和球🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443439089710092288/1790736296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800286068088832/y1fHTAAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 764,
+          "like_count": 22799,
+          "listed_count": 4,
+          "media_count": 223,
+          "tweet_count": 4517
+        },
+        "url": "https://t.co/Vqf4BH2GQ4",
+        "username": "XiaYiGongHeQiu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

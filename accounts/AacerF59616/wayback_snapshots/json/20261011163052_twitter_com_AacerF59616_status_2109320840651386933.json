@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109320840651386933",
+    "created_at": "2026-10-11T16:30:52.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T17:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109320840651386933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2109209855403655491",
+          "start": 83,
+          "url": "https://t.co/a9ILBbCwgS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109320840651386933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109209855403655491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后你要是不喜欢我了，我们就找个地方见个面，吃个饭，然后我们找个湖边散步，你给我讲一下原因，然后我争取看看能不能再和你来一炮，临走了还得吃你点营养，两个嘴都吃的那种 https://t.co/a9ILBbCwgS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109320840651386933",
+        "created_at": "2026-10-11T16:30:52.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109320840651386933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2109209855403655491",
+              "start": 83,
+              "url": "https://t.co/a9ILBbCwgS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109320840651386933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109209855403655491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后你要是不喜欢我了，我们就找个地方见个面，吃个饭，然后我们找个湖边散步，你给我讲一下原因，然后我争取看看能不能再和你来一炮，临走了还得吃你点营养，两个嘴都吃的那种 https://t.co/a9ILBbCwgS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2109209855403655491",
+        "created_at": "2026-10-11T09:09:51.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109209855403655491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsusorami_pr…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/natsusorami_pro/status/2109205307356590401",
+              "start": 55,
+              "url": "https://t.co/FDjf5tR8PK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109209855403655491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2372,
+          "like_count": 61,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109205307356590401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后你要是不喜欢我了，我们就找个地方见个面，吃个饭，然后我们找个湖边散步，你给我讲一下原因，然后你把我推下去 https://t.co/FDjf5tR8PK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109320840651386933",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1062,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "ଳ #ts #mtf #药娘 / 175cm 55kg\n❦ @noaayoyaoaya / ✦ @amber_toffee",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "ts"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "mtf"
+              },
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "药娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 61,
+                "start": 48,
+                "username": "amber_toffee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🇨🇦 trt /🏳️‍⚧️☭ /🚪¥240",
+        "most_recent_tweet_id": "2109214018980213061",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12103,
+          "following_count": 1439,
+          "like_count": 12375,
+          "listed_count": 24,
+          "media_count": 544,
+          "tweet_count": 7475
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

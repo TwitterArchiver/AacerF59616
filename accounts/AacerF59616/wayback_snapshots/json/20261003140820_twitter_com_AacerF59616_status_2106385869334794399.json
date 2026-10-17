@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2106385869334794399",
+    "created_at": "2026-10-03T14:08:20.000Z",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106385869334794399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Some_Wan11/sta…",
+          "end": 184,
+          "expanded_url": "https://twitter.com/Some_Wan11/status/2105067922599321685",
+          "start": 161,
+          "url": "https://t.co/QbBHagtsPj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106385869334794399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "为什么总是上面的才是 trans girl，下面的才是 femboy 呢？为什么不能下面的是 trans girl，而上面的是 femboy？\n\n这张图看起来好像是在展示一个特别简单、特别直观的区别，但它真正能成立的前提，恰恰是作者已经提前替两个人分配好了外貌：把女性化程度更低、更容易被看成男性的那个指定成 trans girl，再把女性化程度更高、更容易被看成女性的那个指定成 femboy。然后再利用这个人为制造出来的反差告诉你“其实真的很简单”。\n\n可问题就在这里，trans girl 和 femboy 的区别什么时候是按照女性化程度划分的？一个 femboy 完全可以没有那么女性化，可以保留大量通常被认为男性化的外貌和表达；一个 trans girl 同样完全可以非常女性化，甚至在日常生活中根本不会被别人看出她是 trans。现实里这两种情况都存在。既然如此，这张图为什么偏偏一定要按照“女性化程度低＝trans girl，女性化程度高＝femboy”来画？这到底是从什么定义、什么规律或者什么现实统计里推出来的？\n\n更何况，femboy 和 trans girl 本来描述的就不是同一个维度。femboy通常是在男性身份下描述一种女性化的性别表达，而 trans girl 说的是一个被指派为男性、经验性别为女性的人。性别表达本来就不能直接推出经验性别，更不能因为一个人看起来更女性化，就推出她更应该是 femboy；同样也不能因为另一个人看起来更男性化，就把她当成 trans girl 的默认模板。你把两个不同维度的东西强行压成一根“女性化程度”的进度条，再按照自己预先安排好的位置给两边贴标签，最后当然什么都能显得“很简单”。\n\n所以真正需要你回答的根本不是这张图里的两个人分别说了什么，而是为什么你看到这种构图的时候，会毫不犹豫地接受“上面＝trans girl、下面＝femboy”这个安排，甚至觉得它自然到不需要解释。把两个人的位置互换以后，这张图的所谓“道理”为什么马上就没了？\n\n如果一个论证必须先规定 trans girl 长成什么样、femboy 长成什么样才能成立，那它证明的到底是现实中的 trans girl 和 femboy有什么区别，还是只证明了画图的人脑子里本来就装着这套刻板印象？\n\n你可以回答一下吗？如果回答不上来的话，那你又凭什么说“其实这很简单”呢？凭你的思维就像一张白纸一样不仅什么都没有还跟个平面一样吗？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105067922599321685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么总是上面的才是 trans girl，下面的才是 femboy 呢？为什么不能下面的是 trans girl，而上面的是 femboy？\n\n这张图看起来好像是在展示一个特别简单、特别直观的区别，但它真正能成立的前提，恰恰是作者已经提前替两个人分配好了外貌：把女性化程度更低、更容易被看成男性的那个指定成 trans https://t.co/QbBHagtsPj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2105067836276154368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTa0C0FXIAAPW4a.png",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2106385869334794399",
+        "created_at": "2026-10-03T14:08:20.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106385869334794399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Some_Wan11/sta…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/Some_Wan11/status/2105067922599321685",
+              "start": 161,
+              "url": "https://t.co/QbBHagtsPj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106385869334794399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么总是上面的才是 trans girl，下面的才是 femboy 呢？为什么不能下面的是 trans girl，而上面的是 femboy？\n\n这张图看起来好像是在展示一个特别简单、特别直观的区别，但它真正能成立的前提，恰恰是作者已经提前替两个人分配好了外貌：把女性化程度更低、更容易被看成男性的那个指定成 trans girl，再把女性化程度更高、更容易被看成女性的那个指定成 femboy。然后再利用这个人为制造出来的反差告诉你“其实真的很简单”。\n\n可问题就在这里，trans girl 和 femboy 的区别什么时候是按照女性化程度划分的？一个 femboy 完全可以没有那么女性化，可以保留大量通常被认为男性化的外貌和表达；一个 trans girl 同样完全可以非常女性化，甚至在日常生活中根本不会被别人看出她是 trans。现实里这两种情况都存在。既然如此，这张图为什么偏偏一定要按照“女性化程度低＝trans girl，女性化程度高＝femboy”来画？这到底是从什么定义、什么规律或者什么现实统计里推出来的？\n\n更何况，femboy 和 trans girl 本来描述的就不是同一个维度。femboy通常是在男性身份下描述一种女性化的性别表达，而 trans girl 说的是一个被指派为男性、经验性别为女性的人。性别表达本来就不能直接推出经验性别，更不能因为一个人看起来更女性化，就推出她更应该是 femboy；同样也不能因为另一个人看起来更男性化，就把她当成 trans girl 的默认模板。你把两个不同维度的东西强行压成一根“女性化程度”的进度条，再按照自己预先安排好的位置给两边贴标签，最后当然什么都能显得“很简单”。\n\n所以真正需要你回答的根本不是这张图里的两个人分别说了什么，而是为什么你看到这种构图的时候，会毫不犹豫地接受“上面＝trans girl、下面＝femboy”这个安排，甚至觉得它自然到不需要解释。把两个人的位置互换以后，这张图的所谓“道理”为什么马上就没了？\n\n如果一个论证必须先规定 trans girl 长成什么样、femboy 长成什么样才能成立，那它证明的到底是现实中的 trans girl 和 femboy有什么区别，还是只证明了画图的人脑子里本来就装着这套刻板印象？\n\n你可以回答一下吗？如果回答不上来的话，那你又凭什么说“其实这很简单”呢？凭你的思维就像一张白纸一样不仅什么都没有还跟个平面一样吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105067922599321685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么总是上面的才是 trans girl，下面的才是 femboy 呢？为什么不能下面的是 trans girl，而上面的是 femboy？\n\n这张图看起来好像是在展示一个特别简单、特别直观的区别，但它真正能成立的前提，恰恰是作者已经提前替两个人分配好了外貌：把女性化程度更低、更容易被看成男性的那个指定成 trans https://t.co/QbBHagtsPj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105067836276154368"
+          ]
+        },
+        "author_id": "1590665241192546306",
+        "conversation_id": "2105067922599321685",
+        "created_at": "2026-09-29T22:51:17.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T23:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105067922599321685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IJOHJo0NQ",
+              "end": 52,
+              "expanded_url": "https://x.com/Some_Wan11/status/2105067922599321685/photo/1",
+              "media_key": "3_2105067836276154368",
+              "start": 29,
+              "url": "https://t.co/3IJOHJo0NQ"
+            },
+            {
+              "display_url": "x.com/cloudrako_o/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/cloudrako_o/status/2104668758606258646",
+              "start": 53,
+              "url": "https://t.co/peMP8tccGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105067922599321685",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2105067836276154368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 733,
+          "impression_count": 583346,
+          "like_count": 4073,
+          "quote_count": 62,
+          "reply_count": 86,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104668758606258646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's really simple actually. https://t.co/3IJOHJo0NQ https://t.co/peMP8tccGi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2106385869334794399",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 1049,
+          "like_count": 8307,
+          "listed_count": 1,
+          "media_count": 695,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-10T11:19:00.000Z",
+        "description": "It's just me",
+        "id": "1590665241192546306",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106350307584139735",
+        "name": "Some Wan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590665241192546306/1749987866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038370936127434752/oxJM2-v-_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 151,
+          "like_count": 58767,
+          "listed_count": 1,
+          "media_count": 806,
+          "tweet_count": 5057
+        },
+        "url": "",
+        "username": "Some_Wan11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

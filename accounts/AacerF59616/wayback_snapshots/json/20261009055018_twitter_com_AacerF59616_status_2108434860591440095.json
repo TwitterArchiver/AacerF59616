@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108434860591440095",
+    "created_at": "2026-10-09T05:50:18.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T06:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108434860591440095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nomi9724/statu…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/nomi9724/status/2108431166445629718",
+          "start": 76,
+          "url": "https://t.co/wJhYzto3tE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108434860591440095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看了一圈感觉没意思，典完了，又是对公众没有益处又是给自己身份贴标签又是分化人民群众又是降低生育率的，然后各种假二分和过拟合，以及经典管跨儿叫变性人嗯啊\n\n就这种是真的没什么好吵的吧，我都不知道他们对SGM的理解是从哪来的，故意把SGM和顺性别异性恋划成对立，不管是对前者还是后者都采用了一种很扁平化的方式去看待都过拟合成这样了你也就别计较了，幸福者退让得了"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108431166445629718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了一圈感觉没意思，典完了，又是对公众没有益处又是给自己身份贴标签又是分化人民群众又是降低生育率的，然后各种假二分和过拟合，以及经典管跨儿叫变性人嗯啊 https://t.co/wJhYzto3tE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108434860591440095",
+        "created_at": "2026-10-09T05:50:18.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108434860591440095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomi9724/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/nomi9724/status/2108431166445629718",
+              "start": 76,
+              "url": "https://t.co/wJhYzto3tE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108434860591440095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看了一圈感觉没意思，典完了，又是对公众没有益处又是给自己身份贴标签又是分化人民群众又是降低生育率的，然后各种假二分和过拟合，以及经典管跨儿叫变性人嗯啊\n\n就这种是真的没什么好吵的吧，我都不知道他们对SGM的理解是从哪来的，故意把SGM和顺性别异性恋划成对立，不管是对前者还是后者都采用了一种很扁平化的方式去看待都过拟合成这样了你也就别计较了，幸福者退让得了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108431166445629718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了一圈感觉没意思，典完了，又是对公众没有益处又是给自己身份贴标签又是分化人民群众又是降低生育率的，然后各种假二分和过拟合，以及经典管跨儿叫变性人嗯啊 https://t.co/wJhYzto3tE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2108430130003808553",
+        "created_at": "2026-10-09T05:35:37.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T06:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108431166445629718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108431166445629718",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108431015794659650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 昨天看terf，忍不住了开骂，于是引来了好多老保"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108434860591440095",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3512,
+          "following_count": 1060,
+          "like_count": 8327,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生丨指派男丨任意代词丨自称功能健全丨回fo，但不回fo纯盈利账号丨羡慕mtf丨repper暂不翻车丨性取向不明丨疑似AuDHD丨INFJ丨倒错主体丨不墙内不线下丨碎片化文史哲丨不太会安慰人丨擅长自我欺骗丨前进！丨\n\n天堂必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qhID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 149,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 126,
+                "url": "https://t.co/sjR6C4qhID"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRFyOc"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2108434119361486908",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2108265015266697536",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 1428,
+          "like_count": 6857,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/wrSlQRFyOc",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2103850202444775454",
+    "created_at": "2026-09-26T14:12:30.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103850202444775454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2103848267910201619",
+          "start": 113,
+          "url": "https://t.co/obS51gUXyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103850202444775454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103848267910201619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "顺带一提，我记得MDMA也有相关研究，是进行PTSD的辅助治疗的，受试患者普遍认为效果显著。在国内经常被oder们拿来磕的右美沙芬也有混合安非他酮的复方制剂，原理是通过抑制CYP2D6来提升血清素再摄取抑制和σ1受体激动效果 https://t.co/obS51gUXyI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2103850202444775454",
+        "created_at": "2026-09-26T14:12:30.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103850202444775454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2103848267910201619",
+              "start": 113,
+              "url": "https://t.co/obS51gUXyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103850202444775454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103848267910201619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺带一提，我记得MDMA也有相关研究，是进行PTSD的辅助治疗的，受试患者普遍认为效果显著。在国内经常被oder们拿来磕的右美沙芬也有混合安非他酮的复方制剂，原理是通过抑制CYP2D6来提升血清素再摄取抑制和σ1受体激动效果 https://t.co/obS51gUXyI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2103848267910201619",
+        "created_at": "2026-09-26T14:04:49.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:02:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103847700001378457",
+          "2103848267910201619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2087530016334831896",
+              "start": 88,
+              "url": "https://t.co/KHAkH1GWZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103848267910201619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087530016334831896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5HT2A受体激动导致的，而且赛洛西宾的致幻效果可以改变大脑的默认行为网络，相当于强制让大脑从过拟合里走出来，像是什么PTSD之类的原理和过拟合很像，所以它也就被认为有潜力了 https://t.co/KHAkH1GWZo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳天王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2103850202444775454",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3352,
+          "following_count": 1021,
+          "like_count": 8244,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

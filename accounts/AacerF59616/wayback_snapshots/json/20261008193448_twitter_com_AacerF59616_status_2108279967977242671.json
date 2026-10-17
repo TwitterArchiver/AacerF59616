@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108279967977242671",
+    "created_at": "2026-10-08T19:34:48.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T20:34:08.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108279798690877687",
+      "2108279967977242671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hajixi12356/st…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/hajixi12356/status/2107943495701033445",
+          "start": 109,
+          "url": "https://t.co/gx9ydrKMBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108279967977242671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。\n\n其实一直都说要就事论事，我们讨厌的是某些行为，比如搞这搞那造成不良影响然后借着Mtf身份去当挡箭牌的，或者其他什么的，那为什么要把问题给转移到某些符号、某些群体上呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107943495701033445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。 https://t.co/gx9ydrKMBY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108279798690877687",
+        "created_at": "2026-10-08T19:34:08.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T20:34:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108279798690877687",
+          "2108279967977242671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hajixi12356/st…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/hajixi12356/status/2107943495701033445",
+              "start": 109,
+              "url": "https://t.co/gx9ydrKMBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108279798690877687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。\n\n其实一直都说要就事论事，我们讨厌的是某些行为，比如搞这搞那造成不良影响然后借着Mtf身份去当挡箭牌的，或者其他什么的，那为什么要把问题给转移到某些符号、某些行为上呢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107943495701033445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。 https://t.co/gx9ydrKMBY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108279967977242671",
+        "created_at": "2026-10-08T19:34:48.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T20:34:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108279798690877687",
+          "2108279967977242671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hajixi12356/st…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/hajixi12356/status/2107943495701033445",
+              "start": 109,
+              "url": "https://t.co/gx9ydrKMBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108279967977242671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。\n\n其实一直都说要就事论事，我们讨厌的是某些行为，比如搞这搞那造成不良影响然后借着Mtf身份去当挡箭牌的，或者其他什么的，那为什么要把问题给转移到某些符号、某些群体上呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107943495701033445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真糖豆一天最多吃6颗还是太少了，我都是一把一把吃的，发情感觉也没啥，现在又不是中世纪流行禁欲，在不影响到别人的范围内释放和表达都很正常，挂旗感觉也没什么，主要是粉蓝白配色其实看着也挺好看的，也只是合理的展示自己罢了。 https://t.co/gx9ydrKMBY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892896759808217092",
+        "conversation_id": "2107937530872246479",
+        "created_at": "2026-10-07T21:17:47.000Z",
+        "display_text_range": [
+          10,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T22:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107943495701033445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088463275289968640",
+              "start": 0,
+              "username": "CCCP_Ren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107943495701033445",
+        "in_reply_to_user_id": "2088463275289968640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107943199029559617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCP_Ren 我指的是QQ和中推里挂着旗帜的把药当成糖豆一天到晚发情的嘉豪小种比男性😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108279967977242671",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 1058,
+          "like_count": 8328,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-21T11:18:58.000Z",
+        "description": "逃生舱@hajixi12456 \n高一 女神异闻录 百合 恋语轻唱/不想键政了但应该还会骂人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "hajixi12456"
+              }
+            ]
+          }
+        },
+        "id": "1892896759808217092",
+        "is_identity_verified": false,
+        "location": "台湾及其附属岛屿是中华人民共和国神圣不可分割的一部分",
+        "most_recent_tweet_id": "2108133313441632489",
+        "name": "你猜我是谁",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033899342164332545/kSAAiVWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 272,
+          "like_count": 16386,
+          "listed_count": 16,
+          "media_count": 362,
+          "tweet_count": 6394
+        },
+        "url": "",
+        "username": "hajixi12356",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T03:12:37.000Z",
+        "description": "@RenChan_VmV 永远怀念\n@RenChanT_T 当前大号/@RenChanXoX 三号机\n永远不要恨我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "RenChan_VmV"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "RenChanT_T"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "RenChanXoX"
+              }
+            ]
+          }
+        },
+        "id": "2088463275289968640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108270664931303595",
+        "name": "已经四代目的蓮花酥🌹🏳️‍🌈",
+        "pinned_tweet_id": "2107627140682584566",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088463275289968640/1791334697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106814278636630016/IjI2vGaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 242,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "CCCP_Ren",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

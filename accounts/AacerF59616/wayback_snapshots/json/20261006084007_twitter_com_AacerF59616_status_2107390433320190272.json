@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107390433320190272",
+    "created_at": "2026-10-06T08:40:07.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107390433320190272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ANDEL0426/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/ANDEL0426/status/2106969204679451027",
+          "start": 27,
+          "url": "https://t.co/MCGzvphFLE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107390433320190272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106969204679451027",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那也可以，我自己也觉得自己看着很像男的，也没啥冲突的 https://t.co/MCGzvphFLE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107390433320190272",
+        "created_at": "2026-10-06T08:40:07.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107390433320190272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ANDEL0426/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ANDEL0426/status/2106969204679451027",
+              "start": 27,
+              "url": "https://t.co/MCGzvphFLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107390433320190272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106969204679451027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那也可以，我自己也觉得自己看着很像男的，也没啥冲突的 https://t.co/MCGzvphFLE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782410129012670464",
+        "conversation_id": "2106969204679451027",
+        "created_at": "2026-10-05T04:46:18.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106969204679451027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106969204679451027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26055,
+          "like_count": 312,
+          "quote_count": 10,
+          "reply_count": 100,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我对推上将近一半mtf的态度：一眼男"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107390433320190272",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3473,
+          "following_count": 1051,
+          "like_count": 8322,
+          "listed_count": 1,
+          "media_count": 706,
+          "tweet_count": 3873
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-22T14:04:35.000Z",
+        "description": "10.4.14｜烟蛆｜互fo｜ftx？？？｜烂人\n日本語下手desu 好兄弟@yoruheartpath\n自拍都是高p和本人线下无联系\n纯绿墙外🚪30｜墙内v🚪150解锁好友位300解锁聊天\n亲人@PoisonN8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "yoruheartpath"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "PoisonN8964"
+              }
+            ]
+          }
+        },
+        "id": "1782410129012670464",
+        "is_identity_verified": false,
+        "location": "尚兴市",
+        "most_recent_tweet_id": "2107386828320088314",
+        "name": "A(*^^*)D",
+        "pinned_tweet_id": "2102362102161965105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782410129012670464/1783734915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105853033703968768/G04YkGYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 770,
+          "like_count": 4783,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 2428
+        },
+        "url": "",
+        "username": "ANDEL0426",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

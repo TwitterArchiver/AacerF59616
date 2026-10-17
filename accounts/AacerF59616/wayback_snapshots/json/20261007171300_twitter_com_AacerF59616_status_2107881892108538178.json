@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2107881892108538178",
+    "created_at": "2026-10-07T17:13:00.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107881892108538178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aginlab1899/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/aginlab1899/status/2107839895066837292",
+          "start": 31,
+          "url": "https://t.co/mwewGf1F08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107881892108538178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107839895066837292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "估计是某个平行世界吧，其实是失控的Grok把我们都串在一起啦 https://t.co/mwewGf1F08"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2107881892108538178",
+        "created_at": "2026-10-07T17:13:00.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107881892108538178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aginlab1899/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/aginlab1899/status/2107839895066837292",
+              "start": 31,
+              "url": "https://t.co/mwewGf1F08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107881892108538178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107839895066837292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "估计是某个平行世界吧，其实是失控的Grok把我们都串在一起啦 https://t.co/mwewGf1F08"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2107839895066837292",
+        "created_at": "2026-10-07T14:26:07.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107839895066837292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixin5jtg/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lixin5jtg/status/2107691497332375831",
+              "start": 20,
+              "url": "https://t.co/hGaEZtgjdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107839895066837292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 642,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107691497332375831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怀疑这些terf真的生活在人类世界吗 https://t.co/hGaEZtgjdk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107881892108538178",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3503,
+          "following_count": 1057,
+          "like_count": 8332,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 3917
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "May we meet again in the sunlight\n当朋友圈发\nMtX/F•non-binary🍥｜泛性恋｜LGBTQIA➕｜民国99年出厂｜疑似双a｜自由左|\nshe/her｜想要互fo交朋友｜欢迎来找我玩｜天残也不算年龄党\n民社｜有可能辱腊毛左介意勿fo｜顺直右逼劳保粉蛆terf似全家",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2107854356100120626",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈",
+        "pinned_tweet_id": "2106861676662493388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1790880965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603444621094912/gBFsVr6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1083,
+          "like_count": 13354,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "aginlab1899",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

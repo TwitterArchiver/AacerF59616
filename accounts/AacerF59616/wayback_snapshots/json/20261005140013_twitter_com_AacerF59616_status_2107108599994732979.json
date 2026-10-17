@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107108599994732979",
+    "created_at": "2026-10-05T14:00:13.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T15:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107108599994732979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LLYmgxml/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/LLYmgxml/status/2107092934722232329",
+          "start": 9,
+          "url": "https://t.co/KBxhuTirAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107108599994732979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107092934722232329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱是什么样的人喵 https://t.co/KBxhuTirAj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107108599994732979",
+        "created_at": "2026-10-05T14:00:13.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T15:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107108599994732979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LLYmgxml/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/LLYmgxml/status/2107092934722232329",
+              "start": 9,
+              "url": "https://t.co/KBxhuTirAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107108599994732979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107092934722232329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱是什么样的人喵 https://t.co/KBxhuTirAj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845674780416208897",
+        "conversation_id": "2107092934722232329",
+        "created_at": "2026-10-05T12:57:58.000Z",
+        "display_text_range": [
+          0,
+          176
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107092934722232329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1573704119516176384",
+              "start": 14,
+              "username": "SnozakiSakura"
+            },
+            {
+              "end": 54,
+              "id": "2063957681984225280",
+              "start": 44,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 85,
+              "id": "1898849785559580672",
+              "start": 70,
+              "username": "Sakura_RinSaki"
+            },
+            {
+              "end": 116,
+              "id": "1882563916632666112",
+              "start": 101,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 145,
+              "id": "1907031442103943168",
+              "start": 132,
+              "username": "hoshinemu123"
+            },
+            {
+              "end": 176,
+              "id": "1519649212736049152",
+              "start": 163,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107092934722232329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我目前见过粉丝数量最多的人：@SnozakiSakura \n我目前见过操作最神人的人：\n@YuwenMewo \n我目前见过台湾最可爱的人：\n@Sakura_RinSaki \n我目前见过最尊重食物的人：\n@hhjnjkoguyunmo \n我目前见过最热爱生活的人：\n@hoshinemu123 \n我目前见过最尊重传统文化的人：\n@Mark67358226"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107108599994732979",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3472,
+          "following_count": 1051,
+          "like_count": 8320,
+          "listed_count": 1,
+          "media_count": 705,
+          "tweet_count": 3856
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "已去勢MTF🏳️‍⚧️｜熱愛发一些日常🐱ありがとう〜にゃー🍬｜喜歡看番，柚子厨｜回关建议私讯 よろしくお願いします🍭\ncrush:@GanYuluo/@ganyuluo2\n好朋友：@jinshu_0822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "GanYuluo"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "ganyuluo2"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "jinshu_0822"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDKVXQ"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "基沃托斯",
+        "most_recent_tweet_id": "2107104406378524770",
+        "name": "芒果西米露🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1790760890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105291927172300801/AIscpqAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5695,
+          "following_count": 1142,
+          "like_count": 4998,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/i1HGsDKVXQ",
+        "username": "LLYmgxml",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

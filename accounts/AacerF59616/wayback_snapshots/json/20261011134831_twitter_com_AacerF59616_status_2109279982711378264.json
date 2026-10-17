@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109279982711378264",
+    "created_at": "2026-10-11T13:48:31.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T14:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109279982711378264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2109275490959720615",
+          "start": 137,
+          "url": "https://t.co/l58WziuKub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109279982711378264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109275490959720615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为早期自恨逼也是自恨逼，不能因为套了个“先行者”的皮就被豁免，资历早不代表正确，更不代表可以理直气壮地把自己的软弱和预期管理失败包装成“忠告”来恶心社群。浪费了早期稀缺的医疗资源，回头还要用自恨情绪散播恐慌、否定医疗本身的意义，这种行为无论套上什么光环都一样让人感到讨厌 https://t.co/l58WziuKub"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109279982711378264",
+        "created_at": "2026-10-11T13:48:31.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109279982711378264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2109275490959720615",
+              "start": 137,
+              "url": "https://t.co/l58WziuKub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109279982711378264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109275490959720615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为早期自恨逼也是自恨逼，不能因为套了个“先行者”的皮就被豁免，资历早不代表正确，更不代表可以理直气壮地把自己的软弱和预期管理失败包装成“忠告”来恶心社群。浪费了早期稀缺的医疗资源，回头还要用自恨情绪散播恐慌、否定医疗本身的意义，这种行为无论套上什么光环都一样让人感到讨厌 https://t.co/l58WziuKub"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109275490959720615",
+        "created_at": "2026-10-11T13:30:40.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:30:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109275345224614208",
+          "2109275490959720615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nomi9724/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/nomi9724/status/2109145572137668901",
+              "start": 31,
+              "url": "https://t.co/rcq1HrF6wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109275490959720615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "撕掉那层自我感动的滤镜，本质上就是一群典型的“早期自恨跨”。\n\n她们其实是幸运的，在早期就成功获取了相对稀缺的性别肯定医疗资源。但问题在于，她们自己根本没有做好成熟的心理建设和预期管理。一旦现实的过渡效果没有完美契合她们的幻想，或者生活遇到了真实的阻力，她们就无法处理这种巨大的心理落差。\n\n最让人不齿的是，她们不反省自己最初的盲目，反而把锅全甩给医疗介入本身，甚至把早就被扫进垃圾堆的AGP理论奉为圭臬，以此来合理化自己的后悔和内化的自我仇恨。\n\n自己个人的预期管理彻底崩盘，却要通过向整个社群散播恐慌来给自己找补。对于这种占了早期资源、自己搞砸了还要反踩一脚、否定医疗意义的人，我真的毫无共情，只有极度的反感和讨厌。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109145572137668901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撕掉那层自我感动的滤镜，本质上就是一群典型的“早期自恨跨”。 https://t.co/rcq1HrF6wN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109279982711378264",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 1062,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

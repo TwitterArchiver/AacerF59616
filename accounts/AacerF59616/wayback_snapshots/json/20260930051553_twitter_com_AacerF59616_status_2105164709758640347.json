@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2105164709758640347",
+    "created_at": "2026-09-30T05:15:53.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:15:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105164632805810252",
+      "2105164709758640347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Whatlimbo/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Whatlimbo/status/2104987728312176711",
+          "start": 28,
+          "url": "https://t.co/K5PZ3Lg5NI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105164709758640347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104987728312176711",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浪费我们感情的5.7 Terra真好似吧我说，笨的要死 https://t.co/K5PZ3Lg5NI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2105164632805810252",
+        "created_at": "2026-09-30T05:15:35.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:15:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105164632805810252",
+          "2105164709758640347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Whatlimbo/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Whatlimbo/status/2104987728312176711",
+              "start": 27,
+              "url": "https://t.co/K5PZ3Lg5NI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105164632805810252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104987728312176711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浪费我们感情的5.7Terra真好似吧我说，笨的要死 https://t.co/K5PZ3Lg5NI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2105164709758640347",
+        "created_at": "2026-09-30T05:15:53.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:15:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105164632805810252",
+          "2105164709758640347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Whatlimbo/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Whatlimbo/status/2104987728312176711",
+              "start": 28,
+              "url": "https://t.co/K5PZ3Lg5NI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105164709758640347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104987728312176711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浪费我们感情的5.7 Terra真好似吧我说，笨的要死 https://t.co/K5PZ3Lg5NI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576083963713503232",
+        "conversation_id": "2104987728312176711",
+        "created_at": "2026-09-29T17:32:37.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104987728312176711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104987728312176711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 88604,
+          "like_count": 1038,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "史上被迭代淘汰最快的 LLM：\nGPT-6 Sol\n享年0.019岁（7天）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2105164709758640347",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3416,
+          "following_count": 1042,
+          "like_count": 8295,
+          "listed_count": 1,
+          "media_count": 662,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "「CARRiER WAVE.」Comming Soon.",
+        "id": "1576083963713503232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105163365152928256",
+        "name": "limbo.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576083963713503232/1780411169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093601604570333184/W3G9njpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 117,
+          "like_count": 1327,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "Whatlimbo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

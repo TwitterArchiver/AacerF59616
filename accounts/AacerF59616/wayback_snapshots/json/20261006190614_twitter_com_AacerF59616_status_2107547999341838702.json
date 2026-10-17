@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107547999341838702",
+    "created_at": "2026-10-06T19:06:14.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T20:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107547999341838702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Salvatorfiroe/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Salvatorfiroe/status/2107546278032978429",
+          "start": 50,
+          "url": "https://t.co/j6NMExd9lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107547999341838702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107546278032978429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "表现不像，性别焦虑本身更像是一种错位导致的痛苦，我自身最频繁也最常见的是性幻想伴随性别欣快一同出现 https://t.co/j6NMExd9lm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107547999341838702",
+        "created_at": "2026-10-06T19:06:14.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107547999341838702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Salvatorfiroe/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Salvatorfiroe/status/2107546278032978429",
+              "start": 50,
+              "url": "https://t.co/j6NMExd9lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107547999341838702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107546278032978429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "表现不像，性别焦虑本身更像是一种错位导致的痛苦，我自身最频繁也最常见的是性幻想伴随性别欣快一同出现 https://t.co/j6NMExd9lm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096316398683422720",
+        "conversation_id": "2107521945482969478",
+        "created_at": "2026-10-06T18:59:23.000Z",
+        "display_text_range": [
+          13,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107546278032978429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107546278032978429",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107521945482969478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 我现在需要一个像样的研究或者论文来证明这种类型的性幻想是否是mtf性别焦虑的一种方式，因为突然发现我自己也这样。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107547999341838702",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3477,
+          "following_count": 1056,
+          "like_count": 8329,
+          "listed_count": 1,
+          "media_count": 712,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T19:23:37.000Z",
+        "description": "如果你需要知道，那么我是一位HEMA中的Italian Rapier及Meyer Longsword练习者，半位跨性别者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ifawartburg",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ifawartburg",
+                "start": 0,
+                "url": "https://t.co/8dCXiZCzVf"
+              }
+            ]
+          }
+        },
+        "id": "2096316398683422720",
+        "is_identity_verified": false,
+        "location": "拉特兰/Laterano",
+        "most_recent_tweet_id": "2107546278032978429",
+        "name": "Salvator Fabian",
+        "pinned_tweet_id": "2099935189451657412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096316398683422720/1788637755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096318760152170496/WiLNDd-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 1966,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/8dCXiZCzVf",
+        "username": "Salvatorfiroe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109354030736789906",
+    "created_at": "2026-10-11T18:42:45.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T19:40:34.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109353482985910312",
+      "2109354030736789906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baiciuyun/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/baiciuyun/status/2109118342091178411",
+          "start": 56,
+          "url": "https://t.co/ChqDJq3jCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109354030736789906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我们没法真的“走远”。中推跨圈根本代表不了MtF社群的现在和未来，归根结底，它只是属于这个时代的印记罢了。\n\n想想看，为什么现在回看当年的夏站和药娘吧只能通过考古的形式，它们同样曾是200X和201X年代MtF社群的代表，但随着时间推移早已人走楼空。除了网页时光机，等当事人也不在后续社群活跃之后，还有谁会记得她们存在过？\n\n同理，现在的中推跨圈也仅仅是202X年代MtF群体最突出的一角而非全貌，等到203X、204X年，后人自会建立属于他们的新代表社群。既然注定都要成为时代的赛博遗迹，我们又拿什么去推测、甚至要求后来者们必须是什么样呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109118342091178411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我们没法真的“走远”。中推跨圈根本代表不了MtF社群的现在和未来，归根结底，它只是属于这个时代的印记罢了。 https://t.co/ChqDJq3jCN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109353482985910312",
+        "created_at": "2026-10-11T18:40:34.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T19:40:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109353482985910312",
+          "2109354030736789906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baiciuyun/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/baiciuyun/status/2109118342091178411",
+              "start": 43,
+              "url": "https://t.co/ChqDJq3jCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109353482985910312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实没必要把现在的中推跨圈看得那么重，它既代表不了MtF社群的现在，更决定不了未来。\n\n想想当年的夏站和药娘吧，它们同样代表过200X和201X年代的社群，如今却只能在网页时光机和当事人的回忆里被“考古”。随着一代代当事人渐渐淡出、回归现实生活，那些曾经喧嚣的平台终究是人走楼空，除了少部分亲历者，又有谁能一直记得？\n\n现在的中推跨圈说白了也一样，无非是202X年代特定环境下的一个切片和时代印记，它从来不是MtF的全貌，只是嗓门最大、最突出的一角罢了。到了203X、204X年代，后人自然会建立属于她们的新社群与新生态，我们现在又拿什么去预设和规训后来者会是什么样呢？\n\n社群会散，平台会变，大家终归还是要回归自己的真实人生。放平心态，别给一个暂时的网络切片赋予太宏大的历史包袱了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109118342091178411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实没必要把现在的中推跨圈看得那么重，它既代表不了MtF社群的现在，更决定不了未来。 https://t.co/ChqDJq3jCN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109354030736789906",
+        "created_at": "2026-10-11T18:42:45.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T19:40:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109353482985910312",
+          "2109354030736789906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baiciuyun/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/baiciuyun/status/2109118342091178411",
+              "start": 56,
+              "url": "https://t.co/ChqDJq3jCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109354030736789906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我们没法真的“走远”。中推跨圈根本代表不了MtF社群的现在和未来，归根结底，它只是属于这个时代的印记罢了。\n\n想想看，为什么现在回看当年的夏站和药娘吧只能通过考古的形式，它们同样曾是200X和201X年代MtF社群的代表，但随着时间推移早已人走楼空。除了网页时光机，等当事人也不在后续社群活跃之后，还有谁会记得她们存在过？\n\n同理，现在的中推跨圈也仅仅是202X年代MtF群体最突出的一角而非全貌，等到203X、204X年，后人自会建立属于他们的新代表社群。既然注定都要成为时代的赛博遗迹，我们又拿什么去推测、甚至要求后来者们必须是什么样呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109118342091178411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我们没法真的“走远”。中推跨圈根本代表不了MtF社群的现在和未来，归根结底，它只是属于这个时代的印记罢了。 https://t.co/ChqDJq3jCN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890028083702644736",
+        "conversation_id": "2108985231147704673",
+        "created_at": "2026-10-11T03:06:12.000Z",
+        "display_text_range": [
+          13,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109118342091178411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/baiciuyun/stat…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/baiciuyun/status/2108923354040156174",
+              "start": 101,
+              "url": "https://t.co/OGbxScOSCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109118342091178411",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108923354040156174",
+            "type": "quoted"
+          },
+          {
+            "id": "2108985231147704673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 汗流浃背了，怎么还转帖给我挂起来了，我肯定是支持跨性别都能过上越来越好、越来越被人理解尊重支持的日子的，只是现在跨圈恐怕需要过去前辈那种团结互助、自尊自爱的精神才能走得更远。 https://t.co/OGbxScOSCv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109354030736789906",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1062,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4016
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-13T13:20:05.000Z",
+        "description": "☭ \n「让每个被欺侮者都知道，他站在他们一边」\n                                                                ——弗.伊.列宁\n🏳️‍⚧️ trans woman",
+        "id": "1890028083702644736",
+        "is_identity_verified": false,
+        "location": "苏维埃社会主义共和国联盟",
+        "most_recent_tweet_id": "2109308949711475105",
+        "name": "白秋芸",
+        "pinned_tweet_id": "2107129552246055306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890028083702644736/1754537069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062537062906318848/Z82oEB1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 191
+        },
+        "url": "",
+        "username": "baiciuyun",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

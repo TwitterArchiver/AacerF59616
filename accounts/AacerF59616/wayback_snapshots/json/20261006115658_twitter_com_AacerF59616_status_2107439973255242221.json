@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107439973255242221",
+    "created_at": "2026-10-06T11:56:58.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107439973255242221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2107439973255242221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "回想一下自己是怎么发现性别不一致的，大概要追溯到23年11月吧，当时我性格还不像现在这样，算是偏温柔可爱的。还在和前男友交往的时候几乎全年级都知道我俩的情况，也是因为我性格的原因所以经常被开玩笑说“跟个女的一样”，可以回忆清楚的第一次GE也是在那个时候。\n\n在那之后，每当被说是女生的时候，我就会感到非常开心和舒适，一直起起落落的持续到现在，直到我发帖子的这个时候，它仍然没有真正意义上的停下来"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回想一下自己是怎么发现性别不一致的，大概要追溯到23年11月吧，当时我性格还不像现在这样，算是偏温柔可爱的。还在和前男友交往的时候几乎全年级都知道我俩的情况，也是因为我性格的原因所以经常被开玩笑说“跟个女的一样”，可以回忆清楚的第一次GE也是在那个时候。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107439973255242221",
+        "created_at": "2026-10-06T11:56:58.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107439973255242221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107439973255242221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回想一下自己是怎么发现性别不一致的，大概要追溯到23年11月吧，当时我性格还不像现在这样，算是偏温柔可爱的。还在和前男友交往的时候几乎全年级都知道我俩的情况，也是因为我性格的原因所以经常被开玩笑说“跟个女的一样”，可以回忆清楚的第一次GE也是在那个时候。\n\n在那之后，每当被说是女生的时候，我就会感到非常开心和舒适，一直起起落落的持续到现在，直到我发帖子的这个时候，它仍然没有真正意义上的停下来"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回想一下自己是怎么发现性别不一致的，大概要追溯到23年11月吧，当时我性格还不像现在这样，算是偏温柔可爱的。还在和前男友交往的时候几乎全年级都知道我俩的情况，也是因为我性格的原因所以经常被开玩笑说“跟个女的一样”，可以回忆清楚的第一次GE也是在那个时候。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107439973255242221",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3475,
+          "following_count": 1051,
+          "like_count": 8327,
+          "listed_count": 1,
+          "media_count": 709,
+          "tweet_count": 3882
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

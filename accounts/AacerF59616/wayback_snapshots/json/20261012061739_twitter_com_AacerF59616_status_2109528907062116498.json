@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109528907062116498",
+    "created_at": "2026-10-12T06:17:39.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T07:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109528907062116498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanami_mua/sta…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/nanami_mua/status/2109275640709120278",
+          "start": 135,
+          "url": "https://t.co/jMzVy9NGUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109528907062116498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109275640709120278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实是这样，很多医生对药理的了解其实非常窄，我自己就经常去精卫跟医生巴巴博弈，一聊半小时，他们最爱用的招数就是拿“我是医生，你应该听我的”来压人。\n\n要是真遇到有知识底子的患者，他们自知辩不过，往往就两种反应，要么硬撑着就是不按你说的来，要么直接摆烂从了让你自己点菜。 https://t.co/jMzVy9NGUW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109528907062116498",
+        "created_at": "2026-10-12T06:17:39.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T07:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109528907062116498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2109275640709120278",
+              "start": 135,
+              "url": "https://t.co/jMzVy9NGUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109528907062116498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109275640709120278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实是这样，很多医生对药理的了解其实非常窄，我自己就经常去精卫跟医生巴巴博弈，一聊半小时，他们最爱用的招数就是拿“我是医生，你应该听我的”来压人。\n\n要是真遇到有知识底子的患者，他们自知辩不过，往往就两种反应，要么硬撑着就是不按你说的来，要么直接摆烂从了让你自己点菜。 https://t.co/jMzVy9NGUW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2109275640709120278",
+        "created_at": "2026-10-11T13:31:15.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109275640709120278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Axer1a/status…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/_Axer1a/status/2109260945336029685",
+              "start": 57,
+              "url": "https://t.co/yGT3QYLDJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109275640709120278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1025,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109260945336029685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内精神科医生不是给懂药理和常识的年轻人准备的，他们受到的培训更多是应对云里雾里不知所以然的老年精分痴呆抑郁患者 https://t.co/yGT3QYLDJa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109528907062116498",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3535,
+          "following_count": 1065,
+          "like_count": 8322,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "这里是帆😺～MtX&Non-Binary(she/they)🍥25.1.11/思觉失调💊/偶尔键政/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep/姐姐喵 @barutan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "AnranbuSleep"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "barutan8964"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109484199250198662",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2104863945928618103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 540,
+          "like_count": 99198,
+          "listed_count": 9,
+          "media_count": 1020,
+          "tweet_count": 13985
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

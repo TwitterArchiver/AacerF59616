@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108628858815893925",
+    "created_at": "2026-10-09T18:41:11.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T19:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108628858815893925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soulmate078078…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/soulmate078078/status/2108610440721056093",
+          "start": 144,
+          "url": "https://t.co/n0vjAD655a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108628858815893925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108610440721056093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我真的算过，国色的性价比是极其低的，等量的情况下哪怕糖商给一盒50mg规格的土色买到420左右还是比国色高出20%左右的性价比，泰补和国补反而差距不大，大概高出5%～15%这样。\n\n通过墙内平台的正规途径获取到的GAHT用药确实整体性价比偏低一些，甚至这是在糖商本身就有抽成的前提下 https://t.co/n0vjAD655a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108628858815893925",
+        "created_at": "2026-10-09T18:41:11.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T19:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108628858815893925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soulmate078078…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/soulmate078078/status/2108610440721056093",
+              "start": 144,
+              "url": "https://t.co/n0vjAD655a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108628858815893925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108610440721056093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我真的算过，国色的性价比是极其低的，等量的情况下哪怕糖商给一盒50mg规格的土色买到420左右还是比国色高出20%左右的性价比，泰补和国补反而差距不大，大概高出5%～15%这样。\n\n通过墙内平台的正规途径获取到的GAHT用药确实整体性价比偏低一些，甚至这是在糖商本身就有抽成的前提下 https://t.co/n0vjAD655a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685020816369659904",
+        "conversation_id": "2108610440721056093",
+        "created_at": "2026-10-09T17:27:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108610440721056093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noonecomes_qwq…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/noonecomes_qwq/status/2108596112114536936",
+              "start": 36,
+              "url": "https://t.co/GAqr4JjiyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108610440721056093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108596112114536936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看个乐子\n（糖商卖的比pdd和方舟实惠多了）\n（糖商要赚钱不是做慈善） https://t.co/GAqr4JjiyI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108628858815893925",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3519,
+          "following_count": 1061,
+          "like_count": 8324,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 3971
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T20:14:44.000Z",
+        "description": "感谢你找到我的页面，让我的世界少一点点孤独😊😊\n23岁大龄MTF/HRT2026/2/24\n168cm/63kg/究极家暴党\nLGBTQ群体/同类互fo基本都会回关☺️\n\n不接受💊/🚬/🔪同类",
+        "id": "1685020816369659904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108613972652130760",
+        "name": "张汐瑶🏳️‍⚧🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1685020816369659904/1788806078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097598276895948801/kRsYZHWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 148,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "soulmate078078",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

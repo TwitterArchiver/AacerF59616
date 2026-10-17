@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2103933636081054171",
+    "created_at": "2026-09-26T19:44:02.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T20:43:54.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103933602497200444",
+      "2103933636081054171"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chaling1214/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Chaling1214/status/2103885260111180217",
+          "start": 39,
+          "url": "https://t.co/WpG4jvAlwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103933636081054171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103885260111180217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到了，在哪聊？怎么聊？聊什么？我都可以的，只要不是聊怎么吃盐之类的就好了 https://t.co/WpG4jvAlwb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2103933602497200444",
+        "created_at": "2026-09-26T19:43:54.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:43:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103933602497200444",
+          "2103933636081054171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chaling1214/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Chaling1214/status/2103885260111180217",
+              "start": 35,
+              "url": "https://t.co/WpG4jvAlwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103933602497200444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103885260111180217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到了，怎么聊？聊什么？我都可以的，只要不是聊怎么吃盐之类的就好了 https://t.co/WpG4jvAlwb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2103933636081054171",
+        "created_at": "2026-09-26T19:44:02.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:43:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103933602497200444",
+          "2103933636081054171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chaling1214/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Chaling1214/status/2103885260111180217",
+              "start": 39,
+              "url": "https://t.co/WpG4jvAlwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103933636081054171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103885260111180217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到了，在哪聊？怎么聊？聊什么？我都可以的，只要不是聊怎么吃盐之类的就好了 https://t.co/WpG4jvAlwb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2099952191356461056",
+        "conversation_id": "2103885260111180217",
+        "created_at": "2026-09-26T16:31:48.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103885260111180217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103885260111180217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 804,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要有人陪我聊天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳天王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2103933636081054171",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 1024,
+          "like_count": 8248,
+          "listed_count": 2,
+          "media_count": 646,
+          "tweet_count": 3589
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-15T20:07:12.000Z",
+        "description": "一枚2009年跨性别小女生~\n————————————\n“一直寻找最完美的恋人”",
+        "id": "2099952191356461056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103885260111180217",
+        "name": "茶泠🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2100975379045642520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2099952191356461056/1789503649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102728709820358656/L7FQkh7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 64,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Chaling1214",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

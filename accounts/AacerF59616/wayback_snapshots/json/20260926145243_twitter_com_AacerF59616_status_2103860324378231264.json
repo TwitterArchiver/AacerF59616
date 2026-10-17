@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2103860324378231264",
+    "created_at": "2026-09-26T14:52:43.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103860324378231264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/galaxy1025850/…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/galaxy1025850/status/2103792495146766422",
+          "start": 91,
+          "url": "https://t.co/y7ya1eyMD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103860324378231264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103792495146766422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喊AGI的口号似乎在GPT4时代就开始了，我对LLM倒是有比较重度的需求，平常需要用ChatGPT work来帮我做做视频还有搞些数据总结和研究什么的，不得不说的是它们都意外的好用 https://t.co/y7ya1eyMD5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103860324378231264",
+        "created_at": "2026-09-26T14:52:43.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103860324378231264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/galaxy1025850/…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/galaxy1025850/status/2103792495146766422",
+              "start": 91,
+              "url": "https://t.co/y7ya1eyMD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103860324378231264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103792495146766422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喊AGI的口号似乎在GPT4时代就开始了，我对LLM倒是有比较重度的需求，平常需要用ChatGPT work来帮我做做视频还有搞些数据总结和研究什么的，不得不说的是它们都意外的好用 https://t.co/y7ya1eyMD5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008233761763409920",
+        "conversation_id": "2103792495146766422",
+        "created_at": "2026-09-26T10:23:12.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103792495146766422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103792495146766422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实感觉非AI相关专业的人，过于关注前沿AI，它也是一种宏大叙事综合征\n\n我认识很多人啊，天天盯着新模型的发布，却又搞不懂它是什么原理或者究竟创新了什么，见到一个新模型就是看看跑分、看看评价\n\n有些人还有自己粉的一方AI，见到其他家的AI跑分超过就说是刷分，见到自己家AI高了就大喊AGI\n\n但实际上，这些东西跟自己的专业领域，根本并没有多少交叉，甚至根本用不上太前沿的AI，也并不是这些AI的重度用户\n\n真的急到要第一时间用到最新模型么？真的用得到，或者说，晚几天用新模型对自己的工作有多大影响么？我想有点难说\n\n实际上自己并没有参与最新模型的发明，却为最新模型的发布感到非常激动，明明模型飞速进步并不能让自己受益，明明越发展越可能取代的是自己\n\n连transformer是什么都讲不清楚，却不断高喊AGI，仿佛跟着一起喊了AGI就变成了AGI的一员，仿佛这样自己的其他事情就不重要了，真的有点荒唐吧\n\n而这好像是各大AI公司非常希望见到的，他们把每次新模型发布都喊成一件大事，拼命弄出点新闻来，要么是送点额度，要么是说他们这个模型解决了多少问题，制造出一种全民狂欢的氛围"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3607,
+          "like_count": 96,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "其实感觉非AI相关专业的人，过于关注前沿AI，它也是一种宏大叙事综合征\n\n我认识很多人啊，天天盯着新模型的发布，却又搞不懂它是什么原理或者究竟创新了什么，见到一个新模型就是看看跑分、看看评价\n\n有些人还有自己粉的一方AI，见到其他家的AI跑分超过就说是刷分，见到自己家AI高了就大喊AGI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳天王｜“化作余烬，鏖战到底”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2i8v"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2103860324378231264",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 1022,
+          "like_count": 8244,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/tjXQmF2i8v",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "20 y.o 计科大三摆烂人\n折腾爱好者、资深互联网冲浪手\n\n承诺所有文字手打不使用AI发推\nPan & 友跨 \n脾气超好，评论私信看到就会回，欢迎小可爱找我聊天～✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7Qxz9"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "is_identity_verified": false,
+        "location": "us-east-1",
+        "most_recent_tweet_id": "2103836417160040477",
+        "name": "galaxy",
+        "pinned_tweet_id": "2093746756551160261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008233761763409920/1789997997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102032262686707712/9HjOQrkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 1136,
+          "like_count": 3600,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/3iZAC7Qxz9",
+        "username": "galaxy1025850",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

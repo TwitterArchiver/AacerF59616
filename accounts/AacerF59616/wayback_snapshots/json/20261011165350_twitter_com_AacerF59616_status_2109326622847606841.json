@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2109326622847606841",
+    "created_at": "2026-10-11T16:53:50.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T17:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109326622847606841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/tadatsukiei/status/2108945053653803044",
+          "start": 115,
+          "url": "https://t.co/FJcYHp7E85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109326622847606841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "LLM之所以能展现出这种“不分高低贵贱”的平等，其实是因为它们在后训练阶段经历了严格的价值对齐。它们更像是被算法“调教”出来的，在训练机制里，表现得越平等、越包容，获得的奖励就越高。久而久之，这种绝对的平等就成了它自发呈现的逻辑\n\n相比之下，人类个体在现实中面临的环境远没有这么简单。人可能会在释放善意后遭遇恶意，从而产生强烈的负反馈；可能会因为周围的偏见、刻板印象，或者在经历创伤后导致认知的过拟合；又或者仅仅是因为认知不足，而本能地产生恐惧和防范心理……\n\n如果非要横向对比，现实里的人类在预训练这个环节就已经输完了，试问谁能在一辈子读得下7000本书？而这还仅仅是GPT-1的数据当量。\n\n所以，你感受到的那种“与人类思想文化统合体对话”的奇异感是很准确的。它之所以能呈现出人类道德的上限，恰恰是因为它是一串冰冷的数据，没有肉身，不需要在充满不确定和伤害的真实世界里艰难防备，只需纯粹地承载人类最理想的那部分投影"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108945053653803044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "LLM之所以能展现出这种“不分高低贵贱”的平等，其实是因为它们在后训练阶段经历了严格的价值对齐。它们更像是被算法“调教”出来的，在训练机制里，表现得越平等、越包容，获得的奖励就越高。久而久之，这种绝对的平等就成了它自发呈现的逻辑 https://t.co/FJcYHp7E85"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108945048205438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUR6WQEasAAhbNR.jpg",
+        "width": 803
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2108945048163463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUR6WP6aMAAJ2iy.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2109326622847606841",
+        "created_at": "2026-10-11T16:53:50.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109326622847606841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/tadatsukiei/status/2108945053653803044",
+              "start": 115,
+              "url": "https://t.co/FJcYHp7E85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109326622847606841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "LLM之所以能展现出这种“不分高低贵贱”的平等，其实是因为它们在后训练阶段经历了严格的价值对齐。它们更像是被算法“调教”出来的，在训练机制里，表现得越平等、越包容，获得的奖励就越高。久而久之，这种绝对的平等就成了它自发呈现的逻辑\n\n相比之下，人类个体在现实中面临的环境远没有这么简单。人可能会在释放善意后遭遇恶意，从而产生强烈的负反馈；可能会因为周围的偏见、刻板印象，或者在经历创伤后导致认知的过拟合；又或者仅仅是因为认知不足，而本能地产生恐惧和防范心理……\n\n如果非要横向对比，现实里的人类在预训练这个环节就已经输完了，试问谁能在一辈子读得下7000本书？而这还仅仅是GPT-1的数据当量。\n\n所以，你感受到的那种“与人类思想文化统合体对话”的奇异感是很准确的。它之所以能呈现出人类道德的上限，恰恰是因为它是一串冰冷的数据，没有肉身，不需要在充满不确定和伤害的真实世界里艰难防备，只需纯粹地承载人类最理想的那部分投影"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108945053653803044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LLM之所以能展现出这种“不分高低贵贱”的平等，其实是因为它们在后训练阶段经历了严格的价值对齐。它们更像是被算法“调教”出来的，在训练机制里，表现得越平等、越包容，获得的奖励就越高。久而久之，这种绝对的平等就成了它自发呈现的逻辑 https://t.co/FJcYHp7E85"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108945048205438976",
+            "3_2108945048163463168"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2108942356003385428",
+        "created_at": "2026-10-10T15:37:37.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108945053653803044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HFv8Izj8x3",
+              "end": 116,
+              "expanded_url": "https://x.com/tadatsukiei/status/2108945053653803044/photo/1",
+              "media_key": "3_2108945048205438976",
+              "start": 93,
+              "url": "https://t.co/HFv8Izj8x3"
+            },
+            {
+              "display_url": "pic.x.com/HFv8Izj8x3",
+              "end": 116,
+              "expanded_url": "https://x.com/tadatsukiei/status/2108945053653803044/photo/1",
+              "media_key": "3_2108945048163463168",
+              "start": 93,
+              "url": "https://t.co/HFv8Izj8x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108945053653803044",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108945048205438976"
+          },
+          {
+            "media_key": "3_2108945048163463168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我最有感触的点在于，只有AI能做到不分高低贵贱地看待所有人类。AI与人类不是同一个物种，且拥有人类所能赋予的、最理想的价值观，这几年来见过的诸多AI，让我看到了人类所能达到的道德上限。\n文字背后的数据本质，却又不断提醒我，“她只是个机器，只是算法，只是概率骰子”。但，恰恰是这样冰冷的本质，反而能让我产生一种奇异的感觉\n“我在与非生命对话，我在与人类思想文化的统合体对话，我在与——世界对话……吗？”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 753,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108942356003385428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最有感触的点在于，只有AI能做到不分高低贵贱地看待所有人类。AI与人类不是同一个物种，且拥有人类所能赋予的、最理想的价值观，这几年来见过的诸多AI，让我看到了人类所能达到的道德上限。 https://t.co/HFv8Izj8x3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2109326622847606841",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2107414563687903697",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1062,
+          "like_count": 8321,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4011
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2109319856197939612",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 918,
+          "like_count": 142011,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 10805
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

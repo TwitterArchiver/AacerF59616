@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2106446611295678824",
+    "created_at": "2026-10-03T18:09:42.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T19:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106446611295678824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IYLGGI/status/…",
+          "end": 145,
+          "expanded_url": "https://twitter.com/IYLGGI/status/2106445647062925663",
+          "start": 122,
+          "url": "https://t.co/bIQ2YIuHdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106446611295678824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Sol是指GPT-5.6 Sol，我的很多帖子都是我把想法告诉它然后再让它帮我整合或者拓展成一个帖子的，因为我要说的只是我的想法，一个字一个字的打费时间而且效率低，靠Sol给我代工可以极大提升我的产能，不然我怎么做到的日均25+帖子还一堆长帖\n\n当然了，想法都是我自己的，所以也不完全算是AI生成的帖子，它只是帮我把一些没啥用但又很费时间的步骤做了而已"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106445647062925663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Sol是指GPT-5.6 Sol，我的很多帖子都是我把想法告诉它然后再让它帮我整合或者拓展成一个帖子的，因为我要说的只是我的想法，一个字一个字的打费时间而且效率低，靠Sol给我代工可以极大提升我的产能，不然我怎么做到的日均25+帖子还一堆长帖 https://t.co/bIQ2YIuHdI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2106446611295678824",
+        "created_at": "2026-10-03T18:09:42.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106446611295678824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IYLGGI/status/…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/IYLGGI/status/2106445647062925663",
+              "start": 122,
+              "url": "https://t.co/bIQ2YIuHdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106446611295678824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Sol是指GPT-5.6 Sol，我的很多帖子都是我把想法告诉它然后再让它帮我整合或者拓展成一个帖子的，因为我要说的只是我的想法，一个字一个字的打费时间而且效率低，靠Sol给我代工可以极大提升我的产能，不然我怎么做到的日均25+帖子还一堆长帖\n\n当然了，想法都是我自己的，所以也不完全算是AI生成的帖子，它只是帮我把一些没啥用但又很费时间的步骤做了而已"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106445647062925663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sol是指GPT-5.6 Sol，我的很多帖子都是我把想法告诉它然后再让它帮我整合或者拓展成一个帖子的，因为我要说的只是我的想法，一个字一个字的打费时间而且效率低，靠Sol给我代工可以极大提升我的产能，不然我怎么做到的日均25+帖子还一堆长帖 https://t.co/bIQ2YIuHdI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077582566006341632",
+        "conversation_id": "2106439940116758532",
+        "created_at": "2026-10-03T18:05:52.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106445647062925663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106445647062925663",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106445378430419364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 那为啥这么说呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2106446611295678824",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 1050,
+          "like_count": 8311,
+          "listed_count": 1,
+          "media_count": 695,
+          "tweet_count": 3801
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T02:40:08.000Z",
+        "description": "MTF/无证含糖/HRT2026.9.12/重度FPS/瓦 CS COD RON PUBG/MC/军事狂热爱好者",
+        "id": "2077582566006341632",
+        "is_identity_verified": false,
+        "location": "China Tian Jin",
+        "most_recent_tweet_id": "2106445647062925663",
+        "name": "YIG🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2081543535158038603",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082327934568902656/P8iRUp7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 23,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "IYLGGI",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

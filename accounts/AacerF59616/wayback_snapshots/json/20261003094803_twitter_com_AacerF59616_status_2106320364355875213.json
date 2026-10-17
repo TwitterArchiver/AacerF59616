@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2106320364355875213",
+    "created_at": "2026-10-03T09:48:03.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106320364355875213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NL8526/status/…",
+          "end": 151,
+          "expanded_url": "https://twitter.com/NL8526/status/2106281572102275244",
+          "start": 128,
+          "url": "https://t.co/65GOAXi6DM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106320364355875213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "femboy和transfemale看起来可能很接近，但完全不是一回事。femboy说到底还是“女性化的男性”，是在“我是男性”这个前提上继续拓展自己的性别表达，而transfemale则是“被指认为男性的女性”，不是把男性身份一路女性化以后得到的结果。\n\n所以有些人能接受男娘，甚至觉得“兄弟你好香”，但看到一个外表可能同样很女性化的跨女，反而一定要跑过去强调“你永远是男的”。因为前一个在他的理解里没有改变“你是男的”这个前提，后一个从一开始就不是按照这个前提建构的。\n\n百合男同那边也差不多，喜欢一种表达、喜欢一种题材、喜欢看某种关系，跟你怎么看待现实里属于这些群体的人，本来就是两回事。\n\n很多争论最怪的地方就在这里，性别表达、经验性别、社会性别、指派性别明明是几件不同的东西，结果经常看到有人从“长什么样” “穿什么” “出生时被怎么判断”直接一路推出你是什么。连前面的东西都没完整的分开和解释，那么后面争半天到底在争什么"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106281572102275244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "femboy和transfemale看起来可能很接近，但完全不是一回事。femboy说到底还是“女性化的男性”，是在“我是男性”这个前提上继续拓展自己的性别表达，而transfemale则是“被指认为男性的女性”，不是把男性身份一路女性化以后得到的结果。 https://t.co/65GOAXi6DM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2106320364355875213",
+        "created_at": "2026-10-03T09:48:03.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106320364355875213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NL8526/status/…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/NL8526/status/2106281572102275244",
+              "start": 128,
+              "url": "https://t.co/65GOAXi6DM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320364355875213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "femboy和transfemale看起来可能很接近，但完全不是一回事。femboy说到底还是“女性化的男性”，是在“我是男性”这个前提上继续拓展自己的性别表达，而transfemale则是“被指认为男性的女性”，不是把男性身份一路女性化以后得到的结果。\n\n所以有些人能接受男娘，甚至觉得“兄弟你好香”，但看到一个外表可能同样很女性化的跨女，反而一定要跑过去强调“你永远是男的”。因为前一个在他的理解里没有改变“你是男的”这个前提，后一个从一开始就不是按照这个前提建构的。\n\n百合男同那边也差不多，喜欢一种表达、喜欢一种题材、喜欢看某种关系，跟你怎么看待现实里属于这些群体的人，本来就是两回事。\n\n很多争论最怪的地方就在这里，性别表达、经验性别、社会性别、指派性别明明是几件不同的东西，结果经常看到有人从“长什么样” “穿什么” “出生时被怎么判断”直接一路推出你是什么。连前面的东西都没完整的分开和解释，那么后面争半天到底在争什么"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106281572102275244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "femboy和transfemale看起来可能很接近，但完全不是一回事。femboy说到底还是“女性化的男性”，是在“我是男性”这个前提上继续拓展自己的性别表达，而transfemale则是“被指认为男性的女性”，不是把男性身份一路女性化以后得到的结果。 https://t.co/65GOAXi6DM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546431985086009344",
+        "conversation_id": "2106281572102275244",
+        "created_at": "2026-10-03T07:13:54.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106281572102275244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106281572102275244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2023,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内反LGBT不理解的点是：不论你长得多pass多像顺性别，他们一定会找机会对跨说“你永远是男/女的”；然后又对着男娘说“兄弟你好香”；遇见真男同又说男同恶心IP正确、看见女同又说百合万岁，天天看百合本。不理解这些人 。\n所以 人各有所好，有什么好争的呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2106320364355875213",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3465,
+          "following_count": 1048,
+          "like_count": 8306,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 3777
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD低能量 🎹钢专/数码/音游/逆向/MC 😴大一已成年/家长不太管/小透明/友好欢迎dm ✨本人照片在亮点 🩷互fo私 🚀裡號@8526nl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 91,
+                "username": "8526nl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "8526.nl",
+                "end": 23,
+                "expanded_url": "http://8526.nl",
+                "start": 0,
+                "url": "https://t.co/ywtMqYYx19"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106302312813879376",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076585301355684108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1546431985086009344/1780623383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 1197,
+          "like_count": 32980,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/ywtMqYYx19",
+        "username": "NL8526",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

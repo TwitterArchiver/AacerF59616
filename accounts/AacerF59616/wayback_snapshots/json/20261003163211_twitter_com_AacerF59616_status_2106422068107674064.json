@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2106422068107674064",
+    "created_at": "2026-10-03T16:32:11.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106422068107674064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HabaraRei2333/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/HabaraRei2333/status/2106418154419192170",
+          "start": 65,
+          "url": "https://t.co/l7S9flsMlA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106422068107674064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106418154419192170",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱平常，额……也就是喜欢那里拿来蹭鲨鲨，洗完澡之后躺床上然后拿手去玩它或者甩来甩去的，好吧我发现喜欢玩自己唧唧的Mtf其实并不多 https://t.co/l7S9flsMlA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2106422068107674064",
+        "created_at": "2026-10-03T16:32:11.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106422068107674064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HabaraRei2333/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/HabaraRei2333/status/2106418154419192170",
+              "start": 65,
+              "url": "https://t.co/l7S9flsMlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106422068107674064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106418154419192170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱平常，额……也就是喜欢那里拿来蹭鲨鲨，洗完澡之后躺床上然后拿手去玩它或者甩来甩去的，好吧我发现喜欢玩自己唧唧的Mtf其实并不多 https://t.co/l7S9flsMlA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104374000998547456",
+        "conversation_id": "2106411453070909524",
+        "created_at": "2026-10-03T16:16:38.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106418154419192170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106418154419192170",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106411453070909524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 阿零也不想看，但是低头就看到了喵😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2106422068107674064",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3466,
+          "following_count": 1050,
+          "like_count": 8310,
+          "listed_count": 1,
+          "media_count": 695,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-28T00:55:10.000Z",
+        "description": "账号重生×6 😵 1400fo账号重生\n不纪念过去的账号，而是纪念逝去的人和事\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤\n已删除跨籍（即便本质跨）        \n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/aJC4YeKDey"
+              }
+            ]
+          }
+        },
+        "id": "2104374000998547456",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2106418483089031279",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104374000998547456/1790579661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104375772932706306/wxUjc-3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 61,
+          "like_count": 501,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/aJC4YeKDey",
+        "username": "HabaraRei2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

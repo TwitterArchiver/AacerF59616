@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2107028013397283149",
+    "created_at": "2026-10-05T08:39:59.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107028013397283149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryuhaki21617/s…",
+          "end": 113,
+          "expanded_url": "https://twitter.com/ryuhaki21617/status/2107016954687140330",
+          "start": 90,
+          "url": "https://t.co/yJwCFDqFUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107028013397283149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没看懂你说的先正确认识自己到底是什么意思，什么叫正确认识自己？那什么又叫不正确？这个正确是谁来定的，是你自己觉得这样才算正确，还是有一套客观标准？如果有，那这套标准又是怎么来的？\n\n还有，你说社会关系对人的认识决定gender，但我觉得gender本身就不是一个这么扁平的东西。外界怎么看我的性别、社会对我的性别角色有什么期待、我向外表现出来的性别，还有我自己在生活经历里实际体验到的性别，这些不都和gender有关吗？\n\n那gender到底是由某一个变量完全决定的吗？如果是那为什么？如果不是，那从人是一切社会关系的总和推到社会关系对你的认识决定你的gender，中间这个所以具体是怎么推出来的？\n\n我大概知道你想表达什么，也没有觉得你是错的，只是我觉得这里面有些东西还没有解释清楚"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107016954687140330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没看懂你说的先正确认识自己到底是什么意思，什么叫正确认识自己？那什么又叫不正确？这个正确是谁来定的，是你自己觉得这样才算正确，还是有一套客观标准？如果有，那这套标准又是怎么来的？ https://t.co/yJwCFDqFUO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2107028013397283149",
+        "created_at": "2026-10-05T08:39:59.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107028013397283149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryuhaki21617/s…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/ryuhaki21617/status/2107016954687140330",
+              "start": 90,
+              "url": "https://t.co/yJwCFDqFUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107028013397283149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没看懂你说的先正确认识自己到底是什么意思，什么叫正确认识自己？那什么又叫不正确？这个正确是谁来定的，是你自己觉得这样才算正确，还是有一套客观标准？如果有，那这套标准又是怎么来的？\n\n还有，你说社会关系对人的认识决定gender，但我觉得gender本身就不是一个这么扁平的东西。外界怎么看我的性别、社会对我的性别角色有什么期待、我向外表现出来的性别，还有我自己在生活经历里实际体验到的性别，这些不都和gender有关吗？\n\n那gender到底是由某一个变量完全决定的吗？如果是那为什么？如果不是，那从人是一切社会关系的总和推到社会关系对你的认识决定你的gender，中间这个所以具体是怎么推出来的？\n\n我大概知道你想表达什么，也没有觉得你是错的，只是我觉得这里面有些东西还没有解释清楚"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107016954687140330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没看懂你说的先正确认识自己到底是什么意思，什么叫正确认识自己？那什么又叫不正确？这个正确是谁来定的，是你自己觉得这样才算正确，还是有一套客观标准？如果有，那这套标准又是怎么来的？ https://t.co/yJwCFDqFUO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686251510961975296",
+        "conversation_id": "2106792588376510627",
+        "created_at": "2026-10-05T07:56:03.000Z",
+        "display_text_range": [
+          13,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107016954687140330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107016954687140330",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106792588376510627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 性别叙事的语境是gender社会性别，由于人是一切关系的总和，所以你的社会关系对你的认识决定了你的gender；当你要探究你的生理性别sex时，你的染色体，第一性征和第二性征共同决定了你生物学意义上的sex。朋友，我的意思是，认识的来源与目的都是实践，你要先正确认识自己，然后才能改造自己乃至社会。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2107028013397283149",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3472,
+          "following_count": 1051,
+          "like_count": 8314,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T05:44:39.000Z",
+        "description": "雨わ何時化する",
+        "id": "1686251510961975296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107020515005333563",
+        "name": "春日由花子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686251510961975296/1690868847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686252129265319936/OibznPVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "ryuhaki21617",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

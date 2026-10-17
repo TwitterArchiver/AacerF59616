@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1929798380240465921",
+    "conversation_id": "2108286493345427827",
+    "created_at": "2026-10-08T20:00:44.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T21:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108286493345427827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fcjdfb/status/…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/fcjdfb/status/2108121042254524449",
+          "start": 79,
+          "url": "https://t.co/C6AlaRK9H0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108286493345427827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每个人都可以选择自己想走的路，没有一个“标准顺女”可以让我们去当必修课那样去学，到头来我们学的还是刻板印象，或者说我们也没法确保这种路线对每个人都是适合的。\n\n要求Mtf去学习和模仿一个无定型的东西是不是有点太强人所难了点，又或者说我们真的有能力去要求Mtf都向一个标准去对齐吗？甚至这个标准本身也并非标准"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108121042254524449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每个人都可以选择自己想走的路，没有一个“标准顺女”可以让我们去当必修课那样去学，到头来我们学的还是刻板印象，或者说我们也没法确保这种路线对每个人都是适合的。 https://t.co/C6AlaRK9H0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2108286493345427827",
+        "created_at": "2026-10-08T20:00:44.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T21:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108286493345427827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fcjdfb/status/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/fcjdfb/status/2108121042254524449",
+              "start": 79,
+              "url": "https://t.co/C6AlaRK9H0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108286493345427827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每个人都可以选择自己想走的路，没有一个“标准顺女”可以让我们去当必修课那样去学，到头来我们学的还是刻板印象，或者说我们也没法确保这种路线对每个人都是适合的。\n\n要求Mtf去学习和模仿一个无定型的东西是不是有点太强人所难了点，又或者说我们真的有能力去要求Mtf都向一个标准去对齐吗？甚至这个标准本身也并非标准"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108121042254524449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人都可以选择自己想走的路，没有一个“标准顺女”可以让我们去当必修课那样去学，到头来我们学的还是刻板印象，或者说我们也没法确保这种路线对每个人都是适合的。 https://t.co/C6AlaRK9H0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032037309219315712",
+        "conversation_id": "2108121042254524449",
+        "created_at": "2026-10-08T09:03:18.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108121042254524449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "McFlurry_1222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108121042254524449",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 376,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@McFlurry_1222 我觉得上次space说的那个话题很有意思\n就是老mtf学习模仿的就是很刻板中年妇女的印象\n然后年轻mtf又基本不学习模仿顺女，整个人外貌和内在都很“男性成长环境带来”，除了胸看不出来哪里是mtf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜167cm 61～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 琳酱 琳大王｜“化作余烬，鏖战到底”｜恒星版：@AAcer_Freilyns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "AAcer_Freilyns"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2108286493345427827",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3508,
+          "following_count": 1058,
+          "like_count": 8328,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-12T10:13:51.000Z",
+        "description": "转生新帐号 \n什么都发，电影游戏精神病学心理学性别烦躁音乐器材摄影（简介施工中）嗯对我懒得写等写的时候吧）09 aud..     io（对的对的哦不对不对）   non-binary",
+        "id": "2032037309219315712",
+        "is_identity_verified": false,
+        "location": "家里，万达广场附近，不定期刷新在中国电影资料馆",
+        "most_recent_tweet_id": "2108277023009649099",
+        "name": "cjy",
+        "pinned_tweet_id": "2105448850626683119",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100687239407947776/rskeY8JE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 72,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "fcjdfb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "八宫巡担当，中英OK\nBi🏳️‍🌈/Enby/They Them",
+        "id": "1378376814389694468",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108257576119103949",
+        "name": "可乐麦旋风",
+        "pinned_tweet_id": "2106901473691086951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378376814389694468/1790357152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106537335420760065/JkEmRJI1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 7244,
+          "like_count": 185621,
+          "listed_count": 3,
+          "media_count": 830,
+          "tweet_count": 30967
+        },
+        "url": "",
+        "username": "McFlurry_1222",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
